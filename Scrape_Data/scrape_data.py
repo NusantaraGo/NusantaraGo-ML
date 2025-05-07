@@ -146,7 +146,7 @@ class GoogleMapsScraper:
 
             print(f"Found {len(current_results)} results after scroll {scroll_attempt + 1}")
 
-            if len(current_results) >= 100:  # Meningkatkan target jumlah hasil
+            if len(current_results) >= 50:  # Meningkatkan target jumlah hasil
                 break
 
             if len(current_results) == last_count:
@@ -155,7 +155,7 @@ class GoogleMapsScraper:
 
         return last_count > 0
 
-    def get_place_urls(self, max_places=100):
+    def get_place_urls(self, max_places=50):
         urls = []
         selectors = [
             'a[href*="/maps/place/"]',
@@ -434,7 +434,7 @@ class GoogleMapsScraper:
                     return None
                 time.sleep(5)
 
-    def scrape_province(self, province, max_places=10):
+    def scrape_province(self, province, max_places=25):
         print(f"\nStarting scraping for province: {province}")
         all_data = []
 
@@ -524,7 +524,7 @@ class GoogleMapsScraper:
             print(f"Error closing browser: {str(e)}")
 
 def main():
-    MAX_PLACES = 10
+    MAX_PLACES = 25
     COOLDOWN = 30
 
     os.makedirs('csv', exist_ok=True)
@@ -571,7 +571,7 @@ def main():
 
                 for field in fields:
                     valid_count = sum(1 for d in data if d[field] != 'N/A')
-                    completion_rates[field] = (valid_count / len(data)) * 100
+                    completion_rates[field] = (valid_count / len(data)) * 50
 
                 print("\nData completion rates:")
                 for field, rate in completion_rates.items():
