@@ -20,7 +20,7 @@ class GoogleMapsScraper:
         # Inisialisasi Wikipedia API
         self.wiki = wikipediaapi.Wikipedia(
             language='id',
-            user_agent='IndonesiaTourismScraper/1.0 (https://github.com/zidanmubarak/indonesia-tourism-scraper; someeone001@gmail.com) Python/3.10'
+            user_agent='NusantaraGo/1.0 (https://github.com/NusantaraGo/NusantaraGo-ML;nusantarago245@gmail.com) Python/3.10'
         )
         
         options = uc.ChromeOptions()
@@ -85,7 +85,7 @@ class GoogleMapsScraper:
 
     def search_places(self, province):
         search_query = f"tempat wisata terkenal di {province}"
-        print(f"Searching: {search_query}")
+        print(f"Mencari: {search_query}")
         self.driver.get(f"https://www.google.com/maps/search/{search_query.replace(' ', '+')}")
         time.sleep(5)
 
@@ -94,7 +94,7 @@ class GoogleMapsScraper:
                 (By.CSS_SELECTOR, 'div[role="feed"], div.section-result-content, div[role="region"]')
             ))
         except TimeoutException:
-            print("No search results found")
+            print("Tidak ada hasil pencarian")
             return False
 
         scroll_attempt = 0
@@ -144,7 +144,7 @@ class GoogleMapsScraper:
                 if elements:
                     current_results.extend(elements)
 
-            print(f"Found {len(current_results)} results after scroll {scroll_attempt + 1}")
+            print(f"Ditemukan {len(current_results)} hasil setelah scroll {scroll_attempt + 1}")
 
             if len(current_results) >= 50:  # Meningkatkan target jumlah hasil
                 break
@@ -250,6 +250,40 @@ class GoogleMapsScraper:
             print(f"Error getting photos for {place_name}: {str(e)}")
             return []
 
+    def get_category(self, name, description):
+        """Menentukan kategori tempat wisata berdasarkan nama dan deskripsi"""
+        categories = {
+            'pantai': ['pantai', 'beach', 'laut', 'pesisir', 'teluk'],
+            'gunung': ['gunung', 'mountain', 'bukit', 'hill', 'pegunungan', 'puncak'],
+            'danau': ['danau', 'lake', 'telaga', 'waduk', 'bendungan'],
+            'air_terjun': ['air terjun', 'waterfall', 'curug'],
+            'taman': ['taman', 'park', 'garden', 'kebun', 'taman sari'],
+            'museum': ['museum', 'galeri', 'gallery'],
+            'candi': ['candi', 'temple', 'pura', 'vihara'],
+            'taman_nasional': ['taman nasional', 'national park'],
+            'pulau': ['pulau', 'island', 'kepulauan'],
+            'goa': ['goa', 'cave', 'gua'],
+            'situs_sejarah': ['situs', 'sejarah', 'historical', 'heritage', 'monumen', 'tugu'],
+            'taman_rekreasi': ['rekreasi', 'recreation', 'hiburan', 'entertainment'],
+            'benteng': ['benteng', 'fort', 'fortress', 'castle', 'keraton'],
+            'lapangan': ['lapangan', 'field', 'stadium', 'blang'],
+            'rumah_adat': ['rumah adat', 'rumoh', 'rumah tradisional', 'traditional house'],
+            'masjid': ['masjid', 'mosque', 'masigit'],
+            'makam': ['makam', 'grave', 'kuburan', 'cemetery'],
+            'pasar': ['pasar', 'market', 'bazar'],
+            'taman_hutan': ['taman hutan', 'hutan raya', 'forest park'],
+            'wisata_alam': ['wisata alam', 'nature', 'alam']
+        }
+
+        text = (name + ' ' + description).lower()
+        matched_categories = []
+
+        for category, keywords in categories.items():
+            if any(keyword in text for keyword in keywords):
+                matched_categories.append(category)
+
+        return matched_categories if matched_categories else ['lainnya']
+
     def parse_place_details(self, url, province):
         for retry in range(3):
             try:
@@ -282,8 +316,10 @@ class GoogleMapsScraper:
 
                 # Get photos if name is found
                 photo_urls = []
+                description = 'N/A'
                 if name != 'N/A':
                     photo_urls = self.get_place_photos(url, name, province)
+                    description = self.get_wikipedia_description(name)
 
                 # Extract coordinates
                 coords = None
@@ -357,36 +393,6 @@ class GoogleMapsScraper:
                             rating = text
                             break
 
-                # Extract website
-                website = 'N/A'
-                website_selectors = [
-                    'a[data-item-id="authority"]',
-                    'a[data-tooltip="Open website"]',
-                    'button[data-item-id^="authority"]',
-                ]
-                for selector in website_selectors:
-                    element = soup.select_one(selector)
-                    if element and element.has_attr('href'):
-                        href = element['href']
-                        if not href.startswith('https://www.google.com'):
-                            website = href
-                            break
-
-                # Extract phone
-                phone = 'N/A'
-                phone_selectors = [
-                    'button[data-item-id^="phone:tel:"]',
-                    'button[aria-label*="phone"]',
-                    'button[aria-label*="Telepon"]',
-                ]
-                for selector in phone_selectors:
-                    element = soup.select_one(selector)
-                    if element:
-                        text = element.text.strip()
-                        if text and (re.search(r'\d', text) or '+' in text):
-                            phone = text
-                            break
-
                 # Extract address
                 address = 'N/A'
                 address_selectors = [
@@ -399,19 +405,15 @@ class GoogleMapsScraper:
                     if element:
                         text = element.text.strip()
                         if text:
-                            # Split address by comma and take the last two parts
                             parts = text.split(',')
                             if len(parts) >= 2:
-                                # Take the last two parts (city and province)
                                 address = ','.join(parts[-2:]).strip()
                             else:
                                 address = text
                             break
 
-                # Get description from Wikipedia
-                description = 'N/A'
-                if name != 'N/A':
-                    description = self.get_wikipedia_description(name)
+                # Determine category
+                categories = self.get_category(name, description)
 
                 return {
                     'nama': name,
@@ -420,12 +422,11 @@ class GoogleMapsScraper:
                     'jumlah_review': reviews_count,
                     'deskripsi': description,
                     'jam_operasional': json.dumps(hours, ensure_ascii=False),
-                    'website': website,
-                    'telepon': phone,
                     'koordinat': json.dumps(coordinates, ensure_ascii=False),
                     'url': url,
                     'provinsi': province,
-                    'foto': json.dumps(photo_urls, ensure_ascii=False)
+                    'foto': json.dumps(photo_urls, ensure_ascii=False),
+                    'kategori': json.dumps(categories, ensure_ascii=False)
                 }
             except Exception as e:
                 print(f"Error on attempt {retry+1}: {str(e)}")
@@ -510,6 +511,14 @@ class GoogleMapsScraper:
                     record['koordinat'] = coords
                 except:
                     record['koordinat'] = 'N/A'
+            
+            # Format kategori menjadi list yang lebih rapi
+            if record['kategori'] != 'N/A':
+                try:
+                    categories = json.loads(record['kategori'])
+                    record['kategori'] = categories  # Simpan sebagai list Python, bukan string JSON
+                except:
+                    record['kategori'] = []
         
         # Simpan dengan indentasi yang lebih baik
         with open(json_path, 'w', encoding='utf-8') as f:
@@ -530,25 +539,25 @@ def main():
     os.makedirs('csv', exist_ok=True)
     os.makedirs('json', exist_ok=True)
 
-    provinces = input("Enter province name(s) (separate with commas if multiple): ").split(',')
+    provinces = input("Masukkan nama provinsi (pisahkan dengan koma jika lebih dari satu): ").split(',')
     provinces = [p.strip() for p in provinces if p.strip()]
 
     if not provinces:
-        print("No provinces entered!")
+        print("Tidak ada provinsi yang dimasukkan!")
         return
 
     for province in provinces:
         try:
             print(f"\n{'='*50}")
-            print(f"STARTING SCRAPE FOR: {province.upper()}")
+            print(f"MULAI SCRAPING UNTUK: {province.upper()}")
             print(f"{'='*50}")
 
             scraper = GoogleMapsScraper()
             data = scraper.scrape_province(province, MAX_PLACES)
             if data:
                 scraper.save_data(data, province)
-                print(f"\nSummary for {province}:")
-                print(f"- Total places: {len(data)}")
+                print(f"\nRingkasan untuk {province}:")
+                print(f"- Total tempat: {len(data)}")
 
                 # Calculate average rating
                 ratings = []
@@ -561,26 +570,26 @@ def main():
 
                 if ratings:
                     avg_rating = sum(ratings) / len(ratings)
-                    print(f"- Average rating: {avg_rating:.2f}")
+                    print(f"- Rata-rata rating: {avg_rating:.2f}")
                 else:
-                    print("- Average rating: N/A")
+                    print("- Rata-rata rating: N/A")
 
                 # Show data completion rates
-                fields = ['nama', 'alamat', 'rating', 'koordinat', 'jam_operasional', 'website', 'telepon', 'deskripsi']
+                fields = ['nama', 'alamat', 'rating', 'koordinat', 'jam_operasional', 'deskripsi', 'kategori']
                 completion_rates = {}
 
                 for field in fields:
                     valid_count = sum(1 for d in data if d[field] != 'N/A')
                     completion_rates[field] = (valid_count / len(data)) * 50
 
-                print("\nData completion rates:")
+                print("\nTingkat kelengkapan data:")
                 for field, rate in completion_rates.items():
                     print(f"- {field}: {rate:.1f}%")
 
             else:
-                print(f"No data successfully scraped for {province}")
+                print(f"Tidak ada data yang berhasil di-scrape untuk {province}")
         except Exception as e:
-            print(f"Error processing {province}: {str(e)}")
+            print(f"Error saat memproses {province}: {str(e)}")
         finally:
             try:
                 scraper.close()
@@ -588,7 +597,7 @@ def main():
                 pass
 
             if province != provinces[-1]:
-                print(f"\nWaiting {COOLDOWN} seconds before the next province...")
+                print(f"\nMenunggu {COOLDOWN} detik sebelum provinsi berikutnya...")
                 time.sleep(COOLDOWN)
 
 def install_dependencies():
