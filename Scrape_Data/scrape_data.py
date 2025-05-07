@@ -434,7 +434,7 @@ class GoogleMapsScraper:
                     return None
                 time.sleep(5)
 
-    def scrape_province(self, province, max_places=10):
+    def scrape_province(self, province, max_places=25):
         print(f"\nStarting scraping for province: {province}")
         all_data = []
 
@@ -524,7 +524,7 @@ class GoogleMapsScraper:
             print(f"Error closing browser: {str(e)}")
 
 def main():
-    MAX_PLACES = 10
+    MAX_PLACES = 25
     COOLDOWN = 30
 
     os.makedirs('csv', exist_ok=True)
