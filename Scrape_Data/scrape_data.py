@@ -146,7 +146,7 @@ class GoogleMapsScraper:
 
             print(f"Ditemukan {len(current_results)} hasil setelah scroll {scroll_attempt + 1}")
 
-            if len(current_results) >= 50:  # Meningkatkan target jumlah hasil
+            if len(current_results) >= 100:  # Meningkatkan target jumlah hasil
                 break
 
             if len(current_results) == last_count:
@@ -155,7 +155,7 @@ class GoogleMapsScraper:
 
         return last_count > 0
 
-    def get_place_urls(self, max_places=50):
+    def get_place_urls(self, max_places=100):
         urls = []
         selectors = [
             'a[href*="/maps/place/"]',
@@ -196,19 +196,23 @@ class GoogleMapsScraper:
                 # Coba cari artikel Wikipedia
                 page = self.wiki.page(query)
                 if page.exists():
-                    summary = page.summary
-                    if summary:
-                        # Batasi panjang deskripsi
-                        return summary[:500] + "..." if len(summary) > 500 else summary
+                    # Periksa apakah judul artikel mengandung nama tempat
+                    if place_name.lower() in page.title.lower():
+                        summary = page.summary
+                        if summary:
+                            # Batasi panjang deskripsi
+                            return summary[:500] + "..." if len(summary) > 500 else summary
                 
                 # Jika tidak ditemukan, coba cari dengan kata kunci
                 search_results = wikipedia.search(query, results=1)
                 if search_results:
                     page = self.wiki.page(search_results[0])
                     if page.exists():
-                        summary = page.summary
-                        if summary:
-                            return summary[:500] + "..." if len(summary) > 500 else summary
+                        # Periksa apakah judul artikel mengandung nama tempat
+                        if place_name.lower() in page.title.lower():
+                            summary = page.summary
+                            if summary:
+                                return summary[:500] + "..." if len(summary) > 500 else summary
             
             return 'N/A'
         except Exception as e:
@@ -284,6 +288,33 @@ class GoogleMapsScraper:
 
         return matched_categories if matched_categories else ['lainnya']
 
+    def clean_address(self, address):
+        """Membersihkan alamat dari nomor dan kata-kata yang tidak perlu"""
+        try:
+            # Hapus karakter khusus di awal kalimat
+            address = re.sub(r'^[^\w\s]+', '', address)
+            
+            # Pisahkan alamat berdasarkan koma
+            parts = address.split(',')
+            
+            # Hapus bagian yang mengandung nomor atau kata-kata yang tidak perlu
+            cleaned_parts = []
+            for part in parts:
+                part = part.strip()
+                # Skip jika bagian mengandung nomor
+                if any(char.isdigit() for char in part):
+                    continue
+                # Skip jika bagian mengandung kata-kata yang tidak perlu
+                skip_words = ['regency', 'kabupaten', 'kota', 'city', 'district']
+                if any(word.lower() in part.lower() for word in skip_words):
+                    continue
+                cleaned_parts.append(part)
+            
+            # Gabungkan kembali dengan koma
+            return ', '.join(cleaned_parts)
+        except:
+            return address
+
     def parse_place_details(self, url, province):
         for retry in range(3):
             try:
@@ -358,26 +389,6 @@ class GoogleMapsScraper:
                             reviews_count = num_match.group(1).replace(',', '')
                             break
 
-                # Extract operating hours
-                hours = {}
-                hours_selectors = [
-                    'table[aria-label="Jam operasional"]',
-                    'table[aria-label="Hours of operation"]',
-                    'div[aria-label*="hour"]',
-                ]
-                for selector in hours_selectors:
-                    hours_table = soup.select_one(selector)
-                    if hours_table:
-                        rows = hours_table.select('tr')
-                        for row in rows:
-                            cells = row.select('td')
-                            if len(cells) >= 2:
-                                day = cells[0].text.strip()
-                                time_range = cells[1].text.strip()
-                                if day and time_range:
-                                    hours[day] = time_range
-                        break
-
                 # Extract rating
                 rating = 'N/A'
                 rating_selectors = [
@@ -405,11 +416,7 @@ class GoogleMapsScraper:
                     if element:
                         text = element.text.strip()
                         if text:
-                            parts = text.split(',')
-                            if len(parts) >= 2:
-                                address = ','.join(parts[-2:]).strip()
-                            else:
-                                address = text
+                            address = self.clean_address(text)
                             break
 
                 # Determine category
@@ -421,7 +428,6 @@ class GoogleMapsScraper:
                     'rating': rating,
                     'jumlah_review': reviews_count,
                     'deskripsi': description,
-                    'jam_operasional': json.dumps(hours, ensure_ascii=False),
                     'koordinat': json.dumps(coordinates, ensure_ascii=False),
                     'url': url,
                     'provinsi': province,
@@ -435,14 +441,14 @@ class GoogleMapsScraper:
                     return None
                 time.sleep(5)
 
-    def scrape_province(self, province, max_places=25):
+    def scrape_province(self, province, max_places=15):
         print(f"\nStarting scraping for province: {province}")
         all_data = []
+        temp_data = []  # Menyimpan data sementara untuk diurutkan
 
         try:
             if self.search_places(province):
                 place_urls = self.get_place_urls(max_places)
-                random.shuffle(place_urls)
 
                 for idx, url in enumerate(place_urls):
                     if url in self.scraped_urls:
@@ -451,12 +457,33 @@ class GoogleMapsScraper:
                     print(f"  Place {idx+1}/{len(place_urls)}")
                     place_data = self.parse_place_details(url, province)
                     if place_data:
-                        all_data.append(place_data)
+                        # Konversi rating dan jumlah review ke float untuk perhitungan
+                        try:
+                            rating = float(place_data['rating']) if place_data['rating'] != 'N/A' else 0
+                            reviews = float(place_data['jumlah_review'].replace(',', '')) if place_data['jumlah_review'] != 'N/A' else 0
+                            # Hitung skor berdasarkan rating dan jumlah review
+                            # Rating memiliki bobot 0.6 dan jumlah review memiliki bobot 0.4
+                            score = (rating * 0.6) + (min(reviews/1000, 5) * 0.4)  # Normalisasi jumlah review
+                            place_data['score'] = score
+                            temp_data.append(place_data)
+                        except:
+                            # Jika ada error dalam konversi, tetap simpan data dengan skor 0
+                            place_data['score'] = 0
+                            temp_data.append(place_data)
+                        
                         self.scraped_urls.add(url)
                         time.sleep(random.uniform(2.0, 4.0))
 
-                        if len(all_data) >= max_places:
-                            break
+                # Urutkan data berdasarkan skor tertinggi
+                temp_data.sort(key=lambda x: x['score'], reverse=True)
+                
+                # Ambil max_places data teratas
+                all_data = temp_data[:max_places]
+                
+                # Hapus kolom score sebelum menyimpan
+                for data in all_data:
+                    data.pop('score', None)
+
             else:
                 print(f"No results found for {province}")
 
@@ -494,16 +521,6 @@ class GoogleMapsScraper:
                 except:
                     record['foto'] = []
             
-            # Format jam operasional menjadi list yang lebih rapi
-            if record['jam_operasional'] != 'N/A':
-                try:
-                    hours = json.loads(record['jam_operasional'])
-                    # Konversi dictionary ke list of strings
-                    hours_list = [f"{day}: {time}" for day, time in hours.items()]
-                    record['jam_operasional'] = hours_list
-                except:
-                    record['jam_operasional'] = []
-            
             # Format koordinat menjadi objek yang berisi latitude dan longitude
             if record['koordinat'] != 'N/A':
                 try:
@@ -533,7 +550,7 @@ class GoogleMapsScraper:
             print(f"Error closing browser: {str(e)}")
 
 def main():
-    MAX_PLACES = 25
+    MAX_PLACES = 15
     COOLDOWN = 30
 
     os.makedirs('csv', exist_ok=True)
@@ -575,12 +592,12 @@ def main():
                     print("- Rata-rata rating: N/A")
 
                 # Show data completion rates
-                fields = ['nama', 'alamat', 'rating', 'koordinat', 'jam_operasional', 'deskripsi', 'kategori']
+                fields = ['nama', 'alamat', 'rating', 'koordinat', 'deskripsi', 'kategori']
                 completion_rates = {}
 
                 for field in fields:
                     valid_count = sum(1 for d in data if d[field] != 'N/A')
-                    completion_rates[field] = (valid_count / len(data)) * 50
+                    completion_rates[field] = (valid_count / len(data)) * 100
 
                 print("\nTingkat kelengkapan data:")
                 for field, rate in completion_rates.items():
