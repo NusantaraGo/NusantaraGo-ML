@@ -498,20 +498,12 @@ class GoogleMapsScraper:
             return
 
         safe_name = self.clean_filename(province)
-        os.makedirs('csv', exist_ok=True)
         os.makedirs('json', exist_ok=True)
-
-        df = pd.DataFrame(data)
-
-        # Save to CSV
-        csv_path = os.path.join('csv', f'tempat_wisata_{safe_name}.csv')
-        df.to_csv(csv_path, index=False, encoding='utf-8-sig')
-        print(f"\nCSV data saved to: {csv_path} ({len(df)} entries)")
 
         # Save to JSON dengan format yang lebih rapi
         json_path = os.path.join('json', f'tempat_wisata_{safe_name}.json')
         # Konversi DataFrame ke dict dengan format yang diinginkan
-        records = df.to_dict('records')
+        records = data
         for record in records:
             # Format foto menjadi list yang lebih rapi
             if record['foto'] != 'N/A':
@@ -553,7 +545,6 @@ def main():
     MAX_PLACES = 15
     COOLDOWN = 30
 
-    os.makedirs('csv', exist_ok=True)
     os.makedirs('json', exist_ok=True)
 
     provinces = input("Masukkan nama provinsi (pisahkan dengan koma jika lebih dari satu): ").split(',')
