@@ -1,22 +1,167 @@
 [
   {
+    "nama": "Pantai Tebing Lampuuk",
+    "alamat": "Meunasah Balee, Kec. Lhoknga",
+    "rating": "4.6",
+    "jumlah_review": "758",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 5.4970038,
+      "longitude": 95.227854
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Tebing+Lampuuk/data=!4m7!3m6!1s0x30403ad55fbd44a9:0x55781902cf72b99a!8m2!3d5.4970038!4d95.227854!16s%2Fg%2F11fy4jfvk_!19sChIJqUS9X9U6QDARmrlyzwIZeFU?authuser=0&hl=id&rclk=1",
+    "provinsi": "Aceh",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npCKu2SYkNcbYR3cXnjqV1UROeWICN4WfT9KL2-la58bEQEdpzipHttb4TJhbp8e4rXNQaz1rQA8j5rrhgMOkKEPY3CJiyvpwGlQosSivvL2LuWzwMAVEN3d8BrelfHu2Wv0ly0=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npCKu2SYkNcbYR3cXnjqV1UROeWICN4WfT9KL2-la58bEQEdpzipHttb4TJhbp8e4rXNQaz1rQA8j5rrhgMOkKEPY3CJiyvpwGlQosSivvL2LuWzwMAVEN3d8BrelfHu2Wv0ly0=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npCKu2SYkNcbYR3cXnjqV1UROeWICN4WfT9KL2-la58bEQEdpzipHttb4TJhbp8e4rXNQaz1rQA8j5rrhgMOkKEPY3CJiyvpwGlQosSivvL2LuWzwMAVEN3d8BrelfHu2Wv0ly0=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pantai Sawang",
+    "alamat": "Sawang, Kec. Samudera, Aceh",
+    "rating": "3.6",
+    "jumlah_review": "31",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 5.1545321,
+      "longitude": 97.2442516
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Sawang/data=!4m7!3m6!1s0x3047854791be3f41:0xea165b40b93b3fa0!8m2!3d5.1545321!4d97.2442516!16s%2Fg%2F11hz0sq4wz!19sChIJQT--kUeFRzARoD87uUBbFuo?authuser=0&hl=id&rclk=1",
+    "provinsi": "Aceh",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrLldmMQzqXi3gchiQj6Cb9CFNTaCbchZJahbtyQWcvIVWIZU-Vhgl4CXoV6htH5WN4v20bWbW7tlmoDVx93kIx62bCLKEVbh4Qn4u3JLpD2y1M4SeYT3rOTCoUYhCG-84F4Yrw=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrLldmMQzqXi3gchiQj6Cb9CFNTaCbchZJahbtyQWcvIVWIZU-Vhgl4CXoV6htH5WN4v20bWbW7tlmoDVx93kIx62bCLKEVbh4Qn4u3JLpD2y1M4SeYT3rOTCoUYhCG-84F4Yrw=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrLldmMQzqXi3gchiQj6Cb9CFNTaCbchZJahbtyQWcvIVWIZU-Vhgl4CXoV6htH5WN4v20bWbW7tlmoDVx93kIx62bCLKEVbh4Qn4u3JLpD2y1M4SeYT3rOTCoUYhCG-84F4Yrw=w224-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Nol Kilometer Kota Banda Aceh",
+    "alamat": "Gampong Pande, Kec. Kuta Raja, Aceh",
+    "rating": "4.4",
+    "jumlah_review": "661",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 5.5826227,
+      "longitude": 95.3141429
+    },
+    "url": "https://www.google.com/maps/place/Nol+Kilometer+Kota+Banda+Aceh/data=!4m7!3m6!1s0x3040372f3fffffff:0xd42c49b36829cca3!8m2!3d5.5826227!4d95.3141429!16s%2Fg%2F11b6mcvhfg!19sChIJ____Py83QDARo8wpaLNJLNQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "Aceh",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noez4l3Nt-Cyqw-FyW3GZljY0jcWMtbMslRG8Rhodh5mtVSsUMcc3cqEWM4CiE7uaZtEPPQ-babr4pD1bJ6y-i9P2_k0deoEoNcVtPdLQZwCq9rg9CjLZxOxyL9XAgvHC0OBQVRBQ=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noez4l3Nt-Cyqw-FyW3GZljY0jcWMtbMslRG8Rhodh5mtVSsUMcc3cqEWM4CiE7uaZtEPPQ-babr4pD1bJ6y-i9P2_k0deoEoNcVtPdLQZwCq9rg9CjLZxOxyL9XAgvHC0OBQVRBQ=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noez4l3Nt-Cyqw-FyW3GZljY0jcWMtbMslRG8Rhodh5mtVSsUMcc3cqEWM4CiE7uaZtEPPQ-babr4pD1bJ6y-i9P2_k0deoEoNcVtPdLQZwCq9rg9CjLZxOxyL9XAgvHC0OBQVRBQ=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pantai Ulee Lheue",
+    "alamat": "Ulee Lheue, Kec. Meuraxa, Aceh",
+    "rating": "4.5",
+    "jumlah_review": "625",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 5.5643903,
+      "longitude": 95.2923091
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Ulee+Lheue/data=!4m7!3m6!1s0x304030c17e7189c1:0xf85086894a0f5897!8m2!3d5.5643903!4d95.2923091!16s%2Fg%2F11b_2sg65l!19sChIJwYlxfsEwQDARl1gPSomGUPg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Aceh",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no5hDFwb3OsJ5QRUm_PYGFYe2iyz7vjdnEl6XpkrcXWgHptDxdNtTuTCK2hI-Y9oD7yx4WgLbKiCmw1hBBWiWl6abHXYJ4GlGQge1xlBopEQrynNJkT1qbVZs-yxmRnFIAudk3I=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no5hDFwb3OsJ5QRUm_PYGFYe2iyz7vjdnEl6XpkrcXWgHptDxdNtTuTCK2hI-Y9oD7yx4WgLbKiCmw1hBBWiWl6abHXYJ4GlGQge1xlBopEQrynNJkT1qbVZs-yxmRnFIAudk3I=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no5hDFwb3OsJ5QRUm_PYGFYe2iyz7vjdnEl6XpkrcXWgHptDxdNtTuTCK2hI-Y9oD7yx4WgLbKiCmw1hBBWiWl6abHXYJ4GlGQge1xlBopEQrynNJkT1qbVZs-yxmRnFIAudk3I=w396-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pantai Ujong Kareung",
+    "alamat": "",
+    "rating": "4.3",
+    "jumlah_review": "654",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 4.124597,
+      "longitude": 96.1279608
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Ujong+Kareung/data=!4m7!3m6!1s0x303ec1610e3b2cfb:0x42d911917522f947!8m2!3d4.124597!4d96.1279608!16s%2Fg%2F11bw2fx6l_!19sChIJ-yw7DmHBPjARR_kidZER2UI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Aceh",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nql9ygaR6L2pu7657Puy3fru6yHDn6BPrruJ-lBpsWN0ov1QaofLaYFmdTZP5S6id1kcdPMbP_WtF6y2ToNaL6rv-bd2V-747kJXpDseLKoqXrhuzuHUOfhSX728-1bysaQpz85hQ=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nql9ygaR6L2pu7657Puy3fru6yHDn6BPrruJ-lBpsWN0ov1QaofLaYFmdTZP5S6id1kcdPMbP_WtF6y2ToNaL6rv-bd2V-747kJXpDseLKoqXrhuzuHUOfhSX728-1bysaQpz85hQ=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nql9ygaR6L2pu7657Puy3fru6yHDn6BPrruJ-lBpsWN0ov1QaofLaYFmdTZP5S6id1kcdPMbP_WtF6y2ToNaL6rv-bd2V-747kJXpDseLKoqXrhuzuHUOfhSX728-1bysaQpz85hQ=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Lapangan Blang Padang",
+    "alamat": "Kp. Baru, Kec. Baiturrahman",
+    "rating": "4.5",
+    "jumlah_review": "11.275",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 5.5499808,
+      "longitude": 95.3136744
+    },
+    "url": "https://www.google.com/maps/place/Lapangan+Blang+Padang/data=!4m7!3m6!1s0x3040374dbeba8ae3:0x4e0ccf2562bcf4ac!8m2!3d5.5499808!4d95.3136744!16s%2Fg%2F1pp2w_tf9!19sChIJ44q6vk03QDARrPS8YiXPDE4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Aceh",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqxOOVAdj1hHN8tOiBHSrWeps3Y8SOhwxXSPiU_AyhZB5Olb1w-fNwrT04p4gU141p3n8zx0HHnS4CtXGukp7ZSHc_eEy0gtnd74cWGSKDeySKcqa4DHHNUZbGDOSN6FM2SfcqR8A=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqxOOVAdj1hHN8tOiBHSrWeps3Y8SOhwxXSPiU_AyhZB5Olb1w-fNwrT04p4gU141p3n8zx0HHnS4CtXGukp7ZSHc_eEy0gtnd74cWGSKDeySKcqa4DHHNUZbGDOSN6FM2SfcqR8A=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqxOOVAdj1hHN8tOiBHSrWeps3Y8SOhwxXSPiU_AyhZB5Olb1w-fNwrT04p4gU141p3n8zx0HHnS4CtXGukp7ZSHc_eEy0gtnd74cWGSKDeySKcqa4DHHNUZbGDOSN6FM2SfcqR8A=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lapangan"
+    ]
+  },
+  {
+    "nama": "Air Terjun Terujak",
+    "alamat": "Gampong Terujak, Serba Jadi",
+    "rating": "4.5",
+    "jumlah_review": "18",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 4.4023382,
+      "longitude": 97.5083087
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Terujak/data=!4m7!3m6!1s0x303835e165783f31:0x9a7f283c5fa69230!8m2!3d4.4023382!4d97.5083087!16s%2Fg%2F11sq7bk63x!19sChIJMT94ZeE1ODARMJKmXzwof5o?authuser=0&hl=id&rclk=1",
+    "provinsi": "Aceh",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqp2c8taZMR0lESi4iaQvxxEHoWdVFcl7xunB915pmyovmAGn9NBv3j4NhIlluMwR5kiZzF2NKVoD_hfsc3YoGZmbbNSm_NZe5HSpgrAVFCKeCCxMGGmYxmMW42-bfZ0mSnbRSG=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqp2c8taZMR0lESi4iaQvxxEHoWdVFcl7xunB915pmyovmAGn9NBv3j4NhIlluMwR5kiZzF2NKVoD_hfsc3YoGZmbbNSm_NZe5HSpgrAVFCKeCCxMGGmYxmMW42-bfZ0mSnbRSG=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqp2c8taZMR0lESi4iaQvxxEHoWdVFcl7xunB915pmyovmAGn9NBv3j4NhIlluMwR5kiZzF2NKVoD_hfsc3YoGZmbbNSm_NZe5HSpgrAVFCKeCCxMGGmYxmMW42-bfZ0mSnbRSG=w397-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
     "nama": "Museum Tsunami Aceh",
     "alamat": "Sukaramai, Kec. Baiturrahman",
     "rating": "4.6",
-    "jumlah_review": "11937",
-    "deskripsi": "Museum Tsunami Aceh adalah sebuah museum di Banda Aceh yang dirancang sebagai monumen simbolis, untuk mengenang bencana gempa bumi dan tsunami Samudra Hindia 2004 sekaligus menjadi salah satu pusat pendidikan bencana dan tempat perlidungan atau evakuasi darurat andai tsunami terjadi lagi.",
+    "jumlah_review": "11.937",
+    "deskripsi": "Museum Tsunami Aceh (Aksara Jawoë: موسيوم سونامي اچيه) adalah sebuah museum di Banda Aceh yang dirancang sebagai monumen simbolis, untuk mengenang bencana gempa bumi dan tsunami Samudra Hindia 2004 sekaligus menjadi salah satu pusat pendidikan bencana dan tempat perlidungan atau evakuasi darurat andai tsunami terjadi lagi.",
     "koordinat": {
       "latitude": 5.5477129,
       "longitude": 95.3151901
     },
-    "url": "https://www.google.com/maps/place/Museum+Tsunami+Aceh/data=!4m7!3m6!1s0x30403752049cfb9d:0x5e2203a9f54643f9!8m2!3d5.5477129!4d95.3151901!16s%2Fm%2F09v0wnn!19sChIJnfucBFI3QDAR-UNG9akDIl4?authuser=0&hl=en&rclk=1",
+    "url": "https://www.google.com/maps/place/Museum+Tsunami+Aceh/data=!4m7!3m6!1s0x30403752049cfb9d:0x5e2203a9f54643f9!8m2!3d5.5477129!4d95.3151901!16s%2Fm%2F09v0wnn!19sChIJnfucBFI3QDAR-UNG9akDIl4?authuser=0&hl=id&rclk=1",
     "provinsi": "Aceh",
     "foto": [
       "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npwJy-M8zcLbtoh-rSFP4IfH5Xh2V0UZSqXRoabSuudP27o2BYG2lHnG9O4GKqQs3hP46Q0wJjhkrHlM1SSNh-X-xCM8le6m2CmrwlVpQC3xqFGamvy7UBqzz4hV2403d6vYRw9GA=w114-h86-k-no",
       "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npwJy-M8zcLbtoh-rSFP4IfH5Xh2V0UZSqXRoabSuudP27o2BYG2lHnG9O4GKqQs3hP46Q0wJjhkrHlM1SSNh-X-xCM8le6m2CmrwlVpQC3xqFGamvy7UBqzz4hV2403d6vYRw9GA=w408-h306-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npwJy-M8zcLbtoh-rSFP4IfH5Xh2V0UZSqXRoabSuudP27o2BYG2lHnG9O4GKqQs3hP46Q0wJjhkrHlM1SSNh-X-xCM8le6m2CmrwlVpQC3xqFGamvy7UBqzz4hV2403d6vYRw9GA=w397-h298-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrQcN4fhVm8G9gxOgZdR8QiX_CQkEfprGINWaWxuvhPJ6J1Yt3hcepRiGVTer22YiP50dlC-O5i2HJnXtq6779ex2Cj4DkJxc-C_xb3JW0PliMrMYdh7IqQeoAuH2d10xgM1v4IsA=w224-h398-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqQcIVjtSfJCmUj_FNQEpq2lGybtGx0fr9SmilUHy1cOpVP3TG3yj74TLuE5YAUw_-kk6YOmgEfIcEK1oWCTbWMTNq_yWYbgy8o8K77jYOlZnMNQcmpC9nidXlLyrkCKsUoB8k=w529-h298-k-no"
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npwJy-M8zcLbtoh-rSFP4IfH5Xh2V0UZSqXRoabSuudP27o2BYG2lHnG9O4GKqQs3hP46Q0wJjhkrHlM1SSNh-X-xCM8le6m2CmrwlVpQC3xqFGamvy7UBqzz4hV2403d6vYRw9GA=w397-h298-k-no"
     ],
     "kategori": [
       "museum",
@@ -24,69 +169,294 @@
     ]
   },
   {
-    "nama": "Museum PLTD Apung",
-    "alamat": "Punge Blang Cut, Jaya Baru",
-    "rating": "4.6",
-    "jumlah_review": "9003",
-    "deskripsi": "Museum Kapal Apung atau PLTD Apung adalah museum yang terletak di Gampong Punge Blang Cut, Kecamatan Jaya Baru, Kota Banda Aceh, Aceh, Indonesia. Museum ini merupakan salah satu saksi bisu dari dahsyatnya bencana tsunami yang melanda Aceh pada 26 Desember 2004. Kapal ini menjadi ikon penting untuk mengenang peristiwa tersebut.",
+    "nama": "Air Terjun Peukan Biluy",
+    "alamat": "Lamsod, Kec. Darul Kamal",
+    "rating": "4.1",
+    "jumlah_review": "71",
+    "deskripsi": "N/A",
     "koordinat": {
-      "latitude": 5.5463858,
-      "longitude": 95.3068233
+      "latitude": 5.4603125,
+      "longitude": 95.3264219
     },
-    "url": "https://www.google.com/maps/place/Museum+PLTD+Apung/data=!4m7!3m6!1s0x304030adb0ef05b7:0x6621399bc4e550af!8m2!3d5.5463858!4d95.3068233!16s%2Fm%2F0gh8f48!19sChIJtwXvsK0wQDARr1DlxJs5IWY?authuser=0&hl=en&rclk=1",
+    "url": "https://www.google.com/maps/place/Air+Terjun+Peukan+Biluy/data=!4m7!3m6!1s0x304039494f006101:0xeb06b42e4a7f1fef!8m2!3d5.4603125!4d95.3264219!16s%2Fg%2F11cjkpxyl2!19sChIJAWEAT0k5QDAR7x9_Si60Bus?authuser=0&hl=id&rclk=1",
     "provinsi": "Aceh",
     "foto": [
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq41Tv0EG41KrwBkDsHgPDy5A8mE72JCPiJRL6XVC5PYBTYfq3p5yAxlQqmKq_0w6Fj6yzCrmu97wj566sG2XJ2yjnfTqxJ6d7pMu5u4Y_u6zVTZYQ_Yl7MwK6TVVqWAJ1WJUmp=w129-h86-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq41Tv0EG41KrwBkDsHgPDy5A8mE72JCPiJRL6XVC5PYBTYfq3p5yAxlQqmKq_0w6Fj6yzCrmu97wj566sG2XJ2yjnfTqxJ6d7pMu5u4Y_u6zVTZYQ_Yl7MwK6TVVqWAJ1WJUmp=w408-h270-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq41Tv0EG41KrwBkDsHgPDy5A8mE72JCPiJRL6XVC5PYBTYfq3p5yAxlQqmKq_0w6Fj6yzCrmu97wj566sG2XJ2yjnfTqxJ6d7pMu5u4Y_u6zVTZYQ_Yl7MwK6TVVqWAJ1WJUmp=w448-h298-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no7qM3J4hd-s1pfuA5wEpTdJMWfr7EkDoWr5hC7n7PfE2bnHsImKJf5n8W7zWMwJVA5SL-6a2VrEBi-LHWM8UFmmjDjlZMWAIrYJ9u4iV69mSLBneYEUn0O2C5yZYzJoK9czvbc=w224-h398-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npjqQKbpHRo1l7ssAwjV2tGvdjAIOcv5SzwKsGHTOcGVONow8439m4qGOnIX3X9yw7_iazrYo5ba4GTR-ZsVBIZwNlJ-5NcjFBbaMV8hgTUOZudS5TR0mIP6ZGDpLXWK9buzuuL=w529-h298-k-no"
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqCu52M66frvy6_v2QqFwzJVFmQ41Q-K3EYnpCQBjr8dfqz0Z9hAZyLQG0m396bllzVkjGL_RQgMo-RkbTsPkQkd4xfW3mIgsMbs6yZ7rcy8kPVyEHBWCQHAlmgzvmsxPmx8cIE=w86-h134-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqCu52M66frvy6_v2QqFwzJVFmQ41Q-K3EYnpCQBjr8dfqz0Z9hAZyLQG0m396bllzVkjGL_RQgMo-RkbTsPkQkd4xfW3mIgsMbs6yZ7rcy8kPVyEHBWCQHAlmgzvmsxPmx8cIE=w408-h637-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqCu52M66frvy6_v2QqFwzJVFmQ41Q-K3EYnpCQBjr8dfqz0Z9hAZyLQG0m396bllzVkjGL_RQgMo-RkbTsPkQkd4xfW3mIgsMbs6yZ7rcy8kPVyEHBWCQHAlmgzvmsxPmx8cIE=w224-h349-k-no"
     ],
     "kategori": [
-      "museum"
+      "air_terjun"
     ]
   },
   {
-    "nama": "Lapangan Blang Padang",
-    "alamat": "Kampung Baru, Baiturrahman",
+    "nama": "Tugu Teuku Umar",
+    "alamat": "Meulaboh, Kuta Padang, Aceh Barat",
     "rating": "4.5",
-    "jumlah_review": "11276",
-    "deskripsi": "Lapangan Blang Padang bukan hanya sekadar hamparan rumput luas di jantung Kota Banda Aceh. Tempat ini memiliki nilai sejarah yang tinggi sekaligus menjadi ruang publik multifungsi yang digemari masyarakat. Dari era kolonial hingga masa kini, Blang Padang tetap menjadi simbol penting yang merekatkan sejarah, budaya, dan rekreasi dalam satu lokasi.",
+    "jumlah_review": "939",
+    "deskripsi": "N/A",
     "koordinat": {
-      "latitude": 5.5499808,
-      "longitude": 95.3136744
+      "latitude": 4.1478223,
+      "longitude": 96.1158339
     },
-    "url": "https://www.google.com/maps/place/Lapangan+Blang+Padang/data=!4m7!3m6!1s0x3040374dbeba8ae3:0x4e0ccf2562bcf4ac!8m2!3d5.5499808!4d95.3136744!16s%2Fg%2F1pp2w_tf9!19sChIJ44q6vk03QDARrPS8YiXPDE4?authuser=0&hl=en&rclk=1",
+    "url": "https://www.google.com/maps/place/Tugu+Teuku+Umar/data=!4m7!3m6!1s0x303ec3c9f8d9cee7:0x4d49273c668e48f4!8m2!3d4.1478223!4d96.1158339!16s%2Fg%2F11bztb0qh3!19sChIJ587Z-MnDPjAR9EiOZjwnSU0?authuser=0&hl=id&rclk=1",
     "provinsi": "Aceh",
     "foto": [
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqxOOVAdj1hHN8tOiBHSrWeps3Y8SOhwxXSPiU_AyhZB5Olb1w-fNwrT04p4gU141p3n8zx0HHnS4CtXGukp7ZSHc_eEy0gtnd74cWGSKDeySKcqa4DHHNUZbGDOSN6FM2SfcqR8A=w114-h86-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqxOOVAdj1hHN8tOiBHSrWeps3Y8SOhwxXSPiU_AyhZB5Olb1w-fNwrT04p4gU141p3n8zx0HHnS4CtXGukp7ZSHc_eEy0gtnd74cWGSKDeySKcqa4DHHNUZbGDOSN6FM2SfcqR8A=w408-h306-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqxOOVAdj1hHN8tOiBHSrWeps3Y8SOhwxXSPiU_AyhZB5Olb1w-fNwrT04p4gU141p3n8zx0HHnS4CtXGukp7ZSHc_eEy0gtnd74cWGSKDeySKcqa4DHHNUZbGDOSN6FM2SfcqR8A=w397-h298-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq5fMimLdbMvBA3IeTQTVrnDjctJUAbdb147P8DHj_X-2NQ6KNi1kCpDySq8A4ygr7JyhnkFVBzNlL1k6Rmei1NiXWTZ9IaCmxkN4W_oF7qXiDZj9wzZNewI-HDwfjNNDs4e1CD=w224-h510-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noi5RIhsSPu6dkz3Nt-FT-GSps-tC4I3FGcrBl3B1ndPSkMgEx-m8GqlLZrJgMOdOu17CHlt-3aCn7dBqJiWee-iWDJOwsVtpPDVCar16vqLDEjY1bTOwUd6J0is15FwVqRiPzkhA=w224-h398-k-no"
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noTQwJeByoLidGshtT2NaJb1iRDfPpAFESqe0ZR1nJszPBo_85MWXv9hy02D_H_r6C9R7sFKMOl_9T4RX9zLmUP2uc1ZcqE21zi49l7IlN8sjNa6b7j23DJK5p-gFlcBsJD69pr=w86-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noTQwJeByoLidGshtT2NaJb1iRDfPpAFESqe0ZR1nJszPBo_85MWXv9hy02D_H_r6C9R7sFKMOl_9T4RX9zLmUP2uc1ZcqE21zi49l7IlN8sjNa6b7j23DJK5p-gFlcBsJD69pr=w408-h408-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noTQwJeByoLidGshtT2NaJb1iRDfPpAFESqe0ZR1nJszPBo_85MWXv9hy02D_H_r6C9R7sFKMOl_9T4RX9zLmUP2uc1ZcqE21zi49l7IlN8sjNa6b7j23DJK5p-gFlcBsJD69pr=w298-h298-k-no"
     ],
     "kategori": [
-      "lapangan"
+      "situs_sejarah"
     ]
   },
   {
-    "nama": "Ulee Lheue Beach",
-    "alamat": "Ulee Lheue, Meuraxa, Aceh",
-    "rating": "4.4",
-    "jumlah_review": "3744",
-    "deskripsi": "Pantai Ulee Lheue menyuguhkan sejuta pesona dengan panorama senja atau “Golden Hour” pada sore hari. Ini merupakan salah satu destinasi wisata yang memukau di Kota Banda Aceh. Terletak di ujung barat pulau Sumatera, pantai ini menawarkan pemandangan laut yang menakjubkan dengan latar belakang pegunungan yang mempesona.",
+    "nama": "Pulau Tuan",
+    "alamat": "Jl. Ujung Pancu, Lam Pageu, Kec. Peukan Bada",
+    "rating": "4.5",
+    "jumlah_review": "17",
+    "deskripsi": "N/A",
     "koordinat": {
-      "latitude": 5.5597522,
-      "longitude": 95.2852583
+      "latitude": 5.5645635,
+      "longitude": 95.2496014
     },
-    "url": "https://www.google.com/maps/place/Ulee+Lheue+Beach/data=!4m7!3m6!1s0x304030eb48882ffb:0x3ab153b2c7c6f86e!8m2!3d5.5597522!4d95.2852583!16s%2Fg%2F11b6gldcxr!19sChIJ-y-ISOswQDARbvjGx7JTsTo?authuser=0&hl=en&rclk=1",
+    "url": "https://www.google.com/maps/place/Pulau+Tuan/data=!4m7!3m6!1s0x304031d8ccdc8995:0x7826db4d0ddf0018!8m2!3d5.5645635!4d95.2496014!16s%2Fg%2F11j1sn12rr!19sChIJlYnczNgxQDARGADfDU3bJng?authuser=0&hl=id&rclk=1",
     "provinsi": "Aceh",
     "foto": [
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrVQDItTH7q7nxiwwI-tCWMl6npnvpCMLfuO9bGP_v6eOFsWDmTlI4PSvn8id6AYWwZVjPwwfHdxAltP73ueGzJxwchLNLthFYOPiX6INyVCPeRHVlUBYVCMA7_FfIjx_aviBPp=w114-h86-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrVQDItTH7q7nxiwwI-tCWMl6npnvpCMLfuO9bGP_v6eOFsWDmTlI4PSvn8id6AYWwZVjPwwfHdxAltP73ueGzJxwchLNLthFYOPiX6INyVCPeRHVlUBYVCMA7_FfIjx_aviBPp=w408-h306-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrVQDItTH7q7nxiwwI-tCWMl6npnvpCMLfuO9bGP_v6eOFsWDmTlI4PSvn8id6AYWwZVjPwwfHdxAltP73ueGzJxwchLNLthFYOPiX6INyVCPeRHVlUBYVCMA7_FfIjx_aviBPp=w397-h298-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrIsMCdw3MkqIkJURfXNUKi-aH9LVO77JTaZu6gn2I6TPJWezHJLdZlGmy-7Z6ZxBjRmBcMyBxC-7u418Xa3ZP9XP-5NmwKYjFj2p8qNc2bzZHCmQsef4NmqbSwO07lLAhTDh7FBlw9GU8Z=w224-h298-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4now74L-rCxwpDQd6mqeWu8DZv6K3ort2-6U0A414GjFmvmhcMSgQlemZXBSs1mjKPCDpvQwGAzFB-41FEyB8YcxMSaDj48tnwb0uyDf0lyPn-rXGpOo6Ph48zraqtx9rHIQPbgnIg=w529-h298-k-no"
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqa7Hhq0p2e3fupdLSw3ONO4iuR80u-7ok2hgdqSMXAJK0bu-r3LP5Pwh-lCjs4vDdy1eWv8I9tKcgODf4ESmpmfjoQMVeF8446ehHJQSTdN8fZa29OxPshtAGWXZJA6IO9pCY=w128-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqa7Hhq0p2e3fupdLSw3ONO4iuR80u-7ok2hgdqSMXAJK0bu-r3LP5Pwh-lCjs4vDdy1eWv8I9tKcgODf4ESmpmfjoQMVeF8446ehHJQSTdN8fZa29OxPshtAGWXZJA6IO9pCY=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqa7Hhq0p2e3fupdLSw3ONO4iuR80u-7ok2hgdqSMXAJK0bu-r3LP5Pwh-lCjs4vDdy1eWv8I9tKcgODf4ESmpmfjoQMVeF8446ehHJQSTdN8fZa29OxPshtAGWXZJA6IO9pCY=w446-h298-k-no"
+    ],
+    "kategori": [
+      "pulau"
+    ]
+  },
+  {
+    "nama": "Anjong Mon Mata Banda Aceh",
+    "alamat": "Jl. Japakeh, Peuniti, Kec. Baiturrahman",
+    "rating": "4.4",
+    "jumlah_review": "411",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 5.5463277,
+      "longitude": 95.3200505
+    },
+    "url": "https://www.google.com/maps/place/Anjong+Mon+Mata+Banda+Aceh/data=!4m7!3m6!1s0x304037507ac10923:0xd87df57e53b96c9a!8m2!3d5.5463277!4d95.3200505!16s%2Fg%2F11cn3lt7cg!19sChIJIwnBelA3QDARmmy5U371fdg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Aceh",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrM5O8FjNYX8_Se_C4Ewls1rTjaij4-kgpWVucU80OZSqHbiQd8drRnK44XWTDlfMkk_nd18moEDHmHYoFGaHc5xoRVEYOhyJZ0z2VSU4wRI3r5x1wFW0kSV-eTr3Jz7-4mHxdy=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrM5O8FjNYX8_Se_C4Ewls1rTjaij4-kgpWVucU80OZSqHbiQd8drRnK44XWTDlfMkk_nd18moEDHmHYoFGaHc5xoRVEYOhyJZ0z2VSU4wRI3r5x1wFW0kSV-eTr3Jz7-4mHxdy=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrM5O8FjNYX8_Se_C4Ewls1rTjaij4-kgpWVucU80OZSqHbiQd8drRnK44XWTDlfMkk_nd18moEDHmHYoFGaHc5xoRVEYOhyJZ0z2VSU4wRI3r5x1wFW0kSV-eTr3Jz7-4mHxdy=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Taman Sulthanah Safiatuddin Banda Aceh",
+    "alamat": "Jl. Senangin, Bandar Baru, Kec. Kuta Alam, Aceh",
+    "rating": "4.4",
+    "jumlah_review": "1.760",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 5.5695786,
+      "longitude": 95.3372124
+    },
+    "url": "https://www.google.com/maps/place/Taman+Sulthanah+Safiatuddin+Banda+Aceh/data=!4m7!3m6!1s0x30403710a342d76d:0xe9015a1e2934df35!8m2!3d5.5695786!4d95.3372124!16s%2Fg%2F11csp8k_s7!19sChIJbddCoxA3QDARNd80KR5aAek?authuser=0&hl=id&rclk=1",
+    "provinsi": "Aceh",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqFMvFyTFh9jbijSYL66JD9tJ3vDId44Ax1bi7v8vfjmqyvGPC7F2uuTtPPKe0LAsWPvtOZMecX7YHdlKZYOJrId2M8RHB9gngZ13D3LyJ7x-KpOWmCSPm0WzPw94PBIOs6m6E=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqFMvFyTFh9jbijSYL66JD9tJ3vDId44Ax1bi7v8vfjmqyvGPC7F2uuTtPPKe0LAsWPvtOZMecX7YHdlKZYOJrId2M8RHB9gngZ13D3LyJ7x-KpOWmCSPm0WzPw94PBIOs6m6E=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqFMvFyTFh9jbijSYL66JD9tJ3vDId44Ax1bi7v8vfjmqyvGPC7F2uuTtPPKe0LAsWPvtOZMecX7YHdlKZYOJrId2M8RHB9gngZ13D3LyJ7x-KpOWmCSPm0WzPw94PBIOs6m6E=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Taman Rusa Aceh Besar",
+    "alamat": "Lambirah, Kec. SukaMakmur",
+    "rating": "4.3",
+    "jumlah_review": "1.824",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 5.4503503,
+      "longitude": 95.3679703
+    },
+    "url": "https://www.google.com/maps/place/Taman+Rusa+Aceh+Besar/data=!4m7!3m6!1s0x30403f3393435c97:0x6feb76c87dde854c!8m2!3d5.4503503!4d95.3679703!16s%2Fg%2F11bx9qncyw!19sChIJl1xDkzM_QDARTIXefch2628?authuser=0&hl=id&rclk=1",
+    "provinsi": "Aceh",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrp66a4wX4zrG6jp08hP67xVs56a0VwKGQCAdpE1-FVIG90Wrp9Z0z9TSPW5O0D9TIbe1Ar95f8X-ignANkzY6CyIgt3X71d7iYv52l7PP8-UGFbrZrVefZYU83mwJr9AMi_3w=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrp66a4wX4zrG6jp08hP67xVs56a0VwKGQCAdpE1-FVIG90Wrp9Z0z9TSPW5O0D9TIbe1Ar95f8X-ignANkzY6CyIgt3X71d7iYv52l7PP8-UGFbrZrVefZYU83mwJr9AMi_3w=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrp66a4wX4zrG6jp08hP67xVs56a0VwKGQCAdpE1-FVIG90Wrp9Z0z9TSPW5O0D9TIbe1Ar95f8X-ignANkzY6CyIgt3X71d7iYv52l7PP8-UGFbrZrVefZYU83mwJr9AMi_3w=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Pantai Paradiso Sabang",
+    "alamat": "Jl. Malahayati, Kuta Ateueh, Sukakarya, Aceh",
+    "rating": "4.5",
+    "jumlah_review": "421",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 5.8953313,
+      "longitude": 95.3133934
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Paradiso+Sabang/data=!4m7!3m6!1s0x3041c674d6b44c17:0x987d751b054e8ce1!8m2!3d5.8953313!4d95.3133934!16s%2Fg%2F11c2kl64q4!19sChIJF0y01nTGQTAR4YxOBRt1fZg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Aceh",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npjhlyVORET0c1U1xC5nc-n3PneH3vg3DevIwIi7Crq2V770bvrcYGozMYNoI14MU43pUElfLKH_HzgV-jpK6ORK9jXpl1ePdA8AwWfS-0UHPdT1dmS2Rg8NELghBHYl6aQ1622=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npjhlyVORET0c1U1xC5nc-n3PneH3vg3DevIwIi7Crq2V770bvrcYGozMYNoI14MU43pUElfLKH_HzgV-jpK6ORK9jXpl1ePdA8AwWfS-0UHPdT1dmS2Rg8NELghBHYl6aQ1622=w408-h305-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npjhlyVORET0c1U1xC5nc-n3PneH3vg3DevIwIi7Crq2V770bvrcYGozMYNoI14MU43pUElfLKH_HzgV-jpK6ORK9jXpl1ePdA8AwWfS-0UHPdT1dmS2Rg8NELghBHYl6aQ1622=w398-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Mon Ceunong",
+    "alamat": "Aneuk Glee, Indrapuri",
+    "rating": "4.6",
+    "jumlah_review": "89",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 5.3823745,
+      "longitude": 95.4002
+    },
+    "url": "https://www.google.com/maps/place/Mon+Ceunong/data=!4m7!3m6!1s0x30403ffc00000001:0xd2f6efee5f867c7d!8m2!3d5.3823745!4d95.4002!16s%2Fg%2F11f3dfdnlb!19sChIJAQAAAPw_QDARfXyGX-7v9tI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Aceh",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrWmNp2Mp4zrS9K_R9mCoAi5TaQHWV0JeTQ-G-fNDRrLUyjJOsphl3gQkyg7alVQ_2vvd9FY1oUVg8MoKxiCX6kPFB0oP20vjc9JAZGf_HTodK2VsaF0Voeynqr7g-gzsGJ7iU=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrWmNp2Mp4zrS9K_R9mCoAi5TaQHWV0JeTQ-G-fNDRrLUyjJOsphl3gQkyg7alVQ_2vvd9FY1oUVg8MoKxiCX6kPFB0oP20vjc9JAZGf_HTodK2VsaF0Voeynqr7g-gzsGJ7iU=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrWmNp2Mp4zrS9K_R9mCoAi5TaQHWV0JeTQ-G-fNDRrLUyjJOsphl3gQkyg7alVQ_2vvd9FY1oUVg8MoKxiCX6kPFB0oP20vjc9JAZGf_HTodK2VsaF0Voeynqr7g-gzsGJ7iU=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Waduk keliling",
+    "alamat": "Keureuweung Krueng, Kec. Kuta Cot Glie",
+    "rating": "4.1",
+    "jumlah_review": "221",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 5.3663583,
+      "longitude": 95.479085
+    },
+    "url": "https://www.google.com/maps/place/Waduk+keliling/data=!4m7!3m6!1s0x304069ff72d5658f:0xb4d1bfca100bbff3!8m2!3d5.3663583!4d95.479085!16s%2Fg%2F11cn6r4g03!19sChIJj2XVcv9pQDAR878LEMq_0bQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "Aceh",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr4_-tY6eqRSUbyCXQKZXdvRHXckBH5gtDkmr5SuwnVEFYlIMufSfddV76shUNKc3UBTVM0Qa7kOS7QquKy0wWTZj7Wh5nbISsO4v-zAejnPyoJKQtT_d9PJoQoDcQ0FJUk0oc=w128-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr4_-tY6eqRSUbyCXQKZXdvRHXckBH5gtDkmr5SuwnVEFYlIMufSfddV76shUNKc3UBTVM0Qa7kOS7QquKy0wWTZj7Wh5nbISsO4v-zAejnPyoJKQtT_d9PJoQoDcQ0FJUk0oc=w408-h273-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr4_-tY6eqRSUbyCXQKZXdvRHXckBH5gtDkmr5SuwnVEFYlIMufSfddV76shUNKc3UBTVM0Qa7kOS7QquKy0wWTZj7Wh5nbISsO4v-zAejnPyoJKQtT_d9PJoQoDcQ0FJUk0oc=w445-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Desa Wisata Nusa, Aceh",
+    "alamat": "besar, Kec. Lhoknga",
+    "rating": "4.6",
+    "jumlah_review": "127",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 5.4944044,
+      "longitude": 95.2676545
+    },
+    "url": "https://www.google.com/maps/place/Desa+Wisata+Nusa,+Aceh/data=!4m7!3m6!1s0x30403b928775a631:0x4100fb68ce2d507a!8m2!3d5.4944044!4d95.2676545!16s%2Fg%2F11h0vr_m54!19sChIJMaZ1h5I7QDARelAtzmj7AEE?authuser=0&hl=id&rclk=1",
+    "provinsi": "Aceh",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipMOvYPM-vHLJNEq9wN8hZmFPBe1-l0ECviHQizT=w153-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipMOvYPM-vHLJNEq9wN8hZmFPBe1-l0ECviHQizT=w427-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipMOvYPM-vHLJNEq9wN8hZmFPBe1-l0ECviHQizT=w531-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Taman Sari Gunongan",
+    "alamat": "Sukaramai, Kec. Baiturrahman",
+    "rating": "4.6",
+    "jumlah_review": "120",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 5.5460501,
+      "longitude": 95.3159891
+    },
+    "url": "https://www.google.com/maps/place/Taman+Sari+Gunongan/data=!4m7!3m6!1s0x3040378facf0b96f:0x225e55bd85a4cf2c!8m2!3d5.5460501!4d95.3159891!16s%2Fg%2F11fmvk967x!19sChIJb7nwrI83QDARLM-khb1VXiI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Aceh",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npyIZkFHW1XtYBsRiq8jNGaOIVWGu2bUSmBPVpNMUdErvKZp9gkxhIX4LXfQKt9iHwaQx98wui1cyX42LsvmTcRIwHOjcrUQsy1Bz7gK8tWa39DEHwsjRuoL5EoPgz9KYa7qfTv=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npyIZkFHW1XtYBsRiq8jNGaOIVWGu2bUSmBPVpNMUdErvKZp9gkxhIX4LXfQKt9iHwaQx98wui1cyX42LsvmTcRIwHOjcrUQsy1Bz7gK8tWa39DEHwsjRuoL5EoPgz9KYa7qfTv=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npyIZkFHW1XtYBsRiq8jNGaOIVWGu2bUSmBPVpNMUdErvKZp9gkxhIX4LXfQKt9iHwaQx98wui1cyX42LsvmTcRIwHOjcrUQsy1Bz7gK8tWa39DEHwsjRuoL5EoPgz9KYa7qfTv=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Taman Wisata Burung Dara",
+    "alamat": "Jalan Indrapuri, Reukih Dayah, Kec. Indrapuri",
+    "rating": "3.5",
+    "jumlah_review": "306",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 5.4053958,
+      "longitude": 95.4362969
+    },
+    "url": "https://www.google.com/maps/place/Taman+Wisata+Burung+Dara/data=!4m7!3m6!1s0x304041acb13075fd:0xb99bc6f0b7ce3f6b!8m2!3d5.4053958!4d95.4362969!16s%2Fg%2F11f3wr0rkg!19sChIJ_XUwsaxBQDARaz_Ot_DGm7k?authuser=0&hl=id&rclk=1",
+    "provinsi": "Aceh",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqsyZRN_i4RH-ogObiXGpaW1g9MuCEFzlCD4iXDx9l34HF6ZiVE8mA-y4pFIErZaXzG2er4J8HdsTzu9wStBv1p3zPWaj8hL2zrRZq3q0b2rIxRfDRnW_EXLGIuzkrSdY21jog=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqsyZRN_i4RH-ogObiXGpaW1g9MuCEFzlCD4iXDx9l34HF6ZiVE8mA-y4pFIErZaXzG2er4J8HdsTzu9wStBv1p3zPWaj8hL2zrRZq3q0b2rIxRfDRnW_EXLGIuzkrSdY21jog=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqsyZRN_i4RH-ogObiXGpaW1g9MuCEFzlCD4iXDx9l34HF6ZiVE8mA-y4pFIErZaXzG2er4J8HdsTzu9wStBv1p3zPWaj8hL2zrRZq3q0b2rIxRfDRnW_EXLGIuzkrSdY21jog=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Menara Merah Putih",
+    "alamat": "Kuta Barat, Sukakarya",
+    "rating": "4.6",
+    "jumlah_review": "849",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 5.8902267,
+      "longitude": 95.321031
+    },
+    "url": "https://www.google.com/maps/place/Menara+Merah+Putih/data=!4m7!3m6!1s0x3041c7d2d1403d2d:0x160e3c503426b122!8m2!3d5.8902267!4d95.321031!16s%2Fg%2F11h2pfq1y7!19sChIJLT1A0dLHQTARIrEmNFA8DhY?authuser=0&hl=id&rclk=1",
+    "provinsi": "Aceh",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noJIJJPFBsv--KYCjthp--o6Id63nOAXGnLEDzI9va17kxgBLNjrdDk8DwkJ2XTrdS8ec7xg3nE1OFQZJYtBlgbdy1bv0k4bA3S_-ECBg9CXHp0UtkQDyFKWqRhXzlXxWFj-zZJ=w86-h152-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noJIJJPFBsv--KYCjthp--o6Id63nOAXGnLEDzI9va17kxgBLNjrdDk8DwkJ2XTrdS8ec7xg3nE1OFQZJYtBlgbdy1bv0k4bA3S_-ECBg9CXHp0UtkQDyFKWqRhXzlXxWFj-zZJ=w408-h725-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noJIJJPFBsv--KYCjthp--o6Id63nOAXGnLEDzI9va17kxgBLNjrdDk8DwkJ2XTrdS8ec7xg3nE1OFQZJYtBlgbdy1bv0k4bA3S_-ECBg9CXHp0UtkQDyFKWqRhXzlXxWFj-zZJ=w224-h398-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pantai Ujong Batee",
+    "alamat": "Neuheun, Kec. Mesjid Raya, Aceh",
+    "rating": "4.1",
+    "jumlah_review": "580",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 5.6499521,
+      "longitude": 95.4195857
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Ujong+Batee/data=!4m7!3m6!1s0x30404a437a440af3:0x5829939eedd35c8f!8m2!3d5.6499521!4d95.4195857!16s%2Fg%2F11f2lgksly!19sChIJ8wpEekNKQDARj1zT7Z6TKVg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Aceh",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrIR5EZIA4JkVPz0hLBeHDUaAvlTyP6Ii-IZBalbAhR07yPOWgPT-wtYnK_Th1deLiAbuAVZ3xo7kLhZltm9UZVdVZ7AFoi3zN58XUFqCtt6ofo7F8vDYu7aAb2B1IKvkAuyP-C=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrIR5EZIA4JkVPz0hLBeHDUaAvlTyP6Ii-IZBalbAhR07yPOWgPT-wtYnK_Th1deLiAbuAVZ3xo7kLhZltm9UZVdVZ7AFoi3zN58XUFqCtt6ofo7F8vDYu7aAb2B1IKvkAuyP-C=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrIR5EZIA4JkVPz0hLBeHDUaAvlTyP6Ii-IZBalbAhR07yPOWgPT-wtYnK_Th1deLiAbuAVZ3xo7kLhZltm9UZVdVZ7AFoi3zN58XUFqCtt6ofo7F8vDYu7aAb2B1IKvkAuyP-C=w529-h298-k-no"
     ],
     "kategori": [
       "pantai"
@@ -96,20 +466,18 @@
     "nama": "Museum Aceh",
     "alamat": "Peuniti, Kec. Baiturrahman",
     "rating": "4.6",
-    "jumlah_review": "2199",
-    "deskripsi": "Museum Aceh adalah sebuah museum etnografi dari suku bangsa asli yang mendiami Tanah Aceh. Museum ini terletak di Banda Aceh, Provinsi Aceh, Indonesia. Didirikan pada tahun 1915 oleh pemerintah kolonial Belanda, museum ini berfungsi sebagai pusat pelestarian dan pameran berbagai koleksi sejarah, budaya, dan adat istiadat Aceh. Museum Aceh menampilkan beragam artefak, termasuk senjata tradisional, pakaian adat, manuskrip kuno, serta rumah adat Aceh (Rumoh Aceh) yang ...",
+    "jumlah_review": "2.198",
+    "deskripsi": "Museum Aceh (Aksara Jawoë : موسياوم اچيه) adalah sebuah museum etnografi dari suku bangsa asli yang mendiami Tanah Aceh. Museum ini terletak di Banda Aceh, Provinsi Aceh, Indonesia. Didirikan pada tahun 1915 oleh pemerintah kolonial Belanda, museum ini berfungsi sebagai pusat pelestarian dan pameran berbagai koleksi sejarah, budaya, dan adat istiadat Aceh. Museum Aceh menampilkan beragam artefak, termasuk senjata tradisional, pakaian adat, manuskrip kuno, serta rumah adat Aceh (Rumoh Aceh) yang ...",
     "koordinat": {
       "latitude": 5.5485602,
       "longitude": 95.3209554
     },
-    "url": "https://www.google.com/maps/place/Museum+Aceh/data=!4m7!3m6!1s0x3040374556a2fc5d:0x6d5321b2f2ee1890!8m2!3d5.5485602!4d95.3209554!16s%2Fm%2F0r4q664!19sChIJXfyiVkU3QDARkBju8rIhU20?authuser=0&hl=en&rclk=1",
+    "url": "https://www.google.com/maps/place/Museum+Aceh/data=!4m7!3m6!1s0x3040374556a2fc5d:0x6d5321b2f2ee1890!8m2!3d5.5485602!4d95.3209554!16s%2Fm%2F0r4q664!19sChIJXfyiVkU3QDARkBju8rIhU20?authuser=0&hl=id&rclk=1",
     "provinsi": "Aceh",
     "foto": [
       "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npPXPJdESNt8fPYiuqKDOqNn75-tE4-PO4ydd2P4OFxP7Z5r48Lr1tnTicxo67modTbqhRJcjYRZbqWIBIAt8aUXOg4NbQpLBxZpjChO7xpqrLg801aCxp2PqOIpRNvyb5yOdkmrA=w114-h86-k-no",
       "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npPXPJdESNt8fPYiuqKDOqNn75-tE4-PO4ydd2P4OFxP7Z5r48Lr1tnTicxo67modTbqhRJcjYRZbqWIBIAt8aUXOg4NbQpLBxZpjChO7xpqrLg801aCxp2PqOIpRNvyb5yOdkmrA=w408-h306-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npPXPJdESNt8fPYiuqKDOqNn75-tE4-PO4ydd2P4OFxP7Z5r48Lr1tnTicxo67modTbqhRJcjYRZbqWIBIAt8aUXOg4NbQpLBxZpjChO7xpqrLg801aCxp2PqOIpRNvyb5yOdkmrA=w397-h298-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq1LQ9am1MN5HMIvzBOCdBJ12Peq8uVIWeAYSqGk1D8_uzgtfjH-woVg-MC4muJJo1Q9qwswf9lJf5LBqTMUWgLi8Ulwims4frfrfkxIr-kssFfHOzqeEZMnXq-qKBN4nFYgeV5=w397-h298-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrQg3eGt_M0nQ4DpO4RcBiN41KGCTaQVqfnvHaelkDAYKC5co8OemdICTsGAkr76-MYeXfGtukg8XRG4mbslJgfT7AiBNGlaT4rBD3sZDHvIowu5QKfdwijR8dffUogpn4SQaXdyCiPzjZv=w224-h398-k-no"
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npPXPJdESNt8fPYiuqKDOqNn75-tE4-PO4ydd2P4OFxP7Z5r48Lr1tnTicxo67modTbqhRJcjYRZbqWIBIAt8aUXOg4NbQpLBxZpjChO7xpqrLg801aCxp2PqOIpRNvyb5yOdkmrA=w397-h298-k-no"
     ],
     "kategori": [
       "museum",
@@ -118,138 +486,84 @@
     ]
   },
   {
-    "nama": "Queen Safiatuddin Park",
-    "alamat": "Jl. Senangin, Bandar Baru, Kec. Kuta Alam, Aceh",
-    "rating": "4.4",
-    "jumlah_review": "1760",
-    "deskripsi": "Taman Sulthanah Safiatuddin di Banda Aceh adalah sebuah taman yang memadukan edukasi, rekreasi, dan pelestarian budaya, dengan fokus pada warisan kerajaan Aceh. Taman ini merupakan tempat yang menarik untuk mengenal dan merasakan keragaman budaya Aceh, serta menjadi lokasi untuk berbagai kegiatan budaya.",
-    "koordinat": {
-      "latitude": 5.5695786,
-      "longitude": 95.3372124
-    },
-    "url": "https://www.google.com/maps/place/Queen+Safiatuddin+Park/data=!4m7!3m6!1s0x30403710a342d76d:0xe9015a1e2934df35!8m2!3d5.5695786!4d95.3372124!16s%2Fg%2F11csp8k_s7!19sChIJbddCoxA3QDARNd80KR5aAek?authuser=0&hl=en&rclk=1",
-    "provinsi": "Aceh",
-    "foto": [
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqFMvFyTFh9jbijSYL66JD9tJ3vDId44Ax1bi7v8vfjmqyvGPC7F2uuTtPPKe0LAsWPvtOZMecX7YHdlKZYOJrId2M8RHB9gngZ13D3LyJ7x-KpOWmCSPm0WzPw94PBIOs6m6E=w114-h86-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqFMvFyTFh9jbijSYL66JD9tJ3vDId44Ax1bi7v8vfjmqyvGPC7F2uuTtPPKe0LAsWPvtOZMecX7YHdlKZYOJrId2M8RHB9gngZ13D3LyJ7x-KpOWmCSPm0WzPw94PBIOs6m6E=w408-h306-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqFMvFyTFh9jbijSYL66JD9tJ3vDId44Ax1bi7v8vfjmqyvGPC7F2uuTtPPKe0LAsWPvtOZMecX7YHdlKZYOJrId2M8RHB9gngZ13D3LyJ7x-KpOWmCSPm0WzPw94PBIOs6m6E=w397-h298-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrKjwbp1RQ-5uAqKXOtUDMEDqYZ2Khn1B304FuaNCSI070aCxM0A758OGoxPLigP3SESkT3ETbMV7-xQ2kyZW1M5jtKaXkWETQZrfJlog2r79iYMbJS1ThvTbxSdmH47evabSNvKw=w224-h403-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nomZD0rh0q_uM1JfnK53cSWRVYyZCe8JVgFxkb7EmpTMwB2XylXHl9pl0WNMe4jb3j6m125hMo7_MJUTGyljLgyss5ditmP0Co1q-l-aXZDjDwFCbuQJq9eLpwQt-aaSQjSUb-A=w529-h298-k-no"
-    ],
-    "kategori": [
-      "taman"
-    ]
-  },
-  {
-    "nama": "Taman Rusa Lam Tanjong",
-    "alamat": "Lambirah, SukaMakmur",
+    "nama": "Pantai Penyu",
+    "alamat": "Jl. Meulaboh - Banda Aceh, Dayah Mamplam, Kec. Leupung",
     "rating": "4.3",
-    "jumlah_review": "1824",
-    "deskripsi": "Taman Rusa Lam Tanjong di Desa Lam Tanjong, Kecamatan Sibreh, Aceh Besar, merupakan destinasi wisata keluarga yang menawarkan pengalaman rekreasi dan edukasi. Taman ini dikenal dengan suasana asri dan sejuknya, serta berbagai wahana menarik seperti kolam renang, kolam bebek, kolam pancing, flying fox, dan area bersepeda.",
+    "jumlah_review": "583",
+    "deskripsi": "N/A",
     "koordinat": {
-      "latitude": 5.4503503,
-      "longitude": 95.3679703
+      "latitude": 5.4127632,
+      "longitude": 95.2476097
     },
-    "url": "https://www.google.com/maps/place/Taman+Rusa+Lam+Tanjong/data=!4m7!3m6!1s0x30403f3393435c97:0x6feb76c87dde854c!8m2!3d5.4503503!4d95.3679703!16s%2Fg%2F11bx9qncyw!19sChIJl1xDkzM_QDARTIXefch2628?authuser=0&hl=en&rclk=1",
+    "url": "https://www.google.com/maps/place/Pantai+Penyu/data=!4m7!3m6!1s0x30403d1ff89193b9:0xff7fbd3a966345c2!8m2!3d5.4127632!4d95.2476097!16s%2Fg%2F11c48mzx19!19sChIJuZOR-B89QDARwkVjljq9f_8?authuser=0&hl=id&rclk=1",
     "provinsi": "Aceh",
     "foto": [
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrp66a4wX4zrG6jp08hP67xVs56a0VwKGQCAdpE1-FVIG90Wrp9Z0z9TSPW5O0D9TIbe1Ar95f8X-ignANkzY6CyIgt3X71d7iYv52l7PP8-UGFbrZrVefZYU83mwJr9AMi_3w=w114-h86-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrp66a4wX4zrG6jp08hP67xVs56a0VwKGQCAdpE1-FVIG90Wrp9Z0z9TSPW5O0D9TIbe1Ar95f8X-ignANkzY6CyIgt3X71d7iYv52l7PP8-UGFbrZrVefZYU83mwJr9AMi_3w=w408-h306-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrp66a4wX4zrG6jp08hP67xVs56a0VwKGQCAdpE1-FVIG90Wrp9Z0z9TSPW5O0D9TIbe1Ar95f8X-ignANkzY6CyIgt3X71d7iYv52l7PP8-UGFbrZrVefZYU83mwJr9AMi_3w=w397-h298-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqrIWVBQrtBUJjmSDQSUzUdrP_AVJXf0NaVnroWmVDqSLjJh68uT7UyiRoYjksqDt9JztSo1WJb1El8bLUacF1FnCqacVjQ2TABxtsghh24sHjEAflQ0B7V9_-nj-P7LSQtCtxoXnl2_pbq=w224-h298-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrAYcoEWjy_SO6aatqfEgSMZqAZK4X5LINTbAE6XIv8VNqkupeOsbllCaZ_Ed4Xd7vA3CfFygt87NQviHrJA_N5H2fV9wSiz5fKqRI4vLcV0V2upqlRAjhXRw_GngNPNWk5zZg=w529-h298-k-no"
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npgjhvMBHhlDyE5pHertIW7kzjt7T3IrznX11SyUs_8GYF2ABEKGLMMlwgs6vPaEOTgJRFOYnd-1HiJ7BhJ5JcdaY7eBHayxIl8ePLK8c_NFZF-r6AOYEGKjrvWW3Xpz7JzOL217A=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npgjhvMBHhlDyE5pHertIW7kzjt7T3IrznX11SyUs_8GYF2ABEKGLMMlwgs6vPaEOTgJRFOYnd-1HiJ7BhJ5JcdaY7eBHayxIl8ePLK8c_NFZF-r6AOYEGKjrvWW3Xpz7JzOL217A=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npgjhvMBHhlDyE5pHertIW7kzjt7T3IrznX11SyUs_8GYF2ABEKGLMMlwgs6vPaEOTgJRFOYnd-1HiJ7BhJ5JcdaY7eBHayxIl8ePLK8c_NFZF-r6AOYEGKjrvWW3Xpz7JzOL217A=w397-h298-k-no"
     ],
     "kategori": [
-      "taman"
+      "pantai"
     ]
   },
   {
-    "nama": "Rumoh Cut Nyak Dhien",
-    "alamat": "Lampisang, Peukan Bada",
+    "nama": "Air Terjun Peucari Jantho",
+    "alamat": "Bueng",
+    "rating": "4.4",
+    "jumlah_review": "69",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 5.2322453,
+      "longitude": 95.6568237
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Peucari+Jantho/data=!4m7!3m6!1s0x30406386e84211ed:0xda9b2347391add29!8m2!3d5.2322453!4d95.6568237!16s%2Fg%2F11bt_gw8mb!19sChIJ7RFC6IZjQDARKd0aOUcjm9o?authuser=0&hl=id&rclk=1",
+    "provinsi": "Aceh",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrY-nMKiWnr8eyfLmcdj1ma6wMv6VJt_EiExyUFs8Tkl2B4hE_J7HfB1g2upOr-RJFmy0yEYagd1cCK9LeE829jFnlFp7rJBc6E53ARX_D6Dx8uVEeEQhqX7-GpK4SK39_XhpYpbA=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrY-nMKiWnr8eyfLmcdj1ma6wMv6VJt_EiExyUFs8Tkl2B4hE_J7HfB1g2upOr-RJFmy0yEYagd1cCK9LeE829jFnlFp7rJBc6E53ARX_D6Dx8uVEeEQhqX7-GpK4SK39_XhpYpbA=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrY-nMKiWnr8eyfLmcdj1ma6wMv6VJt_EiExyUFs8Tkl2B4hE_J7HfB1g2upOr-RJFmy0yEYagd1cCK9LeE829jFnlFp7rJBc6E53ARX_D6Dx8uVEeEQhqX7-GpK4SK39_XhpYpbA=w447-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Rumah Cut Nyak Dhien",
+    "alamat": "Lampisang, Kec. Peukan Bada",
     "rating": "4.6",
-    "jumlah_review": "1196",
-    "deskripsi": "Rumoh Cut Nyak Dhien adalah sebuah rumah panggung khas Aceh yang menjadi simbol perjuangan rakyat Aceh melawan Belanda. Rumah ini merupakan replika dari rumah asli yang dibakar Belanda pada tahun 1896, dan kembali dibangun pada tahun 1987. Rumah ini berukuran 25 x 17 meter dan ditopang oleh 65 tiang kayu ulin merah, serta memiliki atap rumbia.",
+    "jumlah_review": "1.196",
+    "deskripsi": "N/A",
     "koordinat": {
       "latitude": 5.5168026,
       "longitude": 95.271683
     },
-    "url": "https://www.google.com/maps/place/Rumoh+Cut+Nyak+Dhien/data=!4m7!3m6!1s0x30403a5e2ffc6cdf:0x7826049ddb165f1!8m2!3d5.5168026!4d95.271683!16s%2Fg%2F11fctqvt1g!19sChIJ32z8L146QDAR8WWx3Ulgggc?authuser=0&hl=en&rclk=1",
+    "url": "https://www.google.com/maps/place/Rumah+Cut+Nyak+Dhien/data=!4m7!3m6!1s0x30403a5e2ffc6cdf:0x7826049ddb165f1!8m2!3d5.5168026!4d95.271683!16s%2Fg%2F11fctqvt1g!19sChIJ32z8L146QDAR8WWx3Ulgggc?authuser=0&hl=id&rclk=1",
     "provinsi": "Aceh",
     "foto": [
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqx_kl2aoeNejAMilNP7NSyCiGgZMvCbGRz9YCQ23fTHA-g-dWZdN86xuxI4hC_94g5Pu4QA3UXkUwTlmw_upGfD8zzX6ubjffUSbCSxh3NeECRw814seefVnqYkUTQwH4iTRaziQ=w129-h86-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqx_kl2aoeNejAMilNP7NSyCiGgZMvCbGRz9YCQ23fTHA-g-dWZdN86xuxI4hC_94g5Pu4QA3UXkUwTlmw_upGfD8zzX6ubjffUSbCSxh3NeECRw814seefVnqYkUTQwH4iTRaziQ=w408-h272-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqx_kl2aoeNejAMilNP7NSyCiGgZMvCbGRz9YCQ23fTHA-g-dWZdN86xuxI4hC_94g5Pu4QA3UXkUwTlmw_upGfD8zzX6ubjffUSbCSxh3NeECRw814seefVnqYkUTQwH4iTRaziQ=w447-h298-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no1FFojZkrTE75Wz3wqpKBUsmG3v_J6gJRSccR6yx78S3aaJmzRu9Uihw0rWxWOyCs8dgA6y9EqmTC2kpi0y5Tvz9b-v5qh9LTAs1L3eD_T8cNQ-p3aVIcl1KAN32-XeKg-V0liONP3-Ms=w224-h397-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npC8WQGzzGhHVyCVnsDUWU3I3B3er--Kq6NkWRjzAHhsl4SKeb9Ue3IC4mQTsX4ckDdQIfeUFRd-ubgC3FNai8_ZscIrK87yTXsTsUeWNyqTNhgmpTMmmd0Mtq7OXGMNJ3dI6E=w529-h298-k-no"
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no-HvBkSBI7cTRRDqDYMpqAZn98PGdM8dmjsRaGLhxk2i8NvE6iozObGCYgAkJOARjD9DXulj6OD7jx4K3fMCeMxpqk4CWIeHt82CaGG0DGYzUFD8O3EY0ikgd0RD1vyvi9kXK3HQ=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no-HvBkSBI7cTRRDqDYMpqAZn98PGdM8dmjsRaGLhxk2i8NvE6iozObGCYgAkJOARjD9DXulj6OD7jx4K3fMCeMxpqk4CWIeHt82CaGG0DGYzUFD8O3EY0ikgd0RD1vyvi9kXK3HQ=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no-HvBkSBI7cTRRDqDYMpqAZn98PGdM8dmjsRaGLhxk2i8NvE6iozObGCYgAkJOARjD9DXulj6OD7jx4K3fMCeMxpqk4CWIeHt82CaGG0DGYzUFD8O3EY0ikgd0RD1vyvi9kXK3HQ=w447-h298-k-no"
     ],
     "kategori": [
-      "rumah_adat"
-    ]
-  },
-  {
-    "nama": "The Park Of Kings - Bustan Al Salatin",
-    "alamat": "Kampung Baru, Baiturrahman",
-    "rating": "4.3",
-    "jumlah_review": "1444",
-    "deskripsi": "Taman Bustan Al Salatin, yang juga dikenal sebagai Taman Raja-raja, dulunya adalah taman tempat para raja Aceh bersantai dan bersosialisasi. Saat ini, taman ini telah direnovasi dan difungsikan sebagai tempat rekreasi dan bersantai bagi warga Banda Aceh. Taman ini sering menjadi lokasi acara budaya dan kegiatan rekreasi, serta menjadi tempat populer bagi warga untuk berolahraga atau bersantai di akhir pekan. ",
-    "koordinat": {
-      "latitude": 5.5502495,
-      "longitude": 95.3172526
-    },
-    "url": "https://www.google.com/maps/place/The+Park+Of+Kings+-+%D8%A8%D8%B3%D8%AA%D8%A7%D9%86+%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%B7%D9%8A%D9%86+-+Bustan+Al+Salatin%E2%80%AD/data=!4m7!3m6!1s0x3040374e3f3c4f5d:0x6072d01c167baeb9!8m2!3d5.5502495!4d95.3172526!16s%2Fg%2F1pzrfjmbv!19sChIJXU88P043QDARua57FhzQcmA?authuser=0&hl=en&rclk=1",
-    "provinsi": "Aceh",
-    "foto": [
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqSneXf9i-lIJZAV98Zox1YRSQ8PCUmu2AW-QL0anwg1d1Kyw1cvHVl10-GgNwEGkI3J6CDUauj8vVec2k10vaYwa458HnlFyXEZAOPHibkFqxNPptRXkMq_DtNqBHVg-tqO5_I=w114-h86-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqSneXf9i-lIJZAV98Zox1YRSQ8PCUmu2AW-QL0anwg1d1Kyw1cvHVl10-GgNwEGkI3J6CDUauj8vVec2k10vaYwa458HnlFyXEZAOPHibkFqxNPptRXkMq_DtNqBHVg-tqO5_I=w408-h306-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqSneXf9i-lIJZAV98Zox1YRSQ8PCUmu2AW-QL0anwg1d1Kyw1cvHVl10-GgNwEGkI3J6CDUauj8vVec2k10vaYwa458HnlFyXEZAOPHibkFqxNPptRXkMq_DtNqBHVg-tqO5_I=w397-h298-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noVZMd0P2DU3aVg3I8o4JMe3aqwDYU6wHjMr-qCo31g_40EFiI0OU9bq-4n8G-qNuPBtL36LoBY4zQ7sY-Z6lVHXiKACn6GAUhmSJrk45K-E82egPVWS2YGZp4jd3JGinO1m7k=w397-h298-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noxme39WyZeJX55sf1KCaHXBn5rp5TkBea4DmPHV9RoHQrf-VYv05WFJNmDdBfeYRmp4xnHzPPVqukVnaZRW38fQJjxwjllV6K1lWPgIpv8NSEJff-qN7ly-2-PDKPCENQFImYhvA=w529-h298-k-no"
-    ],
-    "kategori": [
-      "taman"
-    ]
-  },
-  {
-    "nama": "Putroe Phang Park",
-    "alamat": "Sukaramai, Kec. Baiturrahman",
-    "rating": "4.4",
-    "jumlah_review": "818",
-    "deskripsi": "Taman Putroe Phang adalah taman Kerajaan Aceh Darussalam yang didirikan oleh Sultan Iskandar Muda (1607-1636) untuk permaisurinya Putroe Phang yang berasal dari Kerajaan Pahang. Nama asli taman ini adalah Taman Ghairah sebagaimana disebutkan di dalam kitab Bustanus Salatin.",
-    "koordinat": {
-      "latitude": 5.5460001,
-      "longitude": 95.3162545
-    },
-    "url": "https://www.google.com/maps/place/Putroe+Phang+Park/data=!4m7!3m6!1s0x304037518302b3c1:0x796826c7430e2bd1!8m2!3d5.5460001!4d95.3162545!16s%2Fm%2F05mwwfq!19sChIJwbMCg1E3QDAR0SsOQ8cmaHk?authuser=0&hl=en&rclk=1",
-    "provinsi": "Aceh",
-    "foto": [
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqlYuK8H3I6Mqv9wSYx4DOAHCF8JBYQBR9_nV2Of9prrJWhpTXNXjJW97Kc0Am1_9vSOpoZePNZ75wyzEUuRe7j7KO-V01Zi-Qp1zrFEJcoGiZyQmesgXyeOlzo0822TSl725V6=w152-h86-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqlYuK8H3I6Mqv9wSYx4DOAHCF8JBYQBR9_nV2Of9prrJWhpTXNXjJW97Kc0Am1_9vSOpoZePNZ75wyzEUuRe7j7KO-V01Zi-Qp1zrFEJcoGiZyQmesgXyeOlzo0822TSl725V6=w426-h240-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqlYuK8H3I6Mqv9wSYx4DOAHCF8JBYQBR9_nV2Of9prrJWhpTXNXjJW97Kc0Am1_9vSOpoZePNZ75wyzEUuRe7j7KO-V01Zi-Qp1zrFEJcoGiZyQmesgXyeOlzo0822TSl725V6=w529-h298-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npiZPR5hb5HtqdSeCXkcmH7yLYcgkvBoMXDI8_K7MwQ_7GySu5MOBycmpou2i8vk5cnIvAl5WhUasbxU7mgljnSqwYvdysdWxrsNPaTDoIydXHXtqgnTEViSWdd2DsbA1VNbL4n=w224-h298-k-no-pi-0-ya188.0879-ro0-fo100",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npUQEknngcaQOjjvnK0AfKP-309FSVg8VLZJd85K9KXYMrw4Je-_YmoPvWysxFKMGF5YfreBZCk4F5p-WVF_WQQZ5Ft9WkKcLZfKCPAxQzVZhcID_pGKtvZ7fOturYgLlYrO5p6cA=w224-h398-k-no"
-    ],
-    "kategori": [
-      "taman"
+      "lainnya"
     ]
   },
   {
     "nama": "Pucok Krueng",
-    "alamat": "Mon Ikeun, Lhoknga",
+    "alamat": "Mon Ikeun, Kec. Lhoknga",
     "rating": "4.5",
     "jumlah_review": "259",
-    "deskripsi": "Pucok Krueng adalah sebuah pemandian kolam pegunungan yang terletak di Desa Mon Ikeun, Kecamatan Lhoknga, Kabupaten Aceh Besar. Pemandian ini terkenal karena airnya yang jernih dan dingin, serta dikelilingi oleh pemandangan alam yang alami dan rindang. Pucok Krueng juga dikenal sebagai tempat pemandian para raja-raja pada zaman Kesultanan Aceh.",
+    "deskripsi": "N/A",
     "koordinat": {
       "latitude": 5.4605987,
       "longitude": 95.2615318
     },
-    "url": "https://www.google.com/maps/place/Pucok+Krueng/data=!4m7!3m6!1s0x30403b30262e1d2b:0xec0c5bd841324aa1!8m2!3d5.4605987!4d95.2615318!16s%2Fg%2F11fl0sr0ng!19sChIJKx0uJjA7QDARoUoyQdhbDOw?authuser=0&hl=en&rclk=1",
+    "url": "https://www.google.com/maps/place/Pucok+Krueng/data=!4m7!3m6!1s0x30403b30262e1d2b:0xec0c5bd841324aa1!8m2!3d5.4605987!4d95.2615318!16s%2Fg%2F11fl0sr0ng!19sChIJKx0uJjA7QDARoUoyQdhbDOw?authuser=0&hl=id&rclk=1",
     "provinsi": "Aceh",
     "foto": [
       "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrPS1lMPHq0njeoj5GD8-5gSEhbQ44gC3cfNbB6kF55Ciqav6oT46FekQbUalJJFW_EDrb6BZ7xvIeq60ZxFJ1hCSwIy30huq_o72qhdNICHZ3AUo29nZpMGr1Xi0oL7rxgmSzF=w114-h86-k-no",
       "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrPS1lMPHq0njeoj5GD8-5gSEhbQ44gC3cfNbB6kF55Ciqav6oT46FekQbUalJJFW_EDrb6BZ7xvIeq60ZxFJ1hCSwIy30huq_o72qhdNICHZ3AUo29nZpMGr1Xi0oL7rxgmSzF=w408-h306-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrPS1lMPHq0njeoj5GD8-5gSEhbQ44gC3cfNbB6kF55Ciqav6oT46FekQbUalJJFW_EDrb6BZ7xvIeq60ZxFJ1hCSwIy30huq_o72qhdNICHZ3AUo29nZpMGr1Xi0oL7rxgmSzF=w397-h298-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqCqbPFi_xbxyTCJ1sKcXRBrZ7VockbdjWzoAQ4J6Fl7GSCxP38VY9RulwHvL6EtSp9kB3AEvYoiUYTI3AV7Jx5dCoH_N6--93Pkau3bJLP9cKQ11TLJ-5e0wjiQ-iX0VKEZyoHChu-vDB2=w224-h298-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrkvUBdvEnNCx446Vgh_d0D8f0ygF5C_QYS_w2XRtEtMbsOwlv4nQmcC8zQdppAu6R0OWLHi9-ImSdxTDrZmXU2NYAQWAiDKsD2-4JgtW4-gnng8eNR6x6wGE9w1b9oczBiMBg6=w529-h298-k-no"
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrPS1lMPHq0njeoj5GD8-5gSEhbQ44gC3cfNbB6kF55Ciqav6oT46FekQbUalJJFW_EDrb6BZ7xvIeq60ZxFJ1hCSwIy30huq_o72qhdNICHZ3AUo29nZpMGr1Xi0oL7rxgmSzF=w397-h298-k-no"
     ],
     "kategori": [
       "lainnya"
@@ -260,68 +574,167 @@
     "alamat": "Lam Ara Tunong, Kuta Malaka, Luthu Lamweu, Kec. SukaMakmur",
     "rating": "4.4",
     "jumlah_review": "256",
-    "deskripsi": "Air Kuta Malaka terletak di desa Samahani, yang tak jauh dari kota Banda Aceh. Air terjun ini terletak di bukit dengan ketinggian 600 mdpl. Air terjun ini bertingkat-tingkat dengan total mencapai 17 tingkatan. Untuk mencapai lokasi ini, kamu harus berhati-hati karena melalui medan yang terjal.",
+    "deskripsi": "N/A",
     "koordinat": {
       "latitude": 5.3910936,
       "longitude": 95.3665239
     },
-    "url": "https://www.google.com/maps/place/Air+Terjun+Kuta+Malaka/data=!4m7!3m6!1s0x30403f6400000001:0x7ca531f148987160!8m2!3d5.3910936!4d95.3665239!16s%2Fg%2F11bw3cc9z2!19sChIJAQAAAGQ_QDARYHGYSPExpXw?authuser=0&hl=en&rclk=1",
+    "url": "https://www.google.com/maps/place/Air+Terjun+Kuta+Malaka/data=!4m7!3m6!1s0x30403f6400000001:0x7ca531f148987160!8m2!3d5.3910936!4d95.3665239!16s%2Fg%2F11bw3cc9z2!19sChIJAQAAAGQ_QDARYHGYSPExpXw?authuser=0&hl=id&rclk=1",
     "provinsi": "Aceh",
     "foto": [
       "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noQHTTSk0R3pSTNbNT5MMjqaYLJhlSra__ajXN6zrQ7qpMBd0CobkzU5xDaNofqOrgROg5gfYylwdftRzYJ7Z43YylKfOAP2_eNqNzu8AffnIJD5_y-djiIGZSk7Pq2IEhii9g=w114-h86-k-no",
       "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noQHTTSk0R3pSTNbNT5MMjqaYLJhlSra__ajXN6zrQ7qpMBd0CobkzU5xDaNofqOrgROg5gfYylwdftRzYJ7Z43YylKfOAP2_eNqNzu8AffnIJD5_y-djiIGZSk7Pq2IEhii9g=w408-h306-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noQHTTSk0R3pSTNbNT5MMjqaYLJhlSra__ajXN6zrQ7qpMBd0CobkzU5xDaNofqOrgROg5gfYylwdftRzYJ7Z43YylKfOAP2_eNqNzu8AffnIJD5_y-djiIGZSk7Pq2IEhii9g=w397-h298-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noxSMJ5jGsgBjWgDzQaiOEHx330bajhWtV5PF9etwo11uYvnxQ_0NpQP0V8U03RnU29dauLE_M1PV2IAmi2nSt9nlydiyPVFii09kZZyXRCrLjMWCjvH4Qd_NLJmVtOrLUkyAq6=w397-h298-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nonz2T5y-ClIJ0IXISHTOxYAWgTZpNB0K9nTFjRX_OhMYi7y1y7OjQ-VKdr-DGfxutNrh1uoLR-XK_404_MjvvAVXOEe8yAMvSN_SbXVuZqK_IEqvU2uZIDpPEozDjpifIqRmLH=w529-h298-k-no"
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noQHTTSk0R3pSTNbNT5MMjqaYLJhlSra__ajXN6zrQ7qpMBd0CobkzU5xDaNofqOrgROg5gfYylwdftRzYJ7Z43YylKfOAP2_eNqNzu8AffnIJD5_y-djiIGZSk7Pq2IEhii9g=w397-h298-k-no"
     ],
     "kategori": [
       "air_terjun"
     ]
   },
   {
-    "nama": "Pantai Ujong Batee",
-    "alamat": "Neuheun, Mesjid Raya, Aceh",
-    "rating": "4.1",
-    "jumlah_review": "581",
-    "deskripsi": "Pantai Ujong Batee adalah pantai di Aceh Besar, sekitar 20 km timur laut Banda Aceh, yang dikenal sebagai titik paling utara di pulau Sumatra. Pantainya memiliki pasir hitam dari batuan gunung berapi dengan batu kerikil kecil. Ombaknya relatif tenang, cocok untuk semua usia. Di belakang pantai terdapat tebing batu kapur putih dengan pecahan-pecahan yang berserakan di laut.",
+    "nama": "Hutan Kota BNI",
+    "alamat": "Jl. Hutan, Tibang, Kec. Syiah Kuala, Aceh",
+    "rating": "4.3",
+    "jumlah_review": "956",
+    "deskripsi": "N/A",
     "koordinat": {
-      "latitude": 5.6499521,
-      "longitude": 95.4195857
+      "latitude": 5.5844998,
+      "longitude": 95.35101
     },
-    "url": "https://www.google.com/maps/place/Pantai+Ujong+Batee/data=!4m7!3m6!1s0x30404a437a440af3:0x5829939eedd35c8f!8m2!3d5.6499521!4d95.4195857!16s%2Fg%2F11f2lgksly!19sChIJ8wpEekNKQDARj1zT7Z6TKVg?authuser=0&hl=en&rclk=1",
+    "url": "https://www.google.com/maps/place/Hutan+Kota+BNI/data=!4m7!3m6!1s0x304036ff4bbcf295:0xd5059e4ec50bacf7!8m2!3d5.5844998!4d95.35101!16s%2Fg%2F11btvg8f2b!19sChIJlfK8S_82QDAR96wLxU6eBdU?authuser=0&hl=id&rclk=1",
     "provinsi": "Aceh",
     "foto": [
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrIR5EZIA4JkVPz0hLBeHDUaAvlTyP6Ii-IZBalbAhR07yPOWgPT-wtYnK_Th1deLiAbuAVZ3xo7kLhZltm9UZVdVZ7AFoi3zN58XUFqCtt6ofo7F8vDYu7aAb2B1IKvkAuyP-C=w152-h86-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrIR5EZIA4JkVPz0hLBeHDUaAvlTyP6Ii-IZBalbAhR07yPOWgPT-wtYnK_Th1deLiAbuAVZ3xo7kLhZltm9UZVdVZ7AFoi3zN58XUFqCtt6ofo7F8vDYu7aAb2B1IKvkAuyP-C=w426-h240-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrIR5EZIA4JkVPz0hLBeHDUaAvlTyP6Ii-IZBalbAhR07yPOWgPT-wtYnK_Th1deLiAbuAVZ3xo7kLhZltm9UZVdVZ7AFoi3zN58XUFqCtt6ofo7F8vDYu7aAb2B1IKvkAuyP-C=w529-h298-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqH__WKswnYzLJp_FBb_ERjj0qMlocYtkJa3qBP4A3SFsSmPquGsfhq2Zd5fhw3duqkMuB1Pf4IHmPbU_rOrU1nvOeZlyqRU8sOoJRy6ItHQjjKBsaa-r1xTkbZRLRroDv2Gj8s=w224-h298-k-no-pi0-ya140-ro0-fo100",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npG2UNdvMAfv_VgaBZ5XZjTBusspijNEsyLKVCfp5Nz14x4045x1ZCde4ubuhs6HKO9FA1FdfHovs7vMmSTMbGH3Htsy4oWNeCXfuvk16PjJwkYUD0olUf6Q4eoIg9qYK2SQx0Sig=w224-h398-k-no"
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noF_Oop-4XwabJkpov0TbsXnGmA73A5ZybTtPXpYIl4TOS-_XkEM93StWTAMueHkK5CYr1n1-3gcR3oeTbPQQrueqF1qXTvezKbLoFIQ4LPHa9hGPMKMwKXVCmgzR1jWAEd0prI=w136-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noF_Oop-4XwabJkpov0TbsXnGmA73A5ZybTtPXpYIl4TOS-_XkEM93StWTAMueHkK5CYr1n1-3gcR3oeTbPQQrueqF1qXTvezKbLoFIQ4LPHa9hGPMKMwKXVCmgzR1jWAEd0prI=w408-h256-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noF_Oop-4XwabJkpov0TbsXnGmA73A5ZybTtPXpYIl4TOS-_XkEM93StWTAMueHkK5CYr1n1-3gcR3oeTbPQQrueqF1qXTvezKbLoFIQ4LPHa9hGPMKMwKXVCmgzR1jWAEd0prI=w474-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Bukit Lamreh",
+    "alamat": "Ujung Kelindu, , Lamreh, Kec. Mesjid Raya, Aceh",
+    "rating": "4.4",
+    "jumlah_review": "523",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 5.6161133,
+      "longitude": 95.5439356
+    },
+    "url": "https://www.google.com/maps/place/Bukit+Lamreh/data=!4m7!3m6!1s0x30404e0ba4dfb06f:0xe6027803a1a8af9!8m2!3d5.6161133!4d95.5439356!16s%2Fg%2F11cssx598g!19sChIJb7DfpAtOQDAR-YoaOoAnYA4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Aceh",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nro3bzT5Xe-Ex8pl-xSX_h8SMsZlY7XYv_MNvAwDbxIAF69f5n7odbOt1eNRPF3tw0_GJQtkVjv5dH7rqaF0G0_bID4h18xcRry8Y3axtt5-gREYLLL-r5iOjszlAXjYNwQ2jWl=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nro3bzT5Xe-Ex8pl-xSX_h8SMsZlY7XYv_MNvAwDbxIAF69f5n7odbOt1eNRPF3tw0_GJQtkVjv5dH7rqaF0G0_bID4h18xcRry8Y3axtt5-gREYLLL-r5iOjszlAXjYNwQ2jWl=w408-h305-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nro3bzT5Xe-Ex8pl-xSX_h8SMsZlY7XYv_MNvAwDbxIAF69f5n7odbOt1eNRPF3tw0_GJQtkVjv5dH7rqaF0G0_bID4h18xcRry8Y3axtt5-gREYLLL-r5iOjszlAXjYNwQ2jWl=w397-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Ujoeng Pancu Beach",
+    "alamat": "Unnamed Road, Lam Pageu, Lam Pageu, Peukan Bada",
+    "rating": "4.5",
+    "jumlah_review": "284",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 5.5628997,
+      "longitude": 95.2347956
+    },
+    "url": "https://www.google.com/maps/place/Ujoeng+Pancu+Beach/data=!4m7!3m6!1s0x3040302308ae49bd:0x10c56c8a0f4da8b2!8m2!3d5.5628997!4d95.2347956!16s%2Fg%2F11g728g5zn!19sChIJvUmuCCMwQDARsqhND4psxRA?authuser=0&hl=id&rclk=1",
+    "provinsi": "Aceh",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nriMpFTGPtBNIyhd3B0UX_Y24jIlIuG0jEBWlx9tf3cH34zeNNg0b0pCeiOHi1bPtJyi5qHL_VJ5SZaM5Vtzd4hVRzMPNOjD67zT1kPf7uBJ_hiqct7HFa2DM847QxucZId1i_FMQ=w86-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nriMpFTGPtBNIyhd3B0UX_Y24jIlIuG0jEBWlx9tf3cH34zeNNg0b0pCeiOHi1bPtJyi5qHL_VJ5SZaM5Vtzd4hVRzMPNOjD67zT1kPf7uBJ_hiqct7HFa2DM847QxucZId1i_FMQ=w408-h408-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nriMpFTGPtBNIyhd3B0UX_Y24jIlIuG0jEBWlx9tf3cH34zeNNg0b0pCeiOHi1bPtJyi5qHL_VJ5SZaM5Vtzd4hVRzMPNOjD67zT1kPf7uBJ_hiqct7HFa2DM847QxucZId1i_FMQ=w298-h298-k-no"
     ],
     "kategori": [
       "pantai"
     ]
   },
   {
-    "nama": "Air Terjun Peukan Biluy",
-    "alamat": "Lamsod, Darul Kamal",
+    "nama": "Wisata Air terjun suhom",
+    "alamat": "Jln, air terjun, Tunong Krueng Kala, Kec. Lhoong",
     "rating": "4.1",
-    "jumlah_review": "71",
-    "deskripsi": "Terletak di Kabupaten Aceh Besar, Air Terjun Peukan Biluy adalah salah satu destinasi wisata alam yang menakjubkan di Aceh. Dengan keindahan alam yang mempesona dan suasana yang tenang, air terjun ini menawarkan pengalaman yang unik dan menyegarkan bagi para pengunjung.",
+    "jumlah_review": "29",
+    "deskripsi": "N/A",
     "koordinat": {
-      "latitude": 5.4603125,
-      "longitude": 95.3264219
+      "latitude": 5.2856426,
+      "longitude": 95.2602065
     },
-    "url": "https://www.google.com/maps/place/Air+Terjun+Peukan+Biluy/data=!4m7!3m6!1s0x304039494f006101:0xeb06b42e4a7f1fef!8m2!3d5.4603125!4d95.3264219!16s%2Fg%2F11cjkpxyl2!19sChIJAWEAT0k5QDAR7x9_Si60Bus?authuser=0&hl=en&rclk=1",
+    "url": "https://www.google.com/maps/place/Wisata+Air+terjun+suhom/data=!4m7!3m6!1s0x304011e9ddf26095:0x3fcda621f6258b8f!8m2!3d5.2856426!4d95.2602065!16s%2Fg%2F11ftcnrzy7!19sChIJlWDy3ekRQDARj4sl9iGmzT8?authuser=0&hl=id&rclk=1",
     "provinsi": "Aceh",
     "foto": [
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqCu52M66frvy6_v2QqFwzJVFmQ41Q-K3EYnpCQBjr8dfqz0Z9hAZyLQG0m396bllzVkjGL_RQgMo-RkbTsPkQkd4xfW3mIgsMbs6yZ7rcy8kPVyEHBWCQHAlmgzvmsxPmx8cIE=w86-h134-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqCu52M66frvy6_v2QqFwzJVFmQ41Q-K3EYnpCQBjr8dfqz0Z9hAZyLQG0m396bllzVkjGL_RQgMo-RkbTsPkQkd4xfW3mIgsMbs6yZ7rcy8kPVyEHBWCQHAlmgzvmsxPmx8cIE=w408-h637-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqCu52M66frvy6_v2QqFwzJVFmQ41Q-K3EYnpCQBjr8dfqz0Z9hAZyLQG0m396bllzVkjGL_RQgMo-RkbTsPkQkd4xfW3mIgsMbs6yZ7rcy8kPVyEHBWCQHAlmgzvmsxPmx8cIE=w224-h349-k-no",
-      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq5UO7ltDY4sG61RghhHV8-NEgStm9QlRk3K2v6WSWvHTM3ykrUKj7utGJ-uHCe9xmNmGa_6Ldgx_2B0bIw3DwxdVHFIOMYzokmGPmBgnyrpdC5FguQr1HrYoEYVK9ChJ3T60U=w224-h398-k-no",
-      "https://lh3.googleusercontent.com/p/AF1QipMJuovt5Z1O688h0QOpQGhcupDy5yGAVyD0Tpk3=w80-h92-p-k-no"
+      "https://lh3.googleusercontent.com/p/AF1QipO4PcOdGJSDThkEe9GNMLUpgtI6nW3l3qkljUQ8=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipO4PcOdGJSDThkEe9GNMLUpgtI6nW3l3qkljUQ8=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipO4PcOdGJSDThkEe9GNMLUpgtI6nW3l3qkljUQ8=w397-h298-k-no"
     ],
     "kategori": [
       "air_terjun"
+    ]
+  },
+  {
+    "nama": "Tugu Simpang Lima Banda Aceh",
+    "alamat": "Banda Aceh, Laksana, Kuta Alam",
+    "rating": "4.6",
+    "jumlah_review": "1.359",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 5.5560312,
+      "longitude": 95.3217652
+    },
+    "url": "https://www.google.com/maps/place/Tugu+Simpang+Lima+Banda+Aceh/data=!4m7!3m6!1s0x30403747d22b7fe9:0xa668102c384eb00!8m2!3d5.5560312!4d95.3217652!16s%2Fg%2F1td55rnw!19sChIJ6X8r0kc3QDARAOuEwwKBZgo?authuser=0&hl=id&rclk=1",
+    "provinsi": "Aceh",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npSwLH1Iabj_MKBEJskT0-ZSck1QVMcHjo6uPAQt9_ExsXe1JQb1XUDsUgawgE3eubWuvObGy8sS_6ZteDwoRq1Wqhb0uuBhlj-gTGzhgMwQXHTRBHiWsvd_FM8ZNl2rvrrxAFE=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npSwLH1Iabj_MKBEJskT0-ZSck1QVMcHjo6uPAQt9_ExsXe1JQb1XUDsUgawgE3eubWuvObGy8sS_6ZteDwoRq1Wqhb0uuBhlj-gTGzhgMwQXHTRBHiWsvd_FM8ZNl2rvrrxAFE=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npSwLH1Iabj_MKBEJskT0-ZSck1QVMcHjo6uPAQt9_ExsXe1JQb1XUDsUgawgE3eubWuvObGy8sS_6ZteDwoRq1Wqhb0uuBhlj-gTGzhgMwQXHTRBHiWsvd_FM8ZNl2rvrrxAFE=w447-h298-k-no"
+    ],
+    "kategori": [
+      "situs_sejarah"
+    ]
+  },
+  {
+    "nama": "Taman Bustanussalatin",
+    "alamat": "Kp. Baru, Kec. Baiturrahman",
+    "rating": "4.3",
+    "jumlah_review": "1.443",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 5.5502495,
+      "longitude": 95.3172526
+    },
+    "url": "https://www.google.com/maps/place/Taman+Bustanussalatin/data=!4m7!3m6!1s0x3040374e3f3c4f5d:0x6072d01c167baeb9!8m2!3d5.5502495!4d95.3172526!16s%2Fg%2F1pzrfjmbv!19sChIJXU88P043QDARua57FhzQcmA?authuser=0&hl=id&rclk=1",
+    "provinsi": "Aceh",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqSneXf9i-lIJZAV98Zox1YRSQ8PCUmu2AW-QL0anwg1d1Kyw1cvHVl10-GgNwEGkI3J6CDUauj8vVec2k10vaYwa458HnlFyXEZAOPHibkFqxNPptRXkMq_DtNqBHVg-tqO5_I=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqSneXf9i-lIJZAV98Zox1YRSQ8PCUmu2AW-QL0anwg1d1Kyw1cvHVl10-GgNwEGkI3J6CDUauj8vVec2k10vaYwa458HnlFyXEZAOPHibkFqxNPptRXkMq_DtNqBHVg-tqO5_I=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqSneXf9i-lIJZAV98Zox1YRSQ8PCUmu2AW-QL0anwg1d1Kyw1cvHVl10-GgNwEGkI3J6CDUauj8vVec2k10vaYwa458HnlFyXEZAOPHibkFqxNPptRXkMq_DtNqBHVg-tqO5_I=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Pantai Ulee Lheue",
+    "alamat": "Ulee Lheue, Kec. Meuraxa, Aceh",
+    "rating": "4.4",
+    "jumlah_review": "3.743",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 5.5597522,
+      "longitude": 95.2852583
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Ulee+Lheue/data=!4m7!3m6!1s0x304030eb48882ffb:0x3ab153b2c7c6f86e!8m2!3d5.5597522!4d95.2852583!16s%2Fg%2F11b6gldcxr!19sChIJ-y-ISOswQDARbvjGx7JTsTo?authuser=0&hl=id&rclk=1",
+    "provinsi": "Aceh",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrVQDItTH7q7nxiwwI-tCWMl6npnvpCMLfuO9bGP_v6eOFsWDmTlI4PSvn8id6AYWwZVjPwwfHdxAltP73ueGzJxwchLNLthFYOPiX6INyVCPeRHVlUBYVCMA7_FfIjx_aviBPp=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrVQDItTH7q7nxiwwI-tCWMl6npnvpCMLfuO9bGP_v6eOFsWDmTlI4PSvn8id6AYWwZVjPwwfHdxAltP73ueGzJxwchLNLthFYOPiX6INyVCPeRHVlUBYVCMA7_FfIjx_aviBPp=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrVQDItTH7q7nxiwwI-tCWMl6npnvpCMLfuO9bGP_v6eOFsWDmTlI4PSvn8id6AYWwZVjPwwfHdxAltP73ueGzJxwchLNLthFYOPiX6INyVCPeRHVlUBYVCMA7_FfIjx_aviBPp=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
     ]
   }
 ]
