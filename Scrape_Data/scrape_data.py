@@ -238,7 +238,7 @@ class GoogleMapsScraper:
             photo_urls = []
             photo_elements = self.driver.find_elements(By.CSS_SELECTOR, 'img[src*="googleusercontent"]')
             
-            for idx, element in enumerate(photo_elements[:5]):  # Ambil maksimal 5 foto
+            for idx, element in enumerate(photo_elements[:3]):  # Ambil maksimal 3 foto
                 try:
                     photo_url = element.get_attribute('src')
                     if photo_url and 'googleusercontent' in photo_url:
@@ -441,14 +441,14 @@ class GoogleMapsScraper:
                     return None
                 time.sleep(5)
 
-    def scrape_province(self, province, max_places=15):
+    def scrape_province(self, province, max_places=50):
         print(f"\nStarting scraping for province: {province}")
         all_data = []
-        temp_data = []  # Menyimpan data sementara untuk diurutkan
 
         try:
             if self.search_places(province):
                 place_urls = self.get_place_urls(max_places)
+                random.shuffle(place_urls)  # Mengacak urutan URL
 
                 for idx, url in enumerate(place_urls):
                     if url in self.scraped_urls:
@@ -457,33 +457,12 @@ class GoogleMapsScraper:
                     print(f"  Place {idx+1}/{len(place_urls)}")
                     place_data = self.parse_place_details(url, province)
                     if place_data:
-                        # Konversi rating dan jumlah review ke float untuk perhitungan
-                        try:
-                            rating = float(place_data['rating']) if place_data['rating'] != 'N/A' else 0
-                            reviews = float(place_data['jumlah_review'].replace(',', '')) if place_data['jumlah_review'] != 'N/A' else 0
-                            # Hitung skor berdasarkan rating dan jumlah review
-                            # Rating memiliki bobot 0.6 dan jumlah review memiliki bobot 0.4
-                            score = (rating * 0.6) + (min(reviews/1000, 5) * 0.4)  # Normalisasi jumlah review
-                            place_data['score'] = score
-                            temp_data.append(place_data)
-                        except:
-                            # Jika ada error dalam konversi, tetap simpan data dengan skor 0
-                            place_data['score'] = 0
-                            temp_data.append(place_data)
-                        
+                        all_data.append(place_data)
                         self.scraped_urls.add(url)
                         time.sleep(random.uniform(2.0, 4.0))
 
-                # Urutkan data berdasarkan skor tertinggi
-                temp_data.sort(key=lambda x: x['score'], reverse=True)
-                
-                # Ambil max_places data teratas
-                all_data = temp_data[:max_places]
-                
-                # Hapus kolom score sebelum menyimpan
-                for data in all_data:
-                    data.pop('score', None)
-
+                        if len(all_data) >= max_places:
+                            break
             else:
                 print(f"No results found for {province}")
 
@@ -542,7 +521,7 @@ class GoogleMapsScraper:
             print(f"Error closing browser: {str(e)}")
 
 def main():
-    MAX_PLACES = 15
+    MAX_PLACES = 50
     COOLDOWN = 30
 
     os.makedirs('json', exist_ok=True)
