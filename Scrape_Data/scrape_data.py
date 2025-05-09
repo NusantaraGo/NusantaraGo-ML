@@ -29,35 +29,48 @@ class GoogleMapsScraper:
         options.add_argument("--window-size=1920,1080")
         options.add_argument('--headless')
         
-        # Menambahkan user-agent dan opsi keamanan
-        user_agents = [
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
-        ]
-        options.add_argument(f'user-agent={random.choice(user_agents)}')
-        
-        # Menambahkan opsi keamanan tambahan
-        options.add_argument('--disable-blink-features=AutomationControlled')
-        options.add_argument('--disable-extensions')
-        options.add_argument('--disable-popup-blocking')
+        # Menambahkan opsi untuk mencegah deteksi lokasi
+        options.add_argument('--disable-geolocation')
+        options.add_argument('--disable-location-services')
         options.add_argument('--disable-notifications')
         options.add_argument('--disable-infobars')
+        options.add_argument('--disable-popup-blocking')
+        options.add_argument('--disable-blink-features=AutomationControlled')
+        options.add_argument('--disable-extensions')
         options.add_argument('--disable-gpu')
         options.add_argument('--disable-software-rasterizer')
         options.add_argument('--ignore-certificate-errors')
         options.add_argument('--allow-running-insecure-content')
         options.add_argument('--disable-web-security')
         options.add_argument('--disable-features=IsolateOrigins,site-per-process')
+        
+        # Menambahkan user-agent yang lebih beragam
+        user_agents = [
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+        ]
+        options.add_argument(f'user-agent={random.choice(user_agents)}')
 
         try:
             self.driver = uc.Chrome(options=options)
             self.wait = WebDriverWait(self.driver, 20)
             self.scraped_urls = set()
 
-            # Handle cookie consent
+            # Handle cookie consent dan lokasi
             self.driver.get("https://www.google.com/maps")
             try:
+                # Menolak izin lokasi jika muncul
+                try:
+                    location_buttons = self.driver.find_elements(By.XPATH, '//button[contains(text(), "Block") or contains(text(), "Tolak") or contains(text(), "Deny")]')
+                    for button in location_buttons:
+                        button.click()
+                except:
+                    pass
+
+                # Menolak cookie consent
                 consent_buttons = [
                     '//button[contains(., "Reject all") or contains(., "Reject") or contains(., "Decline")]',
                     '//button[contains(., "Tolak semua") or contains(., "Tolak")]',
@@ -75,7 +88,7 @@ class GoogleMapsScraper:
                     except Exception:
                         continue
             except Exception as e:
-                print(f"Info: No cookie consent popup found: {str(e)}")
+                print(f"Info: No popup found: {str(e)}")
         except Exception as e:
             print(f"Error initializing Chrome: {str(e)}")
             raise
@@ -84,9 +97,13 @@ class GoogleMapsScraper:
         return re.sub(r'[\\/*?:"<>|]', "", name).replace(" ", "_")
 
     def search_places(self, province):
-        search_query = f"tempat wisata terkenal di {province}"
+        # Menggunakan query yang lebih spesifik untuk mendapatkan hasil yang lebih beragam
+        search_query = f"objek wisata yang ada di provinsi {province}"
         print(f"Mencari: {search_query}")
-        self.driver.get(f"https://www.google.com/maps/search/{search_query.replace(' ', '+')}")
+        
+        # Menambahkan parameter untuk memastikan hasil yang lebih beragam
+        search_url = f"https://www.google.com/maps/search/{search_query.replace(' ', '+')}?hl=id&gl=ID"
+        self.driver.get(search_url)
         time.sleep(5)
 
         try:
@@ -185,6 +202,7 @@ class GoogleMapsScraper:
             search_queries = [
                 place_name,
                 f"{place_name} (tempat wisata)",
+                f"{place_name} (objek wisata)",
                 f"{place_name} (pantai)",  # Jika mengandung kata pantai
                 f"{place_name} (gunung)",  # Jika mengandung kata gunung
                 f"{place_name} (danau)",   # Jika mengandung kata danau
@@ -372,6 +390,42 @@ class GoogleMapsScraper:
 
                 coordinates = coords if coords else 'N/A'
 
+                # Extract rating
+                rating = 'N/A'
+                rating_selectors = [
+                    'div.fontDisplayLarge',
+                    'span[aria-hidden="true"]',
+                    'span.section-star-display',
+                    'div[role="img"][aria-label*="rating"]',
+                    'div[aria-label*="rating"]',
+                    'div[aria-label*="Rating"]',
+                    'div[aria-label*="rating"] span',
+                    'div[aria-label*="Rating"] span',
+                    'div[role="img"][aria-label*="Rating"]',
+                    'div[role="img"][aria-label*="rating"] span',
+                    'div[role="img"][aria-label*="Rating"] span',
+                    'div.fontDisplayLarge span',
+                    'div.fontDisplayLarge div',
+                    'div[role="img"] span',
+                    'div[role="img"] div'
+                ]
+                for selector in rating_selectors:
+                    try:
+                        elements = soup.select(selector)
+                        for element in elements:
+                            text = element.text.strip()
+                            # Cari angka rating dalam teks
+                            rating_match = re.search(r'(\d+(?:[.,]\d+)?)', text)
+                            if rating_match:
+                                rating_value = rating_match.group(1).replace(',', '.')
+                                if 0 <= float(rating_value) <= 5.0:
+                                    rating = rating_value
+                                    break
+                        if rating != 'N/A':
+                            break
+                    except Exception as e:
+                        continue
+
                 # Extract reviews count
                 reviews_count = 'N/A'
                 reviews_selectors = [
@@ -379,30 +433,28 @@ class GoogleMapsScraper:
                     'span.section-rating-term',
                     'span[aria-label*="ulasan"]',
                     'span[aria-label*="review"]',
+                    'div[aria-label*="review"]',
+                    'div[aria-label*="Review"]',
+                    'div[aria-label*="ulasan"]',
+                    'div[aria-label*="Ulasan"]',
+                    'div.fontBodyMedium span',
+                    'div.fontBodyMedium div',
+                    'div[role="img"][aria-label*="review"]',
+                    'div[role="img"][aria-label*="Review"]'
                 ]
                 for selector in reviews_selectors:
-                    element = soup.select_one(selector)
-                    if element:
-                        text = element.text.strip()
-                        num_match = re.search(r'(\d[\d.,]*)', text)
-                        if num_match:
-                            reviews_count = num_match.group(1).replace(',', '')
+                    try:
+                        elements = soup.select(selector)
+                        for element in elements:
+                            text = element.text.strip()
+                            num_match = re.search(r'(\d[\d.,]*)', text)
+                            if num_match:
+                                reviews_count = num_match.group(1).replace(',', '')
+                                break
+                        if reviews_count != 'N/A':
                             break
-
-                # Extract rating
-                rating = 'N/A'
-                rating_selectors = [
-                    'div.fontDisplayLarge',
-                    'span[aria-hidden="true"]',
-                    'span.section-star-display',
-                ]
-                for selector in rating_selectors:
-                    element = soup.select_one(selector)
-                    if element:
-                        text = element.text.strip()
-                        if text and re.match(r'^\d+(\.\d+)?$', text) and float(text) <= 5.0:
-                            rating = text
-                            break
+                    except Exception as e:
+                        continue
 
                 # Extract address
                 address = 'N/A'
@@ -441,7 +493,7 @@ class GoogleMapsScraper:
                     return None
                 time.sleep(5)
 
-    def scrape_province(self, province, max_places=50):
+    def scrape_province(self, province, max_places=35):
         print(f"\nStarting scraping for province: {province}")
         all_data = []
 
@@ -521,7 +573,7 @@ class GoogleMapsScraper:
             print(f"Error closing browser: {str(e)}")
 
 def main():
-    MAX_PLACES = 50
+    MAX_PLACES = 35
     COOLDOWN = 30
 
     os.makedirs('json', exist_ok=True)
