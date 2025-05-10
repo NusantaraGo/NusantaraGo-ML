@@ -1,0 +1,748 @@
+[
+  {
+    "nama": "Pantai Ujuang Batu",
+    "alamat": "Pasie Nan Tigo, Kec. Koto Tangah",
+    "rating": "4.4",
+    "jumlah_review": "427",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.8648099,
+      "longitude": 100.3323228
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Ujuang+Batu/data=!4m7!3m6!1s0x2fd4c0c37a14dc4f:0x37b178f4a7280868!8m2!3d-0.8648099!4d100.3323228!16s%2Fg%2F11cs24qqql!19sChIJT9wUesPA1C8RaAgop_R4sTc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no-2M9asxHTCFwm6CnePv3QUjRZWgAlJD8ByZQ8sm9uNnh9a0NlV7UrmgJUSxJPmyQIjDp3JMwVQggGktMFkCraYLaGJkgWU9Pno4PaaipnNt5-b8vIiBsi5Rs4s6BDXhshcdoQ=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no-2M9asxHTCFwm6CnePv3QUjRZWgAlJD8ByZQ8sm9uNnh9a0NlV7UrmgJUSxJPmyQIjDp3JMwVQggGktMFkCraYLaGJkgWU9Pno4PaaipnNt5-b8vIiBsi5Rs4s6BDXhshcdoQ=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no-2M9asxHTCFwm6CnePv3QUjRZWgAlJD8ByZQ8sm9uNnh9a0NlV7UrmgJUSxJPmyQIjDp3JMwVQggGktMFkCraYLaGJkgWU9Pno4PaaipnNt5-b8vIiBsi5Rs4s6BDXhshcdoQ=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Lereng Singgalang",
+    "alamat": "Pakan Sinayan, Kec. Banuhampu",
+    "rating": "4.6",
+    "jumlah_review": "908",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.3497368,
+      "longitude": 100.3537157
+    },
+    "url": "https://www.google.com/maps/place/Lereng+Singgalang/data=!4m7!3m6!1s0x2fd539358c8200b5:0xae7ff4771fdcccf8!8m2!3d-0.3497368!4d100.3537157!16s%2Fg%2F11c4jm8v35!19sChIJtQCCjDU51S8R-MzcH3f0f64?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipNCoAXqxrAo4aGkhTEg7DhWGKlFTxINYMpskMNf=w86-h88-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNCoAXqxrAo4aGkhTEg7DhWGKlFTxINYMpskMNf=w408-h417-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNCoAXqxrAo4aGkhTEg7DhWGKlFTxINYMpskMNf=w291-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Tabek Gadang Sungai Tanang",
+    "alamat": "Sungai Tanang, Kec. Banuhampu",
+    "rating": "4.6",
+    "jumlah_review": "576",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.3480849,
+      "longitude": 100.3733153
+    },
+    "url": "https://www.google.com/maps/place/Tabek+Gadang+Sungai+Tanang/data=!4m7!3m6!1s0x2fd539157421bb37:0xae48b552fc0022a2!8m2!3d-0.3480849!4d100.3733153!16s%2Fg%2F11cjj6lt41!19sChIJN7shdBU51S8RoiIA_FK1SK4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqKrur4BlXGXzUt7YUwV9oNJyZ6G1zdnuz9Vb-5Ns995boIsxWsSxA72ZzXNJ4DvMeTr3gaQ6w0E2i2hJk3vzNEK1qYZg1JsikKHbCGMB2yV9eAG3IcmCpRqsHiS3PsuATL7VVr=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqKrur4BlXGXzUt7YUwV9oNJyZ6G1zdnuz9Vb-5Ns995boIsxWsSxA72ZzXNJ4DvMeTr3gaQ6w0E2i2hJk3vzNEK1qYZg1JsikKHbCGMB2yV9eAG3IcmCpRqsHiS3PsuATL7VVr=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqKrur4BlXGXzUt7YUwV9oNJyZ6G1zdnuz9Vb-5Ns995boIsxWsSxA72ZzXNJ4DvMeTr3gaQ6w0E2i2hJk3vzNEK1qYZg1JsikKHbCGMB2yV9eAG3IcmCpRqsHiS3PsuATL7VVr=w447-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pantai Padang Sumatera Barat",
+    "alamat": "Rimbo Kaluang, Kec. Padang Bar.",
+    "rating": "4.5",
+    "jumlah_review": "6.416",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.9295716,
+      "longitude": 100.3499566
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Padang+Sumatera+Barat/data=!4m7!3m6!1s0x2fd4b93318fd31bf:0x15db501c7239061f!8m2!3d-0.9295716!4d100.3499566!16s%2Fg%2F11bzrg_ckn!19sChIJvzH9GDO51C8RHwY5chxQ2xU?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npCNgeh_ccJiTCJTfk0AxeSfl4ZyVIfVYqfTW1CIfP4WatbyXbpSmwscKb0p6sDocVfsmHbR3jRXTHIS_IqTB38PZEyzMAryh9UewPEsDec4CfCF10qom9zwPpmkccCapdpn0c=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npCNgeh_ccJiTCJTfk0AxeSfl4ZyVIfVYqfTW1CIfP4WatbyXbpSmwscKb0p6sDocVfsmHbR3jRXTHIS_IqTB38PZEyzMAryh9UewPEsDec4CfCF10qom9zwPpmkccCapdpn0c=w408-h307-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npCNgeh_ccJiTCJTfk0AxeSfl4ZyVIfVYqfTW1CIfP4WatbyXbpSmwscKb0p6sDocVfsmHbR3jRXTHIS_IqTB38PZEyzMAryh9UewPEsDec4CfCF10qom9zwPpmkccCapdpn0c=w395-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Danau Atas Dan Danau Bawah",
+    "alamat": "Jl. Padang - Alahan Panjang, Simpang Tj. Nan IV, Kec. Danau Kembar",
+    "rating": "4.7",
+    "jumlah_review": "194",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -1.051826,
+      "longitude": 100.7113642
+    },
+    "url": "https://www.google.com/maps/place/Danau+Atas+Dan+Danau+Bawah/data=!4m7!3m6!1s0x2e2b51e59636d0a7:0xf25280c4aaf4a904!8m2!3d-1.051826!4d100.7113642!16s%2Fg%2F11fmrdr4zj!19sChIJp9A2luVRKy4RBKn0qsSAUvI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrGrtM2ajjI7k6QFrh-oo7AMKH1h3zjttRqlE7X6srzOvW4eIS79T48pPuci_Cf5hQkwRm9oQAk4ojkvV_LxIUg92el-FE_slH0qE0-zpYHAQanpcJeoL-czo5SBoLKHy_DJMku=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrGrtM2ajjI7k6QFrh-oo7AMKH1h3zjttRqlE7X6srzOvW4eIS79T48pPuci_Cf5hQkwRm9oQAk4ojkvV_LxIUg92el-FE_slH0qE0-zpYHAQanpcJeoL-czo5SBoLKHy_DJMku=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrGrtM2ajjI7k6QFrh-oo7AMKH1h3zjttRqlE7X6srzOvW4eIS79T48pPuci_Cf5hQkwRm9oQAk4ojkvV_LxIUg92el-FE_slH0qE0-zpYHAQanpcJeoL-czo5SBoLKHy_DJMku=w397-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Panorama Lembah Harau",
+    "alamat": "Tarantang, Kec. Harau",
+    "rating": "4.5",
+    "jumlah_review": "1.215",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.1003481,
+      "longitude": 100.6661149
+    },
+    "url": "https://www.google.com/maps/place/Panorama+Lembah+Harau/data=!4m7!3m6!1s0x2e2aac5817fdee57:0xf9e35a048ad15e44!8m2!3d-0.1003481!4d100.6661149!16s%2Fg%2F11cpq09182!19sChIJV-79F1isKi4RRF7RigRa4_k?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqix5-OZR0B06eeyEtnJjJcrSo4iRgGAScwnvEKtIEsfhbSp1cNvepQQf-89aUBLvXbgsiWTOi88nKxlK01o2qYCBXhjgSRqYlSByOnhlugQSAE72TvNgXrk3JrrxpghzGgUG4=w182-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqix5-OZR0B06eeyEtnJjJcrSo4iRgGAScwnvEKtIEsfhbSp1cNvepQQf-89aUBLvXbgsiWTOi88nKxlK01o2qYCBXhjgSRqYlSByOnhlugQSAE72TvNgXrk3JrrxpghzGgUG4=w510-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqix5-OZR0B06eeyEtnJjJcrSo4iRgGAScwnvEKtIEsfhbSp1cNvepQQf-89aUBLvXbgsiWTOi88nKxlK01o2qYCBXhjgSRqYlSByOnhlugQSAE72TvNgXrk3JrrxpghzGgUG4=w633-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Objek Wisata Ikan Sakti Sungai Janiah",
+    "alamat": "Jorong Sungai Janiah, Tabek Panjang, Kec. Baso",
+    "rating": "4.2",
+    "jumlah_review": "526",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.2626303,
+      "longitude": 100.4573563
+    },
+    "url": "https://www.google.com/maps/place/Objek+Wisata+Ikan+Sakti+Sungai+Janiah/data=!4m7!3m6!1s0x2fd548814d98ea91:0x350a5085ebb24d05!8m2!3d-0.2626303!4d100.4573563!16s%2Fg%2F11f00by9nz!19sChIJkeqYTYFI1S8RBU2y64VQCjU?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrM97YFM6aXvD_3Df8Rb3qtbyZcVj5xtYLiFPIEvpFJXTNiXnF3HnftjwadNBpdCHYBrMmrVLLbiqUVtYHC3rTUIWRY7DAIKGWyGiemyJbxVFOIi-8fTiwZ0cFQhigZT2Vmnhdl=w170-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrM97YFM6aXvD_3Df8Rb3qtbyZcVj5xtYLiFPIEvpFJXTNiXnF3HnftjwadNBpdCHYBrMmrVLLbiqUVtYHC3rTUIWRY7DAIKGWyGiemyJbxVFOIi-8fTiwZ0cFQhigZT2Vmnhdl=w476-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrM97YFM6aXvD_3Df8Rb3qtbyZcVj5xtYLiFPIEvpFJXTNiXnF3HnftjwadNBpdCHYBrMmrVLLbiqUVtYHC3rTUIWRY7DAIKGWyGiemyJbxVFOIi-8fTiwZ0cFQhigZT2Vmnhdl=w591-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Puncak Cemara City View",
+    "alamat": "Saringan, Kec. Barangin",
+    "rating": "4.4",
+    "jumlah_review": "760",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.6741101,
+      "longitude": 100.7728518
+    },
+    "url": "https://www.google.com/maps/place/Puncak+Cemara+City+View/data=!4m7!3m6!1s0x2e2b2f3764474e2d:0x2bfdd19ab2760545!8m2!3d-0.6741101!4d100.7728518!16s%2Fg%2F11c2qh5wsq!19sChIJLU5HZDcvKy4RRQV2sprR_Ss?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npsvnqdMQluph5bGy_JFO1-gAK10a9sF-6FoVxobSGZTHOJqjt6oTVqw6tLN1r9VD5nLE1mQ1xhEQyB1hav1bQbc1xKkGBzWVsbSP9nrGBSoO1U41lnEwD5lHltZbxbnaOtr5xvNg=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npsvnqdMQluph5bGy_JFO1-gAK10a9sF-6FoVxobSGZTHOJqjt6oTVqw6tLN1r9VD5nLE1mQ1xhEQyB1hav1bQbc1xKkGBzWVsbSP9nrGBSoO1U41lnEwD5lHltZbxbnaOtr5xvNg=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npsvnqdMQluph5bGy_JFO1-gAK10a9sF-6FoVxobSGZTHOJqjt6oTVqw6tLN1r9VD5nLE1mQ1xhEQyB1hav1bQbc1xKkGBzWVsbSP9nrGBSoO1U41lnEwD5lHltZbxbnaOtr5xvNg=w397-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Pantai Pasir Putih Padang",
+    "alamat": "Bungo Pasang, Padang",
+    "rating": "4.4",
+    "jumlah_review": "614",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.8663698,
+      "longitude": 100.3329957
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Pasir+Putih+Padang/data=!4m7!3m6!1s0x2fd4c0c40ab1d23d:0x9e816c6da1a5b22c!8m2!3d-0.8663698!4d100.3329957!16s%2Fg%2F11byyftq73!19sChIJPdKxCsTA1C8RLLKloW1sgZ4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr4IDL6Gk4ty6hoIshXrHTpiSFs63gluwsWqQUk4g1geVPbTAmUwqIoHM7aZeKyFmk_4J0Etlz0R6ZMVSh8KjCjGvLbbg0MYf0UQyFey2CYUOS1ytoSbBFdHFU086JA3xDH1vpd=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr4IDL6Gk4ty6hoIshXrHTpiSFs63gluwsWqQUk4g1geVPbTAmUwqIoHM7aZeKyFmk_4J0Etlz0R6ZMVSh8KjCjGvLbbg0MYf0UQyFey2CYUOS1ytoSbBFdHFU086JA3xDH1vpd=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr4IDL6Gk4ty6hoIshXrHTpiSFs63gluwsWqQUk4g1geVPbTAmUwqIoHM7aZeKyFmk_4J0Etlz0R6ZMVSh8KjCjGvLbbg0MYf0UQyFey2CYUOS1ytoSbBFdHFU086JA3xDH1vpd=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Wisata Sajuta Janjang",
+    "alamat": "Unnamed Road, Pakan Sinayan, Banuhampu",
+    "rating": "4.6",
+    "jumlah_review": "493",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.3572855,
+      "longitude": 100.3540955
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Sajuta+Janjang/data=!4m7!3m6!1s0x2fd539f1e4e7ec93:0xcd11cd77acf14440!8m2!3d-0.3572855!4d100.3540955!16s%2Fg%2F11flmj7sbr!19sChIJk-zn5PE51S8RQETxrHfNEc0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqqLnxvtFUXVxSMiv7JrpuQYOJmGkgnzw-FzZrvrtdOYg-sEaLuj9oO7fQcKTJ-rl-IYlRKw-TzPfs_atAz-2h21aE5nKQDM3BHBYNOtyMcg0hgXxP1mBod6jdR_aPPRtw9nusTKA=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqqLnxvtFUXVxSMiv7JrpuQYOJmGkgnzw-FzZrvrtdOYg-sEaLuj9oO7fQcKTJ-rl-IYlRKw-TzPfs_atAz-2h21aE5nKQDM3BHBYNOtyMcg0hgXxP1mBod6jdR_aPPRtw9nusTKA=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqqLnxvtFUXVxSMiv7JrpuQYOJmGkgnzw-FzZrvrtdOYg-sEaLuj9oO7fQcKTJ-rl-IYlRKw-TzPfs_atAz-2h21aE5nKQDM3BHBYNOtyMcg0hgXxP1mBod6jdR_aPPRtw9nusTKA=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Puncak Anai",
+    "alamat": "Kayu Tanam, Guguak",
+    "rating": "4.5",
+    "jumlah_review": "953",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.4803676,
+      "longitude": 100.3200822
+    },
+    "url": "https://www.google.com/maps/place/Puncak+Anai/data=!4m7!3m6!1s0x2fd5211bffffffff:0x3e0b23a757a51186!8m2!3d-0.4803676!4d100.3200822!16s%2Fg%2F11b6zszlnd!19sChIJ_____xsh1S8RhhGlV6cjCz4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipNdZQblbdxyiqbjkKwe40O0w2aYe2sDaXftncxk=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNdZQblbdxyiqbjkKwe40O0w2aYe2sDaXftncxk=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNdZQblbdxyiqbjkKwe40O0w2aYe2sDaXftncxk=w529-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Batu Malin Kundang di pantai",
+    "alamat": "Air Manis",
+    "rating": "4.1",
+    "jumlah_review": "2.713",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.9944478,
+      "longitude": 100.3645746
+    },
+    "url": "https://www.google.com/maps/place/Batu+Malin+Kundang+di+pantai/data=!4m7!3m6!1s0x2fd4bb9a778a3041:0xcec062c40063270!8m2!3d-0.9944478!4d100.3645746!16s%2Fg%2F1218lpyw!19sChIJQTCKd5q71C8RcDIGQCwG7Aw?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrZO886V8WGt-gLIl1TEmdGy46bFLfGwGtsHkIvLninevHYhMk69-yawykWrarK1fq9RgjseXLt-EgWKaZ2qIM5gKjVUbxL5TWb5tDbO8OdrTP3wVR73wSg3hNhsgtrHo7LWBiH8w=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrZO886V8WGt-gLIl1TEmdGy46bFLfGwGtsHkIvLninevHYhMk69-yawykWrarK1fq9RgjseXLt-EgWKaZ2qIM5gKjVUbxL5TWb5tDbO8OdrTP3wVR73wSg3hNhsgtrHo7LWBiH8w=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrZO886V8WGt-gLIl1TEmdGy46bFLfGwGtsHkIvLninevHYhMk69-yawykWrarK1fq9RgjseXLt-EgWKaZ2qIM5gKjVUbxL5TWb5tDbO8OdrTP3wVR73wSg3hNhsgtrHo7LWBiH8w=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Objek Wisata Luak Gadang, Guguak Rang Pisang",
+    "alamat": "Kenagarian, Kamang Hilia, Kec. Kamang Magek",
+    "rating": "4.4",
+    "jumlah_review": "749",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.2356732,
+      "longitude": 100.4547945
+    },
+    "url": "https://www.google.com/maps/place/Objek+Wisata+Luak+Gadang,+Guguak+Rang+Pisang/data=!4m7!3m6!1s0x2fd548bc3e05bc1b:0xbdcf5961e1706d6b!8m2!3d-0.2356732!4d100.4547945!16s%2Fg%2F11hd4wl_1m!19sChIJG7wFPrxI1S8Ra21w4WFZz70?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqWOXE04v4lyUiCWmInWNbTBQiSJRENdaSqsKRxwL-nx679GXzqgwnTh8pj9_NF4OqKXwu3eBftb6H5dc4iA3ZHpMF13ab6E2y3Hj0r4ENeqUMPFkThaKmCTI_JaKlcZ5J34A=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqWOXE04v4lyUiCWmInWNbTBQiSJRENdaSqsKRxwL-nx679GXzqgwnTh8pj9_NF4OqKXwu3eBftb6H5dc4iA3ZHpMF13ab6E2y3Hj0r4ENeqUMPFkThaKmCTI_JaKlcZ5J34A=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqWOXE04v4lyUiCWmInWNbTBQiSJRENdaSqsKRxwL-nx679GXzqgwnTh8pj9_NF4OqKXwu3eBftb6H5dc4iA3ZHpMF13ab6E2y3Hj0r4ENeqUMPFkThaKmCTI_JaKlcZ5J34A=w447-h298-k-no"
+    ],
+    "kategori": [
+      "goa"
+    ]
+  },
+  {
+    "nama": "Taman Wisata Panorama Baru",
+    "alamat": "Unnamed Rd, Puhun Pintu Kabun, Kec. Mandiangin Koto Selayan",
+    "rating": "4.5",
+    "jumlah_review": "604",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.283219,
+      "longitude": 100.3379514
+    },
+    "url": "https://www.google.com/maps/place/Taman+Wisata+Panorama+Baru/data=!4m7!3m6!1s0x2fd540ba8794c7e5:0x853fac83ad1ea287!8m2!3d-0.283219!4d100.3379514!16s%2Fg%2F11bw22kr2_!19sChIJ5ceUh7pA1S8Rh6IerYOsP4U?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noX0WYag1rYiRXKIBFrwdaJbptazwvv2FtFeBVH8VCSVYpiUtcFrshg1AQEe7NRN1PTnlvmbxMeOvFW-xC0fAjlz-TyW0pVupgFWLjysZ7jU3fFzcaVYwWjh0kMZUbCX_I_11zyq9iqTyg=w86-h152-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noX0WYag1rYiRXKIBFrwdaJbptazwvv2FtFeBVH8VCSVYpiUtcFrshg1AQEe7NRN1PTnlvmbxMeOvFW-xC0fAjlz-TyW0pVupgFWLjysZ7jU3fFzcaVYwWjh0kMZUbCX_I_11zyq9iqTyg=w408-h725-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noX0WYag1rYiRXKIBFrwdaJbptazwvv2FtFeBVH8VCSVYpiUtcFrshg1AQEe7NRN1PTnlvmbxMeOvFW-xC0fAjlz-TyW0pVupgFWLjysZ7jU3fFzcaVYwWjh0kMZUbCX_I_11zyq9iqTyg=w224-h398-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Jam Gadang Bukittinggi",
+    "alamat": "Jl. Raya Bukittinggi - Payakumbuh, Benteng Ps. Atas, Kec. Guguk Panjang",
+    "rating": "4.7",
+    "jumlah_review": "55.835",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.3051816,
+      "longitude": 100.3694972
+    },
+    "url": "https://www.google.com/maps/place/Jam+Gadang+Bukittinggi/data=!4m7!3m6!1s0x2fd538bd1ff164a7:0xcea33881870dc19!8m2!3d-0.3051816!4d100.3694972!16s%2Fg%2F1pp2w_m4c!19sChIJp2TxH7041S8RGdxwGIgz6gw?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npSW92TcdVTmo4CgXHpP3RlQxswPNYGmwHiG-02eZ_k_kOvHfA0gxqnIIQgy7mdV_43i2DwGkm9k-o5zDHuyz6_fiTTJDVs-apJpZb7j-NOzguxiaH6QMwOw_zl8VXTZHcdmcqQLw=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npSW92TcdVTmo4CgXHpP3RlQxswPNYGmwHiG-02eZ_k_kOvHfA0gxqnIIQgy7mdV_43i2DwGkm9k-o5zDHuyz6_fiTTJDVs-apJpZb7j-NOzguxiaH6QMwOw_zl8VXTZHcdmcqQLw=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npSW92TcdVTmo4CgXHpP3RlQxswPNYGmwHiG-02eZ_k_kOvHfA0gxqnIIQgy7mdV_43i2DwGkm9k-o5zDHuyz6_fiTTJDVs-apJpZb7j-NOzguxiaH6QMwOw_zl8VXTZHcdmcqQLw=w224-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Puncak Gagoan",
+    "alamat": "Paninggahan, Kec. Junjung Sirih",
+    "rating": "4.6",
+    "jumlah_review": "718",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.6743183,
+      "longitude": 100.5089637
+    },
+    "url": "https://www.google.com/maps/place/Puncak+Gagoan/data=!4m7!3m6!1s0x2fd4d1486900c44f:0xc66af57a94e51d5f!8m2!3d-0.6743183!4d100.5089637!16s%2Fg%2F11cjh_5956!19sChIJT8QAaUjR1C8RXx3llHr1asY?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqMCAKjhtLROfYfmgcERQ3nOSF8F4s10GASE_s8qSGpIU9spsHTzCMt5ZwxDGo8UEjv3maJ05d2OIK7JBzqWUKQK74LlKUWGWtbPP4ZAthRUNdXttNJRETX6sDG5N3LkDwBZd11=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqMCAKjhtLROfYfmgcERQ3nOSF8F4s10GASE_s8qSGpIU9spsHTzCMt5ZwxDGo8UEjv3maJ05d2OIK7JBzqWUKQK74LlKUWGWtbPP4ZAthRUNdXttNJRETX6sDG5N3LkDwBZd11=w425-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqMCAKjhtLROfYfmgcERQ3nOSF8F4s10GASE_s8qSGpIU9spsHTzCMt5ZwxDGo8UEjv3maJ05d2OIK7JBzqWUKQK74LlKUWGWtbPP4ZAthRUNdXttNJRETX6sDG5N3LkDwBZd11=w528-h298-k-no"
+    ],
+    "kategori": [
+      "gunung",
+      "goa"
+    ]
+  },
+  {
+    "nama": "Puncak Lawang",
+    "alamat": "Jl. Panorama Puncak, Lawang, Kec. Matur",
+    "rating": "4.6",
+    "jumlah_review": "6.135",
+    "deskripsi": "Puncak Lawang adalah salah satu objek wisata alam yang terletak di dataran tinggi di Nagari Lawang, Kecamatan Matur, Kabupaten Agam, Sumatera Barat. Keindahan Puncak Lawang ditandai dengan birunya alam Danau Maninjau serta rindangnya pohon pinus dan udara yang sejuk. Keindahan danaunya dapat dilihat dari ketinggian 1.210 mdpl di puncak tertinggi, yaitu Nagari Lawang.  Puncak Lawang dijuluki ''negeri di atas awan\", karena indah dengan berlatar belakang Danau Maninjau. \nObjek wisata Puncak Lawang ...",
+    "koordinat": {
+      "latitude": -0.2643448,
+      "longitude": 100.2427008
+    },
+    "url": "https://www.google.com/maps/place/Puncak+Lawang/data=!4m7!3m6!1s0x2fd56b67ca739597:0xaec117f131aef258!8m2!3d-0.2643448!4d100.2427008!16s%2Fg%2F11q7dtn31q!19sChIJl5Vzymdr1S8RWPKuMfEXwa4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipPUvBq2SpGs_bB2Ordcs5sqWcEZubUyrqid7_8K=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPUvBq2SpGs_bB2Ordcs5sqWcEZubUyrqid7_8K=w408-h270-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPUvBq2SpGs_bB2Ordcs5sqWcEZubUyrqid7_8K=w448-h298-k-no"
+    ],
+    "kategori": [
+      "gunung",
+      "danau",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Wisata Dangau Pasawangan",
+    "alamat": "Canduang Koto Laweh, Kec. Candung",
+    "rating": "4.5",
+    "jumlah_review": "328",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.3075671,
+      "longitude": 100.45
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Dangau+Pasawangan/data=!4m7!3m6!1s0x2fd537e409ca1927:0x5d294f11785b1b75!8m2!3d-0.3075671!4d100.45!16s%2Fg%2F11lgrrsh04!19sChIJJxnKCeQ31S8RdRtbeBFPKV0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noaUQmnfUAAB4oT59egOJy5jeHx4g0V3JphXRSrsoiHvsWedPwn62uF_t346s9t5_uhqKe5ojoRL1hxOBm6QL5mlTDk0V72nN6AWG9-aA-4lbwlAFdO9jmqlqRmXo7fvkcD_VQ=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noaUQmnfUAAB4oT59egOJy5jeHx4g0V3JphXRSrsoiHvsWedPwn62uF_t346s9t5_uhqKe5ojoRL1hxOBm6QL5mlTDk0V72nN6AWG9-aA-4lbwlAFdO9jmqlqRmXo7fvkcD_VQ=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noaUQmnfUAAB4oT59egOJy5jeHx4g0V3JphXRSrsoiHvsWedPwn62uF_t346s9t5_uhqKe5ojoRL1hxOBm6QL5mlTDk0V72nN6AWG9-aA-4lbwlAFdO9jmqlqRmXo7fvkcD_VQ=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Desa Wisata Kubu Gadang Kota Padang Panjang",
+    "alamat": "Jl. H. Miskin, Ekor Lubuk, Kec. Padang Panjang Tim.",
+    "rating": "4.5",
+    "jumlah_review": "286",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.4761959,
+      "longitude": 100.4322075
+    },
+    "url": "https://www.google.com/maps/place/Desa+Wisata+Kubu+Gadang+Kota+Padang+Panjang/data=!4m7!3m6!1s0x2fd525796494e639:0x38443bc46df2d52c!8m2!3d-0.4761959!4d100.4322075!16s%2Fg%2F11dx8jxrrn!19sChIJOeaUZHkl1S8RLNXybcQ7RDg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrltXI0KJgpJev3flW5QeiYmnPg2zBfY0czqf3a9xuO2z2Y7vE6M23-I-GhS2cQUt1sWvCtnqOaOgnFTXyGqbnVcra0NlmsBBPexnzWyhAzl1PQ1kXUGZd__Ue_dcJVwjlZNpwOtQ=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrltXI0KJgpJev3flW5QeiYmnPg2zBfY0czqf3a9xuO2z2Y7vE6M23-I-GhS2cQUt1sWvCtnqOaOgnFTXyGqbnVcra0NlmsBBPexnzWyhAzl1PQ1kXUGZd__Ue_dcJVwjlZNpwOtQ=w408-h305-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrltXI0KJgpJev3flW5QeiYmnPg2zBfY0czqf3a9xuO2z2Y7vE6M23-I-GhS2cQUt1sWvCtnqOaOgnFTXyGqbnVcra0NlmsBBPexnzWyhAzl1PQ1kXUGZd__Ue_dcJVwjlZNpwOtQ=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Objek Wisata Tabek Gadang",
+    "alamat": "Bukik Batabuah, Kec. Candung",
+    "rating": "4.6",
+    "jumlah_review": "22",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.3523522,
+      "longitude": 100.4345984
+    },
+    "url": "https://www.google.com/maps/place/Objek+Wisata+Tabek+Gadang/data=!4m7!3m6!1s0x2fd53936eb0aa51d:0x4c472482f64f9e69!8m2!3d-0.3523522!4d100.4345984!16s%2Fg%2F11f8cc0w5p!19sChIJHaUK6zY51S8RaZ5P9oIkR0w?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr_8neeEju8snLvL6_bdWIY9bq98EhF3Xo4CAdNswrq1kS2iHwIYXmUSYli2mTvvefGzUvgqW3taZWQd1Ko5PSfwptnXwmvxDKhA3_yV29kdPikIrMU2oYGCWQ7-x0wb6CI4DCW=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr_8neeEju8snLvL6_bdWIY9bq98EhF3Xo4CAdNswrq1kS2iHwIYXmUSYli2mTvvefGzUvgqW3taZWQd1Ko5PSfwptnXwmvxDKhA3_yV29kdPikIrMU2oYGCWQ7-x0wb6CI4DCW=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr_8neeEju8snLvL6_bdWIY9bq98EhF3Xo4CAdNswrq1kS2iHwIYXmUSYli2mTvvefGzUvgqW3taZWQd1Ko5PSfwptnXwmvxDKhA3_yV29kdPikIrMU2oYGCWQ7-x0wb6CI4DCW=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Air Terjun Sarasah Bunta",
+    "alamat": "Sarasah bunta.lembah harau, Kampuang sarosah, Kec. Payakumbuh",
+    "rating": "4.5",
+    "jumlah_review": "2.498",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.1082169,
+      "longitude": 100.6753776
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Sarasah+Bunta/data=!4m7!3m6!1s0x2e2aac5285bc675b:0xd7060c6b5a9dd087!8m2!3d-0.1082169!4d100.6753776!16s%2Fg%2F11c600_pw2!19sChIJW2e8hVKsKi4Rh9CdWmsMBtc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqPx8CmFECDQJqMUqC0Zk8Bet1WRzFlDvGQjt9PDy9FpFxbTXCTfCgi0D5BW1QYoQV3pz5SS61QW6xodvZpfO5IoD2bzkssx6FC7nvm38lrU34CeAqoLkvSJ_smA0rAfH8IX0rVSg=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqPx8CmFECDQJqMUqC0Zk8Bet1WRzFlDvGQjt9PDy9FpFxbTXCTfCgi0D5BW1QYoQV3pz5SS61QW6xodvZpfO5IoD2bzkssx6FC7nvm38lrU34CeAqoLkvSJ_smA0rAfH8IX0rVSg=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqPx8CmFECDQJqMUqC0Zk8Bet1WRzFlDvGQjt9PDy9FpFxbTXCTfCgi0D5BW1QYoQV3pz5SS61QW6xodvZpfO5IoD2bzkssx6FC7nvm38lrU34CeAqoLkvSJ_smA0rAfH8IX0rVSg=w224-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Dempo Anailand",
+    "alamat": "Guguak",
+    "rating": "4.4",
+    "jumlah_review": "545",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.4963232,
+      "longitude": 100.3354593
+    },
+    "url": "https://www.google.com/maps/place/Dempo+Anailand/data=!4m7!3m6!1s0x2fd523ecc44eee75:0x20624081f79c64d7!8m2!3d-0.4963232!4d100.3354593!16s%2Fg%2F11f01t3fws!19sChIJde5OxOwj1S8R12Sc94FAYiA?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipOuErHUAdrbqPINbkhheiRvUiKICwDf-i1KY8ig=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipOuErHUAdrbqPINbkhheiRvUiKICwDf-i1KY8ig=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipOuErHUAdrbqPINbkhheiRvUiKICwDf-i1KY8ig=w530-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Wisata Air terjun Lubuk Hitam Lestari",
+    "alamat": "Tlk. Kabung Utara, Kec. Bungus Tlk. Kabung, Sumatera Barat",
+    "rating": "4.7",
+    "jumlah_review": "86",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -1.0519847,
+      "longitude": 100.4223608
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Air+terjun+Lubuk+Hitam+Lestari/data=!4m7!3m6!1s0x2fd4a594047f51ff:0xf851098b76ef9461!8m2!3d-1.0519847!4d100.4223608!16s%2Fg%2F11p07w_785!19sChIJ_1F_BJSl1C8RYZTvdosJUfg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npxiEoqQuOHLtkl9Zx5XrjmA6zyC1uysC2hXZtpGyRqVCC8zplhxDaYpq3RJt34jLhlMMludJykekHvb3s45kkY5gFPAC4oqZiNdoIO0eEKZ8REVghnMDrB-a7gTMma3SAsLTg=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npxiEoqQuOHLtkl9Zx5XrjmA6zyC1uysC2hXZtpGyRqVCC8zplhxDaYpq3RJt34jLhlMMludJykekHvb3s45kkY5gFPAC4oqZiNdoIO0eEKZ8REVghnMDrB-a7gTMma3SAsLTg=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npxiEoqQuOHLtkl9Zx5XrjmA6zyC1uysC2hXZtpGyRqVCC8zplhxDaYpq3RJt34jLhlMMludJykekHvb3s45kkY5gFPAC4oqZiNdoIO0eEKZ8REVghnMDrB-a7gTMma3SAsLTg=w224-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Danau Cimpago",
+    "alamat": "Kelurahan Purus, Kecamatan Padang Barat, Purus, Padang",
+    "rating": "4.3",
+    "jumlah_review": "711",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.9338368,
+      "longitude": 100.3512528
+    },
+    "url": "https://www.google.com/maps/place/Danau+Cimpago/data=!4m7!3m6!1s0x2fd4b92c97ea4d33:0xb63a291bbf3ae8e3!8m2!3d-0.9338368!4d100.3512528!16s%2Fg%2F11bzvb6b95!19sChIJM03qlyy51C8R4-g6vxspOrY?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqx61zprx35IF8P4x4fXpBD6HBFzFgk2fwtdkFAoxxrxFbPCiAmBgk52SEFG-0l2Ae1s_nuxratXDTxMiJ5-u1o6Jv1DzOa5iDiqLrfcOOXBpepIkDWG79juwjCG_h7Trv4GQbnHg=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqx61zprx35IF8P4x4fXpBD6HBFzFgk2fwtdkFAoxxrxFbPCiAmBgk52SEFG-0l2Ae1s_nuxratXDTxMiJ5-u1o6Jv1DzOa5iDiqLrfcOOXBpepIkDWG79juwjCG_h7Trv4GQbnHg=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqx61zprx35IF8P4x4fXpBD6HBFzFgk2fwtdkFAoxxrxFbPCiAmBgk52SEFG-0l2Ae1s_nuxratXDTxMiJ5-u1o6Jv1DzOa5iDiqLrfcOOXBpepIkDWG79juwjCG_h7Trv4GQbnHg=w397-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Taman Bermain Banto Royo",
+    "alamat": "Jl. Kaluang Tapi, Koto Tangah, Kec. Tilatang Kamang",
+    "rating": "4.2",
+    "jumlah_review": "1.929",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.2237289,
+      "longitude": 100.3919982
+    },
+    "url": "https://www.google.com/maps/place/Taman+Bermain+Banto+Royo/data=!4m7!3m6!1s0x2fd54680e2c0f175:0xb2b842ada46809b9!8m2!3d-0.2237289!4d100.3919982!16s%2Fg%2F11f3x5cn_9!19sChIJdfHA4oBG1S8RuQlopK1CuLI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noAI3FxrCPJyVZgVFjZsIxKmoQYRccRORRtE52UzMR2FRDyhxlFPdOytahea1dBXxojbkCoUoWdG1Sn0J6aJJw-KLPbKhSCf9sZjcOMl0kvPPDEgxdVnfjNqNLs8mFc8SqvQweT=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noAI3FxrCPJyVZgVFjZsIxKmoQYRccRORRtE52UzMR2FRDyhxlFPdOytahea1dBXxojbkCoUoWdG1Sn0J6aJJw-KLPbKhSCf9sZjcOMl0kvPPDEgxdVnfjNqNLs8mFc8SqvQweT=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noAI3FxrCPJyVZgVFjZsIxKmoQYRccRORRtE52UzMR2FRDyhxlFPdOytahea1dBXxojbkCoUoWdG1Sn0J6aJJw-KLPbKhSCf9sZjcOMl0kvPPDEgxdVnfjNqNLs8mFc8SqvQweT=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Air Terjun Lembah Anai",
+    "alamat": "Singgalang, Kec. Sepuluh Koto",
+    "rating": "4.5",
+    "jumlah_review": "5.576",
+    "deskripsi": "Air Terjun Lembah Anai (dikenal pula Air Mancur, ejaan lama: Ajer Mantjoer) adalah sebuah air terjun yang terletak di jorong aie mancua nagari Singgalang, X Koto, Kabupaten Tanah Datar, Sumatera Barat. Air terjun setinggi sekira 35 meter ini berada tepat di tepi Jalan Raya Padang-Bukittinggi di kaki Gunung Singgalang. Air Terjun Lembah Anai merupakan bagian dari aliran Sungai Batang Lurah, anak Sungai Batang Anai yang berhulu di Gunung Singgalang di ketinggian 400 Mdpl. Air terjun ini terletak d...",
+    "koordinat": {
+      "latitude": -0.4837937,
+      "longitude": 100.3380567
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Lembah+Anai/data=!4m7!3m6!1s0x2fd5239b04efe7d3:0xfa4a00004d31f7ec!8m2!3d-0.4837937!4d100.3380567!16s%2Fg%2F128dgdsvt!19sChIJ0-fvBJsj1S8R7PcxTQAASvo?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqvQ4NrEY8kZ2jtrUy3t8iykOzEfgDuTQ5Jah6M8Lewh2ysod09t_U9Nr4_zp9R0nh1mIfP-7d_zOQraUTFwIX2JfzB7AR_h_fPU0OXMMCJBhFvC5ugXe2GEJ7Dhm4cf64j2cboHQ=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqvQ4NrEY8kZ2jtrUy3t8iykOzEfgDuTQ5Jah6M8Lewh2ysod09t_U9Nr4_zp9R0nh1mIfP-7d_zOQraUTFwIX2JfzB7AR_h_fPU0OXMMCJBhFvC5ugXe2GEJ7Dhm4cf64j2cboHQ=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqvQ4NrEY8kZ2jtrUy3t8iykOzEfgDuTQ5Jah6M8Lewh2ysod09t_U9Nr4_zp9R0nh1mIfP-7d_zOQraUTFwIX2JfzB7AR_h_fPU0OXMMCJBhFvC5ugXe2GEJ7Dhm4cf64j2cboHQ=w224-h298-k-no"
+    ],
+    "kategori": [
+      "gunung",
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Bukit Nobi Hill",
+    "alamat": "Kp. Jua Nan XX, Kec. Lubuk Begalung",
+    "rating": "4.4",
+    "jumlah_review": "163",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.9735541,
+      "longitude": 100.4157254
+    },
+    "url": "https://www.google.com/maps/place/Bukit+Nobi+Hill/data=!4m7!3m6!1s0x2fd4ba22ed5a5921:0xa574a929210a5789!8m2!3d-0.9735541!4d100.4157254!16s%2Fg%2F11c20bx6gh!19sChIJIVla7SK61C8RiVcKISmpdKU?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no6TN9j_oT9afHrcOM312lmLToYUoEgFVtBmwhkPOcYhOrg7dNv9weElikw-Q8lCmeuAYCjq_zbrPAfJlyBDzKSWCaC3x5DVzY84JYwKz25mASw-R6hgZV8OAegNnE6SYNw2gFwaQ=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no6TN9j_oT9afHrcOM312lmLToYUoEgFVtBmwhkPOcYhOrg7dNv9weElikw-Q8lCmeuAYCjq_zbrPAfJlyBDzKSWCaC3x5DVzY84JYwKz25mASw-R6hgZV8OAegNnE6SYNw2gFwaQ=w408-h305-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no6TN9j_oT9afHrcOM312lmLToYUoEgFVtBmwhkPOcYhOrg7dNv9weElikw-Q8lCmeuAYCjq_zbrPAfJlyBDzKSWCaC3x5DVzY84JYwKz25mASw-R6hgZV8OAegNnE6SYNw2gFwaQ=w397-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "The Greatwall of Koto Gadang",
+    "alamat": "Kayu Kubu, Kec. Mandiangin Koto Selayan",
+    "rating": "4.4",
+    "jumlah_review": "730",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.3125288,
+      "longitude": 100.3633972
+    },
+    "url": "https://www.google.com/maps/place/The+Greatwall+of+Koto+Gadang/data=!4m7!3m6!1s0x2fd5475115555555:0xfdfc3a605ff3afe3!8m2!3d-0.3125288!4d100.3633972!16s%2Fg%2F11d_pspfgj!19sChIJVVVVFVFH1S8R46_zX2A6_P0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noNEDp3-vO9XB0EpDeiaztoTiUEQwcEyKLewQhU7cS7eyr0Qbn9aUAX7QSKScCHq01ogp2sma4ZVnYqtv4WHhj6N_C4hZ-zpYO-9-Yy3eWVtZ_XxHAzgniyswh_fpKOjhvHhfKpPw=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noNEDp3-vO9XB0EpDeiaztoTiUEQwcEyKLewQhU7cS7eyr0Qbn9aUAX7QSKScCHq01ogp2sma4ZVnYqtv4WHhj6N_C4hZ-zpYO-9-Yy3eWVtZ_XxHAzgniyswh_fpKOjhvHhfKpPw=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noNEDp3-vO9XB0EpDeiaztoTiUEQwcEyKLewQhU7cS7eyr0Qbn9aUAX7QSKScCHq01ogp2sma4ZVnYqtv4WHhj6N_C4hZ-zpYO-9-Yy3eWVtZ_XxHAzgniyswh_fpKOjhvHhfKpPw=w529-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Istano Basa Pagaruyung",
+    "alamat": "GJHC+FHJ, Jl. Sutan Alam Bagagarsyah, Pagaruyung, Kec. Tj. Emas",
+    "rating": "4.7",
+    "jumlah_review": "16.852",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.4712964,
+      "longitude": 100.6214049
+    },
+    "url": "https://www.google.com/maps/place/Istano+Basa+Pagaruyung/data=!4m7!3m6!1s0x2e2ad2d2be29c7dd:0xb19e3eb230efffbc!8m2!3d-0.4712964!4d100.6214049!16s%2Fm%2F0ztdsw9!19sChIJ3ccpvtLSKi4RvP_vMLI-nrE?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqvKl3NEcWvv24tonbMlZwcMDn5fUeyjXocHEspr1jvSFHnmO7Q4fla9zlkChL4Eup04x90t68wTZqlIgO-Hw9iY-ord3DNnC1c4y07yDM_ZC1Rm7clyakiDn90hgxtx3Tp_wf5=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqvKl3NEcWvv24tonbMlZwcMDn5fUeyjXocHEspr1jvSFHnmO7Q4fla9zlkChL4Eup04x90t68wTZqlIgO-Hw9iY-ord3DNnC1c4y07yDM_ZC1Rm7clyakiDn90hgxtx3Tp_wf5=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqvKl3NEcWvv24tonbMlZwcMDn5fUeyjXocHEspr1jvSFHnmO7Q4fla9zlkChL4Eup04x90t68wTZqlIgO-Hw9iY-ord3DNnC1c4y07yDM_ZC1Rm7clyakiDn90hgxtx3Tp_wf5=w529-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pulau Pasumpahan",
+    "alamat": "Jl. Sungai Pisang, Tlk. Kabung Sel., Kec. Bungus Tlk. Kabung",
+    "rating": "4.6",
+    "jumlah_review": "900",
+    "deskripsi": "Pulau Pasumpahan adalah sebuah pulau yang berada di perairan kecamatan Bungus Teluk Kabung Kota Padang provinsi Sumatera Barat, Indonesia. Klaim akan keindahan lautnya membuat pulau ini mulai dikenal oleh wisatawan lokal dan internasional.\nPulau Pasumpahan berada sekitar 200 meter dari Pulau Sikuai. Pulau ini memiliki objek wisata pantai pasir putih dengan terumbu karang yang masih terjaga.\nPulau ini diharapkan akan menjadi daerah tujuan wisata unggulan di provinsi Sumatera Barat. Pulau ini terl...",
+    "koordinat": {
+      "latitude": -1.1198157,
+      "longitude": 100.3696031
+    },
+    "url": "https://www.google.com/maps/place/Pulau+Pasumpahan/data=!4m7!3m6!1s0x2fd4a6a0e5b5fc09:0x7c74e48f81a7f5da!8m2!3d-1.1198157!4d100.3696031!16s%2Fg%2F11g9vxytsm!19sChIJCfy15aCm1C8R2vWngY_kdHw?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqgr-z5RfAu7-fEzky4LzzgcMGO83Wv3yhaamt7JajaFxKEp1q1McTfNm9gBdsn_X-Q-QJaLmUlr7kYIDTqNv0WShlzsDLEltGSNi-xWLjZO6JkR3uAaby5T8deNFxK4MsKUloY=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqgr-z5RfAu7-fEzky4LzzgcMGO83Wv3yhaamt7JajaFxKEp1q1McTfNm9gBdsn_X-Q-QJaLmUlr7kYIDTqNv0WShlzsDLEltGSNi-xWLjZO6JkR3uAaby5T8deNFxK4MsKUloY=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqgr-z5RfAu7-fEzky4LzzgcMGO83Wv3yhaamt7JajaFxKEp1q1McTfNm9gBdsn_X-Q-QJaLmUlr7kYIDTqNv0WShlzsDLEltGSNi-xWLjZO6JkR3uAaby5T8deNFxK4MsKUloY=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai",
+      "pulau"
+    ]
+  },
+  {
+    "nama": "Kampung Eropa Harau",
+    "alamat": "Lembah, Tarantang, Kec. Harau",
+    "rating": "4.4",
+    "jumlah_review": "5.314",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.113789,
+      "longitude": 100.6698319
+    },
+    "url": "https://www.google.com/maps/place/Kampung+Eropa+Harau/data=!4m7!3m6!1s0x2e2aac92a65d35ff:0x14ac245e34f2b6d6!8m2!3d-0.113789!4d100.6698319!16s%2Fg%2F1238mbr8!19sChIJ_zVdppKsKi4R1rbyNF4krBQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr3FLJFagKGVHb_wAVe9zPjs8snnUJiBjDfepP2Zr_lt7J9oDk-X2NmhBQ1mvQRwi2By4cLRv3uZH_JMbWL3OzSZTpfI2klGWy0rgsvs7RJ2olCoeAraldba1gIdty2xcIBu0S3=w86-h107-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr3FLJFagKGVHb_wAVe9zPjs8snnUJiBjDfepP2Zr_lt7J9oDk-X2NmhBQ1mvQRwi2By4cLRv3uZH_JMbWL3OzSZTpfI2klGWy0rgsvs7RJ2olCoeAraldba1gIdty2xcIBu0S3=w408-h510-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr3FLJFagKGVHb_wAVe9zPjs8snnUJiBjDfepP2Zr_lt7J9oDk-X2NmhBQ1mvQRwi2By4cLRv3uZH_JMbWL3OzSZTpfI2klGWy0rgsvs7RJ2olCoeAraldba1gIdty2xcIBu0S3=w238-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Panorama Tabek Patah",
+    "alamat": "Tabek Patah, Kec. Tj. Baru",
+    "rating": "4.4",
+    "jumlah_review": "692",
+    "deskripsi": "Panorama Tabek Patah terletak di pinggang gunung berapi antara kota Bukittinggi dan Batusangkar, Indonesia. Hawanya dingin dan sering berkabut. Bila cuaca cerah, pemandangannya sangat indah.dan memiliki julukan sitinjau lauik\nAda dua danau kecil yaitu Pakih dan Aie Taganang. Di danau ini terdapat ikan khas Tabek Patah oleh penduduk setempat disebut ikan Puyu",
+    "koordinat": {
+      "latitude": -0.3175141,
+      "longitude": 100.5364864
+    },
+    "url": "https://www.google.com/maps/place/Panorama+Tabek+Patah/data=!4m7!3m6!1s0x2fd535dc0c92cb85:0x37a90c9b173d3761!8m2!3d-0.3175141!4d100.5364864!16s%2Fg%2F121_c4d1!19sChIJhcuSDNw11S8RYTc9F5sMqTc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np67TqPPLL4nr5mNGuOkJkTJumEj75ZVWdeNxPmBIRC7kddtEK2WEx76Z01BSv6sve5Otgl-qfH24GfbOZciTyTzg2qTBlJxNbbqDgkKJ80lLJQY0h9v3Ec3r4NtaB-6HY27uJH=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np67TqPPLL4nr5mNGuOkJkTJumEj75ZVWdeNxPmBIRC7kddtEK2WEx76Z01BSv6sve5Otgl-qfH24GfbOZciTyTzg2qTBlJxNbbqDgkKJ80lLJQY0h9v3Ec3r4NtaB-6HY27uJH=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np67TqPPLL4nr5mNGuOkJkTJumEj75ZVWdeNxPmBIRC7kddtEK2WEx76Z01BSv6sve5Otgl-qfH24GfbOZciTyTzg2qTBlJxNbbqDgkKJ80lLJQY0h9v3Ec3r4NtaB-6HY27uJH=w397-h298-k-no"
+    ],
+    "kategori": [
+      "gunung",
+      "danau"
+    ]
+  },
+  {
+    "nama": "Taman Margasatwa dan Budaya Kinantan",
+    "alamat": "Jl. Cindua Mato, Benteng Ps. Atas, Kec. Guguk Panjang",
+    "rating": "4.5",
+    "jumlah_review": "7.988",
+    "deskripsi": "Taman Margasatwa dan Budaya Kinantan atau lebih dikenal dengan nama Kebun Binatang Bukittinggi terletak di atas Bukit Cubadak Bungkuak, Bukittinggi, Sumatera Barat, Indonesia. Kebun binatang ini merupakan salah satu kebun binatang tertua yang ada di Indonesia dan satu-satunya di Sumatera Barat, dengan koleksi hewan terlengkap di Pulau Sumatra.\nDalam kompleks kebun binatang, terdapat Museum Rumah Adat Baanjuang dan Museum Zoologi. Kompleks ini dihubungkan oleh Jembatan Limpapeh dengan objek wisat...",
+    "koordinat": {
+      "latitude": -0.30038,
+      "longitude": 100.3696365
+    },
+    "url": "https://www.google.com/maps/place/Taman+Margasatwa+dan+Budaya+Kinantan/data=!4m7!3m6!1s0x2fd538bce9b9b37f:0xbebfcc6c4f0cecf2!8m2!3d-0.30038!4d100.3696365!16s%2Fg%2F120mbs83!19sChIJf7O56bw41S8R8uwMT2zMv74?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noVQtthRI5WjH17dPQfTdfPykAaIg5VstMMbVMmdlJYg0nGzZAsP-NPPzmx_U_lQjL3a9O8rzG4iT9pVaTxfQDl08C5ixV1wPIeqvTtyggUEVj5aVYFydsJ8i22IEsy6DER0y_3xw=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noVQtthRI5WjH17dPQfTdfPykAaIg5VstMMbVMmdlJYg0nGzZAsP-NPPzmx_U_lQjL3a9O8rzG4iT9pVaTxfQDl08C5ixV1wPIeqvTtyggUEVj5aVYFydsJ8i22IEsy6DER0y_3xw=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noVQtthRI5WjH17dPQfTdfPykAaIg5VstMMbVMmdlJYg0nGzZAsP-NPPzmx_U_lQjL3a9O8rzG4iT9pVaTxfQDl08C5ixV1wPIeqvTtyggUEVj5aVYFydsJ8i22IEsy6DER0y_3xw=w397-h298-k-no"
+    ],
+    "kategori": [
+      "gunung",
+      "taman",
+      "museum",
+      "pulau",
+      "rumah_adat",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Ngungun Saok",
+    "alamat": "Lubuk Minturun, Kec. Koto Tangah",
+    "rating": "4.7",
+    "jumlah_review": "138",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.8040995,
+      "longitude": 100.4407142
+    },
+    "url": "https://www.google.com/maps/place/Ngungun+Saok/data=!4m7!3m6!1s0x2fd4cf587c21de19:0x3c6d278e1816be8c!8m2!3d-0.8040995!4d100.4407142!16s%2Fg%2F11c51vrrt8!19sChIJGd4hfFjP1C8RjL4WGI4nbTw?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr1GKJkgcbUh9SG0JoEi0E1CkdcBknaNAr19gb2gt8M03n5AcUlnzfGsNatdVU0hQy9dt0PygcQkCctrCIs81aq7bHUTp7k7epvvxXO5Z6Um845P3ZRwa7-3OQNrnB2J59niiWCPg=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr1GKJkgcbUh9SG0JoEi0E1CkdcBknaNAr19gb2gt8M03n5AcUlnzfGsNatdVU0hQy9dt0PygcQkCctrCIs81aq7bHUTp7k7epvvxXO5Z6Um845P3ZRwa7-3OQNrnB2J59niiWCPg=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr1GKJkgcbUh9SG0JoEi0E1CkdcBknaNAr19gb2gt8M03n5AcUlnzfGsNatdVU0hQy9dt0PygcQkCctrCIs81aq7bHUTp7k7epvvxXO5Z6Um845P3ZRwa7-3OQNrnB2J59niiWCPg=w224-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Puncak Aua Sarumpun",
+    "alamat": "Iii Koto, Kec. Rambatan",
+    "rating": "4.6",
+    "jumlah_review": "744",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.5419567,
+      "longitude": 100.5433529
+    },
+    "url": "https://www.google.com/maps/place/Puncak+Aua+Sarumpun/data=!4m7!3m6!1s0x2fd52bc4fc775269:0xc979374354de0b4e!8m2!3d-0.5419567!4d100.5433529!16s%2Fg%2F11csrchtg6!19sChIJaVJ3_MQr1S8RTgveVEM3eck?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no8RDE1S6lGgQMKaW4TlBSe1yGt7gtGU3ywiqbVWUQi14jwv_J8x0TcnIM9Op0JvLxFGUGk6-G3I873S9OwpzOI0cji0G0Th-MWNWOxNYDWbjH9xA1-fVcN13yShbRUtKCp_aAG=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no8RDE1S6lGgQMKaW4TlBSe1yGt7gtGU3ywiqbVWUQi14jwv_J8x0TcnIM9Op0JvLxFGUGk6-G3I873S9OwpzOI0cji0G0Th-MWNWOxNYDWbjH9xA1-fVcN13yShbRUtKCp_aAG=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no8RDE1S6lGgQMKaW4TlBSe1yGt7gtGU3ywiqbVWUQi14jwv_J8x0TcnIM9Op0JvLxFGUGk6-G3I873S9OwpzOI0cji0G0Th-MWNWOxNYDWbjH9xA1-fVcN13yShbRUtKCp_aAG=w397-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  }
+]
