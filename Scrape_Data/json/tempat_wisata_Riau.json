@@ -1,0 +1,739 @@
+[
+  {
+    "nama": "Labersa Water Park Riau Fantasi",
+    "alamat": "Jl. Labersa, Simpang Tiga, Kec. Siak Hulu",
+    "rating": "4.1",
+    "jumlah_review": "2.783",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.4465511,
+      "longitude": 101.4775117
+    },
+    "url": "https://www.google.com/maps/place/Labersa+Water+Park+Riau+Fantasi/data=!4m7!3m6!1s0x31d5a57fa97f67e9:0x6310253ea1655b60!8m2!3d0.4465511!4d101.4775117!16s%2Fg%2F11bzt9sqjf!19sChIJ6Wd_qX-l1TERYFtloT4lEGM?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipM3HZmwJ7hKpj17u2QBi8Jh0hDqg0-HhT6Oejlp=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipM3HZmwJ7hKpj17u2QBi8Jh0hDqg0-HhT6Oejlp=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipM3HZmwJ7hKpj17u2QBi8Jh0hDqg0-HhT6Oejlp=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Air terjun batu dinding",
+    "alamat": "Tj. Belit, Kec. Kampar Kiri Hulu",
+    "rating": "4.6",
+    "jumlah_review": "156",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.1804507,
+      "longitude": 101.0782189
+    },
+    "url": "https://www.google.com/maps/place/Air+terjun+batu+dinding/data=!4m7!3m6!1s0x2e2a91633ff26863:0x10850875012bafeb!8m2!3d-0.1804507!4d101.0782189!16s%2Fg%2F11fqppf7wf!19sChIJY2jyP2ORKi4R668rAXUIhRA?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqtk_XITv1lMxtVo6lODFBwFmKuC5a98x6I29vAcFu6KdUU3JB3NoExPMFiSHiDtLT1YF5EaKfL79OikYdZu5ROKmHCrPc8eobiie1N9vUo6YoVLm_ydAXs7cE51VAcKQOBTSaH-g=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqtk_XITv1lMxtVo6lODFBwFmKuC5a98x6I29vAcFu6KdUU3JB3NoExPMFiSHiDtLT1YF5EaKfL79OikYdZu5ROKmHCrPc8eobiie1N9vUo6YoVLm_ydAXs7cE51VAcKQOBTSaH-g=w408-h543-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqtk_XITv1lMxtVo6lODFBwFmKuC5a98x6I29vAcFu6KdUU3JB3NoExPMFiSHiDtLT1YF5EaKfL79OikYdZu5ROKmHCrPc8eobiie1N9vUo6YoVLm_ydAXs7cE51VAcKQOBTSaH-g=w224-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Kampoeng Rabbit's Kulim",
+    "alamat": "Bencah Lesung, Kec. Tenayan Raya",
+    "rating": "4.3",
+    "jumlah_review": "369",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.4817044,
+      "longitude": 101.5161338
+    },
+    "url": "https://www.google.com/maps/place/Kampoeng+Rabbit%27s+Kulim/data=!4m7!3m6!1s0x31d5ae2e0b4c4913:0x3440ae6123df25c2!8m2!3d0.4817044!4d101.5161338!16s%2Fg%2F11c749ld8c!19sChIJE0lMCy6u1TERwiXfI2GuQDQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipMyk-bup4Y2s6tKh2KNSHMeouwtYE3wtaKyy5FJ=w86-h151-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipMyk-bup4Y2s6tKh2KNSHMeouwtYE3wtaKyy5FJ=w408-h718-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipMyk-bup4Y2s6tKh2KNSHMeouwtYE3wtaKyy5FJ=w224-h394-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Air Terjun Batang Kapas",
+    "alamat": "Lubuk Bigau, Kec. Kampar Kiri Hulu",
+    "rating": "4.5",
+    "jumlah_review": "40",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.0354206,
+      "longitude": 100.7716874
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Batang+Kapas/data=!4m7!3m6!1s0x2e2aa85f4ae44e45:0x66c49e0cb3f0282!8m2!3d-0.0354206!4d100.7716874!16s%2Fg%2F11c1p12fw4!19sChIJRU7kSl-oKi4RggI_y-BJbAY?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrE5vpemOD5nTSqHqO5aZvv7K1T9OgmFkOFF5mtWUClwqTpUg2NpQ9JQ-o7CyZQUIs4JStmqqYoIeEgWbLmD9sgp-JAE5VXMK5G4zk4Jz7UWu28D3cE-sBYwyXT5A4LH_89XMDD=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrE5vpemOD5nTSqHqO5aZvv7K1T9OgmFkOFF5mtWUClwqTpUg2NpQ9JQ-o7CyZQUIs4JStmqqYoIeEgWbLmD9sgp-JAE5VXMK5G4zk4Jz7UWu28D3cE-sBYwyXT5A4LH_89XMDD=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrE5vpemOD5nTSqHqO5aZvv7K1T9OgmFkOFF5mtWUClwqTpUg2NpQ9JQ-o7CyZQUIs4JStmqqYoIeEgWbLmD9sgp-JAE5VXMK5G4zk4Jz7UWu28D3cE-sBYwyXT5A4LH_89XMDD=w447-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Pantai Cinta, Teluk Jering Tambang",
+    "alamat": "Pantai Cinta Teluk Jering, Tlk. Kenidai, Kec. Tambang",
+    "rating": "4.1",
+    "jumlah_review": "3.100",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.3861839,
+      "longitude": 101.4109818
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Cinta,+Teluk+Jering+Tambang/data=!4m7!3m6!1s0x31d5a6eaad948359:0x7dbd5215415f6571!8m2!3d0.3861839!4d101.4109818!16s%2Fg%2F11f1sylhtp!19sChIJWYOUreqm1TERcWVfQRVSvX0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqjrRe_IlCaxjyhhxq2vrMZyoFshtqw_0bUzuXc5NX3EruYNY6YW0WJts645-PbWdzrigId8OUmA-m0R0PNKPX3BOxzgwtKtef-x2a-GAvtdqmURatcXyl0mYywqBsYBchv-dRL=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqjrRe_IlCaxjyhhxq2vrMZyoFshtqw_0bUzuXc5NX3EruYNY6YW0WJts645-PbWdzrigId8OUmA-m0R0PNKPX3BOxzgwtKtef-x2a-GAvtdqmURatcXyl0mYywqBsYBchv-dRL=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqjrRe_IlCaxjyhhxq2vrMZyoFshtqw_0bUzuXc5NX3EruYNY6YW0WJts645-PbWdzrigId8OUmA-m0R0PNKPX3BOxzgwtKtef-x2a-GAvtdqmURatcXyl0mYywqBsYBchv-dRL=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Wisata Dakwah Okura",
+    "alamat": "Jl. Raja Panjang Okura, Tebing Tinggi Okura, Kecamatan Rumbai Timur",
+    "rating": "4.3",
+    "jumlah_review": "407",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.5937041,
+      "longitude": 101.5027197
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Dakwah+Okura/data=!4m7!3m6!1s0x31d452b58f9103e1:0xecb9f2a9e89af4d9!8m2!3d0.5937041!4d101.5027197!16s%2Fg%2F11b7c0vwly!19sChIJ4QORj7VS1DER2fSa6Knyuew?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq8wXPNLHGzKi7cM06v2jzx-kp0PuoCgBQO1VKtmQYqM8REvD63d-FZ7VHpmkIRGvn3A1rYzmrI6-YoZ5sCX-5ncJQpALFtDMoWR4iVQXuMhBWyTVD5B2iEFAnDpVzolG6c-Di2=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq8wXPNLHGzKi7cM06v2jzx-kp0PuoCgBQO1VKtmQYqM8REvD63d-FZ7VHpmkIRGvn3A1rYzmrI6-YoZ5sCX-5ncJQpALFtDMoWR4iVQXuMhBWyTVD5B2iEFAnDpVzolG6c-Di2=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq8wXPNLHGzKi7cM06v2jzx-kp0PuoCgBQO1VKtmQYqM8REvD63d-FZ7VHpmkIRGvn3A1rYzmrI6-YoZ5sCX-5ncJQpALFtDMoWR4iVQXuMhBWyTVD5B2iEFAnDpVzolG6c-Di2=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Andalus Wisata Keluarga",
+    "alamat": "Desa, Silam, Kec. Kuok",
+    "rating": "4.2",
+    "jumlah_review": "184",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.3351341,
+      "longitude": 100.8740643
+    },
+    "url": "https://www.google.com/maps/place/Andalus+Wisata+Keluarga/data=!4m7!3m6!1s0x31d53bfc001c5fa5:0xe7f1eca9e7fd2709!8m2!3d0.3351341!4d100.8740643!16s%2Fg%2F11gcxz0_77!19sChIJpV8cAPw71TERCSf956ns8ec?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrqhbPWHjJJ7d-0AA_86yqUjbd8euMUHap7kCuxqZpTbVQR-uP0vf_RY6djK26YBMyNo5cvXjZHFb0p2bpXhBx_41r1fxIKSlTmu1pEuj6RnMqXA3V6rY3dDG1ktVj8nw2x6gFn=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrqhbPWHjJJ7d-0AA_86yqUjbd8euMUHap7kCuxqZpTbVQR-uP0vf_RY6djK26YBMyNo5cvXjZHFb0p2bpXhBx_41r1fxIKSlTmu1pEuj6RnMqXA3V6rY3dDG1ktVj8nw2x6gFn=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrqhbPWHjJJ7d-0AA_86yqUjbd8euMUHap7kCuxqZpTbVQR-uP0vf_RY6djK26YBMyNo5cvXjZHFb0p2bpXhBx_41r1fxIKSlTmu1pEuj6RnMqXA3V6rY3dDG1ktVj8nw2x6gFn=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Rumah Singgah Tuan Kadi",
+    "alamat": "Kp. Bandar, Kec. Senapelan",
+    "rating": "4.5",
+    "jumlah_review": "1.116",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.5404269,
+      "longitude": 101.4397555
+    },
+    "url": "https://www.google.com/maps/place/Rumah+Singgah+Tuan+Kadi/data=!4m7!3m6!1s0x31d5ac712c598155:0x5657647294fb9a10!8m2!3d0.5404269!4d101.4397555!16s%2Fg%2F11cs0vvmxl!19sChIJVYFZLHGs1TEREJr7lHJkV1Y?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrvpBazBabM-gU0GSdks5ebZxZn7WoKUfp3fnkJWsNucpeyECK3vtF0639N8dhLnGmALMTRBOG2das3kBCSlmS94NbLuljyKz8x7MV16IgYLHXcgPFA7mt1wsUMwwFa0yH8vEQMdg=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrvpBazBabM-gU0GSdks5ebZxZn7WoKUfp3fnkJWsNucpeyECK3vtF0639N8dhLnGmALMTRBOG2das3kBCSlmS94NbLuljyKz8x7MV16IgYLHXcgPFA7mt1wsUMwwFa0yH8vEQMdg=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrvpBazBabM-gU0GSdks5ebZxZn7WoKUfp3fnkJWsNucpeyECK3vtF0639N8dhLnGmALMTRBOG2das3kBCSlmS94NbLuljyKz8x7MV16IgYLHXcgPFA7mt1wsUMwwFa0yH8vEQMdg=w529-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "TEPIAN MAHLIGAI DESA PULAU GADANG",
+    "alamat": "Jl. Bangkinang - Payakumbuh, Pulau Gadang, Kec. XIII Koto Kampar",
+    "rating": "4.2",
+    "jumlah_review": "199",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.3068838,
+      "longitude": 100.829436
+    },
+    "url": "https://www.google.com/maps/place/TEPIAN+MAHLIGAI+DESA+PULAU+GADANG/data=!4m7!3m6!1s0x31d53924a75fa37f:0x17fb4dd5a5dc693b!8m2!3d0.3068838!4d100.829436!16s%2Fg%2F11fmyqd4d8!19sChIJf6NfpyQ51TERO2ncpdVN-xc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipO3xgEcc_yotEg0wlqN_lP3C2oUoAecYW4BS3ex=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipO3xgEcc_yotEg0wlqN_lP3C2oUoAecYW4BS3ex=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipO3xgEcc_yotEg0wlqN_lP3C2oUoAecYW4BS3ex=w224-h298-k-no"
+    ],
+    "kategori": [
+      "pulau"
+    ]
+  },
+  {
+    "nama": "Puncak Kompe",
+    "alamat": "Bangkinang, Kec. XIII Koto Kampar",
+    "rating": "4.5",
+    "jumlah_review": "301",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.2974747,
+      "longitude": 100.8541094
+    },
+    "url": "https://www.google.com/maps/place/Puncak+Kompe/data=!4m7!3m6!1s0x31d37b61dd8baa4b:0xc874d124ed8af885!8m2!3d0.2974747!4d100.8541094!16s%2Fg%2F11hbhm1tgq!19sChIJS6qL3WF70zERhfiK7STRdMg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noLTbhz6mq1kYK6JOem5wLW7Mp1mBhjShBs9L9-5gPI--NQVVXsu33dzoQEY7lnuLQmw8wAiv_5izjhQ2CSBlpFKmtbk1zKvjjlH0sp0cZGhJPdGqqfIMVEFHYrk7nF0e6CiiEV=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noLTbhz6mq1kYK6JOem5wLW7Mp1mBhjShBs9L9-5gPI--NQVVXsu33dzoQEY7lnuLQmw8wAiv_5izjhQ2CSBlpFKmtbk1zKvjjlH0sp0cZGhJPdGqqfIMVEFHYrk7nF0e6CiiEV=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noLTbhz6mq1kYK6JOem5wLW7Mp1mBhjShBs9L9-5gPI--NQVVXsu33dzoQEY7lnuLQmw8wAiv_5izjhQ2CSBlpFKmtbk1zKvjjlH0sp0cZGhJPdGqqfIMVEFHYrk7nF0e6CiiEV=w397-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Air Panas Hapanasan",
+    "alamat": "Rambah Tengah Bar., Kec. Rambah",
+    "rating": "3.8",
+    "jumlah_review": "152",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.8300801,
+      "longitude": 100.2704076
+    },
+    "url": "https://www.google.com/maps/place/Air+Panas+Hapanasan/data=!4m7!3m6!1s0x302b15f8255f6bb3:0xbeaabf9614890d57!8m2!3d0.8300801!4d100.2704076!16s%2Fg%2F11hbt4wgy4!19sChIJs2tfJfgVKzARVw2JFJa_qr4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no5dnrp4zqg4OF8Ie4sTdikqbIb8jpTjUM4idbJdKH-AO9d2jDkormZUGbLPiVTvoxRTyymXqFtUgcnaa8GyNAO6Jr7Jh3kj3k2JcdrCNiFOBybCvOsy1uV0Fhjk22dch8PKAo=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no5dnrp4zqg4OF8Ie4sTdikqbIb8jpTjUM4idbJdKH-AO9d2jDkormZUGbLPiVTvoxRTyymXqFtUgcnaa8GyNAO6Jr7Jh3kj3k2JcdrCNiFOBybCvOsy1uV0Fhjk22dch8PKAo=w408-h271-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no5dnrp4zqg4OF8Ie4sTdikqbIb8jpTjUM4idbJdKH-AO9d2jDkormZUGbLPiVTvoxRTyymXqFtUgcnaa8GyNAO6Jr7Jh3kj3k2JcdrCNiFOBybCvOsy1uV0Fhjk22dch8PKAo=w447-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Batu gajah",
+    "alamat": "Rambah Tengah Hulu, Kec. Rambah",
+    "rating": "4.4",
+    "jumlah_review": "42",
+    "deskripsi": "Batu Gajah adalah suatu tempat wisata di Kabupaten Rokan Hulu, Provinsi Riau, Indonesia.\nObjek wisata yang ada di Kabupaten Rokan Hulu Riau memang kaya dengan objek wisata alam seperti air terjun dan sejumlah pemandian dengan airnya yang sejuk serta jernih karena menyatu dengan alamnya yang menewan. Objek pamandian ini dijuluki oleh masyarakat setempat dengan nama Batu Gajah, pemandian ini terletak di Desa Pawan,Kecamatan Rambah,Kabupaten Rokan Hulu, Riau.",
+    "koordinat": {
+      "latitude": 0.8260122,
+      "longitude": 100.2315389
+    },
+    "url": "https://www.google.com/maps/place/Batu+gajah/data=!4m7!3m6!1s0x302b15c32b867b41:0x9df7a088dd6987af!8m2!3d0.8260122!4d100.2315389!16s%2Fg%2F11c59455h6!19sChIJQXuGK8MVKzARr4dp3Yig950?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nokqltMvBjS0EgOAGF8QD5I2odTAmbn4ePN8578VpLRKRcdkmtAVJZtyN1E7CEepB7IUTzJgahB3gaczCYK14Kgd6JPNso2umZ9yzOihOm6Zwuq8VEoIB5_4x_O3RFA7wvd_Wh6cg=w128-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nokqltMvBjS0EgOAGF8QD5I2odTAmbn4ePN8578VpLRKRcdkmtAVJZtyN1E7CEepB7IUTzJgahB3gaczCYK14Kgd6JPNso2umZ9yzOihOm6Zwuq8VEoIB5_4x_O3RFA7wvd_Wh6cg=w408-h274-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nokqltMvBjS0EgOAGF8QD5I2odTAmbn4ePN8578VpLRKRcdkmtAVJZtyN1E7CEepB7IUTzJgahB3gaczCYK14Kgd6JPNso2umZ9yzOihOm6Zwuq8VEoIB5_4x_O3RFA7wvd_Wh6cg=w443-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "TEMBULUN KINUTAN",
+    "alamat": "Pangkalan Kasai, Kec. Seberida",
+    "rating": "4.1",
+    "jumlah_review": "377",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.6272774,
+      "longitude": 102.4045854
+    },
+    "url": "https://www.google.com/maps/place/TEMBULUN+KINUTAN/data=!4m7!3m6!1s0x2e2974e324de8d69:0x17d3e0d75e3dde87!8m2!3d-0.6272774!4d102.4045854!16s%2Fg%2F11g8vxs7t3!19sChIJaY3eJON0KS4Rh949Xtfg0xc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipMjdYLjh9QEswK11D_La5ZDh6Hzm7pQbGe3sTzq=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipMjdYLjh9QEswK11D_La5ZDh6Hzm7pQbGe3sTzq=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipMjdYLjh9QEswK11D_La5ZDh6Hzm7pQbGe3sTzq=w529-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Tugu Titik NOL Pekanbaru",
+    "alamat": "Kp. Dalam, Kec. Senapelan, Riau",
+    "rating": "4.3",
+    "jumlah_review": "84",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.5391724,
+      "longitude": 101.443627
+    },
+    "url": "https://www.google.com/maps/place/Tugu+Titik+NOL+Pekanbaru/data=!4m7!3m6!1s0x31d5ac71931e9f59:0x42ce8d529f6c95f4!8m2!3d0.5391724!4d101.443627!16s%2Fg%2F11c605kyk_!19sChIJWZ8ek3Gs1TER9JVsn1KNzkI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npM4F5vTRSoNYrtqiqA8Fuk0uuktccA6ON2--G5BUr9v_tx9Z0zrFoDL8wG0lOeJTWprxxgIyJf3voTkL911vLsjyTE9USfy-qNFzkyddlPcpxXZzPRW3YNWhzax2hrS2YdESM=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npM4F5vTRSoNYrtqiqA8Fuk0uuktccA6ON2--G5BUr9v_tx9Z0zrFoDL8wG0lOeJTWprxxgIyJf3voTkL911vLsjyTE9USfy-qNFzkyddlPcpxXZzPRW3YNWhzax2hrS2YdESM=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npM4F5vTRSoNYrtqiqA8Fuk0uuktccA6ON2--G5BUr9v_tx9Z0zrFoDL8wG0lOeJTWprxxgIyJf3voTkL911vLsjyTE9USfy-qNFzkyddlPcpxXZzPRW3YNWhzax2hrS2YdESM=w224-h298-k-no"
+    ],
+    "kategori": [
+      "situs_sejarah"
+    ]
+  },
+  {
+    "nama": "Kawasan Bandar Serai (Bandar Seni Raja Ali Haji)",
+    "alamat": "Simpang Tiga, Kec. Bukit Raya",
+    "rating": "3.7",
+    "jumlah_review": "3",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.4779426,
+      "longitude": 101.4550602
+    },
+    "url": "https://www.google.com/maps/place/Kawasan+Bandar+Serai+%28Bandar+Seni+Raja+Ali+Haji%29/data=!4m7!3m6!1s0x31d5afe8e5684ea5:0x5ccb197595b9bb82!8m2!3d0.4779426!4d101.4550602!16s%2Fg%2F11k5w94sh3!19sChIJpU5o5eiv1TERgru5lXUZy1w?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrLv9xJaL8s7BlX1usHQOSgoW29suZEDH5gjKjB8xYgQvYW1bngFAyhSYEG73tz2Dby-WAyigBj0HA43swVGqZQ9AGodlAG2IoAnwwJyeaz_3U4XZaTTDHhpObZkqn1mA4V0J0=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrLv9xJaL8s7BlX1usHQOSgoW29suZEDH5gjKjB8xYgQvYW1bngFAyhSYEG73tz2Dby-WAyigBj0HA43swVGqZQ9AGodlAG2IoAnwwJyeaz_3U4XZaTTDHhpObZkqn1mA4V0J0=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrs8gldby6zZ8nYeW67FsMCNSIdm8h94ZJLSJVKEBqbqrgqXI33h0by_VY8nL16dwElJ-JkNRwMNDCqyWq1pkfFAwF33U7R6lRsMhVp9GaSu5PN0cnUiD2ORb7z4eeGGQHUZsYa=w525-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Ulu Kasok",
+    "alamat": "Pulau Gadang, Tj. Alai, Kec. XIII Koto Kampar",
+    "rating": "4.2",
+    "jumlah_review": "2.238",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.2958591,
+      "longitude": 100.8566581
+    },
+    "url": "https://www.google.com/maps/place/Ulu+Kasok/data=!4m7!3m6!1s0x31d5384d00000001:0xf477be0421777f44!8m2!3d0.2958591!4d100.8566581!16s%2Fg%2F11c747hfl6!19sChIJAQAAAE041TERRH93IQS-d_Q?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrmVVNKZa7Ccl-0QB2QZVH71M3loYHEN6GlerZiytgtHkQ_RPlCgt6WEDhJ1vtfCR_dAEtHyhbl2noL--gUH7YFkPYC4t6BsU1inKNb_lDYA1PBGmUw0_cG68rSCwFoEi2k-oZU_Q=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrmVVNKZa7Ccl-0QB2QZVH71M3loYHEN6GlerZiytgtHkQ_RPlCgt6WEDhJ1vtfCR_dAEtHyhbl2noL--gUH7YFkPYC4t6BsU1inKNb_lDYA1PBGmUw0_cG68rSCwFoEi2k-oZU_Q=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrmVVNKZa7Ccl-0QB2QZVH71M3loYHEN6GlerZiytgtHkQ_RPlCgt6WEDhJ1vtfCR_dAEtHyhbl2noL--gUH7YFkPYC4t6BsU1inKNb_lDYA1PBGmUw0_cG68rSCwFoEi2k-oZU_Q=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Air Terjun Panisan",
+    "alamat": "Unnamed Road, Tanjung, Koto Kampar Hulu",
+    "rating": "4.7",
+    "jumlah_review": "45",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.2579969,
+      "longitude": 100.6215252
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Panisan/data=!4m7!3m6!1s0x31d535806de3df55:0x40116e080c44bf21!8m2!3d0.2579969!4d100.6215252!16s%2Fg%2F11gb396vyl!19sChIJVd_jbYA11TERIb9EDAhuEUA?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no2hCYvJfXZ54hEOxhYSM26UfrpBAttjQ7ObDWO3WzB2WSVEP-08IsfDaFipn1CJvslXIxY1skiUe6SX62XnGjPOfjwAxHNGzP1__Qiq4cnedqHHDcVpQGphGfUb2lgZJfG6gk=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no2hCYvJfXZ54hEOxhYSM26UfrpBAttjQ7ObDWO3WzB2WSVEP-08IsfDaFipn1CJvslXIxY1skiUe6SX62XnGjPOfjwAxHNGzP1__Qiq4cnedqHHDcVpQGphGfUb2lgZJfG6gk=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no2hCYvJfXZ54hEOxhYSM26UfrpBAttjQ7ObDWO3WzB2WSVEP-08IsfDaFipn1CJvslXIxY1skiUe6SX62XnGjPOfjwAxHNGzP1__Qiq4cnedqHHDcVpQGphGfUb2lgZJfG6gk=w224-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Taman Budaya Provinsi Riau",
+    "alamat": "Jalan Jend Sudirman, Tengkerang Tengah, Marpoyan Damai, Tengkerang Tengah, Kec. Marpoyan Damai",
+    "rating": "4.4",
+    "jumlah_review": "768",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.4953696,
+      "longitude": 101.4545572
+    },
+    "url": "https://www.google.com/maps/place/Taman+Budaya+Provinsi+Riau/data=!4m7!3m6!1s0x31d5aec0569a4555:0xce13ab247160115d!8m2!3d0.4953696!4d101.4545572!16s%2Fg%2F1hm5nw2ql!19sChIJVUWaVsCu1TERXRFgcSSrE84?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npeotOT1wQynf_HzS5nSY3X8gPtVSEZtIcQuWIz33pRJk-4J2y1psbcD6vVKWcd4hZaA_b69RqO3zThD4mwc3rNImuxvIhaEcTDnspBAN38J5MA8do3rBQHCt9rOIoAZ-9lmIiF=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npeotOT1wQynf_HzS5nSY3X8gPtVSEZtIcQuWIz33pRJk-4J2y1psbcD6vVKWcd4hZaA_b69RqO3zThD4mwc3rNImuxvIhaEcTDnspBAN38J5MA8do3rBQHCt9rOIoAZ-9lmIiF=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npeotOT1wQynf_HzS5nSY3X8gPtVSEZtIcQuWIz33pRJk-4J2y1psbcD6vVKWcd4hZaA_b69RqO3zThD4mwc3rNImuxvIhaEcTDnspBAN38J5MA8do3rBQHCt9rOIoAZ-9lmIiF=w529-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Kawah Biru Pekanbaru",
+    "alamat": "Tanah Merah, Siak Hulu",
+    "rating": "3.5",
+    "jumlah_review": "28",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.4427863,
+      "longitude": 101.4695921
+    },
+    "url": "https://www.google.com/maps/place/Kawah+Biru+Pekanbaru/data=!4m7!3m6!1s0x31d5afeb0f22e169:0x5cdb9ed4996f2850!8m2!3d0.4427863!4d101.4695921!16s%2Fg%2F11rmxc3ywt!19sChIJaeEiD-uv1TERUChvmdSe21w?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npeZ-2hDp6HSznINW8vHDd8K1NCPBR2SQleLKa9J6ztFO_lYw_91fud0U_SNaCbXk5absudRLdG_2Z9q9Ny_bxsq2757aGYd8zLtkj_qQGuXFmHfRNCVX7Ai-8NSgVxEGLM6aaODQ=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npeZ-2hDp6HSznINW8vHDd8K1NCPBR2SQleLKa9J6ztFO_lYw_91fud0U_SNaCbXk5absudRLdG_2Z9q9Ny_bxsq2757aGYd8zLtkj_qQGuXFmHfRNCVX7Ai-8NSgVxEGLM6aaODQ=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npeZ-2hDp6HSznINW8vHDd8K1NCPBR2SQleLKa9J6ztFO_lYw_91fud0U_SNaCbXk5absudRLdG_2Z9q9Ny_bxsq2757aGYd8zLtkj_qQGuXFmHfRNCVX7Ai-8NSgVxEGLM6aaODQ=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Air Terjun Tujuh Tingkat",
+    "alamat": "Lubuk Ambacang, Kec. Hulu Kuantan, Riau",
+    "rating": "4.3",
+    "jumlah_review": "63",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.6174255,
+      "longitude": 101.3224469
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Tujuh+Tingkat/data=!4m7!3m6!1s0x2e2baa6555555555:0x4dfa1dc8e23bb8e8!8m2!3d-0.6174255!4d101.3224469!16s%2Fg%2F11c5s5vc_9!19sChIJVVVVVWWqKy4R6Lg74sgd-k0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipOwWuMu-Y6ElWY37vC_z9WgZJkakyMKxIetFMhG=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipOwWuMu-Y6ElWY37vC_z9WgZJkakyMKxIetFMhG=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipOwWuMu-Y6ElWY37vC_z9WgZJkakyMKxIetFMhG=w224-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Puncak Kabur",
+    "alamat": "Rokan Koto Ruang, Kec. Rokan IV Koto",
+    "rating": "4.4",
+    "jumlah_review": "97",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.5215668,
+      "longitude": 100.3639923
+    },
+    "url": "https://www.google.com/maps/place/Puncak+Kabur/data=!4m7!3m6!1s0x302ad9597f2adcb7:0xacafa3a5f0c23944!8m2!3d0.5215668!4d100.3639923!16s%2Fg%2F11f5h5nt6_!19sChIJt9wqf1nZKjARRDnC8KWjr6w?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npm-iNy4us5yUmHJ-ezuC2AwgYELQ0Cew9U4zL3_LOXlyuaOJoGqZsfo1HswBsWolIjgA3DwmFVA0DP-sd5wUIXYaCJduauCFf5g0J8EzBNqSFN3vzp5Lf5NvS8l3Vj3vUUmks=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npm-iNy4us5yUmHJ-ezuC2AwgYELQ0Cew9U4zL3_LOXlyuaOJoGqZsfo1HswBsWolIjgA3DwmFVA0DP-sd5wUIXYaCJduauCFf5g0J8EzBNqSFN3vzp5Lf5NvS8l3Vj3vUUmks=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npm-iNy4us5yUmHJ-ezuC2AwgYELQ0Cew9U4zL3_LOXlyuaOJoGqZsfo1HswBsWolIjgA3DwmFVA0DP-sd5wUIXYaCJduauCFf5g0J8EzBNqSFN3vzp5Lf5NvS8l3Vj3vUUmks=w397-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Pulau Cinta",
+    "alamat": "Jl. Dusun Tlk. Jering, Tlk. Kenidai, Kec. Tambang",
+    "rating": "4.3",
+    "jumlah_review": "195",
+    "deskripsi": "Pulau Cinta adalah film Indonesia pada tahun 1978 dengan disutradarai oleh Ali Shahab. Film ini dibintangi antara lain oleh Suzanna, Robby Sugara, dan Nur Afni Octavia.",
+    "koordinat": {
+      "latitude": 0.3861946,
+      "longitude": 101.4109825
+    },
+    "url": "https://www.google.com/maps/place/Pulau+Cinta/data=!4m7!3m6!1s0x31d5a7f1b1e56c3d:0x4ff9505f15f27a2b!8m2!3d0.3861946!4d101.4109825!16s%2Fg%2F11pzg3gx1g!19sChIJPWzlsfGn1TERK3ryFV9Q-U8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqcv4RjIe1gDeDtQFEnR-cib-vtK8vPQhLYgtFPdyQntZ2V0dJ_dcFf_b-7xzAt43hM3nQbLCycgiood4j4w6iGXlkcP0d4ztwN6HebWlXVcKQJQMpoRFLCx3_dR4uGopX5kOCR=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqcv4RjIe1gDeDtQFEnR-cib-vtK8vPQhLYgtFPdyQntZ2V0dJ_dcFf_b-7xzAt43hM3nQbLCycgiood4j4w6iGXlkcP0d4ztwN6HebWlXVcKQJQMpoRFLCx3_dR4uGopX5kOCR=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqcv4RjIe1gDeDtQFEnR-cib-vtK8vPQhLYgtFPdyQntZ2V0dJ_dcFf_b-7xzAt43hM3nQbLCycgiood4j4w6iGXlkcP0d4ztwN6HebWlXVcKQJQMpoRFLCx3_dR4uGopX5kOCR=w224-h298-k-no"
+    ],
+    "kategori": [
+      "pulau"
+    ]
+  },
+  {
+    "nama": "ASIA HERITAGE",
+    "alamat": "Muara Fajar, Kec. Rumbai",
+    "rating": "4.3",
+    "jumlah_review": "3.807",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.6091098,
+      "longitude": 101.4319761
+    },
+    "url": "https://www.google.com/maps/place/ASIA+HERITAGE/data=!4m7!3m6!1s0x31d4554314caade3:0xc93cbd1593c74ac4!8m2!3d0.6091098!4d101.4319761!16s%2Fg%2F11j8__lv6_!19sChIJ463KFENV1DERxErHkxW9PMk?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no2ph92xEmM9e5T-reYEEEU4GCNyoFLuYdNnnX_O-nEN-vDJoMv-NCVpyEFvtWUrXHOjiFms_oiqN-0szWhSmMBt8_Hzk-fHKTpx-Z2VFTb6Uhn6fOKK9urdtnZAEsfG8TEsnhX=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no2ph92xEmM9e5T-reYEEEU4GCNyoFLuYdNnnX_O-nEN-vDJoMv-NCVpyEFvtWUrXHOjiFms_oiqN-0szWhSmMBt8_Hzk-fHKTpx-Z2VFTb6Uhn6fOKK9urdtnZAEsfG8TEsnhX=w408-h305-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no2ph92xEmM9e5T-reYEEEU4GCNyoFLuYdNnnX_O-nEN-vDJoMv-NCVpyEFvtWUrXHOjiFms_oiqN-0szWhSmMBt8_Hzk-fHKTpx-Z2VFTb6Uhn6fOKK9urdtnZAEsfG8TEsnhX=w398-h298-k-no"
+    ],
+    "kategori": [
+      "situs_sejarah"
+    ]
+  },
+  {
+    "nama": "Wisata Danau Khayangan",
+    "alamat": "Lembah Sari, Kec. Rumbai Pesisir",
+    "rating": "3.8",
+    "jumlah_review": "275",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.5856386,
+      "longitude": 101.469531
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Danau+Khayangan/data=!4m7!3m6!1s0x31d5acd23dc42d1f:0x418d8c7555506abf!8m2!3d0.5856386!4d101.469531!16s%2Fg%2F11dybr3_46!19sChIJHy3EPdKs1TERv2pQVXWMjUE?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nryVCw42KRYHQgKFBbfnR890Xt6HIzFiwMvkXUhcE84xT_6hYFOG3bc3Q7vefDzWvf18Ubjz46yoF1dws727L3B7L9dWej2aWG54fuHB2FuBfM-TdQ1p7D-rkYdZM50VXqivrk0mw=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nryVCw42KRYHQgKFBbfnR890Xt6HIzFiwMvkXUhcE84xT_6hYFOG3bc3Q7vefDzWvf18Ubjz46yoF1dws727L3B7L9dWej2aWG54fuHB2FuBfM-TdQ1p7D-rkYdZM50VXqivrk0mw=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nryVCw42KRYHQgKFBbfnR890Xt6HIzFiwMvkXUhcE84xT_6hYFOG3bc3Q7vefDzWvf18Ubjz46yoF1dws727L3B7L9dWej2aWG54fuHB2FuBfM-TdQ1p7D-rkYdZM50VXqivrk0mw=w397-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Taman Wisata Alam Buluh Cina",
+    "alamat": "Buluh Cina, Kec. Siak Hulu",
+    "rating": "4.6",
+    "jumlah_review": "124",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.3742111,
+      "longitude": 101.528542
+    },
+    "url": "https://www.google.com/maps/place/Taman+Wisata+Alam+Buluh+Cina/data=!4m7!3m6!1s0x31d5bb0395dc9a05:0x1e10038c6d269841!8m2!3d0.3742111!4d101.528542!16s%2Fg%2F11j136x3lv!19sChIJBZrclQO71TERQZgmbYwDEB4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npFh_V6ZwVDBnN1jtK82OwpTpjzApee-YV6Hob8yfSrjpBYeMF5n3FmYhyJdq-c_PBORJiAHiugfESE2JEuQnZEMvdxgkQm5mF4hqO4SVJGWt7tbUnBEIB34k7klditwznZ8LZBsw=w111-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npFh_V6ZwVDBnN1jtK82OwpTpjzApee-YV6Hob8yfSrjpBYeMF5n3FmYhyJdq-c_PBORJiAHiugfESE2JEuQnZEMvdxgkQm5mF4hqO4SVJGWt7tbUnBEIB34k7klditwznZ8LZBsw=w408-h314-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npFh_V6ZwVDBnN1jtK82OwpTpjzApee-YV6Hob8yfSrjpBYeMF5n3FmYhyJdq-c_PBORJiAHiugfESE2JEuQnZEMvdxgkQm5mF4hqO4SVJGWt7tbUnBEIB34k7klditwznZ8LZBsw=w386-h298-k-no"
+    ],
+    "kategori": [
+      "taman",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Alam Mayang",
+    "alamat": "Jl. Imam Munandar, Tengkerang Tim., Kec. Tenayan Raya, Riau",
+    "rating": "4.5",
+    "jumlah_review": "655",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.4959934,
+      "longitude": 101.5012957
+    },
+    "url": "https://www.google.com/maps/place/Alam+Mayang/data=!4m7!3m6!1s0x31d5af8e4510fc25:0xeebd6c80b85088e6!8m2!3d0.4959934!4d101.5012957!16s%2Fg%2F11t9b16g32!19sChIJJfwQRY6v1TER5ohQuIBsve4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqh21dTS0oxgz73d6rgpVXwRkT7C4jmItyk5yrFAwQZT_EpED7E5is-OGBC-kAw_f7_vuGhDTFRMJgc2xArtRqX2WLl9wb5lf7CDc2JUEXe5JuUT52PN8R8O9LfkYp_4sqxWXXt=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqh21dTS0oxgz73d6rgpVXwRkT7C4jmItyk5yrFAwQZT_EpED7E5is-OGBC-kAw_f7_vuGhDTFRMJgc2xArtRqX2WLl9wb5lf7CDc2JUEXe5JuUT52PN8R8O9LfkYp_4sqxWXXt=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqh21dTS0oxgz73d6rgpVXwRkT7C4jmItyk5yrFAwQZT_EpED7E5is-OGBC-kAw_f7_vuGhDTFRMJgc2xArtRqX2WLl9wb5lf7CDc2JUEXe5JuUT52PN8R8O9LfkYp_4sqxWXXt=w397-h298-k-no"
+    ],
+    "kategori": [
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Agro Wisata Bukit Naang",
+    "alamat": "JL Lintas Bangkinang Petapahan, Bangkinang Seberang, Kampar, Pasir Sialang",
+    "rating": "3.9",
+    "jumlah_review": "101",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.4066178,
+      "longitude": 101.0119849
+    },
+    "url": "https://www.google.com/maps/place/Agro+Wisata+Bukit+Naang/data=!4m7!3m6!1s0x31d517b2fb65a8c7:0x508f7e7555a1af44!8m2!3d0.4066178!4d101.0119849!16s%2Fg%2F11bc7ss1sl!19sChIJx6hl-7IX1TERRK-hVXV-j1A?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npMdiF60fAlQ34z0fjKa8w2x4COMqeTQ97-SpAAKBnJrm2bRU4JfubtVK853pRBobKtxaecZ_GEa6frYM5-VLLt5A9aVLbRpsZ2W7xe2baDsdqinaog88vdIrqcE5ZDEYb5Ke4=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npMdiF60fAlQ34z0fjKa8w2x4COMqeTQ97-SpAAKBnJrm2bRU4JfubtVK853pRBobKtxaecZ_GEa6frYM5-VLLt5A9aVLbRpsZ2W7xe2baDsdqinaog88vdIrqcE5ZDEYb5Ke4=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npMdiF60fAlQ34z0fjKa8w2x4COMqeTQ97-SpAAKBnJrm2bRU4JfubtVK853pRBobKtxaecZ_GEa6frYM5-VLLt5A9aVLbRpsZ2W7xe2baDsdqinaog88vdIrqcE5ZDEYb5Ke4=w529-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "D'Fidau Park (Love Refi)",
+    "alamat": "Jl. Seroja, kelurahan sialangrampai, Kec. Tenayan Raya",
+    "rating": "4.0",
+    "jumlah_review": "189",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.4481935,
+      "longitude": 101.5355814
+    },
+    "url": "https://www.google.com/maps/place/D%27Fidau+Park+%28Love+Refi%29/data=!4m7!3m6!1s0x31d5b1cf8787c015:0xbfcb9b8522a6ccb6!8m2!3d0.4481935!4d101.5355814!16s%2Fg%2F11jnp386ml!19sChIJFcCHh8-x1TERtsymIoWby78?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipNQ_zCcEDuQkWDtegONsD5r3TxZ7NHMHPrSrEYQ=w153-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNQ_zCcEDuQkWDtegONsD5r3TxZ7NHMHPrSrEYQ=w427-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNQ_zCcEDuQkWDtegONsD5r3TxZ7NHMHPrSrEYQ=w530-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Wisata Sawah Koto",
+    "alamat": "Rokan Koto Ruang, Kec. Rokan IV Koto",
+    "rating": "4.6",
+    "jumlah_review": "77",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.5651346,
+      "longitude": 100.4089146
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Sawah+Koto/data=!4m7!3m6!1s0x302ad93d57ef91ad:0x660714843abb802!8m2!3d0.5651346!4d100.4089146!16s%2Fg%2F11fmc5dwl7!19sChIJrZHvVz3ZKjARArirQ0hxYAY?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr8NQrvx2kbhE7xlBJVPBB3u7qS6K5SnGBj9SPvreYoND-rBaHja-mY3SLcy-1a3PP0uqldINv8yCSGJRnEpfK6SSGD3AXVni4GqJWYCTPWBaK003HYMasNQV9TIA4ZHSuhAcD2kQ=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr8NQrvx2kbhE7xlBJVPBB3u7qS6K5SnGBj9SPvreYoND-rBaHja-mY3SLcy-1a3PP0uqldINv8yCSGJRnEpfK6SSGD3AXVni4GqJWYCTPWBaK003HYMasNQV9TIA4ZHSuhAcD2kQ=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr8NQrvx2kbhE7xlBJVPBB3u7qS6K5SnGBj9SPvreYoND-rBaHja-mY3SLcy-1a3PP0uqldINv8yCSGJRnEpfK6SSGD3AXVni4GqJWYCTPWBaK003HYMasNQV9TIA4ZHSuhAcD2kQ=w224-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Danau Rusa Kampar",
+    "alamat": "Batu Bersurat, Kec. XIII Koto Kampar",
+    "rating": "4.1",
+    "jumlah_review": "253",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.3239957,
+      "longitude": 100.7710497
+    },
+    "url": "https://www.google.com/maps/place/Danau+Rusa+Kampar/data=!4m7!3m6!1s0x31d537a48f4fee6b:0xc7801798b4aea391!8m2!3d0.3239957!4d100.7710497!16s%2Fg%2F11g8btz_70!19sChIJa-5Pj6Q31TERkaOutJgXgMc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqVYEiUtJXErUcwl4TE1Uzc6cZtpqUfktrIDMiXrH1c-onQUUnvpalFVhh4IIaPB5s1Vsdk5vQviUGOqIr3ONo143ZcWSi3Hl0frkJVkXiFbP3AoeBkcIYP1nufWKmEOPP_83o=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqVYEiUtJXErUcwl4TE1Uzc6cZtpqUfktrIDMiXrH1c-onQUUnvpalFVhh4IIaPB5s1Vsdk5vQviUGOqIr3ONo143ZcWSi3Hl0frkJVkXiFbP3AoeBkcIYP1nufWKmEOPP_83o=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqVYEiUtJXErUcwl4TE1Uzc6cZtpqUfktrIDMiXrH1c-onQUUnvpalFVhh4IIaPB5s1Vsdk5vQviUGOqIr3ONo143ZcWSi3Hl0frkJVkXiFbP3AoeBkcIYP1nufWKmEOPP_83o=w529-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Badnur Miniatur Riau",
+    "alamat": "Jl. Semangka Jl. Melati, Simpang Baru, Kec. Tampan",
+    "rating": "4.3",
+    "jumlah_review": "116",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.4968405,
+      "longitude": 101.3806216
+    },
+    "url": "https://www.google.com/maps/place/Badnur+Miniatur+Riau/data=!4m7!3m6!1s0x31d5a9a0cc1206fd:0xef80c1009f6ddd16!8m2!3d0.4968405!4d101.3806216!16s%2Fg%2F11k39kjps7!19sChIJ_QYSzKCp1TERFt1tnwDBgO8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npk3vqjI8GBo7NBlRuUsB3CV0ZKukI11F2zFaIkmtC8lcPXyvLoZvDG4P3PAYySXwkEi95aZri1WKsRRo7HdcPpDw9rNeI1esb8WiK2rPT03j60RDcJFMeZBzNg2JC_RLBZuZAJUw=w86-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npk3vqjI8GBo7NBlRuUsB3CV0ZKukI11F2zFaIkmtC8lcPXyvLoZvDG4P3PAYySXwkEi95aZri1WKsRRo7HdcPpDw9rNeI1esb8WiK2rPT03j60RDcJFMeZBzNg2JC_RLBZuZAJUw=w408-h408-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npk3vqjI8GBo7NBlRuUsB3CV0ZKukI11F2zFaIkmtC8lcPXyvLoZvDG4P3PAYySXwkEi95aZri1WKsRRo7HdcPpDw9rNeI1esb8WiK2rPT03j60RDcJFMeZBzNg2JC_RLBZuZAJUw=w298-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Air Terjun AEK MATUA",
+    "alamat": "Bangun Purba Tim. Jaya, Kec. Bangun Purba",
+    "rating": "4.3",
+    "jumlah_review": "252",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.8532134,
+      "longitude": 100.1688612
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+AEK+MATUA/data=!4m7!3m6!1s0x302b6b6aaaaaaaab:0x8c05ea98c8a2190c!8m2!3d0.8532134!4d100.1688612!16s%2Fg%2F11b7wc5pts!19sChIJq6qqqmprKzARDBmiyJjqBYw?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqRfMci5-oLv3FT-vdzzgTyt4TvI1RkAtDp29Dx3yUGt98P-Znfxc1gWJI1K1vLkN26WRyEQ1Oxf13grZ1piexQpLbij7SSsiYcM7052PdltSUfq25EDLTs1q6uYgbb9DZU6nA=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqRfMci5-oLv3FT-vdzzgTyt4TvI1RkAtDp29Dx3yUGt98P-Znfxc1gWJI1K1vLkN26WRyEQ1Oxf13grZ1piexQpLbij7SSsiYcM7052PdltSUfq25EDLTs1q6uYgbb9DZU6nA=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqRfMci5-oLv3FT-vdzzgTyt4TvI1RkAtDp29Dx3yUGt98P-Znfxc1gWJI1K1vLkN26WRyEQ1Oxf13grZ1piexQpLbij7SSsiYcM7052PdltSUfq25EDLTs1q6uYgbb9DZU6nA=w397-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Air Terjun Gulamo (Green Canyon Kampar)",
+    "alamat": "Jembatan, Tanjung Alai, Kec. XIII Koto Kampar",
+    "rating": "4.5",
+    "jumlah_review": "196",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.3144452,
+      "longitude": 100.7783144
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Gulamo+%28Green+Canyon+Kampar%29/data=!4m7!3m6!1s0x31d5373d4ba75203:0xbacc85e8828b08ca!8m2!3d0.3144452!4d100.7783144!16s%2Fg%2F11jj32x_bs!19sChIJA1KnSz031TERygiLguiFzLo?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipNAsH9BQfOcZfKyYzlDnLmE26ZOt9bnVSj13vW5=w86-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNAsH9BQfOcZfKyYzlDnLmE26ZOt9bnVSj13vW5=w408-h408-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNAsH9BQfOcZfKyYzlDnLmE26ZOt9bnVSj13vW5=w298-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Air Terjun Guruh Gemurai",
+    "alamat": "Koto Lubuk Jambi, Kec. Kuantan Mudik",
+    "rating": "4.3",
+    "jumlah_review": "493",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.680387,
+      "longitude": 101.4337367
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Guruh+Gemurai/data=!4m7!3m6!1s0x2e2baec100000001:0xd6ecb842e4decbc7!8m2!3d-0.680387!4d101.4337367!16s%2Fg%2F11bwg74816!19sChIJAQAAAMGuKy4Rx8ve5EK47NY?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np9TxFtenGILpNjcIWaQnqzDaHfV_eNZLZgKd2VneV6ds5rPsAffYLT3bjFztoxGBQjuM1dXmPG94zo3AgBFdJjhK_SkZN8bwBcf0WS5oLJs_NhYVUbttSJ25pBVX40-4iEhkhR7w=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np9TxFtenGILpNjcIWaQnqzDaHfV_eNZLZgKd2VneV6ds5rPsAffYLT3bjFztoxGBQjuM1dXmPG94zo3AgBFdJjhK_SkZN8bwBcf0WS5oLJs_NhYVUbttSJ25pBVX40-4iEhkhR7w=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np9TxFtenGILpNjcIWaQnqzDaHfV_eNZLZgKd2VneV6ds5rPsAffYLT3bjFztoxGBQjuM1dXmPG94zo3AgBFdJjhK_SkZN8bwBcf0WS5oLJs_NhYVUbttSJ25pBVX40-4iEhkhR7w=w447-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "RTH Putri Kaca Mayang",
+    "alamat": "Jadirejo, Kec. Sukajadi",
+    "rating": "4.3",
+    "jumlah_review": "3.646",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.513718,
+      "longitude": 101.4483296
+    },
+    "url": "https://www.google.com/maps/place/RTH+Putri+Kaca+Mayang/data=!4m7!3m6!1s0x31d5aea7a802dd05:0xb401b0a809dc6695!8m2!3d0.513718!4d101.4483296!16s%2Fg%2F11g8tzkp4r!19sChIJBd0CqKeu1TERlWbcCaiwAbQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "Riau",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noigmdLLOdRjnHGJCIVqtRw-pRZLTsRpFsuvw0NjRPfmolQjpXOYgy2vGdQQGimOVb6zM73W7nsEvmPVQh0EcrlixU-4WBNy429gllx8kVebnr9aedm3LnDCCFAMUoxOo-uviXQ=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noigmdLLOdRjnHGJCIVqtRw-pRZLTsRpFsuvw0NjRPfmolQjpXOYgy2vGdQQGimOVb6zM73W7nsEvmPVQh0EcrlixU-4WBNy429gllx8kVebnr9aedm3LnDCCFAMUoxOo-uviXQ=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noigmdLLOdRjnHGJCIVqtRw-pRZLTsRpFsuvw0NjRPfmolQjpXOYgy2vGdQQGimOVb6zM73W7nsEvmPVQh0EcrlixU-4WBNy429gllx8kVebnr9aedm3LnDCCFAMUoxOo-uviXQ=w447-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  }
+]
