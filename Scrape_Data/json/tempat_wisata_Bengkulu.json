@@ -1,0 +1,739 @@
+[
+  {
+    "nama": "Taman Pantai Berkas",
+    "alamat": "Ps. Berkas, Kec. Tlk. Segara, Bengkulu",
+    "rating": "4.3",
+    "jumlah_review": "2.883",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.7993615,
+      "longitude": 102.2551106
+    },
+    "url": "https://www.google.com/maps/place/Taman+Pantai+Berkas/data=!4m7!3m6!1s0x2e36b01fd98fbff3:0xb8dd80d54f9270f2!8m2!3d-3.7993615!4d102.2551106!16s%2Fg%2F11gd67324m!19sChIJ87-P2R-wNi4R8nCST9WA3bg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noIfW86bcQIWs1gB5ZxrvXM65n5S_K8bAj0wonjAfm06JAjbOGSkIah-ZVR5uTDurInqz2xFNm4qJ0vf0gMUemzUGgWheHQnCN1bRMy_15qoNrPhPpOntg_0qr0j5dQul_IggCRzQ=w86-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noIfW86bcQIWs1gB5ZxrvXM65n5S_K8bAj0wonjAfm06JAjbOGSkIah-ZVR5uTDurInqz2xFNm4qJ0vf0gMUemzUGgWheHQnCN1bRMy_15qoNrPhPpOntg_0qr0j5dQul_IggCRzQ=w408-h408-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noIfW86bcQIWs1gB5ZxrvXM65n5S_K8bAj0wonjAfm06JAjbOGSkIah-ZVR5uTDurInqz2xFNm4qJ0vf0gMUemzUGgWheHQnCN1bRMy_15qoNrPhPpOntg_0qr0j5dQul_IggCRzQ=w298-h298-k-no"
+    ],
+    "kategori": [
+      "pantai",
+      "taman"
+    ]
+  },
+  {
+    "nama": "Lorong Watu",
+    "alamat": "Kemumu, Kec. Arga Makmur",
+    "rating": "4.4",
+    "jumlah_review": "46",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.4189621,
+      "longitude": 102.2690963
+    },
+    "url": "https://www.google.com/maps/place/Lorong+Watu/data=!4m7!3m6!1s0x2e31449f5879fd13:0x28bd98e938420bf!8m2!3d-3.4189621!4d102.2690963!16s%2Fg%2F11c2nc7cxf!19sChIJE_15WJ9EMS4RvyCEk47ZiwI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npqG0Wbrn1Ok7zLIAlWZR0iFftRnIvGiqTfVVIQOn8-ApHCkWCJyeskoa3qNwNtoKdxg_bqIcUrj9w0Dg9coPiP47vPr10RljmHKBsU28ylHqZyr7hOQ_CGIVQjHA51i4z4f-I=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npqG0Wbrn1Ok7zLIAlWZR0iFftRnIvGiqTfVVIQOn8-ApHCkWCJyeskoa3qNwNtoKdxg_bqIcUrj9w0Dg9coPiP47vPr10RljmHKBsU28ylHqZyr7hOQ_CGIVQjHA51i4z4f-I=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npqG0Wbrn1Ok7zLIAlWZR0iFftRnIvGiqTfVVIQOn8-ApHCkWCJyeskoa3qNwNtoKdxg_bqIcUrj9w0Dg9coPiP47vPr10RljmHKBsU28ylHqZyr7hOQ_CGIVQjHA51i4z4f-I=w529-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Danau Mas",
+    "alamat": "Karang Jaya, Kec. Selupu Rejang",
+    "rating": "4.2",
+    "jumlah_review": "1.227",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.4538083,
+      "longitude": 102.6560103
+    },
+    "url": "https://www.google.com/maps/place/Danau+Mas/data=!4m7!3m6!1s0x2e3124e2e6b28789:0x62e1d943577363c2!8m2!3d-3.4538083!4d102.6560103!16s%2Fg%2F11b73mg0cy!19sChIJiYey5uIkMS4RwmNzV0PZ4WI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noSnnvOystqhG5f5o03_Zoe6qTd5LA08BwnSV3LAz47kPDy0P3LU4ZkYOrk0JVptkjls7jGLGrK34wHQX0E3dcgdkblJkT9yuPbetTZraC0iIXjlfLbVrnUQJm_eOoEZvWFT1Ru8A=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noSnnvOystqhG5f5o03_Zoe6qTd5LA08BwnSV3LAz47kPDy0P3LU4ZkYOrk0JVptkjls7jGLGrK34wHQX0E3dcgdkblJkT9yuPbetTZraC0iIXjlfLbVrnUQJm_eOoEZvWFT1Ru8A=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noSnnvOystqhG5f5o03_Zoe6qTd5LA08BwnSV3LAz47kPDy0P3LU4ZkYOrk0JVptkjls7jGLGrK34wHQX0E3dcgdkblJkT9yuPbetTZraC0iIXjlfLbVrnUQJm_eOoEZvWFT1Ru8A=w529-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Rumah Ibu Fatmawati Soekarno",
+    "alamat": "Penurunan, Kec. Ratu Samban",
+    "rating": "4.6",
+    "jumlah_review": "1.224",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.7983027,
+      "longitude": 102.2654478
+    },
+    "url": "https://www.google.com/maps/place/Rumah+Ibu+Fatmawati+Soekarno/data=!4m7!3m6!1s0x2e36b0181a05e735:0xd30d930ef44c67ba!8m2!3d-3.7983027!4d102.2654478!16s%2Fg%2F11c2q34k60!19sChIJNecFGhiwNi4RumdM9A6TDdM?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4novD1-9ZJLnVzvY5JNDu-PpVKWy56qrcsRK7ymJ-s8vMZ8Wv5c_Gr-7DPB6_jKk9JQJTpOmRXrG0tV8l_t59u9L50EWVkl6HBBSxL7YwdP6DN7zhOnAlNeuY9eabBbinAS2w8y9=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4novD1-9ZJLnVzvY5JNDu-PpVKWy56qrcsRK7ymJ-s8vMZ8Wv5c_Gr-7DPB6_jKk9JQJTpOmRXrG0tV8l_t59u9L50EWVkl6HBBSxL7YwdP6DN7zhOnAlNeuY9eabBbinAS2w8y9=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4novD1-9ZJLnVzvY5JNDu-PpVKWy56qrcsRK7ymJ-s8vMZ8Wv5c_Gr-7DPB6_jKk9JQJTpOmRXrG0tV8l_t59u9L50EWVkl6HBBSxL7YwdP6DN7zhOnAlNeuY9eabBbinAS2w8y9=w224-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pesona 88 Curup",
+    "alamat": "Jl. H. Agus Salim, Lubuk Ubar, Kec. Curup Sel.",
+    "rating": "4.3",
+    "jumlah_review": "334",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.4938673,
+      "longitude": 102.5003658
+    },
+    "url": "https://www.google.com/maps/place/Pesona+88+Curup/data=!4m7!3m6!1s0x2e31397867fb584d:0x76e57e82ea8aece8!8m2!3d-3.4938673!4d102.5003658!16s%2Fg%2F11lg2q5280!19sChIJTVj7Z3g5MS4R6OyK6oJ-5XY?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np2tDdtS-ZxZyaKfo0K-bbd9e-pwAKhnCCIXSCmULexm4M9jtihCSZnJnHFAQcg0rkcCTIq0wIc0DdCsGkxZMmjonIGFv6RFpL-OD68p3KXikO4nz0HwFXSGw_qu3NYWzVwGudQ=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np2tDdtS-ZxZyaKfo0K-bbd9e-pwAKhnCCIXSCmULexm4M9jtihCSZnJnHFAQcg0rkcCTIq0wIc0DdCsGkxZMmjonIGFv6RFpL-OD68p3KXikO4nz0HwFXSGw_qu3NYWzVwGudQ=w425-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np2tDdtS-ZxZyaKfo0K-bbd9e-pwAKhnCCIXSCmULexm4M9jtihCSZnJnHFAQcg0rkcCTIq0wIc0DdCsGkxZMmjonIGFv6RFpL-OD68p3KXikO4nz0HwFXSGw_qu3NYWzVwGudQ=w528-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Posko Bukit Kaba",
+    "alamat": "Sumber Urip, Kec. Selupu Rejang",
+    "rating": "4.6",
+    "jumlah_review": "213",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.4903212,
+      "longitude": 102.6404833
+    },
+    "url": "https://www.google.com/maps/place/Posko+Bukit+Kaba/data=!4m7!3m6!1s0x2e31255e97a6ac07:0x75488cfd28d5ef6f!8m2!3d-3.4903212!4d102.6404833!16s%2Fg%2F11clgcvlzx!19sChIJB6yml14lMS4Rb-_VKP2MSHU?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqrdR_LD_NNfBEHmzWe-jFSjjCw6aMaBFIoTYDL73HK86uVQIY2ZcUPu_w-Bs8AruaqSKXfPXQGyI7Y9FBeMvPCdx4XXeZInblXE4k_iocZgbHiVQsbx0rc0LZLajrUmrAHwOKy=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqrdR_LD_NNfBEHmzWe-jFSjjCw6aMaBFIoTYDL73HK86uVQIY2ZcUPu_w-Bs8AruaqSKXfPXQGyI7Y9FBeMvPCdx4XXeZInblXE4k_iocZgbHiVQsbx0rc0LZLajrUmrAHwOKy=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqrdR_LD_NNfBEHmzWe-jFSjjCw6aMaBFIoTYDL73HK86uVQIY2ZcUPu_w-Bs8AruaqSKXfPXQGyI7Y9FBeMvPCdx4XXeZInblXE4k_iocZgbHiVQsbx0rc0LZLajrUmrAHwOKy=w397-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Wisata Lubuk Batu Kambing",
+    "alamat": "Desa, Padang kedeper, Kec. Merigi Kelindang, Bengkulu",
+    "rating": "4.4",
+    "jumlah_review": "37",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.6880398,
+      "longitude": 102.4858768
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Lubuk+Batu+Kambing/data=!4m7!3m6!1s0x2e36cbc6fbebee71:0x1b9bdbc1842ae76f!8m2!3d-3.6880398!4d102.4858768!16s%2Fg%2F11rz9ncb39!19sChIJce7r-8bLNi4Rb-cqhMHbmxs?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqrKB1LGuSqR7OYhO7hPejsSPoiCX3iZqzkxFaJ08M7vzX7LVHfZx9gdzdJsGJmCVM4YQ6DysFnWz7CQoN0W_iUuI1vBXXg3w9fqjXwYqg4ytJMWea2SuwFFAqnXS3Fm0Mx3Axh=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqrKB1LGuSqR7OYhO7hPejsSPoiCX3iZqzkxFaJ08M7vzX7LVHfZx9gdzdJsGJmCVM4YQ6DysFnWz7CQoN0W_iUuI1vBXXg3w9fqjXwYqg4ytJMWea2SuwFFAqnXS3Fm0Mx3Axh=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqrKB1LGuSqR7OYhO7hPejsSPoiCX3iZqzkxFaJ08M7vzX7LVHfZx9gdzdJsGJmCVM4YQ6DysFnWz7CQoN0W_iUuI1vBXXg3w9fqjXwYqg4ytJMWea2SuwFFAqnXS3Fm0Mx3Axh=w224-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Air Terjun Suban Air Panas",
+    "alamat": "Cawang Baru, Kec. Selupu Rejang",
+    "rating": "4.1",
+    "jumlah_review": "12",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.4626428,
+      "longitude": 102.5711371
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Suban+Air+Panas/data=!4m7!3m6!1s0x2e313b94a5d9302f:0xef4d1e6cd5c59f14!8m2!3d-3.4626428!4d102.5711371!16s%2Fg%2F11ss_trql8!19sChIJLzDZpZQ7MS4RFJ_F1WweTe8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrcovI29E8s2CK-MtkI4KuM59B9Dq6xJaVhZo8nnDkVxZhGMyjlSgkCNSAqwUSBFeWR_7yOs2lush_9hr-3Zlqeod8kVi89QCcsSZ3G5ZGhwrcDhteZI_qSuhaXwlG6cz0TrA=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrcovI29E8s2CK-MtkI4KuM59B9Dq6xJaVhZo8nnDkVxZhGMyjlSgkCNSAqwUSBFeWR_7yOs2lush_9hr-3Zlqeod8kVi89QCcsSZ3G5ZGhwrcDhteZI_qSuhaXwlG6cz0TrA=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrcovI29E8s2CK-MtkI4KuM59B9Dq6xJaVhZo8nnDkVxZhGMyjlSgkCNSAqwUSBFeWR_7yOs2lush_9hr-3Zlqeod8kVi89QCcsSZ3G5ZGhwrcDhteZI_qSuhaXwlG6cz0TrA=w224-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Kampoeng Durian",
+    "alamat": "Datar Lebar, Kec. Taba Penanjung",
+    "rating": "4.4",
+    "jumlah_review": "369",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.6865733,
+      "longitude": 102.4935083
+    },
+    "url": "https://www.google.com/maps/place/Kampoeng+Durian/data=!4m7!3m6!1s0x2e36cbbb34c2d95f:0x5ed974996cf827f1!8m2!3d-3.6865733!4d102.4935083!16s%2Fg%2F11rmszywm8!19sChIJX9nCNLvLNi4R8Sf4bJl02V4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr1g8dyzoI1TPVY8lJDicGyjb_fQzoftfWtYG3kB2tsGzOQS971ZREFafzVYHd6zrHTAzuAY-f5pxcbTL9Gk1fHsBBoD7_ENQqBt3Z_Z34xIqb7X5HP6qddPfikR155bxYoX2k=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr1g8dyzoI1TPVY8lJDicGyjb_fQzoftfWtYG3kB2tsGzOQS971ZREFafzVYHd6zrHTAzuAY-f5pxcbTL9Gk1fHsBBoD7_ENQqBt3Z_Z34xIqb7X5HP6qddPfikR155bxYoX2k=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr1g8dyzoI1TPVY8lJDicGyjb_fQzoftfWtYG3kB2tsGzOQS971ZREFafzVYHd6zrHTAzuAY-f5pxcbTL9Gk1fHsBBoD7_ENQqBt3Z_Z34xIqb7X5HP6qddPfikR155bxYoX2k=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pantai Berkas",
+    "alamat": "Ps. Berkas, Bengkulu",
+    "rating": "4.6",
+    "jumlah_review": "146",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.7986295,
+      "longitude": 102.2530043
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Berkas/data=!4m7!3m6!1s0x2e36afb77519ad0d:0x2aa269d452712b74!8m2!3d-3.7986295!4d102.2530043!16s%2Fg%2F11j4y44vvk!19sChIJDa0ZdbevNi4RdCtxUtRpoio?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrUsjdStSVOR-lPGSbMpUhsEVHrV82g9iQFvWEXEIYqbv4Sv35ohHIimOXvUR5Wc_5ey-MAh2SGKL2sun7Lcw1h8oN1y1-2Q6j2GmtN4U1ZeNJrR1LhfPQ_tzoxMmDOnUC8hAvH=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrUsjdStSVOR-lPGSbMpUhsEVHrV82g9iQFvWEXEIYqbv4Sv35ohHIimOXvUR5Wc_5ey-MAh2SGKL2sun7Lcw1h8oN1y1-2Q6j2GmtN4U1ZeNJrR1LhfPQ_tzoxMmDOnUC8hAvH=w408-h307-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrUsjdStSVOR-lPGSbMpUhsEVHrV82g9iQFvWEXEIYqbv4Sv35ohHIimOXvUR5Wc_5ey-MAh2SGKL2sun7Lcw1h8oN1y1-2Q6j2GmtN4U1ZeNJrR1LhfPQ_tzoxMmDOnUC8hAvH=w395-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Spot Kepahiang Mountain Valley",
+    "alamat": "Tugu Rejo, Kec. Kabawetan",
+    "rating": "4.6",
+    "jumlah_review": "75",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.5933334,
+      "longitude": 102.6184771
+    },
+    "url": "https://www.google.com/maps/place/Spot+Kepahiang+Mountain+Valley/data=!4m7!3m6!1s0x2e312d886b8d4ac1:0xdccb30680d393429!8m2!3d-3.5933334!4d102.6184771!16s%2Fg%2F11fk7z1tzc!19sChIJwUqNa4gtMS4RKTQ5DWgwy9w?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrlw3IpiQjua_qooxuzEclMk5guX9UW9Wvd6TtrdBJCcqwTx-olboCUeAex9MvdIIqxPHLnXeKfqYljHXbr19zCp0jNEbwzM-x_tAb5TlpGlfve5Xj4NeTntMijwnA_AtOwBl-OVA=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrlw3IpiQjua_qooxuzEclMk5guX9UW9Wvd6TtrdBJCcqwTx-olboCUeAex9MvdIIqxPHLnXeKfqYljHXbr19zCp0jNEbwzM-x_tAb5TlpGlfve5Xj4NeTntMijwnA_AtOwBl-OVA=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrlw3IpiQjua_qooxuzEclMk5guX9UW9Wvd6TtrdBJCcqwTx-olboCUeAex9MvdIIqxPHLnXeKfqYljHXbr19zCp0jNEbwzM-x_tAb5TlpGlfve5Xj4NeTntMijwnA_AtOwBl-OVA=w529-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "View Tower",
+    "alamat": "Malabero, Kec. Tlk. Segara",
+    "rating": "4.2",
+    "jumlah_review": "1.193",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.7902834,
+      "longitude": 102.2508978
+    },
+    "url": "https://www.google.com/maps/place/View+Tower/data=!4m7!3m6!1s0x2e36afd909f33879:0xc8838ff4f36ca19!8m2!3d-3.7902834!4d102.2508978!16s%2Fg%2F11bzrpsmkj!19sChIJeTjzCdmvNi4RGco2T_84iAw?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nozEtBLFEBgODFbd2q0SZl6zKBEi82MhWO6fz7LlfLV5VVnpj7DxLwhdeIbLsappdvc8qDXcUV7J7s5R9o9NVNJ1nxWqlMmKr4qmtfxMzpQjyVpCrLO7l_GZKmAENBynwc-XyUsQw=w86-h124-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nozEtBLFEBgODFbd2q0SZl6zKBEi82MhWO6fz7LlfLV5VVnpj7DxLwhdeIbLsappdvc8qDXcUV7J7s5R9o9NVNJ1nxWqlMmKr4qmtfxMzpQjyVpCrLO7l_GZKmAENBynwc-XyUsQw=w408-h591-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nozEtBLFEBgODFbd2q0SZl6zKBEi82MhWO6fz7LlfLV5VVnpj7DxLwhdeIbLsappdvc8qDXcUV7J7s5R9o9NVNJ1nxWqlMmKr4qmtfxMzpQjyVpCrLO7l_GZKmAENBynwc-XyUsQw=w224-h324-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Taman Wisata Pulau Kumayan Kota Bengkulu",
+    "alamat": "Jl. Halmahera, Surabaya, Kec. Sungai Serut",
+    "rating": "4.1",
+    "jumlah_review": "216",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.8015894,
+      "longitude": 102.3273528
+    },
+    "url": "https://www.google.com/maps/place/Taman+Wisata+Pulau+Kumayan+Kota+Bengkulu/data=!4m7!3m6!1s0x2e36b14b4bb7e105:0xf83aaf34038704b7!8m2!3d-3.8015894!4d102.3273528!16s%2Fg%2F11j_vy4zb7!19sChIJBeG3S0uxNi4RtwSHAzSvOvg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipPCDtc6Z51W8kgquajpk6ZzMXVsqfCqZCvhFs3o=w86-h107-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPCDtc6Z51W8kgquajpk6ZzMXVsqfCqZCvhFs3o=w408-h510-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPCDtc6Z51W8kgquajpk6ZzMXVsqfCqZCvhFs3o=w238-h298-k-no"
+    ],
+    "kategori": [
+      "taman",
+      "pulau"
+    ]
+  },
+  {
+    "nama": "Air Terjun Datar Lebar",
+    "alamat": "Datar Lebar, Kec. Taba Penanjung",
+    "rating": "4.2",
+    "jumlah_review": "30",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.6837819,
+      "longitude": 102.5081659
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Datar+Lebar/data=!4m7!3m6!1s0x2e36cb5055555555:0xcf4df0ecf90c3895!8m2!3d-3.6837819!4d102.5081659!16s%2Fg%2F11fz9hwc1x!19sChIJVVVVVVDLNi4RlTgM-ezwTc8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrgmlSZdB3FCRq3yG9EnCFI-KLTOAVC2BSxwf3Zu0xdj-LOj3locWlt5PeHva45oHE97op22si400lBqNd4wzFFhiKVmh9SR2m5NtxrJZS2u0eF20XsptpUT0pOmU2L1sPrcwlr=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrgmlSZdB3FCRq3yG9EnCFI-KLTOAVC2BSxwf3Zu0xdj-LOj3locWlt5PeHva45oHE97op22si400lBqNd4wzFFhiKVmh9SR2m5NtxrJZS2u0eF20XsptpUT0pOmU2L1sPrcwlr=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrgmlSZdB3FCRq3yG9EnCFI-KLTOAVC2BSxwf3Zu0xdj-LOj3locWlt5PeHva45oHE97op22si400lBqNd4wzFFhiKVmh9SR2m5NtxrJZS2u0eF20XsptpUT0pOmU2L1sPrcwlr=w224-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Pantai Padang Betuah",
+    "alamat": "Padang Betuah, Kec. Pd. Klp., Bengkulu",
+    "rating": "4.4",
+    "jumlah_review": "315",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.6540292,
+      "longitude": 102.2068603
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Padang+Betuah/data=!4m7!3m6!1s0x2e3152d596e0d6d9:0x484dbe15b09fa895!8m2!3d-3.6540292!4d102.2068603!16s%2Fg%2F11csb12vst!19sChIJ2dbgltVSMS4RlaifsBW-TUg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqStuMBZNMgrxIAVHv8cyAzcUWQZI0y6mtWwBXv_3ZMQ5wYTLuJfeUvGrO_1REXu7TcX5YyUnkzkvUmRprCLRJKea8fkoeQCU-di7EKnMyRZ_WZZ6xWcBsvlbRhg4BSAaCAF0Y=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqStuMBZNMgrxIAVHv8cyAzcUWQZI0y6mtWwBXv_3ZMQ5wYTLuJfeUvGrO_1REXu7TcX5YyUnkzkvUmRprCLRJKea8fkoeQCU-di7EKnMyRZ_WZZ6xWcBsvlbRhg4BSAaCAF0Y=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqStuMBZNMgrxIAVHv8cyAzcUWQZI0y6mtWwBXv_3ZMQ5wYTLuJfeUvGrO_1REXu7TcX5YyUnkzkvUmRprCLRJKea8fkoeQCU-di7EKnMyRZ_WZZ6xWcBsvlbRhg4BSAaCAF0Y=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Wisata Hutan mangrove pulaubaai",
+    "alamat": "Padang Serai, Kec. Kp. Melayu, Bengkulu",
+    "rating": "4.3",
+    "jumlah_review": "1.174",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.904439,
+      "longitude": 102.3082746
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Hutan+mangrove+pulaubaai/data=!4m7!3m6!1s0x2e36bc7bb1777c07:0x98664c9a850751d0!8m2!3d-3.904439!4d102.3082746!16s%2Fg%2F11fy4hh2sm!19sChIJB3x3sXu8Ni4R0FEHhZpMZpg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipO2YoZqzHYTvLpvfWmjpZ3bPIhM8CmpNfl0LpOl=w151-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipO2YoZqzHYTvLpvfWmjpZ3bPIhM8CmpNfl0LpOl=w421-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipO2YoZqzHYTvLpvfWmjpZ3bPIhM8CmpNfl0LpOl=w523-h298-k-no"
+    ],
+    "kategori": [
+      "pulau"
+    ]
+  },
+  {
+    "nama": "Taman Remaja Bengkulu",
+    "alamat": "Lkr. Tim., Kec. Singaran Pati",
+    "rating": "3.6",
+    "jumlah_review": "849",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.8220413,
+      "longitude": 102.3023587
+    },
+    "url": "https://www.google.com/maps/place/Taman+Remaja+Bengkulu/data=!4m7!3m6!1s0x2e36ba7dcec65d69:0x4437ea3f9d8355f6!8m2!3d-3.8220413!4d102.3023587!16s%2Fg%2F11bxm6y8rj!19sChIJaV3Gzn26Ni4R9lWDnT_qN0Q?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrDyeRvoLLPP1jaFwEdyqegUKljImoFDeh0eAZpOTVaHiFNrPkKq3kUGrikUnyMOvPHzO34xeBogibIkC9cUl0X_dFwJt0mvB8x1LVWX6Al3-_bbIx1o8KGqw5_6iw7_Nf3yS5Z=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrDyeRvoLLPP1jaFwEdyqegUKljImoFDeh0eAZpOTVaHiFNrPkKq3kUGrikUnyMOvPHzO34xeBogibIkC9cUl0X_dFwJt0mvB8x1LVWX6Al3-_bbIx1o8KGqw5_6iw7_Nf3yS5Z=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrDyeRvoLLPP1jaFwEdyqegUKljImoFDeh0eAZpOTVaHiFNrPkKq3kUGrikUnyMOvPHzO34xeBogibIkC9cUl0X_dFwJt0mvB8x1LVWX6Al3-_bbIx1o8KGqw5_6iw7_Nf3yS5Z=w224-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Wisata Pulau Tikus 3 putra Bengkulu",
+    "alamat": "Sumur Melele, Kec. Tlk. Segara, Bengkulu",
+    "rating": "4.4",
+    "jumlah_review": "48",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.7942895,
+      "longitude": 102.2486518
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Pulau+Tikus+3+putra+Bengkulu/data=!4m7!3m6!1s0x2e36afdc25de4307:0x4a509ccab9864ef7!8m2!3d-3.7942895!4d102.2486518!16s%2Fg%2F11dxjxl59p!19sChIJB0PeJdyvNi4R906GucqcUEo?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipN3blHwNhnqa5Dugp8yzi0_jR57dq0QgpH5bZ7y=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipN3blHwNhnqa5Dugp8yzi0_jR57dq0QgpH5bZ7y=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipN3blHwNhnqa5Dugp8yzi0_jR57dq0QgpH5bZ7y=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pulau"
+    ]
+  },
+  {
+    "nama": "Pantai Teluk Sepang",
+    "alamat": "jln No.kel, Tlk. Sepang, Kec. Kp. Melayu",
+    "rating": "4.3",
+    "jumlah_review": "82",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.9398918,
+      "longitude": 102.2790261
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Teluk+Sepang/data=!4m7!3m6!1s0x2e36bd1f72a2a627:0xcde8909e56944ab1!8m2!3d-3.9398918!4d102.2790261!16s%2Fg%2F11hbnz4nj8!19sChIJJ6aich-9Ni4RsUqUVp6Q6M0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrJ7B5nWrx_ltL2Nw1mHpKr6uApIIcMSWF1rNpZbV-l6e9neX75yxYMxWq3YblzYE4BiYpFBQF7brfiyDIrfn4JCoZ1tWM2O_bXFVGnmlCm0FPjU_KAn11f2iDKtzWkxFJSyllL=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrJ7B5nWrx_ltL2Nw1mHpKr6uApIIcMSWF1rNpZbV-l6e9neX75yxYMxWq3YblzYE4BiYpFBQF7brfiyDIrfn4JCoZ1tWM2O_bXFVGnmlCm0FPjU_KAn11f2iDKtzWkxFJSyllL=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrJ7B5nWrx_ltL2Nw1mHpKr6uApIIcMSWF1rNpZbV-l6e9neX75yxYMxWq3YblzYE4BiYpFBQF7brfiyDIrfn4JCoZ1tWM2O_bXFVGnmlCm0FPjU_KAn11f2iDKtzWkxFJSyllL=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Air Terjun Lemo Nakai",
+    "alamat": "Unnamed Road, Batu Raja Rejang, Hulu Palik",
+    "rating": "4.6",
+    "jumlah_review": "100",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.4591121,
+      "longitude": 102.3243179
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Lemo+Nakai/data=!4m7!3m6!1s0x2e3145d3f98a145f:0x439dfbc89527be71!8m2!3d-3.4591121!4d102.3243179!16s%2Fg%2F11jp4rmnck!19sChIJXxSK-dNFMS4Rcb4nlcj7nUM?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqWY-aYN6POZOuFN-X6UqmPiavSIXWScodXk2ppUTV71kkDOWiBkjfGcPiUgT8TYp70-kTQVm3LPTfg-bCQ7N9gj-Y5Km1bZYQ6n0jWencwozsehyIrEpPLX53XfiE0doqHKIbJQg=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqWY-aYN6POZOuFN-X6UqmPiavSIXWScodXk2ppUTV71kkDOWiBkjfGcPiUgT8TYp70-kTQVm3LPTfg-bCQ7N9gj-Y5Km1bZYQ6n0jWencwozsehyIrEpPLX53XfiE0doqHKIbJQg=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqWY-aYN6POZOuFN-X6UqmPiavSIXWScodXk2ppUTV71kkDOWiBkjfGcPiUgT8TYp70-kTQVm3LPTfg-bCQ7N9gj-Y5Km1bZYQ6n0jWencwozsehyIrEpPLX53XfiE0doqHKIbJQg=w397-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Air Terjun Tri Muara Karang",
+    "alamat": "Belitar Seberang, Kec. Sindang Kelingi",
+    "rating": "4.7",
+    "jumlah_review": "224",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.4795389,
+      "longitude": 102.7143383
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Tri+Muara+Karang/data=!4m7!3m6!1s0x2e312674267f0ffd:0x618ddf6f2bcf94c5!8m2!3d-3.4795389!4d102.7143383!16s%2Fg%2F11dx8_s_ql!19sChIJ_Q9_JnQmMS4RxZTPK2_fjWE?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npoTFa2l4tgQy-pQK5l6raQJOr0y2YkbD72SOdH42zpMokHQ3UCVO9MTgSIIF93gbIpRU-2DFDgBedbPHkv0umkYT1-6-UpCMvMqSGlnxJX_FxS19r3Vv2qQF7pTo9hhUVpwo-aHQ=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npoTFa2l4tgQy-pQK5l6raQJOr0y2YkbD72SOdH42zpMokHQ3UCVO9MTgSIIF93gbIpRU-2DFDgBedbPHkv0umkYT1-6-UpCMvMqSGlnxJX_FxS19r3Vv2qQF7pTo9hhUVpwo-aHQ=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npoTFa2l4tgQy-pQK5l6raQJOr0y2YkbD72SOdH42zpMokHQ3UCVO9MTgSIIF93gbIpRU-2DFDgBedbPHkv0umkYT1-6-UpCMvMqSGlnxJX_FxS19r3Vv2qQF7pTo9hhUVpwo-aHQ=w397-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Wisata Edukasi Queen",
+    "alamat": "Betungan, Kec. Selebar",
+    "rating": "4.2",
+    "jumlah_review": "153",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.8648738,
+      "longitude": 102.3623637
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Edukasi+Queen/data=!4m7!3m6!1s0x2e36b9a7855a135d:0x1f2bd91f2eda323b!8m2!3d-3.8648738!4d102.3623637!16s%2Fg%2F11k3ps6ng5!19sChIJXRNahae5Ni4ROzLaLh_ZKx8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npVB7ooqycLf98f8630fHvxDdxhk0nALEFUJRkuwTBw6Wg-2GO-XOo6qLfIIzR_kgt4V6uyd8YBjOwrs_QlXwPxzrhiSGwWpN5WwJzKAFVGqpbAU2b1RpOtL8OisHlsUaymqlhpWw=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npVB7ooqycLf98f8630fHvxDdxhk0nALEFUJRkuwTBw6Wg-2GO-XOo6qLfIIzR_kgt4V6uyd8YBjOwrs_QlXwPxzrhiSGwWpN5WwJzKAFVGqpbAU2b1RpOtL8OisHlsUaymqlhpWw=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npVB7ooqycLf98f8630fHvxDdxhk0nALEFUJRkuwTBw6Wg-2GO-XOo6qLfIIzR_kgt4V6uyd8YBjOwrs_QlXwPxzrhiSGwWpN5WwJzKAFVGqpbAU2b1RpOtL8OisHlsUaymqlhpWw=w529-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Wisata TEBING SUBAN",
+    "alamat": "Jl. Raya Curup - Lubuk Linggau, Talang Ulu, Kec. Curup Tim.",
+    "rating": "4.4",
+    "jumlah_review": "1.461",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.4545479,
+      "longitude": 102.5648014
+    },
+    "url": "https://www.google.com/maps/place/Wisata+TEBING+SUBAN/data=!4m7!3m6!1s0x2e313b36aa3f9761:0x4b74a96e996c2e41!8m2!3d-3.4545479!4d102.5648014!16s%2Fg%2F11jll66s37!19sChIJYZc_qjY7MS4RQS5smW6pdEs?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrSbkH5xqEKZIt486oWG4BWP9E8pjfNGo1g9N21hck5amSUDn-1amCVwAPtBSkenagymaixs-sTZzhkHWFPx7scXgrBD-s2VC1d12BvUm2IvC1xUkKaLctm9kInJT9Mj_bIlJsZ=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrSbkH5xqEKZIt486oWG4BWP9E8pjfNGo1g9N21hck5amSUDn-1amCVwAPtBSkenagymaixs-sTZzhkHWFPx7scXgrBD-s2VC1d12BvUm2IvC1xUkKaLctm9kInJT9Mj_bIlJsZ=w408-h543-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrSbkH5xqEKZIt486oWG4BWP9E8pjfNGo1g9N21hck5amSUDn-1amCVwAPtBSkenagymaixs-sTZzhkHWFPx7scXgrBD-s2VC1d12BvUm2IvC1xUkKaLctm9kInJT9Mj_bIlJsZ=w224-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "WISATA BUMDES DANAU GEDANG",
+    "alamat": "Padang Betuah, Kec. Pd. Klp., Bengkulu",
+    "rating": "4.2",
+    "jumlah_review": "101",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.6558554,
+      "longitude": 102.2095948
+    },
+    "url": "https://www.google.com/maps/place/WISATA+BUMDES+DANAU+GEDANG/data=!4m7!3m6!1s0x2e3153fadd296c39:0xd8756b996ebe4559!8m2!3d-3.6558554!4d102.2095948!16s%2Fg%2F11q47_z8nh!19sChIJOWwp3fpTMS4RWUW-bplrddg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqtfW78ys1-zK4QJMk_iSqmH8W5ubMkPlr-LIArtL3_VosQfi1Fywu57SBxH_NsDgzfVdePDBno8ctpWEwGR4xxfVTfel_brZ8w6F2_yHYNamx75I9ZyHrsygvMLnKWdIT1pdzcjA=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqtfW78ys1-zK4QJMk_iSqmH8W5ubMkPlr-LIArtL3_VosQfi1Fywu57SBxH_NsDgzfVdePDBno8ctpWEwGR4xxfVTfel_brZ8w6F2_yHYNamx75I9ZyHrsygvMLnKWdIT1pdzcjA=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqtfW78ys1-zK4QJMk_iSqmH8W5ubMkPlr-LIArtL3_VosQfi1Fywu57SBxH_NsDgzfVdePDBno8ctpWEwGR4xxfVTfel_brZ8w6F2_yHYNamx75I9ZyHrsygvMLnKWdIT1pdzcjA=w224-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Pantai Tapak Paderi",
+    "alamat": "Kebun Keling, Kec. Tlk. Segara",
+    "rating": "4.4",
+    "jumlah_review": "433",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.7849049,
+      "longitude": 102.2534603
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Tapak+Paderi/data=!4m7!3m6!1s0x2e36afd66f58d72f:0x2b0fbbf390cdfbda!8m2!3d-3.7849049!4d102.2534603!16s%2Fg%2F11cn_j3cty!19sChIJL9dYb9avNi4R2vvNkPO7Dys?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrkSllktfzLSHOh63vhPmsN0Sc4pzhJnQ3j2NOOjOLNhQ7WoSco0dz-A5h7TSc1bgDNwYinna7a3UvR4e3lvTy86NQsB_JVqB2LKF3WxuKnsg13A42x95izMY3rQCP8Saldi8YCkg=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrkSllktfzLSHOh63vhPmsN0Sc4pzhJnQ3j2NOOjOLNhQ7WoSco0dz-A5h7TSc1bgDNwYinna7a3UvR4e3lvTy86NQsB_JVqB2LKF3WxuKnsg13A42x95izMY3rQCP8Saldi8YCkg=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrkSllktfzLSHOh63vhPmsN0Sc4pzhJnQ3j2NOOjOLNhQ7WoSco0dz-A5h7TSc1bgDNwYinna7a3UvR4e3lvTy86NQsB_JVqB2LKF3WxuKnsg13A42x95izMY3rQCP8Saldi8YCkg=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pantai Pasir Putih",
+    "alamat": "Lempuing, Kec. Ratu Agung, Bengkulu",
+    "rating": "4.5",
+    "jumlah_review": "2.439",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.8313934,
+      "longitude": 102.2835105
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Pasir+Putih/data=!4m7!3m6!1s0x2e36ba96af6d70f1:0x3ae912ab3a3eb09!8m2!3d-3.8313934!4d102.2835105!16s%2Fg%2F11f3p1kkzw!19sChIJ8XBtr5a6Ni4RCeujsyqRrgM?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npDxlv6MMxACtSeY5pCH1dthD9_FoHLrmhWnQQUDI98KxGhh-hcHYqeJwvrU3g7nG2oOhv5k1RAvTfk679oKmqMv186SoZKJrpbwxs6Wpn6zI0ypLbpfkQ2Ra7Eq-UK3BdP85Db=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npDxlv6MMxACtSeY5pCH1dthD9_FoHLrmhWnQQUDI98KxGhh-hcHYqeJwvrU3g7nG2oOhv5k1RAvTfk679oKmqMv186SoZKJrpbwxs6Wpn6zI0ypLbpfkQ2Ra7Eq-UK3BdP85Db=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npDxlv6MMxACtSeY5pCH1dthD9_FoHLrmhWnQQUDI98KxGhh-hcHYqeJwvrU3g7nG2oOhv5k1RAvTfk679oKmqMv186SoZKJrpbwxs6Wpn6zI0ypLbpfkQ2Ra7Eq-UK3BdP85Db=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Kawasan Wisata Suban Air Panas Curup",
+    "alamat": "Cawang Baru, Kec. Curup Tim.",
+    "rating": "4.3",
+    "jumlah_review": "2.130",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.4613354,
+      "longitude": 102.5691449
+    },
+    "url": "https://www.google.com/maps/place/Kawasan+Wisata+Suban+Air+Panas+Curup/data=!4m7!3m6!1s0x2e313a56cabc294d:0xad08aafb00791d6!8m2!3d-3.4613354!4d102.5691449!16s%2Fg%2F11cn0zg6cb!19sChIJTSm8ylY6MS4R1pEHsK-K0Ao?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npD9qqQyj3IEqiCSE1up6A2pgtiK61m6AZfYMmN5EOz7N2Q4n9btStS9DvpuNAo2zvsBUrDZzB_9KN8Y2ricDZwWcjexmq9J2qg_2VdC69pKw67sP8ztcsZvugCJNRfFLRNAA=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npD9qqQyj3IEqiCSE1up6A2pgtiK61m6AZfYMmN5EOz7N2Q4n9btStS9DvpuNAo2zvsBUrDZzB_9KN8Y2ricDZwWcjexmq9J2qg_2VdC69pKw67sP8ztcsZvugCJNRfFLRNAA=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npD9qqQyj3IEqiCSE1up6A2pgtiK61m6AZfYMmN5EOz7N2Q4n9btStS9DvpuNAo2zvsBUrDZzB_9KN8Y2ricDZwWcjexmq9J2qg_2VdC69pKw67sP8ztcsZvugCJNRfFLRNAA=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Danau Suro",
+    "alamat": "Suro Ilir, Kec. Ujan Mas",
+    "rating": "3.9",
+    "jumlah_review": "150",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.5519343,
+      "longitude": 102.5057174
+    },
+    "url": "https://www.google.com/maps/place/Danau+Suro/data=!4m7!3m6!1s0x2e3136ea146c0a8f:0xa54131cb937a525d!8m2!3d-3.5519343!4d102.5057174!16s%2Fg%2F11c4646x55!19sChIJjwpsFOo2MS4RXVJ6k8sxQaU?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noVf20uwm5vtCuxWGp8VjS6_N33Qw0tvbW-InXWscSHN0ItAD2Yb-nzrCCh0yRUVPGEQPd0fPS2PuOXaIQljmbxYJTwK9LxMb-U0wO_Ui7_qR8RM3K11RuZOHEViijkEWRbNyYA8g=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noVf20uwm5vtCuxWGp8VjS6_N33Qw0tvbW-InXWscSHN0ItAD2Yb-nzrCCh0yRUVPGEQPd0fPS2PuOXaIQljmbxYJTwK9LxMb-U0wO_Ui7_qR8RM3K11RuZOHEViijkEWRbNyYA8g=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noVf20uwm5vtCuxWGp8VjS6_N33Qw0tvbW-InXWscSHN0ItAD2Yb-nzrCCh0yRUVPGEQPd0fPS2PuOXaIQljmbxYJTwK9LxMb-U0wO_Ui7_qR8RM3K11RuZOHEViijkEWRbNyYA8g=w397-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Pantai Lentera Merah",
+    "alamat": "Kp. Melayu",
+    "rating": "4.4",
+    "jumlah_review": "290",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.8982971,
+      "longitude": 102.2788642
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Lentera+Merah/data=!4m7!3m6!1s0x2e36bc9b7eb879cb:0xb1ee0b9656e67292!8m2!3d-3.8982971!4d102.2788642!16s%2Fg%2F11cn3t7bz_!19sChIJy3m4fpu8Ni4RknLmVpYL7rE?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqz1JjofqIVCzVMTBl_-ggLqRr6oJN7R5Zj_OjVbJvZZ_9AZt47lgNfEb_RnRDv9W7l8cOgOWR1ZgC5qKh5XHcb973wLzFoY4z-yZjKcKm3ne8qXdyiovr0MnIIAjnmJCNvLiZYiw=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqz1JjofqIVCzVMTBl_-ggLqRr6oJN7R5Zj_OjVbJvZZ_9AZt47lgNfEb_RnRDv9W7l8cOgOWR1ZgC5qKh5XHcb973wLzFoY4z-yZjKcKm3ne8qXdyiovr0MnIIAjnmJCNvLiZYiw=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqz1JjofqIVCzVMTBl_-ggLqRr6oJN7R5Zj_OjVbJvZZ_9AZt47lgNfEb_RnRDv9W7l8cOgOWR1ZgC5qKh5XHcb973wLzFoY4z-yZjKcKm3ne8qXdyiovr0MnIIAjnmJCNvLiZYiw=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Kawasan Kota Tuo Pasar Bengkulu",
+    "alamat": "Ps. Bengkulu, Kec. Sungai Serut",
+    "rating": "4.3",
+    "jumlah_review": "339",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.7727053,
+      "longitude": 102.2633793
+    },
+    "url": "https://www.google.com/maps/place/Kawasan+Kota+Tuo+Pasar+Bengkulu/data=!4m7!3m6!1s0x2e36b1e8d1268b97:0xc38e3d7b273365b1!8m2!3d-3.7727053!4d102.2633793!16s%2Fg%2F11s09rfhz1!19sChIJl4sm0eixNi4RsWUzJ3s9jsM?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq7rXO8ttr5XouPxeVsUH7SgZMyx7bvP3GFWd4ZwiKLF2-giUZS6RdMgHP5krGRepfceFGFZcNL_JW3EV_ZkZcwVh3WdS7y_qNk8CMS2idnH3kE4RhpIobEe_hx4FAVjaBwWffJWQ=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq7rXO8ttr5XouPxeVsUH7SgZMyx7bvP3GFWd4ZwiKLF2-giUZS6RdMgHP5krGRepfceFGFZcNL_JW3EV_ZkZcwVh3WdS7y_qNk8CMS2idnH3kE4RhpIobEe_hx4FAVjaBwWffJWQ=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqbqZEptP0wKnxMra2z0_o-8rBAEmrTW4ye_ZnfYkcxBp-r8BFSsI8761V66LEXvUSWnnP3XUgl8EZ3tlpzWmeKub9ach04kRfTpA3-AIHGVVpzuv-rdKx0YBoHW4_Fs3fF50g=w447-h298-k-no"
+    ],
+    "kategori": [
+      "pasar"
+    ]
+  },
+  {
+    "nama": "Pantai Batu Tahu",
+    "alamat": "Kebun Keling, Kec. Tlk. Segara",
+    "rating": "4.6",
+    "jumlah_review": "105",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.7834645,
+      "longitude": 102.2513707
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Batu+Tahu/data=!4m7!3m6!1s0x2e36afedcab7a915:0x80cd01a191454c9!8m2!3d-3.7834645!4d102.2513707!16s%2Fg%2F11g0l347_1!19sChIJFam3yu2vNi4RyVQUGRrQDAg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nomKHaPJFnLTE1v1h8WyW6XpyoJgvtLNRJyj56NspmW3ij7CDK8RYRJeU_MjhvwHjIN9EI3tGiEFjnLHzvm_RXMVioIfG6kU7u4v2jf2jhBZsWhO_q6pz8fYctSeGHLNqkZsPyT=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nomKHaPJFnLTE1v1h8WyW6XpyoJgvtLNRJyj56NspmW3ij7CDK8RYRJeU_MjhvwHjIN9EI3tGiEFjnLHzvm_RXMVioIfG6kU7u4v2jf2jhBZsWhO_q6pz8fYctSeGHLNqkZsPyT=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nomKHaPJFnLTE1v1h8WyW6XpyoJgvtLNRJyj56NspmW3ij7CDK8RYRJeU_MjhvwHjIN9EI3tGiEFjnLHzvm_RXMVioIfG6kU7u4v2jf2jhBZsWhO_q6pz8fYctSeGHLNqkZsPyT=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Taman Wisata Wahana Surya",
+    "alamat": "Jalan Gang Coko, Ps. Pedati, Kec. Pd. Klp.",
+    "rating": "4.1",
+    "jumlah_review": "1.204",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.7155918,
+      "longitude": 102.2378559
+    },
+    "url": "https://www.google.com/maps/place/Taman+Wisata+Wahana+Surya/data=!4m7!3m6!1s0x2e36ad945a2738e1:0x17c13b4c22678175!8m2!3d-3.7155918!4d102.2378559!16s%2Fg%2F11c48pgnrt!19sChIJ4TgnWpStNi4RdYFnIkw7wRc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq2loacw7PdQjyR9WxKb8cVruJdDBl7RDOls61uHHxXrFkPs0xEptv8fV_BlSpmxQmbqqw-Ehk9o__F6KDP9jweTBOeocpibp7fwotBqyVUc8iwm7qsAT7SoEYsf7CD6mDFe0Y=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq2loacw7PdQjyR9WxKb8cVruJdDBl7RDOls61uHHxXrFkPs0xEptv8fV_BlSpmxQmbqqw-Ehk9o__F6KDP9jweTBOeocpibp7fwotBqyVUc8iwm7qsAT7SoEYsf7CD6mDFe0Y=w408-h543-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq2loacw7PdQjyR9WxKb8cVruJdDBl7RDOls61uHHxXrFkPs0xEptv8fV_BlSpmxQmbqqw-Ehk9o__F6KDP9jweTBOeocpibp7fwotBqyVUc8iwm7qsAT7SoEYsf7CD6mDFe0Y=w224-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Bukit Kandis",
+    "alamat": "Jl. Bengkulu - Kepahiang, Durian Demang, Kec. Karang Tinggi",
+    "rating": "4.4",
+    "jumlah_review": "283",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.7110798,
+      "longitude": 102.4435398
+    },
+    "url": "https://www.google.com/maps/place/Bukit+Kandis/data=!4m7!3m6!1s0x2e36ca7408941a35:0x425835a5ac3a645a!8m2!3d-3.7110798!4d102.4435398!16s%2Fg%2F11c3l6ldg3!19sChIJNRqUCHTKNi4RWmQ6rKU1WEI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npg3i8w34rzfp75JwztucLxdqe0SPTxMYg4J835PPBY1U0SeCUQFPQ6mFrogO0R8Q4Jnl4xIuIpjz_y0hscxuKIW1WoBG86HSsYpxezQ-pfRfuH6-G6npjGu8X92Sg1aJ3QEV6CRQ=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npg3i8w34rzfp75JwztucLxdqe0SPTxMYg4J835PPBY1U0SeCUQFPQ6mFrogO0R8Q4Jnl4xIuIpjz_y0hscxuKIW1WoBG86HSsYpxezQ-pfRfuH6-G6npjGu8X92Sg1aJ3QEV6CRQ=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npg3i8w34rzfp75JwztucLxdqe0SPTxMYg4J835PPBY1U0SeCUQFPQ6mFrogO0R8Q4Jnl4xIuIpjz_y0hscxuKIW1WoBG86HSsYpxezQ-pfRfuH6-G6npjGu8X92Sg1aJ3QEV6CRQ=w447-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "WAHANA YUKITA KANDANG MAS",
+    "alamat": "Sumber Jaya, Kec. Kp. Melayu",
+    "rating": "4.5",
+    "jumlah_review": "203",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.8833786,
+      "longitude": 102.3242369
+    },
+    "url": "https://www.google.com/maps/place/WAHANA+YUKITA+KANDANG+MAS/data=!4m7!3m6!1s0x2e36bb11532512a9:0xe1fb349e367d2fc6!8m2!3d-3.8833786!4d102.3242369!16s%2Fg%2F11t5bc8nwh!19sChIJqRIlUxG7Ni4Rxi99Np40--E?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no6Nb398Syt2cMqu-X5AnVndo5XWoi_mz7T1QWvK_GaPwWeXBgaFZl7Tjbi2E4J3xS5Tt_1yFL6h7TN15ec_f5qNRTYP4Y5W6-CLge6p7jpxoRxMoTRUwJMFBRzSgPdeKFfJf04=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no6Nb398Syt2cMqu-X5AnVndo5XWoi_mz7T1QWvK_GaPwWeXBgaFZl7Tjbi2E4J3xS5Tt_1yFL6h7TN15ec_f5qNRTYP4Y5W6-CLge6p7jpxoRxMoTRUwJMFBRzSgPdeKFfJf04=w408-h307-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no6Nb398Syt2cMqu-X5AnVndo5XWoi_mz7T1QWvK_GaPwWeXBgaFZl7Tjbi2E4J3xS5Tt_1yFL6h7TN15ec_f5qNRTYP4Y5W6-CLge6p7jpxoRxMoTRUwJMFBRzSgPdeKFfJf04=w395-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pantai Panjang BENGKULU",
+    "alamat": "Jl. Pariwisata, Lempuing, Kec. Ratu Agung, Bengkulu",
+    "rating": "4.5",
+    "jumlah_review": "1.293",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.8249704,
+      "longitude": 102.2776648
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Panjang+BENGKULU/data=!4m7!3m6!1s0x2e36ba9813ef644b:0x6ebb45e14445f899!8m2!3d-3.8249704!4d102.2776648!16s%2Fg%2F11gfb3h9_s!19sChIJS2TvE5i6Ni4RmfhFROFFu24?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bengkulu",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noADDzm1JdLnJLU-8O8AkmAkL8MIeQMt__XfPnmpGlBCQzmjBwS8J7QwmpjWmQRQ3joFv3hghZ2dsGNKmBxoYYBRYaMbmbDjDH5m0sP1d9BQgJvWxsCWjQ2hasEh9K9fouxEEam=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noADDzm1JdLnJLU-8O8AkmAkL8MIeQMt__XfPnmpGlBCQzmjBwS8J7QwmpjWmQRQ3joFv3hghZ2dsGNKmBxoYYBRYaMbmbDjDH5m0sP1d9BQgJvWxsCWjQ2hasEh9K9fouxEEam=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noADDzm1JdLnJLU-8O8AkmAkL8MIeQMt__XfPnmpGlBCQzmjBwS8J7QwmpjWmQRQ3joFv3hghZ2dsGNKmBxoYYBRYaMbmbDjDH5m0sP1d9BQgJvWxsCWjQ2hasEh9K9fouxEEam=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  }
+]
