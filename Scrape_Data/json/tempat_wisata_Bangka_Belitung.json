@@ -1,0 +1,742 @@
+[
+  {
+    "nama": "Bukit Kejora",
+    "alamat": "Beluluk, Kec. Pangkalan Baru",
+    "rating": "4.5",
+    "jumlah_review": "160",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.1821656,
+      "longitude": 106.1352033
+    },
+    "url": "https://www.google.com/maps/place/Bukit+Kejora/data=!4m7!3m6!1s0x2e22c7d4a2d4a889:0xf2785ff0c102e402!8m2!3d-2.1821656!4d106.1352033!16s%2Fg%2F11flbs6598!19sChIJiajUotTHIi4RAuQCwfBfePI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq_Lfjv_UIsj_p3p2DHb3Sd5j-n7udHm3AMwUk2PakcXQc0MqmGTLCmtTGiArbhmy-VZagiPsCJJCfWB0yRWnI6q_LaBRIKRIEernEaAV5hh_KIeXUVWSWjAwnZ1TGsz2YMbhmt4w=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq_Lfjv_UIsj_p3p2DHb3Sd5j-n7udHm3AMwUk2PakcXQc0MqmGTLCmtTGiArbhmy-VZagiPsCJJCfWB0yRWnI6q_LaBRIKRIEernEaAV5hh_KIeXUVWSWjAwnZ1TGsz2YMbhmt4w=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq_Lfjv_UIsj_p3p2DHb3Sd5j-n7udHm3AMwUk2PakcXQc0MqmGTLCmtTGiArbhmy-VZagiPsCJJCfWB0yRWnI6q_LaBRIKRIEernEaAV5hh_KIeXUVWSWjAwnZ1TGsz2YMbhmt4w=w397-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Rumah Keong Belitung",
+    "alamat": "Lenggang, Kec. Gantung",
+    "rating": "4.2",
+    "jumlah_review": "487",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.9612504,
+      "longitude": 108.1520326
+    },
+    "url": "https://www.google.com/maps/place/Rumah+Keong+Belitung/data=!4m7!3m6!1s0x2e1129f2e3a1b433:0x6ae77976bfdd76c7!8m2!3d-2.9612504!4d108.1520326!16s%2Fg%2F11cs3zxgbh!19sChIJM7Sh4_IpES4Rx3bdv3Z552o?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr-sZ8VdaEM5A8Lzyp0SdGb5eL9RJO94cGUcT0ZV8K5dMKefs0zlatXHfrn03JHAxdS2-t6AJcONYc6P4kqzEM6zEXx-RA_GACBX-1m4ERssbzGHsET9UUOB0BCgwb2SAWLfsW_gw=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr-sZ8VdaEM5A8Lzyp0SdGb5eL9RJO94cGUcT0ZV8K5dMKefs0zlatXHfrn03JHAxdS2-t6AJcONYc6P4kqzEM6zEXx-RA_GACBX-1m4ERssbzGHsET9UUOB0BCgwb2SAWLfsW_gw=w408-h305-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr-sZ8VdaEM5A8Lzyp0SdGb5eL9RJO94cGUcT0ZV8K5dMKefs0zlatXHfrn03JHAxdS2-t6AJcONYc6P4kqzEM6zEXx-RA_GACBX-1m4ERssbzGHsET9UUOB0BCgwb2SAWLfsW_gw=w398-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pulau Kelayang",
+    "alamat": "Keciput, Sijuk",
+    "rating": "4.8",
+    "jumlah_review": "978",
+    "deskripsi": "Pulau Kelayang   adalah sebuah pulau yang terletak di kabupaten Indragiri Hilir, provinsi Riau, Indonesia.",
+    "koordinat": {
+      "latitude": -2.5505284,
+      "longitude": 107.6697737
+    },
+    "url": "https://www.google.com/maps/place/Pulau+Kelayang/data=!4m7!3m6!1s0x2e1743637c35e829:0x52ff41558cc97ced!8m2!3d-2.5505284!4d107.6697737!16s%2Fg%2F11f6nfmh8g!19sChIJKeg1fGNDFy4R7XzJjFVB_1I?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrUy_8uZMXbZmQEhu9uHQYo9tVeB0erPB-MX73F89gtDIS6GTqXElo36Lry5lM62sf79uvIpvL_zwniWLSJ3NMH2-UQojQzVo6J9GNDBzbXMVDGH0JLPBdT0-cNrQb75EsuTEZ8=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrUy_8uZMXbZmQEhu9uHQYo9tVeB0erPB-MX73F89gtDIS6GTqXElo36Lry5lM62sf79uvIpvL_zwniWLSJ3NMH2-UQojQzVo6J9GNDBzbXMVDGH0JLPBdT0-cNrQb75EsuTEZ8=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrUy_8uZMXbZmQEhu9uHQYo9tVeB0erPB-MX73F89gtDIS6GTqXElo36Lry5lM62sf79uvIpvL_zwniWLSJ3NMH2-UQojQzVo6J9GNDBzbXMVDGH0JLPBdT0-cNrQb75EsuTEZ8=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pulau"
+    ]
+  },
+  {
+    "nama": "Pantai Tanjung Bunga PangkalPinang",
+    "alamat": "Air Itam, Kec. Bukitintan, Kepulauan Bangka Belitung",
+    "rating": "4.4",
+    "jumlah_review": "118",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.1294682,
+      "longitude": 106.1792028
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Tanjung+Bunga+PangkalPinang/data=!4m7!3m6!1s0x2e22bf3e57d2cb23:0x3fe6df0fa5cf7f56!8m2!3d-2.1294682!4d106.1792028!16s%2Fg%2F11hzzv3nfg!19sChIJI8vSVz6_Ii4RVn_PpQ_f5j8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noE_OYndyKeirB5cqGkhQXFaeizGSws2EhpUQM3Tw2WUCpSv1da-e-vEkL9nGrzv3nGPSIVOGHrfS8g1JhfB8Iqh8WAdli06vUEKIX8-6F7ZdIalCkEWKk_cen8hDHJ23h19rCWOg=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noE_OYndyKeirB5cqGkhQXFaeizGSws2EhpUQM3Tw2WUCpSv1da-e-vEkL9nGrzv3nGPSIVOGHrfS8g1JhfB8Iqh8WAdli06vUEKIX8-6F7ZdIalCkEWKk_cen8hDHJ23h19rCWOg=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noE_OYndyKeirB5cqGkhQXFaeizGSws2EhpUQM3Tw2WUCpSv1da-e-vEkL9nGrzv3nGPSIVOGHrfS8g1JhfB8Iqh8WAdli06vUEKIX8-6F7ZdIalCkEWKk_cen8hDHJ23h19rCWOg=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pantai Batu Kapur Bangka Selatan",
+    "alamat": "XCRR+CVF, jl alising kampung baru, Tj. Ketapang, Kec. Toboali",
+    "rating": "4.3",
+    "jumlah_review": "505",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.0089309,
+      "longitude": 106.4421565
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Batu+Kapur+Bangka+Selatan/data=!4m7!3m6!1s0x2e3d81803dbe0b83:0xd8282fd92e0c289f!8m2!3d-3.0089309!4d106.4421565!16s%2Fg%2F11bxg8db4b!19sChIJgwu-PYCBPS4RnygMLtkvKNg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nof0KLZJ1sRboUBq0WnYRgdDiX390AcMlkC5sLasNGH7EfYhGD_0EscKWTAZJNfN2FG7EczvgvH5N0YOoKvExbPlYebPduSe6T1XKPfHqtUY-UkutlSqysykgsNY7k9ouvayIAB=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nof0KLZJ1sRboUBq0WnYRgdDiX390AcMlkC5sLasNGH7EfYhGD_0EscKWTAZJNfN2FG7EczvgvH5N0YOoKvExbPlYebPduSe6T1XKPfHqtUY-UkutlSqysykgsNY7k9ouvayIAB=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nof0KLZJ1sRboUBq0WnYRgdDiX390AcMlkC5sLasNGH7EfYhGD_0EscKWTAZJNfN2FG7EczvgvH5N0YOoKvExbPlYebPduSe6T1XKPfHqtUY-UkutlSqysykgsNY7k9ouvayIAB=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "TELAGA EMAS BERSINAR",
+    "alamat": "Jalan Toba I, Kudai Utara, Sinar Jaya, Sinar Baru, Sungai Liat",
+    "rating": "4.4",
+    "jumlah_review": "583",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -1.8421444,
+      "longitude": 106.105424
+    },
+    "url": "https://www.google.com/maps/place/TELAGA+EMAS+BERSINAR/data=!4m7!3m6!1s0x2e22f38e89eba331:0x97febfd3e2570d94!8m2!3d-1.8421444!4d106.105424!16s%2Fg%2F11mv59__f6!19sChIJMaPriY7zIi4RlA1X4tO__pc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noryg60ASyMyJPOUeiAswXswki0VlI59_Tq3ME4mNNCk4RGAtgZAaYjEh3MvZXpZjDfeS_i69uyT1WCFyIjzK-_1v6OIvu-JM5QQfnbaNv2GCH2MIKgjl_z872zWRmJyFDM8oF1=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noryg60ASyMyJPOUeiAswXswki0VlI59_Tq3ME4mNNCk4RGAtgZAaYjEh3MvZXpZjDfeS_i69uyT1WCFyIjzK-_1v6OIvu-JM5QQfnbaNv2GCH2MIKgjl_z872zWRmJyFDM8oF1=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noryg60ASyMyJPOUeiAswXswki0VlI59_Tq3ME4mNNCk4RGAtgZAaYjEh3MvZXpZjDfeS_i69uyT1WCFyIjzK-_1v6OIvu-JM5QQfnbaNv2GCH2MIKgjl_z872zWRmJyFDM8oF1=w397-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Pantai Kelisut",
+    "alamat": "Tj. Ketapang, Kec. Toboali",
+    "rating": "4.2",
+    "jumlah_review": "104",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.0041615,
+      "longitude": 106.4434926
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Kelisut/data=!4m7!3m6!1s0x2e3d81872782e967:0xcc1d5063a95513e9!8m2!3d-3.0041615!4d106.4434926!16s%2Fg%2F11hbm8z1g2!19sChIJZ-mCJ4eBPS4R6RNVqWNQHcw?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nojh5VDMzza3qJRMcdtk2kg5_r16oHmdy7Aom5bVCkRN-xPZUQvKvfjjvxlqUdOfMyYslYkXepZ7PaDgKpo9PD1fvh3SuCYXeEmhQX4jUMGfiOeraGxVcT-4ucSAH_k3tZCgUq7=w86-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nojh5VDMzza3qJRMcdtk2kg5_r16oHmdy7Aom5bVCkRN-xPZUQvKvfjjvxlqUdOfMyYslYkXepZ7PaDgKpo9PD1fvh3SuCYXeEmhQX4jUMGfiOeraGxVcT-4ucSAH_k3tZCgUq7=w408-h408-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nojh5VDMzza3qJRMcdtk2kg5_r16oHmdy7Aom5bVCkRN-xPZUQvKvfjjvxlqUdOfMyYslYkXepZ7PaDgKpo9PD1fvh3SuCYXeEmhQX4jUMGfiOeraGxVcT-4ucSAH_k3tZCgUq7=w298-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pantai Tanjung Kemirai",
+    "alamat": "Jl. Pariwisata Pantai Tanjung Kemirai, Pasir Putih, Kec. Tukak Sadai, Kepulauan Bangka Belitung",
+    "rating": "4.1",
+    "jumlah_review": "55",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.0811217,
+      "longitude": 106.7260127
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Tanjung+Kemirai/data=!4m7!3m6!1s0x2e1631d5221911bb:0x703a2bdc2b40b436!8m2!3d-3.0811217!4d106.7260127!16s%2Fg%2F11d_2j4_4h!19sChIJuxEZItUxFi4RNrRAK9wrOnA?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noUG0mTMdxMptH9XGFoI9nsE_m5YbEBcVvVvnZuS2J-UGD3l6I-kpg1lVGdt8WEltNvZYg2oed8SzX3oPkXK94yX01pYao6U-atO0WYm1hr-KeY2K7b1naDFn_xen_J4Cj9kTQf=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noUG0mTMdxMptH9XGFoI9nsE_m5YbEBcVvVvnZuS2J-UGD3l6I-kpg1lVGdt8WEltNvZYg2oed8SzX3oPkXK94yX01pYao6U-atO0WYm1hr-KeY2K7b1naDFn_xen_J4Cj9kTQf=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noUG0mTMdxMptH9XGFoI9nsE_m5YbEBcVvVvnZuS2J-UGD3l6I-kpg1lVGdt8WEltNvZYg2oed8SzX3oPkXK94yX01pYao6U-atO0WYm1hr-KeY2K7b1naDFn_xen_J4Cj9kTQf=w447-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pantai Batu Ketak",
+    "alamat": "Parit Padang, Sungai Liat",
+    "rating": "4.6",
+    "jumlah_review": "152",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -1.8993648,
+      "longitude": 106.1858205
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Batu+Ketak/data=!4m7!3m6!1s0x2e228d6306a533c1:0x5f141ed3334be933!8m2!3d-1.8993648!4d106.1858205!16s%2Fg%2F11rhdw3_w2!19sChIJwTOlBmONIi4RM-lLM9MeFF8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noOrSfA74uPcw9E78rrFj_gi4LR0vVDrLrixupvT4hGmWxjJwMqUJ6OM7Gd4U2zgETUCOBDdK7GeG7LfBNXiUdux3FUF_EguXlaamUbt8QUBfN3CKnpS-COaEn08lvRhHn0HXjQ=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noOrSfA74uPcw9E78rrFj_gi4LR0vVDrLrixupvT4hGmWxjJwMqUJ6OM7Gd4U2zgETUCOBDdK7GeG7LfBNXiUdux3FUF_EguXlaamUbt8QUBfN3CKnpS-COaEn08lvRhHn0HXjQ=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noOrSfA74uPcw9E78rrFj_gi4LR0vVDrLrixupvT4hGmWxjJwMqUJ6OM7Gd4U2zgETUCOBDdK7GeG7LfBNXiUdux3FUF_EguXlaamUbt8QUBfN3CKnpS-COaEn08lvRhHn0HXjQ=w224-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pantai Pulau Tiga, Bio",
+    "alamat": "Deniang, Kec. Riau Silip",
+    "rating": "4.4",
+    "jumlah_review": "241",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -1.7583468,
+      "longitude": 106.0899553
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Pulau+Tiga,+Bio/data=!4m7!3m6!1s0x2e225f6051d12aa3:0xf10eb017ba4d1166!8m2!3d-1.7583468!4d106.0899553!16s%2Fg%2F11c539nz_l!19sChIJoyrRUWBfIi4RZhFNuhewDvE?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr6BFzKoTvS917DtB69C8-56mMWtgQ10v_4jurTaYXFbBdpD4cnX5mYtSJ1rbOWSveXtlS7L7s2IDNgdqEcsn_GZX4_MBUCtlibvANVl8xW3RTpmWDmvk0hKNms22EQlxzkwTdNpg=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr6BFzKoTvS917DtB69C8-56mMWtgQ10v_4jurTaYXFbBdpD4cnX5mYtSJ1rbOWSveXtlS7L7s2IDNgdqEcsn_GZX4_MBUCtlibvANVl8xW3RTpmWDmvk0hKNms22EQlxzkwTdNpg=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr6BFzKoTvS917DtB69C8-56mMWtgQ10v_4jurTaYXFbBdpD4cnX5mYtSJ1rbOWSveXtlS7L7s2IDNgdqEcsn_GZX4_MBUCtlibvANVl8xW3RTpmWDmvk0hKNms22EQlxzkwTdNpg=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai",
+      "pulau"
+    ]
+  },
+  {
+    "nama": "Pantai Arung Dalam",
+    "alamat": "Arung Dalam, Kec. Koba",
+    "rating": "4.2",
+    "jumlah_review": "531",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.4727025,
+      "longitude": 106.3725552
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Arung+Dalam/data=!4m7!3m6!1s0x2e3d51b501584703:0x89f0e27ab1f28138!8m2!3d-2.4727025!4d106.3725552!16s%2Fg%2F11by_dpypz!19sChIJA0dYAbVRPS4ROIHysXri8Ik?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noGnzVDs_GAISDHdh8SGymXEcWnAPrOFAuqAQOoYvW6xszhwKNCu6YZ2K9DhzOgB0m8-PwfIJ9zgH5OLZbD1DlfRz5jWhnORyrjeX5scxzNq2fkJMQemiv-XFZ2H3BeE0GrYS6v=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noGnzVDs_GAISDHdh8SGymXEcWnAPrOFAuqAQOoYvW6xszhwKNCu6YZ2K9DhzOgB0m8-PwfIJ9zgH5OLZbD1DlfRz5jWhnORyrjeX5scxzNq2fkJMQemiv-XFZ2H3BeE0GrYS6v=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noGnzVDs_GAISDHdh8SGymXEcWnAPrOFAuqAQOoYvW6xszhwKNCu6YZ2K9DhzOgB0m8-PwfIJ9zgH5OLZbD1DlfRz5jWhnORyrjeX5scxzNq2fkJMQemiv-XFZ2H3BeE0GrYS6v=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Pantai Temberan",
+    "alamat": "Jl. Pantai Temberan, Air Anyir, Kec. Merawang",
+    "rating": "4.2",
+    "jumlah_review": "641",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.0262463,
+      "longitude": 106.1551124
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Temberan/data=!4m7!3m6!1s0x2e22ead4601ab5db:0x76bb092059b91673!8m2!3d-2.0262463!4d106.1551124!16s%2Fg%2F11c2p90nc0!19sChIJ27UaYNTqIi4Rcxa5WSAJu3Y?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqTSgCCUH4KwQaWxrefEZwcPPSF3Is_EpfovXAEf8H6THznQ7gWJjBVkOPzYomoUjyv5MD8eqZHLPxIgsnzsBr-zI4uHyX5wRg2YCPxkHtvQ8jgcXuwYtpTm2lwiWD2--MJagxKsA=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqTSgCCUH4KwQaWxrefEZwcPPSF3Is_EpfovXAEf8H6THznQ7gWJjBVkOPzYomoUjyv5MD8eqZHLPxIgsnzsBr-zI4uHyX5wRg2YCPxkHtvQ8jgcXuwYtpTm2lwiWD2--MJagxKsA=w408-h307-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqTSgCCUH4KwQaWxrefEZwcPPSF3Is_EpfovXAEf8H6THznQ7gWJjBVkOPzYomoUjyv5MD8eqZHLPxIgsnzsBr-zI4uHyX5wRg2YCPxkHtvQ8jgcXuwYtpTm2lwiWD2--MJagxKsA=w395-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pantai Penganak",
+    "alamat": "Jl. Penganak, Air Gantang, Kec. Parittiga",
+    "rating": "4.1",
+    "jumlah_review": "287",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -1.5958183,
+      "longitude": 105.4360988
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Penganak/data=!4m7!3m6!1s0x2e23bd160a9fdd69:0xafe5eaac1a149f03!8m2!3d-1.5958183!4d105.4360988!16s%2Fg%2F11b6rwmpgs!19sChIJad2fCha9Iy4RA58UGqzq5a8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipOInNOu7YE4z2hF6AFUgix8hC2qoyc0QYMWGVjv=w124-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipOInNOu7YE4z2hF6AFUgix8hC2qoyc0QYMWGVjv=w408-h281-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipOInNOu7YE4z2hF6AFUgix8hC2qoyc0QYMWGVjv=w431-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pantai Nek Aji",
+    "alamat": "Jl. Jend. Sudirman, Tj. Ketapang, Kec. Toboali",
+    "rating": "4.3",
+    "jumlah_review": "875",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.0150175,
+      "longitude": 106.4503906
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Nek+Aji/data=!4m7!3m6!1s0x2e3d819e21fd8453:0x5592c27df078baee!8m2!3d-3.0150175!4d106.4503906!16s%2Fg%2F11b6sgb197!19sChIJU4T9IZ6BPS4R7rp48H3CklU?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqi5xTxQooBSg0vY8JabOW5ll0wPhqHgo6izEB-1Mz_5VW4u0jggCBynGwlwyK6GMRK3uU5858vmZIxuRASb_HYaJPCeZ4SIEcBpo3urvHe5CycQlWOmbEJJC6lZab_pUayG0U1Hg=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqi5xTxQooBSg0vY8JabOW5ll0wPhqHgo6izEB-1Mz_5VW4u0jggCBynGwlwyK6GMRK3uU5858vmZIxuRASb_HYaJPCeZ4SIEcBpo3urvHe5CycQlWOmbEJJC6lZab_pUayG0U1Hg=w408-h545-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqi5xTxQooBSg0vY8JabOW5ll0wPhqHgo6izEB-1Mz_5VW4u0jggCBynGwlwyK6GMRK3uU5858vmZIxuRASb_HYaJPCeZ4SIEcBpo3urvHe5CycQlWOmbEJJC6lZab_pUayG0U1Hg=w224-h299-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pantai air anyir",
+    "alamat": "Air Anyir, Kec. Merawang",
+    "rating": "4.1",
+    "jumlah_review": "171",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.0193529,
+      "longitude": 106.1552899
+    },
+    "url": "https://www.google.com/maps/place/Pantai+air+anyir/data=!4m7!3m6!1s0x2e22eb2b0a47de21:0xbf9235a23fca198f!8m2!3d-2.0193529!4d106.1552899!16s%2Fg%2F11bxdwycxp!19sChIJId5HCivrIi4RjxnKP6I1kr8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqDNrAzwXApbYEmOU1A4-SQE4irfAm2_qUSNVr2_HisQ8_TzATpW9K7kBYhTd2lUIkqQFft5a3Zn6GaGDpbEQUd1p-u6mJAQG4F-NMrZLT0XQ5QmI4diGxZHWY7IGRBNITyzGc=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqDNrAzwXApbYEmOU1A4-SQE4irfAm2_qUSNVr2_HisQ8_TzATpW9K7kBYhTd2lUIkqQFft5a3Zn6GaGDpbEQUd1p-u6mJAQG4F-NMrZLT0XQ5QmI4diGxZHWY7IGRBNITyzGc=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqDNrAzwXApbYEmOU1A4-SQE4irfAm2_qUSNVr2_HisQ8_TzATpW9K7kBYhTd2lUIkqQFft5a3Zn6GaGDpbEQUd1p-u6mJAQG4F-NMrZLT0XQ5QmI4diGxZHWY7IGRBNITyzGc=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Air Terjun Bukit Pading",
+    "alamat": "Lubuk Lingkuk, Kec. Lubuk Besar",
+    "rating": "4.5",
+    "jumlah_review": "98",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.6325375,
+      "longitude": 106.5592969
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Bukit+Pading/data=!4m7!3m6!1s0x2e17e11969bee0fb:0x5b1d13ac14f5f01!8m2!3d-2.6325375!4d106.5592969!16s%2Fg%2F11j2lydgd0!19sChIJ--C-aRnhFy4RAV9PwTrRsQU?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipNSZHSYdVP2WmB-5fktgrgRzreE8Lwmq0MhPoiC=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNSZHSYdVP2WmB-5fktgrgRzreE8Lwmq0MhPoiC=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNSZHSYdVP2WmB-5fktgrgRzreE8Lwmq0MhPoiC=w529-h298-k-no"
+    ],
+    "kategori": [
+      "gunung",
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "RUMA ADAT BELITONG",
+    "alamat": "Jl. Gajah Mada, Lesung Batang, Kec. Tj. Pandan",
+    "rating": "4.5",
+    "jumlah_review": "2.062",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.7419538,
+      "longitude": 107.653305
+    },
+    "url": "https://www.google.com/maps/place/RUMA+ADAT+BELITONG/data=!4m7!3m6!1s0x2e1716162f72000b:0xe27561b0db588cbe!8m2!3d-2.7419538!4d107.653305!16s%2Fg%2F1ptxb4qbq!19sChIJCwByLxYWFy4RvoxY27BhdeI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npUj-v6D6WzUVnTdwLh-nzlmA4D8KW3rDRzSjwG5eNDY3i0sr2KuU3Ewv3eeEBQY18YL36PzcRVrFa4FOk-Ea_iaXrpXCFLIqAQ70hVRyZoEiyqLjan7PnA2CSe0vCrMNxDk9nFNw=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npUj-v6D6WzUVnTdwLh-nzlmA4D8KW3rDRzSjwG5eNDY3i0sr2KuU3Ewv3eeEBQY18YL36PzcRVrFa4FOk-Ea_iaXrpXCFLIqAQ70hVRyZoEiyqLjan7PnA2CSe0vCrMNxDk9nFNw=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npUj-v6D6WzUVnTdwLh-nzlmA4D8KW3rDRzSjwG5eNDY3i0sr2KuU3Ewv3eeEBQY18YL36PzcRVrFa4FOk-Ea_iaXrpXCFLIqAQ70hVRyZoEiyqLjan7PnA2CSe0vCrMNxDk9nFNw=w529-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pantai Pasir Kuning Tempilang",
+    "alamat": "Air Lintang, Kec. Tempilang",
+    "rating": "4.2",
+    "jumlah_review": "348",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.1267031,
+      "longitude": 105.6608411
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Pasir+Kuning+Tempilang/data=!4m7!3m6!1s0x2e23239480c4a3eb:0x83cc3ddd7488f902!8m2!3d-2.1267031!4d105.6608411!16s%2Fg%2F11cs0rts37!19sChIJ66PEgJQjIy4RAvmIdN09zIM?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npt0TI77qTlwVewXlYFFtPzpDVFkqsOh7rbaTI3QoR32_ZbuV6KWxSnA3JTFoQs67OQLWxS4T7N5NyoQ1-iOytmWdKC0kOC4Iw6cn2_5uZ5ZPdYpLqJ-nkoqXbauFBVMHp7fS_1=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npt0TI77qTlwVewXlYFFtPzpDVFkqsOh7rbaTI3QoR32_ZbuV6KWxSnA3JTFoQs67OQLWxS4T7N5NyoQ1-iOytmWdKC0kOC4Iw6cn2_5uZ5ZPdYpLqJ-nkoqXbauFBVMHp7fS_1=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npt0TI77qTlwVewXlYFFtPzpDVFkqsOh7rbaTI3QoR32_ZbuV6KWxSnA3JTFoQs67OQLWxS4T7N5NyoQ1-iOytmWdKC0kOC4Iw6cn2_5uZ5ZPdYpLqJ-nkoqXbauFBVMHp7fS_1=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pantai Bembang",
+    "alamat": "Sungai Buluh, Kec. Jebus",
+    "rating": "4.6",
+    "jumlah_review": "94",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -1.6876365,
+      "longitude": 105.3496539
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Bembang/data=!4m7!3m6!1s0x2e23992dbc34ef09:0x5a1814d370409314!8m2!3d-1.6876365!4d105.3496539!16s%2Fg%2F11c46cl9ky!19sChIJCe80vC2ZIy4RFJNAcNMUGFo?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrrceSlPSkqeyFc8J4XVcFy7Rp4mNwFQmB7sojtZG41NjPi-iHWJvjZXKJ61O0VjkADpE4pQkHvFfqRDvrL8dmghkgHzpCyvDo10hnmpdnMR1LEskvlq4DxC3_-QPj7XB1wkAus=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrrceSlPSkqeyFc8J4XVcFy7Rp4mNwFQmB7sojtZG41NjPi-iHWJvjZXKJ61O0VjkADpE4pQkHvFfqRDvrL8dmghkgHzpCyvDo10hnmpdnMR1LEskvlq4DxC3_-QPj7XB1wkAus=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrrceSlPSkqeyFc8J4XVcFy7Rp4mNwFQmB7sojtZG41NjPi-iHWJvjZXKJ61O0VjkADpE4pQkHvFfqRDvrL8dmghkgHzpCyvDo10hnmpdnMR1LEskvlq4DxC3_-QPj7XB1wkAus=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "PANTAI SUMUR TUJUH",
+    "alamat": "Koba, Kec. Koba",
+    "rating": "4.2",
+    "jumlah_review": "335",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.479566,
+      "longitude": 106.4283552
+    },
+    "url": "https://www.google.com/maps/place/PANTAI+SUMUR+TUJUH/data=!4m7!3m6!1s0x2e3d50da0f21930b:0x499cba11ccad9ac8!8m2!3d-2.479566!4d106.4283552!16s%2Fg%2F11c5b1611w!19sChIJC5MhD9pQPS4RyJqtzBG6nEk?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipNmh02XbOsdF_972dJZdQPM-T7gQ6rdpXtGVw2y=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNmh02XbOsdF_972dJZdQPM-T7gQ6rdpXtGVw2y=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNmh02XbOsdF_972dJZdQPM-T7gQ6rdpXtGVw2y=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Hutan Pelawan",
+    "alamat": "Namang, Kec. Namang",
+    "rating": "3.9",
+    "jumlah_review": "249",
+    "deskripsi": "Hutan Pelawan adalah hutan yang dilindungi di Namang, Kecamatan Namang, Kabupaten Bangka Tengah, Pulau Bangka. Hutan Pelawan disebut juga Hutan Kalung. Hutan Pelawan berstatus sebagai Taman Keanekaragaman Hayati dan direncanakan akan dijadikan sebagai kebun raya. Hutan Pelawan memiliki luas 300 ha, dengan hutan wisata 47 ha, dan sisanya adalah hutan adat.\nHutan ini adalah satu dari sedikit hutan yang tersisa di Pulau Bangka yang terkenal sebagai lokasi penambangan timah selama ratusan tahun. Hut...",
+    "koordinat": {
+      "latitude": -2.3675692,
+      "longitude": 106.1833851
+    },
+    "url": "https://www.google.com/maps/place/Hutan+Pelawan/data=!4m7!3m6!1s0x2e3d4aca213ed8f3:0x6c845f27e0405001!8m2!3d-2.3675692!4d106.1833851!16s%2Fg%2F11dfh55z3_!19sChIJ89g-IcpKPS4RAVBA4CdfhGw?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np3V40d3HyzLPz87ZoHXwzKTRiR3_OQUukmY8uQWEMvAJkDOT0_20GiOYsFnA_lFopc2EEh01ZSTmpQR8oxZLqABT-VfBtlrk4wXSrpoEbR-44EWSM-eSzQkQ0urcA701IiYriO4Q=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np3V40d3HyzLPz87ZoHXwzKTRiR3_OQUukmY8uQWEMvAJkDOT0_20GiOYsFnA_lFopc2EEh01ZSTmpQR8oxZLqABT-VfBtlrk4wXSrpoEbR-44EWSM-eSzQkQ0urcA701IiYriO4Q=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np3V40d3HyzLPz87ZoHXwzKTRiR3_OQUukmY8uQWEMvAJkDOT0_20GiOYsFnA_lFopc2EEh01ZSTmpQR8oxZLqABT-VfBtlrk4wXSrpoEbR-44EWSM-eSzQkQ0urcA701IiYriO4Q=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman",
+      "pulau"
+    ]
+  },
+  {
+    "nama": "Wisata Bukit Pinteir",
+    "alamat": "Dul, Kec. Pangkalan Baru",
+    "rating": "4.6",
+    "jumlah_review": "92",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.1929132,
+      "longitude": 106.114049
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Bukit+Pinteir/data=!4m7!3m6!1s0x2e22c774a077580f:0xe39483d8605c8d73!8m2!3d-2.1929132!4d106.114049!16s%2Fg%2F11jdlxg4xy!19sChIJD1h3oHTHIi4Rc41cYNiDlOM?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipMYofMZzgkdo0mdVnjBubAYiPKvBGNwL4fBl7Qm=w130-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipMYofMZzgkdo0mdVnjBubAYiPKvBGNwL4fBl7Qm=w408-h268-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipMYofMZzgkdo0mdVnjBubAYiPKvBGNwL4fBl7Qm=w452-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Pantai Pukan",
+    "alamat": "Jl. Lintas Timur, Selindung, Kec. Gabek",
+    "rating": "4.3",
+    "jumlah_review": "693",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.0443367,
+      "longitude": 106.1594233
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Pukan/data=!4m7!3m6!1s0x2e22954b22e5f2af:0x929c7da841df565!8m2!3d-2.0443367!4d106.1594233!16s%2Fg%2F11c52s1ndx!19sChIJr_LlIkuVIi4RZfUdhNrHKQk?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nooQaV5i3CH5FKJzo5lAzGjUrHtjIRYGDlJnjo0TNCGLuWFvjmB0lT7_81r6fndl_6AP3-xSWFs7LBZ3r2yb41yQgrkUd0xgmiIRga6tzsdjLfNpebyCRC9b2SC4rGnKMcW6SG2=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nooQaV5i3CH5FKJzo5lAzGjUrHtjIRYGDlJnjo0TNCGLuWFvjmB0lT7_81r6fndl_6AP3-xSWFs7LBZ3r2yb41yQgrkUd0xgmiIRga6tzsdjLfNpebyCRC9b2SC4rGnKMcW6SG2=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nooQaV5i3CH5FKJzo5lAzGjUrHtjIRYGDlJnjo0TNCGLuWFvjmB0lT7_81r6fndl_6AP3-xSWFs7LBZ3r2yb41yQgrkUd0xgmiIRga6tzsdjLfNpebyCRC9b2SC4rGnKMcW6SG2=w447-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pantai Tanjung Binga",
+    "alamat": "Tj. Binga, Sijuk",
+    "rating": "4.5",
+    "jumlah_review": "265",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.5887898,
+      "longitude": 107.6427736
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Tanjung+Binga/data=!4m7!3m6!1s0x2e176a1e0c8bba93:0xb102d8fb4bee2cc6!8m2!3d-2.5887898!4d107.6427736!16s%2Fg%2F11b8b2p6b8!19sChIJk7qLDB5qFy4RxizuS_vYArE?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npeeU0vjBBnPU7qOAu_XhPXxY0RgUx70r0YUZYu37Cz8EWdqmBZTOBSRuXSZ-7RFS8ONypjlI9op3KUY09RQYhhdUCam9g5CGQnfXoVi8C0d3dSv_6Z67tVKHB7JJ9dv9bhOoLl=w147-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npeeU0vjBBnPU7qOAu_XhPXxY0RgUx70r0YUZYu37Cz8EWdqmBZTOBSRuXSZ-7RFS8ONypjlI9op3KUY09RQYhhdUCam9g5CGQnfXoVi8C0d3dSv_6Z67tVKHB7JJ9dv9bhOoLl=w412-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npeeU0vjBBnPU7qOAu_XhPXxY0RgUx70r0YUZYu37Cz8EWdqmBZTOBSRuXSZ-7RFS8ONypjlI9op3KUY09RQYhhdUCam9g5CGQnfXoVi8C0d3dSv_6Z67tVKHB7JJ9dv9bhOoLl=w511-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pantai Tanjung Batu",
+    "alamat": "Parit Padang, Sungai Liat, Kepulauan Bangka Belitung",
+    "rating": "4.6",
+    "jumlah_review": "38",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -1.8775391,
+      "longitude": 106.172909
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Tanjung+Batu/data=!4m7!3m6!1s0x2e228dfee9579d7b:0x6c98568bdf708907!8m2!3d-1.8775391!4d106.172909!16s%2Fg%2F11sd6jxbxk!19sChIJe51X6f6NIi4RB4lw34tWmGw?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrijTlVEPEk4-U6FNoT2p64bBOBVMh7tsNPNEz6KMB_Mw1PMVvO5cvj_aySyxRlsraepQv-4eEoyFIPtEqMqt4hhuJBt8QMP36JTVfTVvyh26iN-DP4AHQO7FJ_Lck7HSXtRuY=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrijTlVEPEk4-U6FNoT2p64bBOBVMh7tsNPNEz6KMB_Mw1PMVvO5cvj_aySyxRlsraepQv-4eEoyFIPtEqMqt4hhuJBt8QMP36JTVfTVvyh26iN-DP4AHQO7FJ_Lck7HSXtRuY=w408-h305-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrijTlVEPEk4-U6FNoT2p64bBOBVMh7tsNPNEz6KMB_Mw1PMVvO5cvj_aySyxRlsraepQv-4eEoyFIPtEqMqt4hhuJBt8QMP36JTVfTVvyh26iN-DP4AHQO7FJ_Lck7HSXtRuY=w398-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pantai Tanjung Langka Koba",
+    "alamat": "GCFX+WPX, Padang Mulia, Kec. Koba, Kepulauan Bangka Belitung",
+    "rating": "4.5",
+    "jumlah_review": "49",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.4751303,
+      "longitude": 106.4493713
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Tanjung+Langka+Koba/data=!4m7!3m6!1s0x2e3d5729b525eedb:0x3c4afb40974c481b!8m2!3d-2.4751303!4d106.4493713!16s%2Fg%2F11f15jdvkg!19sChIJ2-4ltSlXPS4RG0hMl0D7Sjw?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npvggLA5LFEC2o47dV6cwqaf4xocIjZeyl0F4mT_APLuqsCo3b6y1OMti1XS5IKGp2vF5KMVyzFrTfGNvcbpTGL8cHXfK6IC0XB8jbs1xnoOmyifG1lzw3AFmJz_2q1-oLGuJ0=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npvggLA5LFEC2o47dV6cwqaf4xocIjZeyl0F4mT_APLuqsCo3b6y1OMti1XS5IKGp2vF5KMVyzFrTfGNvcbpTGL8cHXfK6IC0XB8jbs1xnoOmyifG1lzw3AFmJz_2q1-oLGuJ0=w408-h305-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npvggLA5LFEC2o47dV6cwqaf4xocIjZeyl0F4mT_APLuqsCo3b6y1OMti1XS5IKGp2vF5KMVyzFrTfGNvcbpTGL8cHXfK6IC0XB8jbs1xnoOmyifG1lzw3AFmJz_2q1-oLGuJ0=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Danau Kaolin",
+    "alamat": "Perawas, Kec. Tj. Pandan",
+    "rating": "4.3",
+    "jumlah_review": "3.127",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.736802,
+      "longitude": 107.6818554
+    },
+    "url": "https://www.google.com/maps/place/Danau+Kaolin/data=!4m7!3m6!1s0x2e173df206524849:0x542448144f40cf88!8m2!3d-2.736802!4d107.6818554!16s%2Fg%2F11b7k77p3s!19sChIJSUhSBvI9Fy4RiM9ATxRIJFQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npm1FBM-Tp3DVKhJSWEyElYozv-NclXV7Z8c3ivKC2f7Hzq7VwCOyef64XMpUEtPiSEQg42kGOttEelqS-TkkCKT1tu4hN_Xvo2jSMRmJrPcC8S3a68-FQJMdxqwZoN61OiwS86=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npm1FBM-Tp3DVKhJSWEyElYozv-NclXV7Z8c3ivKC2f7Hzq7VwCOyef64XMpUEtPiSEQg42kGOttEelqS-TkkCKT1tu4hN_Xvo2jSMRmJrPcC8S3a68-FQJMdxqwZoN61OiwS86=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npm1FBM-Tp3DVKhJSWEyElYozv-NclXV7Z8c3ivKC2f7Hzq7VwCOyef64XMpUEtPiSEQg42kGOttEelqS-TkkCKT1tu4hN_Xvo2jSMRmJrPcC8S3a68-FQJMdxqwZoN61OiwS86=w397-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "GEOSITE PANTAI BATU PULAS",
+    "alamat": "Dusun Mengguru, Cendil, Kec. Klp. Kampit",
+    "rating": "4.5",
+    "jumlah_review": "66",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.5693488,
+      "longitude": 107.9502322
+    },
+    "url": "https://www.google.com/maps/place/GEOSITE+PANTAI+BATU+PULAS/data=!4m7!3m6!1s0x2e1749061bbd234d:0x8de6f7fe4655113e!8m2!3d-2.5693488!4d107.9502322!16s%2Fg%2F11pysczdqb!19sChIJTSO9GwZJFy4RPhFVRv735o0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrrfq2N_0qRvsdiBB8XpCjNt--yRcWeM8phpvkOApRJLIK8TC0-rYGZkCmaw9b9ZcjraFCdv_Rf3aM63F8WTdwH9_WswP01lcNVvLPKOSlbYTWgWnlwqd28Pl-dk4VeFn192lxE=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrrfq2N_0qRvsdiBB8XpCjNt--yRcWeM8phpvkOApRJLIK8TC0-rYGZkCmaw9b9ZcjraFCdv_Rf3aM63F8WTdwH9_WswP01lcNVvLPKOSlbYTWgWnlwqd28Pl-dk4VeFn192lxE=w408-h307-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrrfq2N_0qRvsdiBB8XpCjNt--yRcWeM8phpvkOApRJLIK8TC0-rYGZkCmaw9b9ZcjraFCdv_Rf3aM63F8WTdwH9_WswP01lcNVvLPKOSlbYTWgWnlwqd28Pl-dk4VeFn192lxE=w395-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pantai Batu Belubang",
+    "alamat": "Bangka Island, Kepulauan Bangka Belitung",
+    "rating": "4.2",
+    "jumlah_review": "244",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.1690746,
+      "longitude": 106.1882019
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Batu+Belubang/data=!4m7!3m6!1s0x2e22b8f6ae257649:0x8d149a87e2c69ea4!8m2!3d-2.1690746!4d106.1882019!16s%2Fg%2F11cn8s2z2q!19sChIJSXYlrva4Ii4RpJ7G4oeaFI0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nryC_egRlbQwbtt1cmaPbGFcEH_nxZrNDe03UMTPFqbzJ-XemH77nNoYFtAh2q5oWdxjsWThsp7dHyKTRUI9ArTpqcCIUcUFl5NkFeS-LACvCvuJSBxm3lyitmyVPGwrzVv50IQ=w153-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nryC_egRlbQwbtt1cmaPbGFcEH_nxZrNDe03UMTPFqbzJ-XemH77nNoYFtAh2q5oWdxjsWThsp7dHyKTRUI9ArTpqcCIUcUFl5NkFeS-LACvCvuJSBxm3lyitmyVPGwrzVv50IQ=w427-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nryC_egRlbQwbtt1cmaPbGFcEH_nxZrNDe03UMTPFqbzJ-XemH77nNoYFtAh2q5oWdxjsWThsp7dHyKTRUI9ArTpqcCIUcUFl5NkFeS-LACvCvuJSBxm3lyitmyVPGwrzVv50IQ=w530-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Wisata Air Panas Kater Desa Nyelanding",
+    "alamat": "Nyelanding, Kec. Air Gegas",
+    "rating": "4.1",
+    "jumlah_review": "145",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.7004123,
+      "longitude": 106.2731224
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Air+Panas+Kater+Desa+Nyelanding/data=!4m7!3m6!1s0x2e3d699f2b68ef65:0x94089c708bd63c0e!8m2!3d-2.7004123!4d106.2731224!16s%2Fg%2F11f_d6r371!19sChIJZe9oK59pPS4RDjzWi3CcCJQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npFiE6yE-DcMKDO7MmrlUeIJhcUF4VeN0YJO4i1dhAxYyjykL6PWivjDgXF3aBOVLp8dSbVxBi4pbmPfbKdYuhnLzGxqKxtAeJn0UZqfqn3DNt1fcd1KflJNi7tW-tu9DRi4Wtd=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npFiE6yE-DcMKDO7MmrlUeIJhcUF4VeN0YJO4i1dhAxYyjykL6PWivjDgXF3aBOVLp8dSbVxBi4pbmPfbKdYuhnLzGxqKxtAeJn0UZqfqn3DNt1fcd1KflJNi7tW-tu9DRi4Wtd=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npFiE6yE-DcMKDO7MmrlUeIJhcUF4VeN0YJO4i1dhAxYyjykL6PWivjDgXF3aBOVLp8dSbVxBi4pbmPfbKdYuhnLzGxqKxtAeJn0UZqfqn3DNt1fcd1KflJNi7tW-tu9DRi4Wtd=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pantai Panyabong",
+    "alamat": "Padang Kandis, Membalong",
+    "rating": "4.4",
+    "jumlah_review": "559",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.2385128,
+      "longitude": 107.6402168
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Panyabong/data=!4m7!3m6!1s0x2e16eaea22792319:0x4c0dd823f4fbd9ca!8m2!3d-3.2385128!4d107.6402168!16s%2Fg%2F11b7ldmwlb!19sChIJGSN5IurqFi4Rytn79CPYDUw?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq3LYVmGJAbWYOKnbxngGr6HoVfxZlgtYuqDNxbiiZlxIcyrJ2nnDtbzFGxAYVmYMYYv6xxE1f0i5vcYLlZ8Vxt2-HR-8lCNEoFnjSisetaRHW7_Be8dYfSxqTdsr-w9eNHeIPn=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq3LYVmGJAbWYOKnbxngGr6HoVfxZlgtYuqDNxbiiZlxIcyrJ2nnDtbzFGxAYVmYMYYv6xxE1f0i5vcYLlZ8Vxt2-HR-8lCNEoFnjSisetaRHW7_Be8dYfSxqTdsr-w9eNHeIPn=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq3LYVmGJAbWYOKnbxngGr6HoVfxZlgtYuqDNxbiiZlxIcyrJ2nnDtbzFGxAYVmYMYYv6xxE1f0i5vcYLlZ8Vxt2-HR-8lCNEoFnjSisetaRHW7_Be8dYfSxqTdsr-w9eNHeIPn=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pulau Semujur",
+    "alamat": "Padang Baru, Kec. Pangkalan Baru, Kepulauan Bangka Belitung",
+    "rating": "4.3",
+    "jumlah_review": "62",
+    "deskripsi": "Pulau Semujur adalah sebuah pulau kecil yang berada di gugusan Kepulauan Bangka Belitung. Pulau ini tepatnya terletak di sisi timur Pulau Sumatra.\nSecara administrasi, Pulau Panjang menjadi bagian dari Kecamatan Pangkalan Baru, Kabupaten Bangka Barat, Kepulauan Bangka Belitung, Indonesia.\nBerdasarkan hasil survey toponim pulau tahun 2006 oleh Tim Nasional Pembakuan Nama Rupabumi, pulau ini tidak mengalami perubahan nama. Namun, tidak diketahui arti Semujuryang disematkan pada pulau ini.\nPulau Se...",
+    "koordinat": {
+      "latitude": -2.1560501,
+      "longitude": 106.2964696
+    },
+    "url": "https://www.google.com/maps/place/Pulau+Semujur/data=!4m7!3m6!1s0x2e22bba0fdb969c1:0x4eb16d4947d296fe!8m2!3d-2.1560501!4d106.2964696!16s%2Fg%2F11dy74xdph!19sChIJwWm5_aC7Ii4R_pbSR0ltsU4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqEOmJzOWMZUynWPIo_lf-SPd6JLWXaLvk-2avsaL6neXtdqcV6fukpvNBvyaPd_la4m21mL7LohphVD9DPISXIvsvxZBNVHrckQheblmn5Yib0H-aCNnQNV2y6Y0g4-Hx97pFSDQ=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqEOmJzOWMZUynWPIo_lf-SPd6JLWXaLvk-2avsaL6neXtdqcV6fukpvNBvyaPd_la4m21mL7LohphVD9DPISXIvsvxZBNVHrckQheblmn5Yib0H-aCNnQNV2y6Y0g4-Hx97pFSDQ=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqEOmJzOWMZUynWPIo_lf-SPd6JLWXaLvk-2avsaL6neXtdqcV6fukpvNBvyaPd_la4m21mL7LohphVD9DPISXIvsvxZBNVHrckQheblmn5Yib0H-aCNnQNV2y6Y0g4-Hx97pFSDQ=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pulau",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Pulau Kepayang",
+    "alamat": "Keciput, Sijuk",
+    "rating": "4.7",
+    "jumlah_review": "709",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.5489247,
+      "longitude": 107.6508575
+    },
+    "url": "https://www.google.com/maps/place/Pulau+Kepayang/data=!4m7!3m6!1s0x2e1769c15e42ec17:0x3438066846f2018e!8m2!3d-2.5489247!4d107.6508575!16s%2Fg%2F11c20qsfyj!19sChIJF-xCXsFpFy4RjgHyRmgGODQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np5E-zjClIk6LRyU1rWFbpEGLeLaZ--4ATzbHy6eDpZBYKsK4iUjy0wJhHQfY3egtEbCq9JP0ADCOsLQvoH8p2MYYa3oQyrAQY67pGpJlQQDOmMYMnoVcSQ5SQL4Qjbujk-tKxu=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np5E-zjClIk6LRyU1rWFbpEGLeLaZ--4ATzbHy6eDpZBYKsK4iUjy0wJhHQfY3egtEbCq9JP0ADCOsLQvoH8p2MYYa3oQyrAQY67pGpJlQQDOmMYMnoVcSQ5SQL4Qjbujk-tKxu=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np5E-zjClIk6LRyU1rWFbpEGLeLaZ--4ATzbHy6eDpZBYKsK4iUjy0wJhHQfY3egtEbCq9JP0ADCOsLQvoH8p2MYYa3oQyrAQY67pGpJlQQDOmMYMnoVcSQ5SQL4Qjbujk-tKxu=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pulau"
+    ]
+  },
+  {
+    "nama": "Pulau Ketawai",
+    "alamat": "Kurau, Kec. Koba, Kepulauan Bangka Belitung",
+    "rating": "4.6",
+    "jumlah_review": "21",
+    "deskripsi": "Pulau Ketawai adalah sebuah pulau di Kabupaten Bangka Tengah.\n\n\n== Referensi ==",
+    "koordinat": {
+      "latitude": -2.2669609,
+      "longitude": 106.326325
+    },
+    "url": "https://www.google.com/maps/place/Pulau+Ketawai/data=!4m7!3m6!1s0x2e22b1df93418ad3:0x9be7641fb8915625!8m2!3d-2.2669609!4d106.326325!16s%2Fg%2F11v1b3cb79!19sChIJ04pBk9-xIi4RJVaRuB9k55s?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np2j7OurPYsgnxY5fNS9iEmUerpG1B1KVSLIxQWQ-UQTUMEh39tWv5YNHrAZNKZLxstcpSeSELelsqxXRHyKgyQkeTq8GZj-P3bLuLCdBp4_5j2VBKeMCmtCKUJUi3_Q93ZM-9S=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np2j7OurPYsgnxY5fNS9iEmUerpG1B1KVSLIxQWQ-UQTUMEh39tWv5YNHrAZNKZLxstcpSeSELelsqxXRHyKgyQkeTq8GZj-P3bLuLCdBp4_5j2VBKeMCmtCKUJUi3_Q93ZM-9S=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np2j7OurPYsgnxY5fNS9iEmUerpG1B1KVSLIxQWQ-UQTUMEh39tWv5YNHrAZNKZLxstcpSeSELelsqxXRHyKgyQkeTq8GZj-P3bLuLCdBp4_5j2VBKeMCmtCKUJUi3_Q93ZM-9S=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pulau"
+    ]
+  },
+  {
+    "nama": "Wisata Alam Batu Belimbing Bangka Selatan",
+    "alamat": "Tj. Ketapang, Bang Toboali",
+    "rating": "4.4",
+    "jumlah_review": "1.095",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.0056437,
+      "longitude": 106.4454459
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Alam+Batu+Belimbing+Bangka+Selatan/data=!4m7!3m6!1s0x2e3d818144341489:0x6f0369c2d3fc067c!8m2!3d-3.0056437!4d106.4454459!16s%2Fg%2F11bw47chv5!19sChIJiRQ0RIGBPS4RfAb808JpA28?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bangka Belitung",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noaZwdSZuFakVjRYaaKOoroR1ksv2BzCRL3ralfxfZ-hdjXEy_22XPhHMI1NjmSHolHu5cs2-ORqouw8k8Z1grY1w5I9wY4l5CZc6OQPLqRElECLheXmO8HmScvIcQukN_y72oQ=w115-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noaZwdSZuFakVjRYaaKOoroR1ksv2BzCRL3ralfxfZ-hdjXEy_22XPhHMI1NjmSHolHu5cs2-ORqouw8k8Z1grY1w5I9wY4l5CZc6OQPLqRElECLheXmO8HmScvIcQukN_y72oQ=w408-h302-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noaZwdSZuFakVjRYaaKOoroR1ksv2BzCRL3ralfxfZ-hdjXEy_22XPhHMI1NjmSHolHu5cs2-ORqouw8k8Z1grY1w5I9wY4l5CZc6OQPLqRElECLheXmO8HmScvIcQukN_y72oQ=w401-h298-k-no"
+    ],
+    "kategori": [
+      "wisata_alam"
+    ]
+  }
+]
