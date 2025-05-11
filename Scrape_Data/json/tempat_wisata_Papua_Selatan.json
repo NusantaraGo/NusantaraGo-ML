@@ -1,0 +1,65 @@
+[
+  {
+    "nama": "Monumen Kilometer Nol Indonesia",
+    "alamat": "Iboih, Sukakarya",
+    "rating": "4.6",
+    "jumlah_review": "6.826",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 5.9060416,
+      "longitude": 95.2168003
+    },
+    "url": "https://www.google.com/maps/place/Monumen+Kilometer+Nol+Indonesia/data=!4m7!3m6!1s0x3041dad00315c33b:0x187f80e8713c590f!8m2!3d5.9060416!4d95.2168003!16s%2Fg%2F11bv6pz16l!19sChIJO8MVA9DaQTARD1k8ceiAfxg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npw3ovIrzSDb4bHqGtlloijD5f2QLFfJdpqLjSJa9JPMxJefQGNcXB33rWvpjN2QumAYCKTLQRe8UuP9yYEJMDj9XWeZYS4QbZqc0UXDdj3qiIr4T7UXhNWuISaKClx_dUm8qPlFQ=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npw3ovIrzSDb4bHqGtlloijD5f2QLFfJdpqLjSJa9JPMxJefQGNcXB33rWvpjN2QumAYCKTLQRe8UuP9yYEJMDj9XWeZYS4QbZqc0UXDdj3qiIr4T7UXhNWuISaKClx_dUm8qPlFQ=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npw3ovIrzSDb4bHqGtlloijD5f2QLFfJdpqLjSJa9JPMxJefQGNcXB33rWvpjN2QumAYCKTLQRe8UuP9yYEJMDj9XWeZYS4QbZqc0UXDdj3qiIr4T7UXhNWuISaKClx_dUm8qPlFQ=w529-h298-k-no"
+    ],
+    "kategori": [
+      "situs_sejarah"
+    ]
+  },
+  {
+    "nama": "Ujung Utara Indonesia",
+    "alamat": "Pulau Rondo, Iboih, Sukakarya, Aceh",
+    "rating": "5.0",
+    "jumlah_review": "3",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 6.0734,
+      "longitude": 95.1163958
+    },
+    "url": "https://www.google.com/maps/place/Ujung+Utara+Indonesia/data=!4m7!3m6!1s0x3041e1ee2beb213f:0x8ff9468666187dec!8m2!3d6.0734!4d95.1163958!16s%2Fg%2F11srt_w1n0!19sChIJPyHrK-7hQTAR7H0YZoZG-Y8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/a/ACg8ocL0JKb8BFEJmCHNIKR3KCKQAouCs3LVWn4KeJgi9YU4T2ZXVw=w36-h36-p-rp-mo-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjXyXPDMDT4zviJ-nNsi0xyZxbFuvpjlBBmKJVm5ltHazyhTJnrX=w36-h36-p-rp-mo-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjWYutz9W4Ej7XVO3lzkaS9d-tORb1t9r6XqKOZhIXDoYVBF2dxImg=w36-h36-p-rp-mo-br100"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pria Laot Waterfall",
+    "alamat": "Batee Shoek, Sukakarya",
+    "rating": "4.3",
+    "jumlah_review": "200",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 5.8303562,
+      "longitude": 95.3037092
+    },
+    "url": "https://www.google.com/maps/place/Pria+Laot+Waterfall/data=!4m7!3m6!1s0x3041cf29dc9cd87d:0xb91b3e8150a48d27!8m2!3d5.8303562!4d95.3037092!16s%2Fg%2F11crzq6jjn!19sChIJfdic3CnPQTARJ42kUIE-G7k?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipN8JlFBp0021orzOl3H7X04DJIDqQ5dUdd0PzLL=w86-h186-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipN8JlFBp0021orzOl3H7X04DJIDqQ5dUdd0PzLL=w408-h884-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipN8JlFBp0021orzOl3H7X04DJIDqQ5dUdd0PzLL=w224-h485-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  }
+]
