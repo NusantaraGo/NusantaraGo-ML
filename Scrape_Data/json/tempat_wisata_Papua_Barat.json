@@ -1,0 +1,731 @@
+[
+  {
+    "nama": "Cape Kri",
+    "alamat": "Yenbuba, Meos Mansar, Papua Bar.",
+    "rating": "4.7",
+    "jumlah_review": "94",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.5563238,
+      "longitude": 130.6904922
+    },
+    "url": "https://www.google.com/maps/place/Cape+Kri/data=!4m7!3m6!1s0x2d5ef9b8ad55a1bd:0x4a2598db75b36835!8m2!3d-0.5563238!4d130.6904922!16s%2Fg%2F11b7t87_tb!19sChIJvaFVrbj5Xi0RNWizdduYJUo?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noTEr0O6UrHqDQf39oxP0BbET9BQVlthZ7OeoLUysVVBzMdhtHk_rT_tcSdH8YYGSz2a5fzSrptKrHGHdW1eajKN8msD_k0oX35Jery6jmMffCSZh2JpvAuUQzTjH_rGUOyNwsp=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noTEr0O6UrHqDQf39oxP0BbET9BQVlthZ7OeoLUysVVBzMdhtHk_rT_tcSdH8YYGSz2a5fzSrptKrHGHdW1eajKN8msD_k0oX35Jery6jmMffCSZh2JpvAuUQzTjH_rGUOyNwsp=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noTEr0O6UrHqDQf39oxP0BbET9BQVlthZ7OeoLUysVVBzMdhtHk_rT_tcSdH8YYGSz2a5fzSrptKrHGHdW1eajKN8msD_k0oX35Jery6jmMffCSZh2JpvAuUQzTjH_rGUOyNwsp=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Telaga Bintang - Raja Ampat",
+    "alamat": "Saukabu, Distrik Waigeo Barat Kepulauan",
+    "rating": "4.8",
+    "jumlah_review": "325",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.5689417,
+      "longitude": 130.2710209
+    },
+    "url": "https://www.google.com/maps/place/Telaga+Bintang+-+Raja+Ampat/data=!4m7!3m6!1s0x2d5e378304e3ffef:0xd8183d736d58a779!8m2!3d-0.5689417!4d130.2710209!16s%2Fg%2F11hd56btv7!19sChIJ7__jBIM3Xi0ReadYbXM9GNg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np0F0arzTZQxEoV2tAakRtCyVgm6fZr75uq9l5L5hKQKypaRN9CTxyhOvBwUnEYbR1enotxuozAHQ45-vSxZW2X4-GcfLuR9dLS7z1vkwYEkF9I-s_qHy0aHZ4vM5bvbOug5ELsRA=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np0F0arzTZQxEoV2tAakRtCyVgm6fZr75uq9l5L5hKQKypaRN9CTxyhOvBwUnEYbR1enotxuozAHQ45-vSxZW2X4-GcfLuR9dLS7z1vkwYEkF9I-s_qHy0aHZ4vM5bvbOug5ELsRA=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np0F0arzTZQxEoV2tAakRtCyVgm6fZr75uq9l5L5hKQKypaRN9CTxyhOvBwUnEYbR1enotxuozAHQ45-vSxZW2X4-GcfLuR9dLS7z1vkwYEkF9I-s_qHy0aHZ4vM5bvbOug5ELsRA=w397-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Pantai Maruni",
+    "alamat": "Pantai Maruni Jl. Manokwari - Bintuni, Anday, Distrik Manokwari",
+    "rating": "4.3",
+    "jumlah_review": "9",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.9771256,
+      "longitude": 134.01967
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Maruni/data=!4m7!3m6!1s0x2d53f13738227e8b:0xd9f40a9272beaf33!8m2!3d-0.9771256!4d134.01967!16s%2Fg%2F11q97l71p5!19sChIJi34iODfxUy0RM6--cpIK9Nk?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noRidIRbw5_aeriaIPWsrq5j2yEdbphXXDiXCDtHZ6dLdI5o5GNJgOXcL2W37nnK1pXil5D6Jrg92WZvXvARFbcZAZbSLSHHZwsPWHm4uM6-Z4jCkbiaQ8wxwGQucKLpx8JX211_Q=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noRidIRbw5_aeriaIPWsrq5j2yEdbphXXDiXCDtHZ6dLdI5o5GNJgOXcL2W37nnK1pXil5D6Jrg92WZvXvARFbcZAZbSLSHHZwsPWHm4uM6-Z4jCkbiaQ8wxwGQucKLpx8JX211_Q=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noRidIRbw5_aeriaIPWsrq5j2yEdbphXXDiXCDtHZ6dLdI5o5GNJgOXcL2W37nnK1pXil5D6Jrg92WZvXvARFbcZAZbSLSHHZwsPWHm4uM6-Z4jCkbiaQ8wxwGQucKLpx8JX211_Q=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "PULAU TUBIR SERAM",
+    "alamat": "Dana Weria, Distrik Fakfak Tengah, Papua Bar.",
+    "rating": "4.1",
+    "jumlah_review": "14",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.9522091,
+      "longitude": 132.3231871
+    },
+    "url": "https://www.google.com/maps/place/PULAU+TUBIR+SERAM/data=!4m7!3m6!1s0x2d46177a91fa0e71:0x716e873f0c48008f!8m2!3d-2.9522091!4d132.3231871!16s%2Fg%2F11h93jxp8m!19sChIJcQ76kXoXRi0RjwBIDD-HbnE?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq3akGc1rz_dXkKiuI-vIbCfvTq-tI7S2onHNMf12G968BKkcY4ZS-3GzVzWeio8If8VDUMrVIIGknaYemfe8U_R5s8bOZF85euX1fqBHR4Fwpwf4FjDeKl00OZK5RecAl8-TSu=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq3akGc1rz_dXkKiuI-vIbCfvTq-tI7S2onHNMf12G968BKkcY4ZS-3GzVzWeio8If8VDUMrVIIGknaYemfe8U_R5s8bOZF85euX1fqBHR4Fwpwf4FjDeKl00OZK5RecAl8-TSu=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq3akGc1rz_dXkKiuI-vIbCfvTq-tI7S2onHNMf12G968BKkcY4ZS-3GzVzWeio8If8VDUMrVIIGknaYemfe8U_R5s8bOZF85euX1fqBHR4Fwpwf4FjDeKl00OZK5RecAl8-TSu=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pulau"
+    ]
+  },
+  {
+    "nama": "KALI KACA",
+    "alamat": "Fiane, Kec. Ayamaru",
+    "rating": "4.7",
+    "jumlah_review": "33",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -1.2550316,
+      "longitude": 132.2197874
+    },
+    "url": "https://www.google.com/maps/place/KALI+KACA/data=!4m7!3m6!1s0x2d5a5d9217d54459:0xe8e44aea9660bfb3!8m2!3d-1.2550316!4d132.2197874!16s%2Fg%2F11qvcv5434!19sChIJWUTVF5JdWi0Rs79glupK5Og?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqV8pmHlkaL0mb-JPcHskYNyn_EBgN37Gd3vd5q_TpUqNqqhkvruSqDPsEqGmFMHtI3n9P1tXyR6Hb9rkDZMiwA03ZamipHdsG-bzOEsn-y3bRKAZIIKvbOJzPKi4tSQtjXwqwN=w128-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqV8pmHlkaL0mb-JPcHskYNyn_EBgN37Gd3vd5q_TpUqNqqhkvruSqDPsEqGmFMHtI3n9P1tXyR6Hb9rkDZMiwA03ZamipHdsG-bzOEsn-y3bRKAZIIKvbOJzPKi4tSQtjXwqwN=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqV8pmHlkaL0mb-JPcHskYNyn_EBgN37Gd3vd5q_TpUqNqqhkvruSqDPsEqGmFMHtI3n9P1tXyR6Hb9rkDZMiwA03ZamipHdsG-bzOEsn-y3bRKAZIIKvbOJzPKi4tSQtjXwqwN=w446-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pantai Bakaro",
+    "alamat": "Sunsweni, Kec. Manokwari Bar.",
+    "rating": "4.4",
+    "jumlah_review": "218",
+    "deskripsi": "Pantai bakaro terletak di kelurahan susweni Kecamatan Manokwari Barat, Provinsi Papua Barat, Beroperasi selama 24 jam. Harga tiket masuk untuk kendaraan roda 2 tarif Rp  5.000, dan kendaraan roda 4 memiliki tarif 10.000 per kendaraan, selain itu, pantai ini juga sering do percayakan untuk memanggil ikan yang hanya bisa dilakukan oleh orang-orang tertentu, terdapat sejumlah fasilitas yang tersedia di pantai ini, seperti lahar parkir, toilet, dan pedagang makanan serta minuman. Pantai ini paling s...",
+    "koordinat": {
+      "latitude": -0.8631213,
+      "longitude": 134.1267559
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Bakaro/data=!4m7!3m6!1s0x2d5475707efe1521:0x2a78078185e78e10!8m2!3d-0.8631213!4d134.1267559!16s%2Fg%2F11c6qm09g6!19sChIJIRX-fnB1VC0REI7nhYEHeCo?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noqtwClf8wlBfT1EMzd6Efi5j8-GWTWZBfyp1BRwcpZtocjZmCe6qfSoqdvYdIyogYpucKIyyxLwxHjPv0jwJZe7vKiC_BcVGCaTVsx0M0sAC4Fdod3SQjuNgCEWv-dRPyvzdQr=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noqtwClf8wlBfT1EMzd6Efi5j8-GWTWZBfyp1BRwcpZtocjZmCe6qfSoqdvYdIyogYpucKIyyxLwxHjPv0jwJZe7vKiC_BcVGCaTVsx0M0sAC4Fdod3SQjuNgCEWv-dRPyvzdQr=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noqtwClf8wlBfT1EMzd6Efi5j8-GWTWZBfyp1BRwcpZtocjZmCe6qfSoqdvYdIyogYpucKIyyxLwxHjPv0jwJZe7vKiC_BcVGCaTVsx0M0sAC4Fdod3SQjuNgCEWv-dRPyvzdQr=w224-h298-k-no"
+    ],
+    "kategori": [
+      "pantai",
+      "taman"
+    ]
+  },
+  {
+    "nama": "Pulau Doom Tanah Papua",
+    "alamat": "Jl. Numberi, Doom Tim., Distrik Sorong Kepulauan, Papua Bar.",
+    "rating": "4.5",
+    "jumlah_review": "35",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.886075,
+      "longitude": 131.2374428
+    },
+    "url": "https://www.google.com/maps/place/Pulau+Doom+Tanah+Papua/data=!4m7!3m6!1s0x2d5eab4b67b528e5:0x44d2e89986fe8342!8m2!3d-0.886075!4d131.2374428!16s%2Fg%2F11n60dcmkk!19sChIJ5Si1Z0urXi0RQoP-hpno0kQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipP1ov3i6zbqx6tVWSGurvQ_Pd2pV1Yz6EEXrRkn=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipP1ov3i6zbqx6tVWSGurvQ_Pd2pV1Yz6EEXrRkn=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipP1ov3i6zbqx6tVWSGurvQ_Pd2pV1Yz6EEXrRkn=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pulau"
+    ]
+  },
+  {
+    "nama": "Taman Wisata Alam Sorong",
+    "alamat": "Bar., Klasaman, Distrik Sorong Timur",
+    "rating": "4.3",
+    "jumlah_review": "244",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.9186169,
+      "longitude": 131.3355955
+    },
+    "url": "https://www.google.com/maps/place/Taman+Wisata+Alam+Sorong/data=!4m7!3m6!1s0x2d5bfe3b644e9c6f:0x34d77911969e750d!8m2!3d-0.9186169!4d131.3355955!16s%2Fg%2F11by_fb_rg!19sChIJb5xOZDv-Wy0RDXWelhF51zQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqUkhDOkJTqnmSCaIpjS0XyxniFcYBL6C2aGCqu5tWIn6_tZNWY3J_sJoCLGu2hq0bk6y3HkUshJEgTzAMw4eC6EdP77PCzq6AZeLzIlVE6aP3mGalj0MeUaweIj60K7gMF4HE=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqUkhDOkJTqnmSCaIpjS0XyxniFcYBL6C2aGCqu5tWIn6_tZNWY3J_sJoCLGu2hq0bk6y3HkUshJEgTzAMw4eC6EdP77PCzq6AZeLzIlVE6aP3mGalj0MeUaweIj60K7gMF4HE=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqUkhDOkJTqnmSCaIpjS0XyxniFcYBL6C2aGCqu5tWIn6_tZNWY3J_sJoCLGu2hq0bk6y3HkUshJEgTzAMw4eC6EdP77PCzq6AZeLzIlVE6aP3mGalj0MeUaweIj60K7gMF4HE=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Manase Beach",
+    "alamat": "Jl. Kembar, Kalibobo, Distrik Nabire",
+    "rating": "4.4",
+    "jumlah_review": "315",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.3702062,
+      "longitude": 135.477506
+    },
+    "url": "https://www.google.com/maps/place/Manase+Beach/data=!4m7!3m6!1s0x681fa364b532c6fd:0xff4e2751c3a623d9!8m2!3d-3.3702062!4d135.477506!16s%2Fg%2F11fm172fjx!19sChIJ_cYytWSjH2gR2SOmw1EnTv8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noBoCzdIVmj6SUdwKubmkC6qIQlvrCh7E0Eo4yNn7-GgyVe52gJIw0M4wwQGMqc8m3-txgCwXk7yhXTx43IOsFixQjdFbrWIyHptvvPv2BDsjw-tluEcJHzQPpVwNIYgIr8QzsgIQ=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noBoCzdIVmj6SUdwKubmkC6qIQlvrCh7E0Eo4yNn7-GgyVe52gJIw0M4wwQGMqc8m3-txgCwXk7yhXTx43IOsFixQjdFbrWIyHptvvPv2BDsjw-tluEcJHzQPpVwNIYgIr8QzsgIQ=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noBoCzdIVmj6SUdwKubmkC6qIQlvrCh7E0Eo4yNn7-GgyVe52gJIw0M4wwQGMqc8m3-txgCwXk7yhXTx43IOsFixQjdFbrWIyHptvvPv2BDsjw-tluEcJHzQPpVwNIYgIr8QzsgIQ=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Air Terjun Kiti",
+    "alamat": "Kec. Fakfak, Papua Bar.",
+    "rating": "4.6",
+    "jumlah_review": "27",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.8401024,
+      "longitude": 132.7976785
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Kiti/data=!4m7!3m6!1s0x2d37e8a780ce58bf:0xaa408ebbd4969de4!8m2!3d-3.8401024!4d132.7976785!16s%2Fg%2F11g69dqdqx!19sChIJv1jOgKfoNy0R5J2W1LuOQKo?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq-yZBmkrMLiBWsLLlVXNRowXl_DSRTjPpZ1d3IaWO7oP-UdbUUhmtHPHORd6CyGup2NN_TSPAK970K-TkZfQXLQqCyv8DV6BPLqru0blg-DWrkdTYJh4lTWpBim_6JNJ038pcZgw=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq-yZBmkrMLiBWsLLlVXNRowXl_DSRTjPpZ1d3IaWO7oP-UdbUUhmtHPHORd6CyGup2NN_TSPAK970K-TkZfQXLQqCyv8DV6BPLqru0blg-DWrkdTYJh4lTWpBim_6JNJ038pcZgw=w408-h270-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq-yZBmkrMLiBWsLLlVXNRowXl_DSRTjPpZ1d3IaWO7oP-UdbUUhmtHPHORd6CyGup2NN_TSPAK970K-TkZfQXLQqCyv8DV6BPLqru0blg-DWrkdTYJh4lTWpBim_6JNJ038pcZgw=w449-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Teluk Triton Kaimana",
+    "alamat": "Saria, Kec. Kaimana",
+    "rating": "4.8",
+    "jumlah_review": "106",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.8235359,
+      "longitude": 133.9928543
+    },
+    "url": "https://www.google.com/maps/place/Teluk+Triton+Kaimana/data=!4m7!3m6!1s0x2d35eecda6b6cd1f:0x368cdd751211be7d!8m2!3d-3.8235359!4d133.9928543!16s%2Fg%2F11j8_w8_gg!19sChIJH822ps3uNS0Rfb4REnXdjDY?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq35EGmMUp3mi78CzOGoEpfLT_NxNKHVc-Qn6SaKnoSZBlGjIDT1-qC77KMBqKExOrexSPYc1H4eMPI7mNebzSR2VxwIe2RqbTg0_hxgK1bamCjEhdZWfzU54bVDncZ8T64elWy=w98-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq35EGmMUp3mi78CzOGoEpfLT_NxNKHVc-Qn6SaKnoSZBlGjIDT1-qC77KMBqKExOrexSPYc1H4eMPI7mNebzSR2VxwIe2RqbTg0_hxgK1bamCjEhdZWfzU54bVDncZ8T64elWy=w408-h357-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq35EGmMUp3mi78CzOGoEpfLT_NxNKHVc-Qn6SaKnoSZBlGjIDT1-qC77KMBqKExOrexSPYc1H4eMPI7mNebzSR2VxwIe2RqbTg0_hxgK1bamCjEhdZWfzU54bVDncZ8T64elWy=w340-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Air Terjun Anenderat",
+    "alamat": "Meis, Miyah",
+    "rating": "4.9",
+    "jumlah_review": "12",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.8704898,
+      "longitude": 132.7354253
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Anenderat/data=!4m7!3m6!1s0x2d574ddd5e4e6bbb:0x66df9b66305ac58a!8m2!3d-0.8704898!4d132.7354253!16s%2Fg%2F11fj32b3zz!19sChIJu2tOXt1NVy0RisVaMGab32Y?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npcvCoCNrvf18Z1RpCJOCLCvPzliYLWxIrLnaqDSMSRziSHv1eoEjfzxAr6mU0ZMYQLcZ-jKuZld1z3txe5zA8BxvQB9Y0fBi6NOOJmQlOHd-yDfjYJCqQwW0r8YeXFkleHML6O=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npcvCoCNrvf18Z1RpCJOCLCvPzliYLWxIrLnaqDSMSRziSHv1eoEjfzxAr6mU0ZMYQLcZ-jKuZld1z3txe5zA8BxvQB9Y0fBi6NOOJmQlOHd-yDfjYJCqQwW0r8YeXFkleHML6O=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npcvCoCNrvf18Z1RpCJOCLCvPzliYLWxIrLnaqDSMSRziSHv1eoEjfzxAr6mU0ZMYQLcZ-jKuZld1z3txe5zA8BxvQB9Y0fBi6NOOJmQlOHd-yDfjYJCqQwW0r8YeXFkleHML6O=w397-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Pulau Rumberpon",
+    "alamat": "Pulau, Distrik Rumberpon",
+    "rating": "5.0",
+    "jumlah_review": "1",
+    "deskripsi": "Pulau Rumberpon adalah salah satu pulau yang ada di Kabupaten Teluk Wondama, Provinsi Papua Barat. Dalam sistem koordinat geografi, lokasinya di koordinat 1o 50' 1.665\" Lintang Selatan dan 1340 10\" 44.938\" Bujur Timur. Posisi Pulau Rumberpon berada di bagian utara dari Kabupaten Teluk Wondama. Letaknya berbatasan langsung dengan Kabupaten Manokwari di bagian selatan. Pulau Rumberpon mempunyai pantai bernama Pantai Pasir Panjang. Permukaan tanah di pantai ini berupa pasir kuarsa putih dengan selu...",
+    "koordinat": {
+      "latitude": -1.8431603,
+      "longitude": 134.1815176
+    },
+    "url": "https://www.google.com/maps/place/Pulau+Rumberpon/data=!4m7!3m6!1s0x2d4d8fa3eaff9131:0xb9a6a767126073ea!8m2!3d-1.8431603!4d134.1815176!16s%2Fg%2F11rryzgybj!19sChIJMZH_6qOPTS0R6nNgEmenprk?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nprjn3J665Yfd9581jrLBGJBchMK36PmgEBWVbMfYXjgaX0Syja_GNSBhimQBE7mDnIJHCaub8OLCrI0cPeNLbPajvkiXzSNWocZQWu1S6g2Cs1OEFISkBl-KwsBjMgxNFtbfQy=w149-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nprjn3J665Yfd9581jrLBGJBchMK36PmgEBWVbMfYXjgaX0Syja_GNSBhimQBE7mDnIJHCaub8OLCrI0cPeNLbPajvkiXzSNWocZQWu1S6g2Cs1OEFISkBl-KwsBjMgxNFtbfQy=w417-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nowX96UQfbNIR3bnfJ8oiQNTuDN4nURu-8BDhdzIENFCbhgM160EUcT2l1VLj8OhdMqUk1xRsdk5dIf7KEBNJUpcGs3TaCMpDwxPu7wIPnsSDa1X52CmXT01M4_IOrbWRvjRsk=w360-h205-k-no"
+    ],
+    "kategori": [
+      "pantai",
+      "pulau",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Tanjung Saruri",
+    "alamat": "Yawosi/Fanindi, Distrik Yawosi, Papua",
+    "rating": "4.4",
+    "jumlah_review": "7",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.822996,
+      "longitude": 136.000017
+    },
+    "url": "https://www.google.com/maps/place/Tanjung+Saruri/data=!4m7!3m6!1s0x680159b1f670e4ad:0xc03639030d7e0f5d!8m2!3d-0.822996!4d136.000017!16s%2Fg%2F11tjf32tkv!19sChIJreRw9rFZAWgRXQ9-DQM5NsA?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqQ3TL5uTRb6fEmImxah6uQTvjj3ZSQ_6_KyUBObDMcycc2rAMeRd4yrWGvY133x9e_gdtjhOntdHoQvP1ThsJZaueZz-S7MSjszUVtUZKt0mi11Y_zGejChSvaoWfgVCBebtdm=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqQ3TL5uTRb6fEmImxah6uQTvjj3ZSQ_6_KyUBObDMcycc2rAMeRd4yrWGvY133x9e_gdtjhOntdHoQvP1ThsJZaueZz-S7MSjszUVtUZKt0mi11Y_zGejChSvaoWfgVCBebtdm=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqQ3TL5uTRb6fEmImxah6uQTvjj3ZSQ_6_KyUBObDMcycc2rAMeRd4yrWGvY133x9e_gdtjhOntdHoQvP1ThsJZaueZz-S7MSjszUVtUZKt0mi11Y_zGejChSvaoWfgVCBebtdm=w224-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pantai Dosa",
+    "alamat": "Sowi, Distrik Manokwari",
+    "rating": "4.1",
+    "jumlah_review": "148",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.9216732,
+      "longitude": 134.0445291
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Dosa/data=!4m7!3m6!1s0x2d53f47176c79db9:0xbd2d789ac01a1aea!8m2!3d-0.9216732!4d134.0445291!16s%2Fg%2F11f3jlv1f3!19sChIJuZ3HdnH0Uy0R6hoawJp4Lb0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqVE_LpgeXLxigNytqqs69iBfJk7Oja_kc2sj6Lj5Mout-MS94uomQ7TGIpwXsAQ93WzY9jzCgKaQlHbg3qWgbnd4fCQiHDG3eDzAmSMRkQyViD4RQamOOvVMCCEFg2wlUZ0A6PXQ=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqVE_LpgeXLxigNytqqs69iBfJk7Oja_kc2sj6Lj5Mout-MS94uomQ7TGIpwXsAQ93WzY9jzCgKaQlHbg3qWgbnd4fCQiHDG3eDzAmSMRkQyViD4RQamOOvVMCCEFg2wlUZ0A6PXQ=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqVE_LpgeXLxigNytqqs69iBfJk7Oja_kc2sj6Lj5Mout-MS94uomQ7TGIpwXsAQ93WzY9jzCgKaQlHbg3qWgbnd4fCQiHDG3eDzAmSMRkQyViD4RQamOOvVMCCEFg2wlUZ0A6PXQ=w224-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Gunung Petik Bintang Maybrat",
+    "alamat": "Ayawasi, Hutan",
+    "rating": "4.5",
+    "jumlah_review": "51",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -1.009385,
+      "longitude": 132.546794
+    },
+    "url": "https://www.google.com/maps/place/Gunung+Petik+Bintang+Maybrat/data=!4m7!3m6!1s0x2d5a07fb101dedc1:0x31d03961e3d7132!8m2!3d-1.009385!4d132.546794!16s%2Fg%2F11gfpbmlrx!19sChIJwe0dEPsHWi0RMnE9HpYDHQM?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq_a0JHEZNc1vhu-vfBRZNljO5JJtwVBhEy6W6nBET5P9_Sdqt71V9dmuuEkzr5wvz2NF2zH3RAv4nJ2MJwGAoDwge4UdFtK2lVXnovuc3dOADSzWpo6tsk2RPUKe873AW1agUu=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq_a0JHEZNc1vhu-vfBRZNljO5JJtwVBhEy6W6nBET5P9_Sdqt71V9dmuuEkzr5wvz2NF2zH3RAv4nJ2MJwGAoDwge4UdFtK2lVXnovuc3dOADSzWpo6tsk2RPUKe873AW1agUu=w408-h270-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq_a0JHEZNc1vhu-vfBRZNljO5JJtwVBhEy6W6nBET5P9_Sdqt71V9dmuuEkzr5wvz2NF2zH3RAv4nJ2MJwGAoDwge4UdFtK2lVXnovuc3dOADSzWpo6tsk2RPUKe873AW1agUu=w449-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Rumah Etnik Papua",
+    "alamat": "Aimas, Kec. Aimas",
+    "rating": "4.7",
+    "jumlah_review": "222",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.9713386,
+      "longitude": 131.340271
+    },
+    "url": "https://www.google.com/maps/place/Rumah+Etnik+Papua/data=!4m7!3m6!1s0x2d5bf93ba8f0b3f7:0xe82ed12b8348bf7f!8m2!3d-0.9713386!4d131.340271!16s%2Fg%2F11pd3tg2vz!19sChIJ97PwqDv5Wy0Rf79IgyvRLug?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipOt_QDpx21oEO-Nhzqtr4Yt9-8_IzNGhsGCGFYs=w153-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipOt_QDpx21oEO-Nhzqtr4Yt9-8_IzNGhsGCGFYs=w427-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipOt_QDpx21oEO-Nhzqtr4Yt9-8_IzNGhsGCGFYs=w530-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Vihara Buddha Jayanti",
+    "alamat": "Klakublik, Distrik Sorong",
+    "rating": "4.4",
+    "jumlah_review": "199",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.8790403,
+      "longitude": 131.2688395
+    },
+    "url": "https://www.google.com/maps/place/Vihara+Buddha+Jayanti/data=!4m7!3m6!1s0x2d5eab732a1165b1:0xfd532bb6bd5949e4!8m2!3d-0.8790403!4d131.2688395!16s%2Fg%2F1pzs5zmkh!19sChIJsWURKnOrXi0R5ElZvbYrU_0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nonI32oBD8PXlrN-4mvAPC_syW7Vb1tACqicBNb_-IvtQAI7WxkZE-CFnqOqdKnqSgBfgNyi5sHPkNtXseKq-6E3zqTAbmxNeaB8BSw-QDR8ckf1J9Kwkitsbxio6qSZKYiwfM5lw=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nonI32oBD8PXlrN-4mvAPC_syW7Vb1tACqicBNb_-IvtQAI7WxkZE-CFnqOqdKnqSgBfgNyi5sHPkNtXseKq-6E3zqTAbmxNeaB8BSw-QDR8ckf1J9Kwkitsbxio6qSZKYiwfM5lw=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nonI32oBD8PXlrN-4mvAPC_syW7Vb1tACqicBNb_-IvtQAI7WxkZE-CFnqOqdKnqSgBfgNyi5sHPkNtXseKq-6E3zqTAbmxNeaB8BSw-QDR8ckf1J9Kwkitsbxio6qSZKYiwfM5lw=w224-h298-k-no"
+    ],
+    "kategori": [
+      "candi"
+    ]
+  },
+  {
+    "nama": "Taman Wisata Mangrove Klawalu Sorong",
+    "alamat": "Klamana, Distrik Sorong Timur, Papua Bar.",
+    "rating": "4.2",
+    "jumlah_review": "223",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.9130053,
+      "longitude": 131.3075691
+    },
+    "url": "https://www.google.com/maps/place/Taman+Wisata+Mangrove+Klawalu+Sorong/data=!4m7!3m6!1s0x2d5bff9abb40ca75:0x5342bb3a6bdad1d1!8m2!3d-0.9130053!4d131.3075691!16s%2Fg%2F11gvzkd3d6!19sChIJdcpAu5r_Wy0R0dHaazq7QlM?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npzc0TxPamkUk9pTD6Qp2sozAghOE_5DBsWb-5Qp4aYrg4XTL52P4kmEeLADZezkR07mFOxWUecUd_DnLCDHkbqhSJvdwXI5pMHjK94sXTz2oq4YIfqQr0Mv4cy-2I10V3VEod0=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npzc0TxPamkUk9pTD6Qp2sozAghOE_5DBsWb-5Qp4aYrg4XTL52P4kmEeLADZezkR07mFOxWUecUd_DnLCDHkbqhSJvdwXI5pMHjK94sXTz2oq4YIfqQr0Mv4cy-2I10V3VEod0=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npzc0TxPamkUk9pTD6Qp2sozAghOE_5DBsWb-5Qp4aYrg4XTL52P4kmEeLADZezkR07mFOxWUecUd_DnLCDHkbqhSJvdwXI5pMHjK94sXTz2oq4YIfqQr0Mv4cy-2I10V3VEod0=w224-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Pantai Batu Kotak Abasi",
+    "alamat": "Jl. Pasir Putih, Arowi, Kec. Manokwari Tim.",
+    "rating": "4.6",
+    "jumlah_review": "69",
+    "deskripsi": "Pantai Batu Kotak Abasi merupakan salah satu pantai yang terletak di Kampung Sauabas, Distrik Manokwari Timur, Kabupaten Manokwari, Papua Barat. Pantai ini dapat diakses melalui perjalanan darat dari Kota Manokwari sekitar 40 menit perjalanan. Dinamakan \"pantai batu kotak\" karena terdapat banyak tumpukan batu berbentuk kubus yang disusun untuk menahan abrasi air laut. Pantai ini menyajikan pemandangan laut biru dan hamparan pasir putih.\nSemua masyarakat dapat menikmati pantai ini tanpa dipungut ...",
+    "koordinat": {
+      "latitude": -0.8717481,
+      "longitude": 134.132217
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Batu+Kotak+Abasi/data=!4m7!3m6!1s0x2d538a8057ef9e89:0x1fa18c24744a6edf!8m2!3d-0.8717481!4d134.132217!16s%2Fg%2F11fzf0bcx8!19sChIJiZ7vV4CKUy0R325KdCSMoR8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqviX-nOTD8ccxd50dESJFiU3_5NYqI5eph75qGSG7AWdGUqmjRZG27WZQ1LiO09FNRdcZBA450O7yNnM1tA3-pcWVjZsDuA511mZeJQmLxkYnZu_iJ8TiMhiLoaXtf5BcNjMzUDw=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqviX-nOTD8ccxd50dESJFiU3_5NYqI5eph75qGSG7AWdGUqmjRZG27WZQ1LiO09FNRdcZBA450O7yNnM1tA3-pcWVjZsDuA511mZeJQmLxkYnZu_iJ8TiMhiLoaXtf5BcNjMzUDw=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqviX-nOTD8ccxd50dESJFiU3_5NYqI5eph75qGSG7AWdGUqmjRZG27WZQ1LiO09FNRdcZBA450O7yNnM1tA3-pcWVjZsDuA511mZeJQmLxkYnZu_iJ8TiMhiLoaXtf5BcNjMzUDw=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Gunung Meja",
+    "alamat": "Jl. Tugu Jepang, Amban, Kec. Manokwari Bar.",
+    "rating": "4.8",
+    "jumlah_review": "25",
+    "deskripsi": "Gunung Meja (bahasa Inggris: Table Mountain; Khoekhoe: Huriǂoaxa, lit. 'muncul di laut'code: naq is deprecated ; bahasa Afrikaans: Tafelberg) merupakan gunung yang puncaknya datar seperti meja. Gunung ini termasuk dalam daerah dari Taman Nasional Gunung Meja yang terletak di kota Cape Town, Afrika Selatan, dan merupakan salah satu objek wisata unggulan di kota itu. pemandangan dari atas gunung Meja ini merupakan salah satu pemandangan terbaik di Afrika. Orang-orang mengunjungi gunung ini dengan ...",
+    "koordinat": {
+      "latitude": -0.8424017,
+      "longitude": 134.069877
+    },
+    "url": "https://www.google.com/maps/place/Gunung+Meja/data=!4m7!3m6!1s0x2d540b3eae2980a7:0x2e2bb9f79c81de7d!8m2!3d-0.8424017!4d134.069877!16s%2Fg%2F11fkq9_97x!19sChIJp4Aprj4LVC0Rfd6BnPe5Ky4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrlOo_ou2o6u9JRynRrWmnrfmkcS6F7w9y-AQQUs8rSfn3wPZ95fUoLT3m5btMPgz29aYqQlscrbmEMf8lFoxiXGnn8R1XxMjdnSz41KGkwcSWbE6Fv8AHjFKXy1loY69ZypHKU=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrlOo_ou2o6u9JRynRrWmnrfmkcS6F7w9y-AQQUs8rSfn3wPZ95fUoLT3m5btMPgz29aYqQlscrbmEMf8lFoxiXGnn8R1XxMjdnSz41KGkwcSWbE6Fv8AHjFKXy1loY69ZypHKU=w408-h271-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrlOo_ou2o6u9JRynRrWmnrfmkcS6F7w9y-AQQUs8rSfn3wPZ95fUoLT3m5btMPgz29aYqQlscrbmEMf8lFoxiXGnn8R1XxMjdnSz41KGkwcSWbE6Fv8AHjFKXy1loY69ZypHKU=w448-h298-k-no"
+    ],
+    "kategori": [
+      "pantai",
+      "gunung",
+      "taman",
+      "taman_nasional",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Air Terjun Tagor",
+    "alamat": "Mambuniibuni, Kokas, Papua Bar.",
+    "rating": "4.0",
+    "jumlah_review": "2",
+    "deskripsi": "Air Terjun Tagor adalah salah satu air terjun di Kabupaten Fakfak, Provinsi Papua Barat Indonesia yang secara administratif terletak di Kampung Mambunibuni Distrik Kokas Kabupaten Fakfak. Aliran air terjun ini sangat tinggi dan belum diketahui secara pasti tinggi air terjun tersebut, Air Terjun Tagor mengalir dari puncak tebing dengan deras serta memiliki pemandangan hutan hujan tropis yang lebat. Air Terjun Tagor tidak begitu familiar oleh masyarakat Fakfak seperti Air Terjun Kiti Kiti, Air Ter...",
+    "koordinat": {
+      "latitude": -2.8883856,
+      "longitude": 132.6880552
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Tagor/data=!4m7!3m6!1s0x2d48a5edb4ff8e99:0xcd2e1950f3879b6e!8m2!3d-2.8883856!4d132.6880552!16s%2Fg%2F11jksh22wk!19sChIJmY7_tO2lSC0RbpuH81AZLs0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noaM_3jpNVOMbIis1JrhXq9S1mYEf7k115ZGBx__rI83djfIFOAzJuyHY3XGD7Rl5xnF6FTmm7Zq6_1LK2AGNxBURm-AzjgBWQHyv3s6STjGCIdKrvBwbD7-0la-kCZauttloebyQ=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noaM_3jpNVOMbIis1JrhXq9S1mYEf7k115ZGBx__rI83djfIFOAzJuyHY3XGD7Rl5xnF6FTmm7Zq6_1LK2AGNxBURm-AzjgBWQHyv3s6STjGCIdKrvBwbD7-0la-kCZauttloebyQ=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noaM_3jpNVOMbIis1JrhXq9S1mYEf7k115ZGBx__rI83djfIFOAzJuyHY3XGD7Rl5xnF6FTmm7Zq6_1LK2AGNxBURm-AzjgBWQHyv3s6STjGCIdKrvBwbD7-0la-kCZauttloebyQ=w224-h298-k-no"
+    ],
+    "kategori": [
+      "gunung",
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Taman Nasional Teluk Cenderawasih",
+    "alamat": "Sobei Indah, Duairi",
+    "rating": "4.3",
+    "jumlah_review": "254",
+    "deskripsi": "Taman Nasional Teluk Cenderawasih (disingkat TNTC) merupakan taman nasional perairan laut terluas di Indonesia, terdiri dari daratan dan pesisir pantai (0,9%), daratan pulau-pulau (3,8%), terumbu karang (5,5%), dan perairan lautan (89,8%).\nTaman nasional ini terletak di Teluk Cenderawasih, Provinsi Papua Barat. Taman Nasional Teluk Cenderawasih meliputi pulau Mioswaar, Nusrowi, Roon, Rumberpon dan Yoop.",
+    "koordinat": {
+      "latitude": -2.548225,
+      "longitude": 134.4783821
+    },
+    "url": "https://www.google.com/maps/place/Taman+Nasional+Teluk+Cenderawasih/data=!4m7!3m6!1s0x2d4b62bec61af6ef:0x758ba1aa8c8a474a!8m2!3d-2.548225!4d134.4783821!16s%2Fm%2F0b762x5!19sChIJ7_Yaxr5iSy0RSkeKjKqhi3U?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqwBnMxmCflZ09nPPJC78mVKaYBDNwcm1NsSCgMmj8ivrv8Y22HyvsJfTdgceWXJldU_QMj0tMiQv4YHZ8VZIJLLJdeOC72BA3TN1FYdsCxRcvOEwh-QQ0jNE1qRm4LPa8FLGMdYQ=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqwBnMxmCflZ09nPPJC78mVKaYBDNwcm1NsSCgMmj8ivrv8Y22HyvsJfTdgceWXJldU_QMj0tMiQv4YHZ8VZIJLLJdeOC72BA3TN1FYdsCxRcvOEwh-QQ0jNE1qRm4LPa8FLGMdYQ=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqpynil9xPwnunOE9BDCgLgAegd1JVxVTVHvhNDaPNxJU_AQSrXV4JjBggpi43vySTGiMb1dzF7vuGKpKz04PwGznNurJgK55lJsZqDkyVEGrD6IErcewKF_Wywh0YC-r1yoUM=w449-h298-k-no"
+    ],
+    "kategori": [
+      "pantai",
+      "taman",
+      "taman_nasional",
+      "pulau"
+    ]
+  },
+  {
+    "nama": "Goa Jepang Pulau Doom",
+    "alamat": "Doom Bar., Distrik Sorong Barat, Papua Bar.",
+    "rating": "4.6",
+    "jumlah_review": "37",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.8858346,
+      "longitude": 131.2357476
+    },
+    "url": "https://www.google.com/maps/place/Goa+Jepang+Pulau+Doom/data=!4m7!3m6!1s0x2d5eab756aee4603:0x17a7ab8f16b6ecec!8m2!3d-0.8858346!4d131.2357476!16s%2Fg%2F11s2l0wvj9!19sChIJA0buanWrXi0R7Oy2Fo-rpxc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq4MSdtl3RHz3-gw8-Jnki_RZdtctNdgdEHcYrllXER2QkSle-nis81C38Ie9eufkVibRsT7kpU5eX5KDKJBBrA7syW8MUtl83BLjdKDWMmkhLnXwjPy_2_vLgyUjITR4NSYYSc=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq4MSdtl3RHz3-gw8-Jnki_RZdtctNdgdEHcYrllXER2QkSle-nis81C38Ie9eufkVibRsT7kpU5eX5KDKJBBrA7syW8MUtl83BLjdKDWMmkhLnXwjPy_2_vLgyUjITR4NSYYSc=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq4MSdtl3RHz3-gw8-Jnki_RZdtctNdgdEHcYrllXER2QkSle-nis81C38Ie9eufkVibRsT7kpU5eX5KDKJBBrA7syW8MUtl83BLjdKDWMmkhLnXwjPy_2_vLgyUjITR4NSYYSc=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pulau",
+      "goa"
+    ]
+  },
+  {
+    "nama": "Gunung Botak Manokwari Selatan",
+    "alamat": "Jl. Manokwari - Bintuni, Yekwandi, Distrik Manokwari, Kab. Manokwari Selatan",
+    "rating": "4.7",
+    "jumlah_review": "235",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -1.660686,
+      "longitude": 134.080963
+    },
+    "url": "https://www.google.com/maps/place/Gunung+Botak+Manokwari+Selatan/data=!4m7!3m6!1s0x2d520d5cbdb90f51:0xba14efe647c7f8e4!8m2!3d-1.660686!4d134.080963!16s%2Fg%2F11dz_rbyc9!19sChIJUQ-5vVwNUi0R5PjHR-bvFLo?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npL1T3OdjWaRvHNDxhFMhux8oJ7pg-6BID2MxEhLFo_rWndAHz5saqHob6IFCPsKYFK4_sTsk0W157wqM5w46LPOq_1YUavwgNAR5KOuzTlyzgnsMR_pfym5JKIxuaFJN1F386G=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npL1T3OdjWaRvHNDxhFMhux8oJ7pg-6BID2MxEhLFo_rWndAHz5saqHob6IFCPsKYFK4_sTsk0W157wqM5w46LPOq_1YUavwgNAR5KOuzTlyzgnsMR_pfym5JKIxuaFJN1F386G=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npL1T3OdjWaRvHNDxhFMhux8oJ7pg-6BID2MxEhLFo_rWndAHz5saqHob6IFCPsKYFK4_sTsk0W157wqM5w46LPOq_1YUavwgNAR5KOuzTlyzgnsMR_pfym5JKIxuaFJN1F386G=w397-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Pantai Pasir Putih",
+    "alamat": "Jl. Pasir Putih, Pasir Putih, Kec. Manokwari Tim.",
+    "rating": "4.3",
+    "jumlah_review": "429",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.8704698,
+      "longitude": 134.1073893
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Pasir+Putih/data=!4m7!3m6!1s0x2d538aa78861910d:0xded60afd648c41de!8m2!3d-0.8704698!4d134.1073893!16s%2Fg%2F11fszdlmnh!19sChIJDZFhiKeKUy0R3kGMZP0K1t4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npcu26bAUg9w-wTsvpStvQ7M1N18codPW5aPRNguhkKQECbFC5uXFroV-4IpbPdAJ9nOuDxfnYzJIs5HLMzJfAsaeeotPZoc00XS_YUgYlvfOuOI-0ufDNpq9HBYmiMDSqb4Az8Eg=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npcu26bAUg9w-wTsvpStvQ7M1N18codPW5aPRNguhkKQECbFC5uXFroV-4IpbPdAJ9nOuDxfnYzJIs5HLMzJfAsaeeotPZoc00XS_YUgYlvfOuOI-0ufDNpq9HBYmiMDSqb4Az8Eg=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npcu26bAUg9w-wTsvpStvQ7M1N18codPW5aPRNguhkKQECbFC5uXFroV-4IpbPdAJ9nOuDxfnYzJIs5HLMzJfAsaeeotPZoc00XS_YUgYlvfOuOI-0ufDNpq9HBYmiMDSqb4Az8Eg=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Air Terjun Bihewa",
+    "alamat": "Urumusu, Kec. Uwapa",
+    "rating": "4.5",
+    "jumlah_review": "28",
+    "deskripsi": "Air Terjun Bihewa adalah salah satu lokasi wisata  yang terletak di distrik Makimi, Kabupaten Nabire, Provinsi Papua Tengah Indonesia. Air Terjun Bihewa mempunyai ketinggian kurang lebih 40 meter dan memiliki tujuh tingkat. Tingkat yang paling mudah dan banyak dikunjungi wisatawan adalah tingkat kedua. Di tingkat kedua ini kita sudah dapat melihat pemandangan yang asri dan sangat hijaunya pepohonan serta senyaman ini, apalagi tingkat ketujuh pasti pemandangan yang dilihat akan jauh lebih indah s...",
+    "koordinat": {
+      "latitude": -3.3094726,
+      "longitude": 135.8176352
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Bihewa/data=!4m7!3m6!1s0x681f1125ec971443:0x5e777625a5d78ab9!8m2!3d-3.3094726!4d135.8176352!16s%2Fg%2F11c2p2cx7q!19sChIJQxSX7CURH2gRuYrXpSV2d14?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4notpNqoJfzbSlwvj8RUPQtdrMvsckf2ykPom4kjwzczGydJCeeTo_vxruJx9kSTjg8vFowJ0uyMiMoLId-PAWtKcPtTvc3URK8nm2TMSN16_5pf-1I9eTxxhlNKTKx6CltetcjUXQ=w116-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4notpNqoJfzbSlwvj8RUPQtdrMvsckf2ykPom4kjwzczGydJCeeTo_vxruJx9kSTjg8vFowJ0uyMiMoLId-PAWtKcPtTvc3URK8nm2TMSN16_5pf-1I9eTxxhlNKTKx6CltetcjUXQ=w408-h302-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4notpNqoJfzbSlwvj8RUPQtdrMvsckf2ykPom4kjwzczGydJCeeTo_vxruJx9kSTjg8vFowJ0uyMiMoLId-PAWtKcPtTvc3URK8nm2TMSN16_5pf-1I9eTxxhlNKTKx6CltetcjUXQ=w402-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Pantai Tembok Berlin",
+    "alamat": "Kp. Baru, Distrik Sorong",
+    "rating": "4.2",
+    "jumlah_review": "510",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.8723739,
+      "longitude": 131.2456856
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Tembok+Berlin/data=!4m7!3m6!1s0x2d5eab094caebf89:0x5ea7c8af20034304!8m2!3d-0.8723739!4d131.2456856!16s%2Fg%2F11c2p338cb!19sChIJib-uTAmrXi0RBEMDIK_Ip14?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrRFQFH8c8GWrmeckctCPn8BjKIZ-N4feEoy2a4SHo73xDGn9gEgC9hBW4IflSZ6Uyh4CY3r2hG1o1TMPlAo2GZZn9GMA7bIpBqqxkBoJjNGc9pdrA9LMOcmuUw_JGwt3yVcINR=w86-h152-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrRFQFH8c8GWrmeckctCPn8BjKIZ-N4feEoy2a4SHo73xDGn9gEgC9hBW4IflSZ6Uyh4CY3r2hG1o1TMPlAo2GZZn9GMA7bIpBqqxkBoJjNGc9pdrA9LMOcmuUw_JGwt3yVcINR=w408-h725-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrRFQFH8c8GWrmeckctCPn8BjKIZ-N4feEoy2a4SHo73xDGn9gEgC9hBW4IflSZ6Uyh4CY3r2hG1o1TMPlAo2GZZn9GMA7bIpBqqxkBoJjNGc9pdrA9LMOcmuUw_JGwt3yVcINR=w224-h398-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Piaynemo Raja Ampat",
+    "alamat": "Groot Fam, Saukabu, Kepulauan Raja Ampat, Waigeo Barat Kepulau, Saukabu, Distrik Waigeo Barat Kepulauan",
+    "rating": "4.9",
+    "jumlah_review": "2.057",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.5642076,
+      "longitude": 130.2708139
+    },
+    "url": "https://www.google.com/maps/place/Piaynemo+Raja+Ampat/data=!4m7!3m6!1s0x2d5e37819775a0bf:0xb98db4c6e60649fb!8m2!3d-0.5642076!4d130.2708139!16s%2Fg%2F11b8_qyrb5!19sChIJv6B1l4E3Xi0R-0kG5sa0jbk?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np1CJFR4tKxx-qA7QCdn2UKRFNXYQ1mL_VxVUEoHifdlhvW2n8WtXQJjfiGUy-4raT_425ggv3Zm19SLvVKs1acK7croFp38S6YWKU67emvTa0hnSXO15nuHAaVIZqn9cK6d2rniQ=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np1CJFR4tKxx-qA7QCdn2UKRFNXYQ1mL_VxVUEoHifdlhvW2n8WtXQJjfiGUy-4raT_425ggv3Zm19SLvVKs1acK7croFp38S6YWKU67emvTa0hnSXO15nuHAaVIZqn9cK6d2rniQ=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np1CJFR4tKxx-qA7QCdn2UKRFNXYQ1mL_VxVUEoHifdlhvW2n8WtXQJjfiGUy-4raT_425ggv3Zm19SLvVKs1acK7croFp38S6YWKU67emvTa0hnSXO15nuHAaVIZqn9cK6d2rniQ=w529-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Wisata Manokwari",
+    "alamat": "Pantai Petrua Kafiar, Amban, Kec. Manokwari Bar.",
+    "rating": "3.0",
+    "jumlah_review": "5",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.8308036,
+      "longitude": 134.0913101
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Manokwari/data=!4m7!3m6!1s0x2d540b4ac57cc893:0x8ff0afa821b5fc21!8m2!3d-0.8308036!4d134.0913101!16s%2Fg%2F11sfrsnhdn!19sChIJk8h8xUoLVC0RIfy1Iaiv8I8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nouoOSfQ3DhgZtRo4BEjIbDGQYpR85_X6vJ_M9xLop2ccljV8xqtKSDhXadBKOc6rt4ZWPzUdGt9WGolPLXc4llSRbeG_cO8LtXGxCLcZ_d6eStDJjRE5epKkruRJUOtDIy4tR0=w206-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nouoOSfQ3DhgZtRo4BEjIbDGQYpR85_X6vJ_M9xLop2ccljV8xqtKSDhXadBKOc6rt4ZWPzUdGt9WGolPLXc4llSRbeG_cO8LtXGxCLcZ_d6eStDJjRE5epKkruRJUOtDIy4tR0=w576-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nouoOSfQ3DhgZtRo4BEjIbDGQYpR85_X6vJ_M9xLop2ccljV8xqtKSDhXadBKOc6rt4ZWPzUdGt9WGolPLXc4llSRbeG_cO8LtXGxCLcZ_d6eStDJjRE5epKkruRJUOtDIy4tR0=w715-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pantai Werur",
+    "alamat": "Werur, Distrik Sausapor",
+    "rating": "4.9",
+    "jumlah_review": "15",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.4155024,
+      "longitude": 132.1903445
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Werur/data=!4m7!3m6!1s0x2d584ba90dcc38c7:0x1532d5edeb6a0d99!8m2!3d-0.4155024!4d132.1903445!16s%2Fg%2F11cr_vs_x0!19sChIJxzjMDalLWC0RmQ1q6-3VMhU?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrAbcNeg4IxF7NtEyRS1A0j25NFFhcl4qU5OUMoP7x6oFu_SfbbGA9fvFg9tFQcmxq-AnjTOZE6aSfBXV_eeQDRs8m_yVVyP0oExZ98D76kKy1g0tsYlw6wnu5ZV0spJodgjeYR=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrAbcNeg4IxF7NtEyRS1A0j25NFFhcl4qU5OUMoP7x6oFu_SfbbGA9fvFg9tFQcmxq-AnjTOZE6aSfBXV_eeQDRs8m_yVVyP0oExZ98D76kKy1g0tsYlw6wnu5ZV0spJodgjeYR=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrAbcNeg4IxF7NtEyRS1A0j25NFFhcl4qU5OUMoP7x6oFu_SfbbGA9fvFg9tFQcmxq-AnjTOZE6aSfBXV_eeQDRs8m_yVVyP0oExZ98D76kKy1g0tsYlw6wnu5ZV0spJodgjeYR=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Air Terjun Wenyef",
+    "alamat": "Warmandi, Abun",
+    "rating": "5.0",
+    "jumlah_review": "2",
+    "deskripsi": "Air terjun Wenyef adalah tempat wisata alam berupa air terjun yang berada di kampung Warmandi, distrik Abun, kabupaten Tambrauw, Papua Barat Daya, Indonesia. Air terjun ini masih belum terjamah karena secara letak lokasi sangat jauh dari tepi pantai dan akses jalan untuk menuju kesana belum memadai hanya melewati pinggiran sungai wenyef, sehingga jika pengunjung yang berminat kesana harus didampingi penduduk setempat yang mengetahui akses jalan untuk menuju kesana .\nAir terjun wenyef terletak pa...",
+    "koordinat": {
+      "latitude": -0.4598048,
+      "longitude": 132.6796347
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Wenyef/data=!4m7!3m6!1s0x2d57793e2268c1c1:0x1799b48cb7d76170!8m2!3d-0.4598048!4d132.6796347!16s%2Fg%2F11rzqzlcr8!19sChIJwcFoIj55Vy0RcGHXt4y0mRc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np2-viM1XLJ1ERgdc1gUQt5C5iBk1YlM9ahlMT3hCv_yixatDyPIH5Q0Gl6U6ijXjWltQsEyo3TI1s1gfVCFxiv9pCD7i6Ww6Zs7u0gwnxIkwNQjjFtrAlJ9pIFWrJxHepxjp60Ww=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np2-viM1XLJ1ERgdc1gUQt5C5iBk1YlM9ahlMT3hCv_yixatDyPIH5Q0Gl6U6ijXjWltQsEyo3TI1s1gfVCFxiv9pCD7i6Ww6Zs7u0gwnxIkwNQjjFtrAlJ9pIFWrJxHepxjp60Ww=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np2-viM1XLJ1ERgdc1gUQt5C5iBk1YlM9ahlMT3hCv_yixatDyPIH5Q0Gl6U6ijXjWltQsEyo3TI1s1gfVCFxiv9pCD7i6Ww6Zs7u0gwnxIkwNQjjFtrAlJ9pIFWrJxHepxjp60Ww=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pantai",
+      "air_terjun",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Pantai Patawana",
+    "alamat": "Fakfak Tim.",
+    "rating": "4.7",
+    "jumlah_review": "94",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.0074872,
+      "longitude": 132.4374527
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Patawana/data=!4m7!3m6!1s0x2d46227f27d83289:0xfc36f242e7320d44!8m2!3d-3.0074872!4d132.4374527!16s%2Fg%2F11bzr6x09_!19sChIJiTLYJ38iRi0RRA0y50LyNvw?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr1Rg1LO2WzAzR1aruIj-cH0Zm4cQQaKRTV8pz7aqndCKWv_s97gi5hfxtzS8p7wtKc-m182bV092d9FlHU3lymDn0ho-MQVr1g9LkAWKwWlxySfIXhDY1jbv0XJYihdgDBlLdl=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr1Rg1LO2WzAzR1aruIj-cH0Zm4cQQaKRTV8pz7aqndCKWv_s97gi5hfxtzS8p7wtKc-m182bV092d9FlHU3lymDn0ho-MQVr1g9LkAWKwWlxySfIXhDY1jbv0XJYihdgDBlLdl=w408-h307-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr1Rg1LO2WzAzR1aruIj-cH0Zm4cQQaKRTV8pz7aqndCKWv_s97gi5hfxtzS8p7wtKc-m182bV092d9FlHU3lymDn0ho-MQVr1g9LkAWKwWlxySfIXhDY1jbv0XJYihdgDBlLdl=w395-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Karawawi Waterfall",
+    "alamat": "Nusa Ulan, Buruway",
+    "rating": "4.9",
+    "jumlah_review": "10",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -4.0659474,
+      "longitude": 133.034675
+    },
+    "url": "https://www.google.com/maps/place/Karawawi+Waterfall/data=!4m7!3m6!1s0x2d37b162a1a93d05:0xfa50ba8bab267d1f!8m2!3d-4.0659474!4d133.034675!16s%2Fg%2F11j8hjt_gr!19sChIJBT2poWKxNy0RH30mq4u6UPo?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq6pvpXtHr3kDQJuqqgtLAYppMuUmG2Pn_2X2YB-5vvN3wzDdw3En_PPHPqpRZkTWjMPkCjdXBOjzPLG41a8jcN3-gG0lOmDQZe6NhZjQj77AnVm2cLB78PmAFVaXWkjbc3JlFBmg=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq6pvpXtHr3kDQJuqqgtLAYppMuUmG2Pn_2X2YB-5vvN3wzDdw3En_PPHPqpRZkTWjMPkCjdXBOjzPLG41a8jcN3-gG0lOmDQZe6NhZjQj77AnVm2cLB78PmAFVaXWkjbc3JlFBmg=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq6pvpXtHr3kDQJuqqgtLAYppMuUmG2Pn_2X2YB-5vvN3wzDdw3En_PPHPqpRZkTWjMPkCjdXBOjzPLG41a8jcN3-gG0lOmDQZe6NhZjQj77AnVm2cLB78PmAFVaXWkjbc3JlFBmg=w224-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  }
+]
