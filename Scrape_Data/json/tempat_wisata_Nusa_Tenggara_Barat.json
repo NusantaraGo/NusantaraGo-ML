@@ -1,0 +1,739 @@
+[
+  {
+    "nama": "Pantai Nambung",
+    "alamat": "Montong Ajan, Praya Barat Daya, Nusa Tengg, Montong Ajan, Praya Barat Daya, West Nusa Tenggara",
+    "rating": "4.5",
+    "jumlah_review": "131",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.8691785,
+      "longitude": 116.1038278
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Nambung/data=!4m7!3m6!1s0x2dcda1c7fa099127:0x90f292854a9f4be5!8m2!3d-8.8691785!4d116.1038278!16s%2Fg%2F11j00jr8f2!19sChIJJ5EJ-sehzS0R5UufSoWS8pA?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nomGfjS9jRwaxCApYcjMhwkXnG9EAY5OlaNz1d92PgebqINTatgzf4tNRn7ajeUkj5UTxxBzOw8ZttuPqCDyoHKNAYwz4zR3-t1kCn1EDUR259AVM7h1yuB0lHWG7sx1Kaqf0GzEQ=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nomGfjS9jRwaxCApYcjMhwkXnG9EAY5OlaNz1d92PgebqINTatgzf4tNRn7ajeUkj5UTxxBzOw8ZttuPqCDyoHKNAYwz4zR3-t1kCn1EDUR259AVM7h1yuB0lHWG7sx1Kaqf0GzEQ=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nomGfjS9jRwaxCApYcjMhwkXnG9EAY5OlaNz1d92PgebqINTatgzf4tNRn7ajeUkj5UTxxBzOw8ZttuPqCDyoHKNAYwz4zR3-t1kCn1EDUR259AVM7h1yuB0lHWG7sx1Kaqf0GzEQ=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Wisata Kuliner Kebon Ayu",
+    "alamat": "Jl. Selamet, Kebunayu, Kec. Gerung",
+    "rating": "4.5",
+    "jumlah_review": "290",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.6929888,
+      "longitude": 116.1046458
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Kuliner+Kebon+Ayu/data=!4m7!3m6!1s0x2dcdbddcf92518ef:0xc19d8aa1235a3045!8m2!3d-8.6929888!4d116.1046458!16s%2Fg%2F11p5kz19zy!19sChIJ7xgl-dy9zS0RRTBaI6GKncE?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noUZblhPz95LGpWPZduit7RCdqiHWGE-ZWhEBNiIZ4K8zWD6YOt5nmDruQARxLR-bKgmhBL5RykGnO4-OoK2gndMHaI8bfZ0Nvp0LCIPh2CunuUwjX4kExsckUHPB7Cd6iYdWseeQ=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noUZblhPz95LGpWPZduit7RCdqiHWGE-ZWhEBNiIZ4K8zWD6YOt5nmDruQARxLR-bKgmhBL5RykGnO4-OoK2gndMHaI8bfZ0Nvp0LCIPh2CunuUwjX4kExsckUHPB7Cd6iYdWseeQ=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noUZblhPz95LGpWPZduit7RCdqiHWGE-ZWhEBNiIZ4K8zWD6YOt5nmDruQARxLR-bKgmhBL5RykGnO4-OoK2gndMHaI8bfZ0Nvp0LCIPh2CunuUwjX4kExsckUHPB7Cd6iYdWseeQ=w224-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Wisata Taman Labuhan Haji Montong meong",
+    "alamat": "Wisata Taman, Labuhan H., Kec. Labuhan H., Nusa Tenggara Bar.",
+    "rating": "4.3",
+    "jumlah_review": "117",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.7083265,
+      "longitude": 116.5652958
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Taman+Labuhan+Haji+Montong+meong/data=!4m7!3m6!1s0x2dcc4fa5f167c949:0x46d252467e82bd67!8m2!3d-8.7083265!4d116.5652958!16s%2Fg%2F11lr9__wz3!19sChIJScln8aVPzC0RZ72CfkZS0kY?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4norO2N1Xt4sZbSDyZuCvAYofLpD84bDWDRvWLoHWzuFinKiVRfbXiIOL-UB6WSW82RyUluGb_qjBwsaSLrH_xF9D7IAyKsooHEtGbKcIlKHsg4o4q6w7BWDWoplGeluTeNDuhb5=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4norO2N1Xt4sZbSDyZuCvAYofLpD84bDWDRvWLoHWzuFinKiVRfbXiIOL-UB6WSW82RyUluGb_qjBwsaSLrH_xF9D7IAyKsooHEtGbKcIlKHsg4o4q6w7BWDWoplGeluTeNDuhb5=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4norO2N1Xt4sZbSDyZuCvAYofLpD84bDWDRvWLoHWzuFinKiVRfbXiIOL-UB6WSW82RyUluGb_qjBwsaSLrH_xF9D7IAyKsooHEtGbKcIlKHsg4o4q6w7BWDWoplGeluTeNDuhb5=w224-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Wisata Desa sedau",
+    "alamat": "Sedau, Kec. Narmada",
+    "rating": "4.4",
+    "jumlah_review": "586",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.5744707,
+      "longitude": 116.2636575
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Desa+sedau/data=!4m10!3m9!1s0x2dcdc82698f2d357:0xf324b9d2f3c30319!5m2!4m1!1i2!8m2!3d-8.5744707!4d116.2636575!16s%2Fg%2F11dxb30hff!19sChIJV9PymCbIzS0RGQPD89K5JPM?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipOeLEqZuobHaCsTUr8W_Uak8ZcFZFGOyinEy40W=w86-h107-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipOeLEqZuobHaCsTUr8W_Uak8ZcFZFGOyinEy40W=w408-h510-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipOeLEqZuobHaCsTUr8W_Uak8ZcFZFGOyinEy40W=w238-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Kuta Lombok Beach",
+    "alamat": "Pantai Kuta Lombok, Kuta, Kec. Pujut",
+    "rating": "4.5",
+    "jumlah_review": "1.257",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.8947518,
+      "longitude": 116.2831703
+    },
+    "url": "https://www.google.com/maps/place/Kuta+Lombok+Beach/data=!4m7!3m6!1s0x2dcda90a6a098e29:0x98a072b98ea0add!8m2!3d-8.8947518!4d116.2831703!16s%2Fg%2F11q962shnz!19sChIJKY4JagqpzS0R3QrqmCsHigk?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nopst8N31xrY-uQwB7QZU9cCUoPepciCh5-WL98IGVfvu8CLOST0lY7owYSTZFD9Z4eHHUshgtu1_AFNQlz-7q8FIZGTVrCeIyDSxQM8OfqH2BYNZfoXwvgZdTrLfXrKeHgSvHl=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nopst8N31xrY-uQwB7QZU9cCUoPepciCh5-WL98IGVfvu8CLOST0lY7owYSTZFD9Z4eHHUshgtu1_AFNQlz-7q8FIZGTVrCeIyDSxQM8OfqH2BYNZfoXwvgZdTrLfXrKeHgSvHl=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nopst8N31xrY-uQwB7QZU9cCUoPepciCh5-WL98IGVfvu8CLOST0lY7owYSTZFD9Z4eHHUshgtu1_AFNQlz-7q8FIZGTVrCeIyDSxQM8OfqH2BYNZfoXwvgZdTrLfXrKeHgSvHl=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Bukit Menangis Lombok Tengah",
+    "alamat": "Pengengat, Kec. Pujut, Nusa Tenggara Bar.",
+    "rating": "4.5",
+    "jumlah_review": "43",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.8640074,
+      "longitude": 116.3282764
+    },
+    "url": "https://www.google.com/maps/place/Bukit+Menangis+Lombok+Tengah/data=!4m7!3m6!1s0x2dcdabd6222a2c8b:0x47a5df5e67f13677!8m2!3d-8.8640074!4d116.3282764!16s%2Fg%2F11p77r4rkv!19sChIJiywqItarzS0RdzbxZ17fpUc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npB9jXCrvZDgzYBfcr4a1chSFnTIGDbrcOzcxEIxDTCZl7UzxKxVok4orwduf2iJazO8aWQH8KyxU1P3C7yU5-TIhCGwOd3lGcnZy0YqGMRR3cJYjxhA14-5ImS3pSJlky7W1uSqQ=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npB9jXCrvZDgzYBfcr4a1chSFnTIGDbrcOzcxEIxDTCZl7UzxKxVok4orwduf2iJazO8aWQH8KyxU1P3C7yU5-TIhCGwOd3lGcnZy0YqGMRR3cJYjxhA14-5ImS3pSJlky7W1uSqQ=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npB9jXCrvZDgzYBfcr4a1chSFnTIGDbrcOzcxEIxDTCZl7UzxKxVok4orwduf2iJazO8aWQH8KyxU1P3C7yU5-TIhCGwOd3lGcnZy0YqGMRR3cJYjxhA14-5ImS3pSJlky7W1uSqQ=w529-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Desa Wisata Sesaot",
+    "alamat": "Sesaot, Kec. Narmada",
+    "rating": "4.4",
+    "jumlah_review": "250",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.5400401,
+      "longitude": 116.2441693
+    },
+    "url": "https://www.google.com/maps/place/Desa+Wisata+Sesaot/data=!4m7!3m6!1s0x2dcdc9095a0afa7b:0x64efe122246b27b9!8m2!3d-8.5400401!4d116.2441693!16s%2Fg%2F11pf80256f!19sChIJe_oKWgnJzS0RuSdrJCLh72Q?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipM1TNHMYtBV7bJKy0T6vdheD0Xyi7IJPzMOJAZY=w150-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipM1TNHMYtBV7bJKy0T6vdheD0Xyi7IJPzMOJAZY=w419-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipM1TNHMYtBV7bJKy0T6vdheD0Xyi7IJPzMOJAZY=w520-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Air Terjun Gunung Janggot",
+    "alamat": "Dusun seganteng, Aik Berik, Kec. Batukliang Utara",
+    "rating": "4.5",
+    "jumlah_review": "78",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.5379603,
+      "longitude": 116.3543056
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Gunung+Janggot/data=!4m7!3m6!1s0x2dcdcbfa583bb471:0x960bb7c837c61525!8m2!3d-8.5379603!4d116.3543056!16s%2Fg%2F11qytp192k!19sChIJcbQ7WPrLzS0RJRXGN8i3C5Y?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nolhOkcb0cfg1x0AD2R-LchAL7dthYZZXGaTDCMWzBCeZeAmdL_KrvTWbV-UmA5Af0ayc3GlIFkJisDaupeIxLNNmxWa9ui0OqZbOWn8U-n3OP1gMP3zWV1UM2da4FCzbaRDeaXpg=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nolhOkcb0cfg1x0AD2R-LchAL7dthYZZXGaTDCMWzBCeZeAmdL_KrvTWbV-UmA5Af0ayc3GlIFkJisDaupeIxLNNmxWa9ui0OqZbOWn8U-n3OP1gMP3zWV1UM2da4FCzbaRDeaXpg=w408-h543-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nolhOkcb0cfg1x0AD2R-LchAL7dthYZZXGaTDCMWzBCeZeAmdL_KrvTWbV-UmA5Af0ayc3GlIFkJisDaupeIxLNNmxWa9ui0OqZbOWn8U-n3OP1gMP3zWV1UM2da4FCzbaRDeaXpg=w224-h298-k-no"
+    ],
+    "kategori": [
+      "gunung",
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "EKOWISATA BALE MANGROVE",
+    "alamat": "Jerowaru, Nusa Tenggara Bar.",
+    "rating": "4.5",
+    "jumlah_review": "302",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.8005305,
+      "longitude": 116.5018079
+    },
+    "url": "https://www.google.com/maps/place/EKOWISATA+BALE+MANGROVE/data=!4m7!3m6!1s0x2dcc55225b934d2d:0x7a821dba4f912d2d!8m2!3d-8.8005305!4d116.5018079!16s%2Fg%2F11rcwhp11m!19sChIJLU2TWyJVzC0RLS2RT7odgno?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npxNFvQP1IZsl5zsIa_Y0sYTl_e0zmowZXYEOaqTeCrK_gX5ipU0YNrKn9h1uUQq-WbdbJ2__1Ks2BrBNU-j-nOa_HAELdpWhc0zviztHyIQTWyCLqxL_G0TS0tN9bqVDiLjPgQ=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npxNFvQP1IZsl5zsIa_Y0sYTl_e0zmowZXYEOaqTeCrK_gX5ipU0YNrKn9h1uUQq-WbdbJ2__1Ks2BrBNU-j-nOa_HAELdpWhc0zviztHyIQTWyCLqxL_G0TS0tN9bqVDiLjPgQ=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npxNFvQP1IZsl5zsIa_Y0sYTl_e0zmowZXYEOaqTeCrK_gX5ipU0YNrKn9h1uUQq-WbdbJ2__1Ks2BrBNU-j-nOa_HAELdpWhc0zviztHyIQTWyCLqxL_G0TS0tN9bqVDiLjPgQ=w224-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Taman Mekarsari Narmada",
+    "alamat": "Jalan Lingkar Selatan, Mekarsari, Kec. Narmada",
+    "rating": "4.4",
+    "jumlah_review": "310",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.6042387,
+      "longitude": 116.1714874
+    },
+    "url": "https://www.google.com/maps/place/Taman+Mekarsari+Narmada/data=!4m7!3m6!1s0x2dcdb9cd5a471e81:0x5c6bef736bbcd849!8m2!3d-8.6042387!4d116.1714874!16s%2Fg%2F11p4__2kyd!19sChIJgR5HWs25zS0RSdi8a3Pva1w?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqKpQqa7qmJO9xI1Hxzqlhj4GOr91reArQJptikzdwkVP1igPwNMcSTnvMomyMLDhvpFkVo-iJcJe37usK1yrYSRJb43pCUaqDarC9NJUnIBp4zO378EtGpMWY0wuKGizRGy052dg=w145-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqKpQqa7qmJO9xI1Hxzqlhj4GOr91reArQJptikzdwkVP1igPwNMcSTnvMomyMLDhvpFkVo-iJcJe37usK1yrYSRJb43pCUaqDarC9NJUnIBp4zO378EtGpMWY0wuKGizRGy052dg=w408-h241-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqKpQqa7qmJO9xI1Hxzqlhj4GOr91reArQJptikzdwkVP1igPwNMcSTnvMomyMLDhvpFkVo-iJcJe37usK1yrYSRJb43pCUaqDarC9NJUnIBp4zO378EtGpMWY0wuKGizRGy052dg=w503-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Bukit Selong",
+    "alamat": "Sembalun Lawang, Kec. Sembalun",
+    "rating": "4.6",
+    "jumlah_review": "1.606",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.3652742,
+      "longitude": 116.5400344
+    },
+    "url": "https://www.google.com/maps/place/Bukit+Selong/data=!4m7!3m6!1s0x2dcc2f000083f4f9:0x579df1089fccb2fd!8m2!3d-8.3652742!4d116.5400344!16s%2Fg%2F11y4ntldw9!19sChIJ-fSDAAAvzC0R_bLMnwjxnVc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npfvUXsw0-oFHxbrO59Q_omMN1O6Lr7oPXvbB7PIt_Lz8fKfuxiyqm5oSlQ5nBZ2PpS43eupL9hAdzKFlONCXCMsj8tGleRNUL6yP1ZMGT_rh_TQ8MRKYXqnTyJC8qlS1hA6zX-=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npfvUXsw0-oFHxbrO59Q_omMN1O6Lr7oPXvbB7PIt_Lz8fKfuxiyqm5oSlQ5nBZ2PpS43eupL9hAdzKFlONCXCMsj8tGleRNUL6yP1ZMGT_rh_TQ8MRKYXqnTyJC8qlS1hA6zX-=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npfvUXsw0-oFHxbrO59Q_omMN1O6Lr7oPXvbB7PIt_Lz8fKfuxiyqm5oSlQ5nBZ2PpS43eupL9hAdzKFlONCXCMsj8tGleRNUL6yP1ZMGT_rh_TQ8MRKYXqnTyJC8qlS1hA6zX-=w447-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Bukit Tembere",
+    "alamat": "Kekait, Kec. Gunungsari",
+    "rating": "4.0",
+    "jumlah_review": "79",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.5232669,
+      "longitude": 116.1078745
+    },
+    "url": "https://www.google.com/maps/place/Bukit+Tembere/data=!4m7!3m6!1s0x2dcdc16be6d5d8ff:0xfc1527f428f6a1b5!8m2!3d-8.5232669!4d116.1078745!16s%2Fg%2F11gfpbjpy4!19sChIJ_9jV5mvBzS0RtaH2KPQnFfw?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqpO9pzL4lLu-AFA8F5C4lEpG7DVCXL9pNW1en_3lnM2_09ne7bvtddADwNIJ55CZatImvgO3IW_QbwXZpvb4Cv-Hg9WEpUB8J84opF_RFeIk5xGW4VrpjX7cKm45b2GLTIdGeO=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqpO9pzL4lLu-AFA8F5C4lEpG7DVCXL9pNW1en_3lnM2_09ne7bvtddADwNIJ55CZatImvgO3IW_QbwXZpvb4Cv-Hg9WEpUB8J84opF_RFeIk5xGW4VrpjX7cKm45b2GLTIdGeO=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqpO9pzL4lLu-AFA8F5C4lEpG7DVCXL9pNW1en_3lnM2_09ne7bvtddADwNIJ55CZatImvgO3IW_QbwXZpvb4Cv-Hg9WEpUB8J84opF_RFeIk5xGW4VrpjX7cKm45b2GLTIdGeO=w224-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Wahana Air Ditaman Wisata Aik Bukak",
+    "alamat": "Jalan Pariwisata Aik Bukak Desa Aik Bukak Kecamatan Batukliang Utara, Aik Bukaq, Praya",
+    "rating": "4.1",
+    "jumlah_review": "506",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.5769458,
+      "longitude": 116.3440092
+    },
+    "url": "https://www.google.com/maps/place/Wahana+Air+Ditaman+Wisata+Aik+Bukak/data=!4m7!3m6!1s0x2dcdb5f235163c4b:0x446bec7e8356c34c!8m2!3d-8.5769458!4d116.3440092!16s%2Fg%2F11bwkm3zx3!19sChIJSzwWNfK1zS0RTMNWg37sa0Q?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipPKxvinMlvPW80nFoxAgWRIJunlV9z8kGImuPN5=w154-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPKxvinMlvPW80nFoxAgWRIJunlV9z8kGImuPN5=w430-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPKxvinMlvPW80nFoxAgWRIJunlV9z8kGImuPN5=w534-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Bukit Mantun",
+    "alamat": "Mantun, Kec. Maluk",
+    "rating": "4.4",
+    "jumlah_review": "241",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.9151108,
+      "longitude": 116.7423705
+    },
+    "url": "https://www.google.com/maps/place/Bukit+Mantun/data=!4m7!3m6!1s0x2dccf59ed1e9e2d1:0x2e35ef1ed3b73fb3!8m2!3d-8.9151108!4d116.7423705!16s%2Fg%2F11f7941dbl!19sChIJ0eLp0Z71zC0Rsz-30x7vNS4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrCxPBBOF9VrN6KOHvEDWQk6DpWK5FwUyAPRUlIm_2Lqk0OCEh8J3WDXHrjx9ZN8MIf6FdNdEBrZZo_f93FC9IJ7NGiJFU_XpF1jZXo9VJpaUvvdp_GnZfQzgfrL8SE5EQNZmdETw=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrCxPBBOF9VrN6KOHvEDWQk6DpWK5FwUyAPRUlIm_2Lqk0OCEh8J3WDXHrjx9ZN8MIf6FdNdEBrZZo_f93FC9IJ7NGiJFU_XpF1jZXo9VJpaUvvdp_GnZfQzgfrL8SE5EQNZmdETw=w408-h270-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrCxPBBOF9VrN6KOHvEDWQk6DpWK5FwUyAPRUlIm_2Lqk0OCEh8J3WDXHrjx9ZN8MIf6FdNdEBrZZo_f93FC9IJ7NGiJFU_XpF1jZXo9VJpaUvvdp_GnZfQzgfrL8SE5EQNZmdETw=w449-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Pantai Seger Kuta Lombok",
+    "alamat": "Kuta, Kec. Pujut",
+    "rating": "4.5",
+    "jumlah_review": "1.606",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.907198,
+      "longitude": 116.2970394
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Seger+Kuta+Lombok/data=!4m7!3m6!1s0x2dcd07688be32eb3:0x4a2b5a1298bb615b!8m2!3d-8.907198!4d116.2970394!16s%2Fg%2F11cjh_bn9b!19sChIJsy7ji2gHzS0RW2G7mBJaK0o?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrqlALd9GMheqatZZtiPTce7nyUi1FtnkkO1yKUXIK-30fBZDfjM4AbUMEDImt9eJ01w-OMybR_gm0uJzZq33TEyvetnzDeZENQ96__ZM8ikGKCozHU9dpiJTneP30uKuIPjHs=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrqlALd9GMheqatZZtiPTce7nyUi1FtnkkO1yKUXIK-30fBZDfjM4AbUMEDImt9eJ01w-OMybR_gm0uJzZq33TEyvetnzDeZENQ96__ZM8ikGKCozHU9dpiJTneP30uKuIPjHs=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrqlALd9GMheqatZZtiPTce7nyUi1FtnkkO1yKUXIK-30fBZDfjM4AbUMEDImt9eJ01w-OMybR_gm0uJzZq33TEyvetnzDeZENQ96__ZM8ikGKCozHU9dpiJTneP30uKuIPjHs=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Bukit Merese",
+    "alamat": "Jl. Kuta Lombok, Kuta, Kec. Pujut",
+    "rating": "4.7",
+    "jumlah_review": "7.646",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.9139299,
+      "longitude": 116.3190063
+    },
+    "url": "https://www.google.com/maps/place/Bukit+Merese/data=!4m7!3m6!1s0x2dcdb3a83b5a599f:0xf8cf6a8d2d088cc!8m2!3d-8.9139299!4d116.3190063!16s%2Fg%2F11c1p92mc8!19sChIJn1laO6izzS0RzIjQ0qj2jA8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrQdemnh85EEFCFgkVnq4mAbxt0Dj7FEgAgPzNdVRvDfT1EP-W3gB9jgRgi65syN1--CLvKr287q0AuFtaAi2Cq3SOOTw5AnBnsHm3mVeHp_cVdGxCSdIJkBCh2YSYiJJ_YmzI6=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrQdemnh85EEFCFgkVnq4mAbxt0Dj7FEgAgPzNdVRvDfT1EP-W3gB9jgRgi65syN1--CLvKr287q0AuFtaAi2Cq3SOOTw5AnBnsHm3mVeHp_cVdGxCSdIJkBCh2YSYiJJ_YmzI6=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrQdemnh85EEFCFgkVnq4mAbxt0Dj7FEgAgPzNdVRvDfT1EP-W3gB9jgRgi65syN1--CLvKr287q0AuFtaAi2Cq3SOOTw5AnBnsHm3mVeHp_cVdGxCSdIJkBCh2YSYiJJ_YmzI6=w397-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Bukit Batu Idung (BBI)",
+    "alamat": "Jemb. Kembar, Kec. Lembar",
+    "rating": "4.4",
+    "jumlah_review": "506",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.708561,
+      "longitude": 116.1068901
+    },
+    "url": "https://www.google.com/maps/place/Bukit+Batu+Idung+%28BBI%29/data=!4m7!3m6!1s0x2dcdbcf5ddba724f:0x4813f5e9086199be!8m2!3d-8.708561!4d116.1068901!16s%2Fg%2F11b7hrgw8x!19sChIJT3K63fW8zS0RvplhCOn1E0g?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npC9l2zm0zyQXEfdi62CnxHxDwAGSgFVjkki6nb5rSF38MZW0XaIYsclhd1O0Ymr6dj4X9UQrt-gZl07BIwXD9Ux80hwTZcgGVdxiY60TVU-El7q2jQdSzUb0PA7hOEz3abQLE=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npC9l2zm0zyQXEfdi62CnxHxDwAGSgFVjkki6nb5rSF38MZW0XaIYsclhd1O0Ymr6dj4X9UQrt-gZl07BIwXD9Ux80hwTZcgGVdxiY60TVU-El7q2jQdSzUb0PA7hOEz3abQLE=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npC9l2zm0zyQXEfdi62CnxHxDwAGSgFVjkki6nb5rSF38MZW0XaIYsclhd1O0Ymr6dj4X9UQrt-gZl07BIwXD9Ux80hwTZcgGVdxiY60TVU-El7q2jQdSzUb0PA7hOEz3abQLE=w529-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Wisata gunung Aur",
+    "alamat": "Jl. Raya Sedau, Keru, Kec. Narmada",
+    "rating": "4.4",
+    "jumlah_review": "59",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.5738171,
+      "longitude": 116.2639666
+    },
+    "url": "https://www.google.com/maps/place/Wisata+gunung+Aur/data=!4m7!3m6!1s0x2dcdc90f4665f15d:0x6572f0f66be850d5!8m2!3d-8.5738171!4d116.2639666!16s%2Fg%2F11pzf33vhm!19sChIJXfFlRg_JzS0R1VDoa_bwcmU?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipNCf9P32Y6hvDHCuezeiSiROiGrd2ja6qM3uiEQ=w86-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNCf9P32Y6hvDHCuezeiSiROiGrd2ja6qM3uiEQ=w408-h408-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNCf9P32Y6hvDHCuezeiSiROiGrd2ja6qM3uiEQ=w298-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Orong Bukal",
+    "alamat": "Jl. Lingkar Selatan, Dusun sauh, Buwun Mas, Kec. Sekotong",
+    "rating": "4.6",
+    "jumlah_review": "233",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.8811842,
+      "longitude": 115.9825376
+    },
+    "url": "https://www.google.com/maps/place/Orong+Bukal/data=!4m7!3m6!1s0x2dcd9fb9f7f49813:0xfcd8f28aea163eb8!8m2!3d-8.8811842!4d115.9825376!16s%2Fg%2F11rv1gb965!19sChIJE5j097mfzS0RuD4W6ory2Pw?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipPuazXD-Yiy442HEATsbec7TZOqrXSTVjpONyRZ=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPuazXD-Yiy442HEATsbec7TZOqrXSTVjpONyRZ=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPuazXD-Yiy442HEATsbec7TZOqrXSTVjpONyRZ=w224-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Sembalun Lombok",
+    "alamat": "Jl. Wisata Gn. Rinjani, Sembalun Bumbung, Kec. Sembalun",
+    "rating": "4.7",
+    "jumlah_review": "550",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.4155057,
+      "longitude": 116.5381873
+    },
+    "url": "https://www.google.com/maps/place/Sembalun+Lombok/data=!4m7!3m6!1s0x2dcdc1bb0647155f:0xd33081ef04127887!8m2!3d-8.4155057!4d116.5381873!16s%2Fg%2F11fy4r0405!19sChIJXxVHBrvBzS0Rh3gSBO-BMNM?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipPr1JlS9AEZdUBCjK7QN8nirWiSlbFjF4gJQGln=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPr1JlS9AEZdUBCjK7QN8nirWiSlbFjF4gJQGln=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPr1JlS9AEZdUBCjK7QN8nirWiSlbFjF4gJQGln=w529-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Wisata Alam Aiknyet",
+    "alamat": "Aiknyet desa Buwun Sejati, Sesaot, Kec. Narmada",
+    "rating": "4.4",
+    "jumlah_review": "1.304",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.5336096,
+      "longitude": 116.2391481
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Alam+Aiknyet/data=!4m7!3m6!1s0x2dcdc98613350d7b:0xb34948c6e7dd2f72!8m2!3d-8.5336096!4d116.2391481!16s%2Fg%2F11c2n9znh3!19sChIJew01E4bJzS0Rci_d58ZISbM?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipMwlzUSQLPKHWPIB5Qw5ku5DTcatCFLMUychmjK=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipMwlzUSQLPKHWPIB5Qw5ku5DTcatCFLMUychmjK=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipMwlzUSQLPKHWPIB5Qw5ku5DTcatCFLMUychmjK=w529-h298-k-no"
+    ],
+    "kategori": [
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Air Terjun Tibu Atas",
+    "alamat": "Batu Mekar, Kec. Lingsar",
+    "rating": "4.3",
+    "jumlah_review": "177",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.5404619,
+      "longitude": 116.2296197
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Tibu+Atas/data=!4m7!3m6!1s0x2dcdc7d59b151fe5:0x2333b16276d7696c!8m2!3d-8.5404619!4d116.2296197!16s%2Fg%2F11f1kj5t7h!19sChIJ5R8Vm9XHzS0RbGnXdmKxMyM?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqrpCKkVtQ0cjfsiM-u3O_iXPDjKnh9y-GkqkTVzCshhRL5Ge5dzAvP-eKKfgNBMjXyPU9-f812RUMcXui9mb06iuRJOLsGFxqYgczOEaLbyi-yyrt3ACKkkMSaWxc959vcfE3J=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqrpCKkVtQ0cjfsiM-u3O_iXPDjKnh9y-GkqkTVzCshhRL5Ge5dzAvP-eKKfgNBMjXyPU9-f812RUMcXui9mb06iuRJOLsGFxqYgczOEaLbyi-yyrt3ACKkkMSaWxc959vcfE3J=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqrpCKkVtQ0cjfsiM-u3O_iXPDjKnh9y-GkqkTVzCshhRL5Ge5dzAvP-eKKfgNBMjXyPU9-f812RUMcXui9mb06iuRJOLsGFxqYgczOEaLbyi-yyrt3ACKkkMSaWxc959vcfE3J=w397-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Pantai Tanjung Menangis",
+    "alamat": "Pringgabaya, Kec. Pringgabaya",
+    "rating": "4.2",
+    "jumlah_review": "404",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.5509698,
+      "longitude": 116.6619743
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Tanjung+Menangis/data=!4m7!3m6!1s0x2dcc478b23d4a86b:0x7e0cf7d80c77a04d!8m2!3d-8.5509698!4d116.6619743!16s%2Fg%2F11qg44mbpp!19sChIJa6jUI4tHzC0RTaB3DNj3DH4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npwj8g5FzBHa7l13flYrKFkcw4elRi9O-CBm5UeNT2SwgSBllTgpCrkAGySCYtKQtNFWgafd0OlnSOkSjICEtv7LgdWAXBg20vLKzBwH72qIGadt7JtsHNE8k8ctECaTS8maqDE=w148-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npwj8g5FzBHa7l13flYrKFkcw4elRi9O-CBm5UeNT2SwgSBllTgpCrkAGySCYtKQtNFWgafd0OlnSOkSjICEtv7LgdWAXBg20vLKzBwH72qIGadt7JtsHNE8k8ctECaTS8maqDE=w413-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npwj8g5FzBHa7l13flYrKFkcw4elRi9O-CBm5UeNT2SwgSBllTgpCrkAGySCYtKQtNFWgafd0OlnSOkSjICEtv7LgdWAXBg20vLKzBwH72qIGadt7JtsHNE8k8ctECaTS8maqDE=w513-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Taman Wisata Liang Bukal",
+    "alamat": "Batutering, Kec. Moyo Hulu",
+    "rating": "4.3",
+    "jumlah_review": "104",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.6927287,
+      "longitude": 117.4908738
+    },
+    "url": "https://www.google.com/maps/place/Taman+Wisata+Liang+Bukal/data=!4m7!3m6!1s0x2dcb999ec2f02433:0x29da3164369dcdc4!8m2!3d-8.6927287!4d117.4908738!16s%2Fg%2F11c76jk3n_!19sChIJMyTwwp6Zyy0RxM2dNmQx2ik?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np4KMAruBDMCYaUoKDmEtd7hkfF2H9TYKZUODC4ghTJaFrY1VelPZBYxT8U_23hvlSoQJTSX3pFPSOkFiF1dtzJLJmAujhgwrlyYdKsM3Bh4SfOMVz2LBATBt35bMgzozvS7a0j=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np4KMAruBDMCYaUoKDmEtd7hkfF2H9TYKZUODC4ghTJaFrY1VelPZBYxT8U_23hvlSoQJTSX3pFPSOkFiF1dtzJLJmAujhgwrlyYdKsM3Bh4SfOMVz2LBATBt35bMgzozvS7a0j=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np4KMAruBDMCYaUoKDmEtd7hkfF2H9TYKZUODC4ghTJaFrY1VelPZBYxT8U_23hvlSoQJTSX3pFPSOkFiF1dtzJLJmAujhgwrlyYdKsM3Bh4SfOMVz2LBATBt35bMgzozvS7a0j=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Wisata Alam Goa Lawah Lebah Sempage",
+    "alamat": "Lebah Sempage, Kec. Narmada, Nusa Tenggara Bar.",
+    "rating": "4.8",
+    "jumlah_review": "61",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.5397503,
+      "longitude": 116.2766619
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Alam+Goa+Lawah+Lebah+Sempage/data=!4m7!3m6!1s0x2dcdc9fa7aff728f:0x41cb40005bf4bcd6!8m2!3d-8.5397503!4d116.2766619!16s%2Fg%2F11tspndhhj!19sChIJj3L_evrJzS0R1rz0WwBAy0E?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipO5lAu_Eeal9kgnN0W28PF_4ss5kNeDMlqVjQcl=w86-h152-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipO5lAu_Eeal9kgnN0W28PF_4ss5kNeDMlqVjQcl=w408-h724-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipO5lAu_Eeal9kgnN0W28PF_4ss5kNeDMlqVjQcl=w224-h397-k-no"
+    ],
+    "kategori": [
+      "goa",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "AIK SERAN BEACH",
+    "alamat": "Obel Obel, Sambelia, Nusa Tenggara Bar.",
+    "rating": "4.2",
+    "jumlah_review": "67",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.262993,
+      "longitude": 116.550588
+    },
+    "url": "https://www.google.com/maps/place/AIK+SERAN+BEACH/data=!4m7!3m6!1s0x2dcc29a3815805c1:0xc641172cb9911e1b!8m2!3d-8.262993!4d116.550588!16s%2Fg%2F11sh7q_tl1!19sChIJwQVYgaMpzC0RGx6RuSwXQcY?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqJ8pJQ5OgHpwM4tF-pCArhHnGCV6fIfkFmx0XRgK1Os9ztg73EeoXhp-NrB9IElnkLicgo7yd1Kg8DSUxtjh511z7DS0Qag9eJCCyARe4nkCMbVbhiHuavllFkCiHnNvsmpoOkSQ=w86-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqJ8pJQ5OgHpwM4tF-pCArhHnGCV6fIfkFmx0XRgK1Os9ztg73EeoXhp-NrB9IElnkLicgo7yd1Kg8DSUxtjh511z7DS0Qag9eJCCyARe4nkCMbVbhiHuavllFkCiHnNvsmpoOkSQ=w408-h408-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqJ8pJQ5OgHpwM4tF-pCArhHnGCV6fIfkFmx0XRgK1Os9ztg73EeoXhp-NrB9IElnkLicgo7yd1Kg8DSUxtjh511z7DS0Qag9eJCCyARe4nkCMbVbhiHuavllFkCiHnNvsmpoOkSQ=w298-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Wahana Wisata Edukasi Jabal Rahmah Desa Jango",
+    "alamat": "Dusun Rungkang, Jango, Barat Desa, Kec. Janapria",
+    "rating": "4.4",
+    "jumlah_review": "329",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.6945077,
+      "longitude": 116.4148926
+    },
+    "url": "https://www.google.com/maps/place/Wahana+Wisata+Edukasi+Jabal+Rahmah+Desa+Jango/data=!4m7!3m6!1s0x2dcdb3cfc6b1afc5:0xf67471b0c6b4b039!8m2!3d-8.6945077!4d116.4148926!16s%2Fg%2F11gxnvhvzp!19sChIJxa-xxs-zzS0RObC0xrBxdPY?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipObjt4wZGwUYm3fH1pk_iqkqh46WXGLnV7KDe4P=w86-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipObjt4wZGwUYm3fH1pk_iqkqh46WXGLnV7KDe4P=w408-h408-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipObjt4wZGwUYm3fH1pk_iqkqh46WXGLnV7KDe4P=w298-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Wisata Berugak Elen Sesaot",
+    "alamat": "Sesaot, Kec. Narmada",
+    "rating": "4.4",
+    "jumlah_review": "290",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.5425597,
+      "longitude": 116.2429823
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Berugak+Elen+Sesaot/data=!4m7!3m6!1s0x2dcdc864a691f37d:0x23e40059c7def4f!8m2!3d-8.5425597!4d116.2429823!16s%2Fg%2F11dxs10cdc!19sChIJffORpmTIzS0RT-99nAVAPgI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipNBTHW7sly2DvdGvsMD6FJ2bDllIJr_rpruO3O6=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNBTHW7sly2DvdGvsMD6FJ2bDllIJr_rpruO3O6=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNBTHW7sly2DvdGvsMD6FJ2bDllIJr_rpruO3O6=w224-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Monumen Mataram Metro",
+    "alamat": "Jempong Baru, Kec. Sekarbela",
+    "rating": "4.6",
+    "jumlah_review": "713",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.6193805,
+      "longitude": 116.0975152
+    },
+    "url": "https://www.google.com/maps/place/Monumen+Mataram+Metro/data=!4m7!3m6!1s0x2dcdbfc3ce4947d1:0xc451101effb29f41!8m2!3d-8.6193805!4d116.0975152!16s%2Fg%2F11s5c221jn!19sChIJ0UdJzsO_zS0RQZ-y_x4QUcQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqBlsf7G5uVjfg2wPWwUPPxmjqSgLitDzk7y903MFEbnBcN8gga2oigpBrAd-XeUoI9vsK7RmCOxjMwImSsE62px2ck8XUKkq5_eDZWFX3gEMwxwWhg8bfiSNqcnDKCJ1sgOT6m=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqBlsf7G5uVjfg2wPWwUPPxmjqSgLitDzk7y903MFEbnBcN8gga2oigpBrAd-XeUoI9vsK7RmCOxjMwImSsE62px2ck8XUKkq5_eDZWFX3gEMwxwWhg8bfiSNqcnDKCJ1sgOT6m=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqBlsf7G5uVjfg2wPWwUPPxmjqSgLitDzk7y903MFEbnBcN8gga2oigpBrAd-XeUoI9vsK7RmCOxjMwImSsE62px2ck8XUKkq5_eDZWFX3gEMwxwWhg8bfiSNqcnDKCJ1sgOT6m=w397-h298-k-no"
+    ],
+    "kategori": [
+      "situs_sejarah"
+    ]
+  },
+  {
+    "nama": "Taman Wisata Pusuk Sembalun (Tourist Park)",
+    "alamat": "Jl. Wisata Gn. Rinjani, Sembalun Bumbung, Kec. Sembalun",
+    "rating": "4.7",
+    "jumlah_review": "750",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.4151495,
+      "longitude": 116.5382383
+    },
+    "url": "https://www.google.com/maps/place/Taman+Wisata+Pusuk+Sembalun+%28Tourist+Park%29/data=!4m7!3m6!1s0x2dcc31485c05687f:0x39e62678d75c6c75!8m2!3d-8.4151495!4d116.5382383!16s%2Fg%2F11swlx_wz1!19sChIJf2gFXEgxzC0RdWxc13gm5jk?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npjGsMGIY9MBjZuEUCV6EjbXAHxyqyc3EPVlPingZBgVGJqWM0aScwaqf1o5o3wPFwOptksiJb3Qrj9KNr6qepWLFJCmTYhe2JaGWFKsyJGetBeK_a2Wq5_JmxeSwF5soxqwwTS=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npjGsMGIY9MBjZuEUCV6EjbXAHxyqyc3EPVlPingZBgVGJqWM0aScwaqf1o5o3wPFwOptksiJb3Qrj9KNr6qepWLFJCmTYhe2JaGWFKsyJGetBeK_a2Wq5_JmxeSwF5soxqwwTS=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npjGsMGIY9MBjZuEUCV6EjbXAHxyqyc3EPVlPingZBgVGJqWM0aScwaqf1o5o3wPFwOptksiJb3Qrj9KNr6qepWLFJCmTYhe2JaGWFKsyJGetBeK_a2Wq5_JmxeSwF5soxqwwTS=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Big Tree Sambelia",
+    "alamat": "Labuhan Lombok, Kec. Pringgabaya",
+    "rating": "4.4",
+    "jumlah_review": "726",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.4729705,
+      "longitude": 116.6748121
+    },
+    "url": "https://www.google.com/maps/place/Big+Tree+Sambelia/data=!4m7!3m6!1s0x2dcc39665c1cbd35:0xe889811ae55cdb1a!8m2!3d-8.4729705!4d116.6748121!16s%2Fg%2F11b71m7s0v!19sChIJNb0cXGY5zC0RGttc5RqBieg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npWi2xUwr5AihYyHxjAzkYd0Ifq6JMTvEKsN8fLuqz7yWZj9fHLI1W-FPlpk-7O083QF3NY6acUY9rn2hTqjrpCE8_B-4MY_zLsJKkVAvtjJE4_wyy0HZqF_zE2SVdxbWik5JJ9Hw=w86-h152-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npWi2xUwr5AihYyHxjAzkYd0Ifq6JMTvEKsN8fLuqz7yWZj9fHLI1W-FPlpk-7O083QF3NY6acUY9rn2hTqjrpCE8_B-4MY_zLsJKkVAvtjJE4_wyy0HZqF_zE2SVdxbWik5JJ9Hw=w408-h724-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npWi2xUwr5AihYyHxjAzkYd0Ifq6JMTvEKsN8fLuqz7yWZj9fHLI1W-FPlpk-7O083QF3NY6acUY9rn2hTqjrpCE8_B-4MY_zLsJKkVAvtjJE4_wyy0HZqF_zE2SVdxbWik5JJ9Hw=w224-h397-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Wisata Bukit Kayangan",
+    "alamat": "Labuhan Lombok, Kec. Pringgabaya",
+    "rating": "4.3",
+    "jumlah_review": "96",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.50108,
+      "longitude": 116.6763061
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Bukit+Kayangan/data=!4m7!3m6!1s0x2dcc393a70a55c7d:0x936bb1e7be52f8ef!8m2!3d-8.50108!4d116.6763061!16s%2Fg%2F11pf7y34fm!19sChIJfVylcDo5zC0R7_hSvuexa5M?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nonW-iXlHfTI4oCcm77k_VnpRuA49RfkbtSEljWMW_EyFoS1cQNo_aDkMGyMzlX7iAbe9_D3y70z858sZbT-Q-72cBN_212hKtX54YrUjdM2YEvPlvuGaeFiC70WUIlpgPF1Q1s=w86-h152-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nonW-iXlHfTI4oCcm77k_VnpRuA49RfkbtSEljWMW_EyFoS1cQNo_aDkMGyMzlX7iAbe9_D3y70z858sZbT-Q-72cBN_212hKtX54YrUjdM2YEvPlvuGaeFiC70WUIlpgPF1Q1s=w408-h725-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nonW-iXlHfTI4oCcm77k_VnpRuA49RfkbtSEljWMW_EyFoS1cQNo_aDkMGyMzlX7iAbe9_D3y70z858sZbT-Q-72cBN_212hKtX54YrUjdM2YEvPlvuGaeFiC70WUIlpgPF1Q1s=w224-h398-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Obyek Wisata Mata Air Tojang",
+    "alamat": "Dusun gelogor Nusa Tenggara Bar, Lendang Nangka, Masbagik, Lendang Nangka, Kec. Masbagik",
+    "rating": "4.3",
+    "jumlah_review": "67",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.5874636,
+      "longitude": 116.4498049
+    },
+    "url": "https://www.google.com/maps/place/Obyek+Wisata+Mata+Air+Tojang/data=!4m7!3m6!1s0x2dcc4aeeba53abc7:0x48b33ba93ef23070!8m2!3d-8.5874636!4d116.4498049!16s%2Fg%2F11c2q3xvcq!19sChIJx6tTuu5KzC0RcDDyPqk7s0g?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrEBPfrz7gFp7S6E5Hkdin3nkzbRlGvmNLkzyLlSb6lemqZrSAMv1UL45Vl4sQ6ByCqj7VIhZHOaqOa59j0aNkqDuTPOq-qnsFNGa2PM5bCyCZ0FFIEHvpDnjbjukcrIAX0AugDrA=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrEBPfrz7gFp7S6E5Hkdin3nkzbRlGvmNLkzyLlSb6lemqZrSAMv1UL45Vl4sQ6ByCqj7VIhZHOaqOa59j0aNkqDuTPOq-qnsFNGa2PM5bCyCZ0FFIEHvpDnjbjukcrIAX0AugDrA=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrEBPfrz7gFp7S6E5Hkdin3nkzbRlGvmNLkzyLlSb6lemqZrSAMv1UL45Vl4sQ6ByCqj7VIhZHOaqOa59j0aNkqDuTPOq-qnsFNGa2PM5bCyCZ0FFIEHvpDnjbjukcrIAX0AugDrA=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "WISATA TANDUNG-ANDUNG",
+    "alamat": "Lendang Ara, Kec. Kopang",
+    "rating": "4.4",
+    "jumlah_review": "116",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.5913311,
+      "longitude": 116.3749243
+    },
+    "url": "https://www.google.com/maps/place/WISATA+TANDUNG-ANDUNG/data=!4m7!3m6!1s0x2dcdb54dc13840d9:0xb2b524be631b5796!8m2!3d-8.5913311!4d116.3749243!16s%2Fg%2F11jnpszb83!19sChIJ2UA4wU21zS0RllcbY74ktbI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipM8KBe4cswT7RM64J3lgWK9mhUfeHDzef7n7-kv=w186-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipM8KBe4cswT7RM64J3lgWK9mhUfeHDzef7n7-kv=w521-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipM8KBe4cswT7RM64J3lgWK9mhUfeHDzef7n7-kv=w647-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Wisata Bunut ngengkang",
+    "alamat": "Sesaot, Narmada",
+    "rating": "4.4",
+    "jumlah_review": "465",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.5336071,
+      "longitude": 116.2449695
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Bunut+ngengkang/data=!4m7!3m6!1s0x2dcdb9a1974ecbc3:0x6ffde1e479f14570!8m2!3d-8.5336071!4d116.2449695!16s%2Fg%2F11qrvw5thp!19sChIJw8tOl6G5zS0RcEXxeeTh_W8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipNIQCNwV3wzxO5HpRIkk-WOo0eXs66FM7RyJSTY=w86-h152-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNIQCNwV3wzxO5HpRIkk-WOo0eXs66FM7RyJSTY=w408-h724-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNIQCNwV3wzxO5HpRIkk-WOo0eXs66FM7RyJSTY=w224-h398-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  }
+]
