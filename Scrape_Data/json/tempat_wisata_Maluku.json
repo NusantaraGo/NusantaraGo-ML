@@ -1,0 +1,744 @@
+[
+  {
+    "nama": "Rumah Pohon Waai",
+    "alamat": "Waai, Kec. Salahutu, Maluku",
+    "rating": "4.3",
+    "jumlah_review": "44",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.5552114,
+      "longitude": 128.2958846
+    },
+    "url": "https://www.google.com/maps/place/Rumah+Pohon+Waai/data=!4m7!3m6!1s0x2d6cf39cb4643d95:0x17ab86e38548a767!8m2!3d-3.5552114!4d128.2958846!16s%2Fg%2F11krd3gfdg!19sChIJlT1ktJzzbC0RZ6dIheOGqxc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrPqyN5qPT76LXzhtqqauIyw_UYPkS_PEFVeVslFCzfFFj2-kfhmw8iBQKomSwesykbdffonIyxpWvfx77hN2wofDMZNTn41_6C2pT3DfAsYMbhMH_T3x7iPwF-CTgUqTghUk7s=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrPqyN5qPT76LXzhtqqauIyw_UYPkS_PEFVeVslFCzfFFj2-kfhmw8iBQKomSwesykbdffonIyxpWvfx77hN2wofDMZNTn41_6C2pT3DfAsYMbhMH_T3x7iPwF-CTgUqTghUk7s=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrPqyN5qPT76LXzhtqqauIyw_UYPkS_PEFVeVslFCzfFFj2-kfhmw8iBQKomSwesykbdffonIyxpWvfx77hN2wofDMZNTn41_6C2pT3DfAsYMbhMH_T3x7iPwF-CTgUqTghUk7s=w529-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pantai Moki (Moki Beach)",
+    "alamat": "Liang, Kec. Salahutu, Maluku",
+    "rating": "4.9",
+    "jumlah_review": "41",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.5053125,
+      "longitude": 128.2439375
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Moki+%28Moki+Beach%29/data=!4m7!3m6!1s0x2d6cf5995f4d4ed7:0x5b563686d7701df7!8m2!3d-3.5053125!4d128.2439375!16s%2Fg%2F11s30gpwzn!19sChIJ105NX5n1bC0R9x1w14Y2Vls?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4norgEry-cDBZ7Z2mMNekVbW1ScmhqiRmzgCO4XQewD1uINE-7lRYvbsWGZkoItFHDLWZXCGxYhfk5LFnxnSss8-bvNKgeQ5wOHfhiPXPYhIbEkVEDQQn3WPjyUOIx1iNDMQB02L=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4norgEry-cDBZ7Z2mMNekVbW1ScmhqiRmzgCO4XQewD1uINE-7lRYvbsWGZkoItFHDLWZXCGxYhfk5LFnxnSss8-bvNKgeQ5wOHfhiPXPYhIbEkVEDQQn3WPjyUOIx1iNDMQB02L=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4norgEry-cDBZ7Z2mMNekVbW1ScmhqiRmzgCO4XQewD1uINE-7lRYvbsWGZkoItFHDLWZXCGxYhfk5LFnxnSss8-bvNKgeQ5wOHfhiPXPYhIbEkVEDQQn3WPjyUOIx1iNDMQB02L=w224-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Air Panas Tulehu",
+    "alamat": "Lariel, Unnamed Rd, Tulehu, Kec. Salahutu, Maluku",
+    "rating": "4.3",
+    "jumlah_review": "938",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.5930289,
+      "longitude": 128.3086536
+    },
+    "url": "https://www.google.com/maps/place/Air+Panas+Tulehu/data=!4m7!3m6!1s0x2d6ced51d3a82f9d:0x5f4e01bca0cc1e18!8m2!3d-3.5930289!4d128.3086536!16s%2Fg%2F11cnbtyj6f!19sChIJnS-o01HtbC0RGB7MoLwBTl8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqyJkUEJcCR6P-EycEj_eBWCnglufQiRkCVrEjZVJjvX0K0VwnSUkR6GSDCBdFdD2qzOe0TxFGd2NwWEJdeZEJVBJSsE-DcbHJxs9RH4_AKpK9ZPw4o3SQsLaULPccdbYjGUAaVxg=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqyJkUEJcCR6P-EycEj_eBWCnglufQiRkCVrEjZVJjvX0K0VwnSUkR6GSDCBdFdD2qzOe0TxFGd2NwWEJdeZEJVBJSsE-DcbHJxs9RH4_AKpK9ZPw4o3SQsLaULPccdbYjGUAaVxg=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqyJkUEJcCR6P-EycEj_eBWCnglufQiRkCVrEjZVJjvX0K0VwnSUkR6GSDCBdFdD2qzOe0TxFGd2NwWEJdeZEJVBJSsE-DcbHJxs9RH4_AKpK9ZPw4o3SQsLaULPccdbYjGUAaVxg=w224-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Ngilngof Beach",
+    "alamat": "Ngilngof, Kec. Kei Kecil, Maluku",
+    "rating": "4.5",
+    "jumlah_review": "69",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -5.6742625,
+      "longitude": 132.6415681
+    },
+    "url": "https://www.google.com/maps/place/Ngilngof+Beach/data=!4m7!3m6!1s0x2d30040f2a06edf7:0x9769325639a04ddd!8m2!3d-5.6742625!4d132.6415681!16s%2Fg%2F11c2pggybr!19sChIJ9-0GKg8EMC0R3U2gOVYyaZc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noBau3oQNzduQ4sZeXSDTHE1r95uQ-eZit46Cy7kuooFulCAKDnrxVeJRjeq2fxpb-LL_9oIqQA2mr-pdNMV5YcZDdfRFxddtrFpsfdQzhlMjMuOvYbx5j7oZ9MM-KCttkXzKnB=w86-h152-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noBau3oQNzduQ4sZeXSDTHE1r95uQ-eZit46Cy7kuooFulCAKDnrxVeJRjeq2fxpb-LL_9oIqQA2mr-pdNMV5YcZDdfRFxddtrFpsfdQzhlMjMuOvYbx5j7oZ9MM-KCttkXzKnB=w408-h725-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noBau3oQNzduQ4sZeXSDTHE1r95uQ-eZit46Cy7kuooFulCAKDnrxVeJRjeq2fxpb-LL_9oIqQA2mr-pdNMV5YcZDdfRFxddtrFpsfdQzhlMjMuOvYbx5j7oZ9MM-KCttkXzKnB=w224-h398-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Benteng Nieuw Victoria",
+    "alamat": "Uritetu, Kec. Sirimau",
+    "rating": "4.1",
+    "jumlah_review": "208",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.6927869,
+      "longitude": 128.1824825
+    },
+    "url": "https://www.google.com/maps/place/Benteng+Nieuw+Victoria/data=!4m7!3m6!1s0x2d6ce850f28ddc35:0xe2373ab58800130a!8m2!3d-3.6927869!4d128.1824825!16s%2Fg%2F1q5hbc1bs!19sChIJNdyN8lDobC0RChMAiLU6N-I?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nprhRi3jXqhcK3v5GbEBFJ4FDC3L-qWLFdnlZ6w2V3IPetN6pyRoGroapkjJ4AYC1YLjRCHHDy2igMkPDNKCsDwdAJmg0KSQWLTMXfhoc52MXKV3GwtEnNDzny3t5emqKvWtv_V=w116-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nprhRi3jXqhcK3v5GbEBFJ4FDC3L-qWLFdnlZ6w2V3IPetN6pyRoGroapkjJ4AYC1YLjRCHHDy2igMkPDNKCsDwdAJmg0KSQWLTMXfhoc52MXKV3GwtEnNDzny3t5emqKvWtv_V=w408-h301-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nprhRi3jXqhcK3v5GbEBFJ4FDC3L-qWLFdnlZ6w2V3IPetN6pyRoGroapkjJ4AYC1YLjRCHHDy2igMkPDNKCsDwdAJmg0KSQWLTMXfhoc52MXKV3GwtEnNDzny3t5emqKvWtv_V=w403-h298-k-no"
+    ],
+    "kategori": [
+      "benteng"
+    ]
+  },
+  {
+    "nama": "Air Terjun Hoko",
+    "alamat": "Hollat, Kec. Kei Besar Utara Tim., Maluku",
+    "rating": "4.2",
+    "jumlah_review": "21",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -5.524471,
+      "longitude": 133.126619
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Hoko/data=!4m7!3m6!1s0x2d3033a2d661875d:0xf1160aefae7efd6!8m2!3d-5.524471!4d133.126619!16s%2Fg%2F11g6bkq65g!19sChIJXYdh1qIzMC0R1u_n-q5gEQ8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrErQU2JrG_KRYSzXzPYYLkyeqp9uqx_LkqqnUIzE2qtQC9BrU6alhuorlMrhJUAye4jv42gvaRLPDWKUz4wVEbRbqlBp9vdHuhAdQ_0ELaY1ET-vbYVW1OUIf3HU3ZnZ40j4qr=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrErQU2JrG_KRYSzXzPYYLkyeqp9uqx_LkqqnUIzE2qtQC9BrU6alhuorlMrhJUAye4jv42gvaRLPDWKUz4wVEbRbqlBp9vdHuhAdQ_0ELaY1ET-vbYVW1OUIf3HU3ZnZ40j4qr=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrErQU2JrG_KRYSzXzPYYLkyeqp9uqx_LkqqnUIzE2qtQC9BrU6alhuorlMrhJUAye4jv42gvaRLPDWKUz4wVEbRbqlBp9vdHuhAdQ_0ELaY1ET-vbYVW1OUIf3HU3ZnZ40j4qr=w224-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Pantai Batu Kuda",
+    "alamat": "Tulehu, Kec. Salahutu, Maluku",
+    "rating": "4.4",
+    "jumlah_review": "185",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.5988673,
+      "longitude": 128.3542566
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Batu+Kuda/data=!4m7!3m6!1s0x2d6c92f488541115:0x6964226ae8ff5fde!8m2!3d-3.5988673!4d128.3542566!16s%2Fg%2F11c6f1_x0v!19sChIJFRFUiPSSbC0R3l__6GoiZGk?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nro0ID-WJmne3_FcSnA5SH2IGAyGVDqh5oZQp-_7fFusCaNeqGZcysuIBdV-421JUCIll-BGHEeeJh3bAmo34ShPIqgieSJmDRgoG1ZZzCIZWNE58zZfFmX73mDNqwXmzVZoWS7=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nro0ID-WJmne3_FcSnA5SH2IGAyGVDqh5oZQp-_7fFusCaNeqGZcysuIBdV-421JUCIll-BGHEeeJh3bAmo34ShPIqgieSJmDRgoG1ZZzCIZWNE58zZfFmX73mDNqwXmzVZoWS7=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nro0ID-WJmne3_FcSnA5SH2IGAyGVDqh5oZQp-_7fFusCaNeqGZcysuIBdV-421JUCIll-BGHEeeJh3bAmo34ShPIqgieSJmDRgoG1ZZzCIZWNE58zZfFmX73mDNqwXmzVZoWS7=w224-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Kairatu Beach",
+    "alamat": "Jl. Trans Seram, Kairatu, Kec. Kairatu, Maluku",
+    "rating": "4.6",
+    "jumlah_review": "106",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.3549168,
+      "longitude": 128.3581276
+    },
+    "url": "https://www.google.com/maps/place/Kairatu+Beach/data=!4m7!3m6!1s0x2d6c67924ff38923:0x10955e5ff88202c!8m2!3d-3.3549168!4d128.3581276!16s%2Fg%2F11js675fwk!19sChIJI4nzT5JnbC0RLCCI_-VVCQE?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np_LzsHAWyAJepMH4oJwmSomk1skKSf6OSoSMVmM1mZj0mvYA8CpH5Y3FhEz_XHaeFbv035PeZGs22Pybuh0s4uXoWXyJkJD9AlA2cB6Ny62I_D4dMbRqgRz_Q5-8NC-BFDl-c_=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np_LzsHAWyAJepMH4oJwmSomk1skKSf6OSoSMVmM1mZj0mvYA8CpH5Y3FhEz_XHaeFbv035PeZGs22Pybuh0s4uXoWXyJkJD9AlA2cB6Ny62I_D4dMbRqgRz_Q5-8NC-BFDl-c_=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np_LzsHAWyAJepMH4oJwmSomk1skKSf6OSoSMVmM1mZj0mvYA8CpH5Y3FhEz_XHaeFbv035PeZGs22Pybuh0s4uXoWXyJkJD9AlA2cB6Ny62I_D4dMbRqgRz_Q5-8NC-BFDl-c_=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Cagar Budaya van VOC Fort Benteng Amsterdam",
+    "alamat": "Kaitetu, Kec. Leihitu, Maluku",
+    "rating": "4.5",
+    "jumlah_review": "866",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.5828682,
+      "longitude": 128.0831395
+    },
+    "url": "https://www.google.com/maps/place/Cagar+Budaya+van+VOC+Fort+Benteng+Amsterdam/data=!4m7!3m6!1s0x2d6cfad4c6874ac7:0xb2ee545928ea5c55!8m2!3d-3.5828682!4d128.0831395!16s%2Fm%2F0wyjt8d!19sChIJx0qHxtT6bC0RVVzqKFlU7rI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nozP7t4kF1mMP_41B9OsjTlAFxouHZI6PjVYmqzbDUv5_mNS26ryN80czYzEuUysTppenPfbAqpWp3dt8hxUQizRWU34sUosOs02fEwNJFwd_hyvwhAK-aGrktSnAQQ91w1YnQDsA=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nozP7t4kF1mMP_41B9OsjTlAFxouHZI6PjVYmqzbDUv5_mNS26ryN80czYzEuUysTppenPfbAqpWp3dt8hxUQizRWU34sUosOs02fEwNJFwd_hyvwhAK-aGrktSnAQQ91w1YnQDsA=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nozP7t4kF1mMP_41B9OsjTlAFxouHZI6PjVYmqzbDUv5_mNS26ryN80czYzEuUysTppenPfbAqpWp3dt8hxUQizRWU34sUosOs02fEwNJFwd_hyvwhAK-aGrktSnAQQ91w1YnQDsA=w224-h298-k-no"
+    ],
+    "kategori": [
+      "benteng"
+    ]
+  },
+  {
+    "nama": "Pantai Ngursarnadan",
+    "alamat": "Ohoililir, Kec. Kei Kecil, Maluku",
+    "rating": "4.5",
+    "jumlah_review": "123",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -5.6482841,
+      "longitude": 132.638182
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Ngursarnadan/data=!4m7!3m6!1s0x2d3005caffffffff:0x49a73bc02874ec18!8m2!3d-5.6482841!4d132.638182!16s%2Fg%2F11dfj2w244!19sChIJ_____8oFMC0RGOx0KMA7p0k?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqrOYXsAKaEgKAhyvhmm8eFB5nLM7nsAKNasi4J-IJVi52DL6YltnGujIqLXKJ7xHnMFf0rQEyoptZNByz_Y8J2ichPQnjxUiJPX5Oy8OYhbtjx5aP6EVVXa8k3ssK74YiDbegt=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqrOYXsAKaEgKAhyvhmm8eFB5nLM7nsAKNasi4J-IJVi52DL6YltnGujIqLXKJ7xHnMFf0rQEyoptZNByz_Y8J2ichPQnjxUiJPX5Oy8OYhbtjx5aP6EVVXa8k3ssK74YiDbegt=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqrOYXsAKaEgKAhyvhmm8eFB5nLM7nsAKNasi4J-IJVi52DL6YltnGujIqLXKJ7xHnMFf0rQEyoptZNByz_Y8J2ichPQnjxUiJPX5Oy8OYhbtjx5aP6EVVXa8k3ssK74YiDbegt=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Taman wisata Pantai Batu Pintu Haria",
+    "alamat": "Haria, Kec. Saparua, Maluku",
+    "rating": "4.5",
+    "jumlah_review": "13",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.5854571,
+      "longitude": 128.6300647
+    },
+    "url": "https://www.google.com/maps/place/Taman+wisata+Pantai+Batu+Pintu+Haria/data=!4m7!3m6!1s0x2d6c9d82a5602539:0xdd01d795deebe586!8m2!3d-3.5854571!4d128.6300647!16s%2Fg%2F11hy9gp2kd!19sChIJOSVgpYKdbC0RhuXr3pXXAd0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npaaMWvLIwCAze4ubdRsd7BuvY3MmDy_xjMM93OZ7GMu4CS6nLPJ5ce5OAM_CoQkazVDyt5AbVXlGIQLgTiijmXeSKNK890bpBqVu3U5YPgy3eidngwfrwyYc9zYCSj2vMggDCKUA=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npaaMWvLIwCAze4ubdRsd7BuvY3MmDy_xjMM93OZ7GMu4CS6nLPJ5ce5OAM_CoQkazVDyt5AbVXlGIQLgTiijmXeSKNK890bpBqVu3U5YPgy3eidngwfrwyYc9zYCSj2vMggDCKUA=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npaaMWvLIwCAze4ubdRsd7BuvY3MmDy_xjMM93OZ7GMu4CS6nLPJ5ce5OAM_CoQkazVDyt5AbVXlGIQLgTiijmXeSKNK890bpBqVu3U5YPgy3eidngwfrwyYc9zYCSj2vMggDCKUA=w224-h298-k-no"
+    ],
+    "kategori": [
+      "pantai",
+      "taman"
+    ]
+  },
+  {
+    "nama": "Pancuran Kuning",
+    "alamat": "Unnamed Road, Larike, Kec. Leihitu Bar., Maluku",
+    "rating": "4.4",
+    "jumlah_review": "32",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.7375746,
+      "longitude": 127.9258199
+    },
+    "url": "https://www.google.com/maps/place/Pancuran+Kuning/data=!4m7!3m6!1s0x2d6d21a48279e949:0x3d7736807de29720!8m2!3d-3.7375746!4d127.9258199!16s%2Fg%2F11h8fhhl02!19sChIJSel5gqQhbS0RIJfifYA2dz0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqNQ8mBszs6oSV05Wcq3EjRNV6caytBYv5RqdlYoJ6639x9fNiRLApQul-wKli7MyWpCe9kUDZZsvcIvjyHUV6UHGQiJM4ish3HAVFEvn6sTrj4vlbsyrrgseqvIKgsvQxLmTs=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqNQ8mBszs6oSV05Wcq3EjRNV6caytBYv5RqdlYoJ6639x9fNiRLApQul-wKli7MyWpCe9kUDZZsvcIvjyHUV6UHGQiJM4ish3HAVFEvn6sTrj4vlbsyrrgseqvIKgsvQxLmTs=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqNQ8mBszs6oSV05Wcq3EjRNV6caytBYv5RqdlYoJ6639x9fNiRLApQul-wKli7MyWpCe9kUDZZsvcIvjyHUV6UHGQiJM4ish3HAVFEvn6sTrj4vlbsyrrgseqvIKgsvQxLmTs=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Monumen Gong Perdamaian Dunia",
+    "alamat": "Desa, Uritetu, Kec. Sirimau, Maluku",
+    "rating": "4.5",
+    "jumlah_review": "1.611",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.6931271,
+      "longitude": 128.1812074
+    },
+    "url": "https://www.google.com/maps/place/Monumen+Gong+Perdamaian+Dunia/data=!4m7!3m6!1s0x2d6ce85058510ac7:0x82e5d75c684bc1d7!8m2!3d-3.6931271!4d128.1812074!16s%2Fg%2F1ptwl3c2q!19sChIJxwpRWFDobC0R18FLaFzX5YI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npfz1H2eBgCIQEsRTIMsZUhJA4kdX3EEtgUM-VDh65_oXw1mkW9qIYU-6nWAekxllzbq20VBG4T9mHQk_CTlIvCbU4tjGbIY42bChiP71j-6ZgSRCzkFSObbKyq_Ix8p8koYUFKJw=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npfz1H2eBgCIQEsRTIMsZUhJA4kdX3EEtgUM-VDh65_oXw1mkW9qIYU-6nWAekxllzbq20VBG4T9mHQk_CTlIvCbU4tjGbIY42bChiP71j-6ZgSRCzkFSObbKyq_Ix8p8koYUFKJw=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npfz1H2eBgCIQEsRTIMsZUhJA4kdX3EEtgUM-VDh65_oXw1mkW9qIYU-6nWAekxllzbq20VBG4T9mHQk_CTlIvCbU4tjGbIY42bChiP71j-6ZgSRCzkFSObbKyq_Ix8p8koYUFKJw=w397-h298-k-no"
+    ],
+    "kategori": [
+      "situs_sejarah"
+    ]
+  },
+  {
+    "nama": "Air Terjun Lumoli",
+    "alamat": "Bar., Lumoli, Kec. Seram Bar., Maluku",
+    "rating": "4.5",
+    "jumlah_review": "14",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.1258757,
+      "longitude": 128.2972113
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Lumoli/data=!4m7!3m6!1s0x2d6c3de70eb678f7:0x74ef46f72babec75!8m2!3d-3.1258757!4d128.2972113!16s%2Fg%2F11g6bmgcmr!19sChIJ93i2Duc9bC0RdeyrK_dG73Q?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noIxsg382zw4khHsE4cK-YtbHz1-PwC0qXDRXjSnx3jwYkKAYxWFhQBiQNB9tbQLhc1eOZwm-QcobD4_SbaaCcqZh9SAcRhKpSoqcMI4xJ64K2m888vXbIa2NpxSCgXSaq03oXD=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noIxsg382zw4khHsE4cK-YtbHz1-PwC0qXDRXjSnx3jwYkKAYxWFhQBiQNB9tbQLhc1eOZwm-QcobD4_SbaaCcqZh9SAcRhKpSoqcMI4xJ64K2m888vXbIa2NpxSCgXSaq03oXD=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noIxsg382zw4khHsE4cK-YtbHz1-PwC0qXDRXjSnx3jwYkKAYxWFhQBiQNB9tbQLhc1eOZwm-QcobD4_SbaaCcqZh9SAcRhKpSoqcMI4xJ64K2m888vXbIa2NpxSCgXSaq03oXD=w447-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Batu Kora Beach",
+    "alamat": "Wangel, Kec. Pulau-Pulau Aru",
+    "rating": "4.4",
+    "jumlah_review": "215",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -5.7617499,
+      "longitude": 134.1931261
+    },
+    "url": "https://www.google.com/maps/place/Batu+Kora+Beach/data=!4m7!3m6!1s0x2d2d91d4146b88d9:0xdd00cc754fcfc270!8m2!3d-5.7617499!4d134.1931261!16s%2Fg%2F11g047clpc!19sChIJ2YhrFNSRLS0RcMLPT3XMAN0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipMdbR5nTvioCdL5cDdcNQ4AOKHaWU6RBYIKFs_m=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipMdbR5nTvioCdL5cDdcNQ4AOKHaWU6RBYIKFs_m=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipMdbR5nTvioCdL5cDdcNQ4AOKHaWU6RBYIKFs_m=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Air Terjun Waai",
+    "alamat": "Waai, Kec. Salahutu, Maluku",
+    "rating": "4.5",
+    "jumlah_review": "35",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.5551063,
+      "longitude": 128.2983254
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Waai/data=!4m7!3m6!1s0x2d6cf35d360804ef:0xaf64676366d7105!8m2!3d-3.5551063!4d128.2983254!16s%2Fg%2F11h6l90vjg!19sChIJ7wQINl3zbC0RBXFtNnZG9go?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no1OKtUAOUXhnShW5BTrCvDpArl6qUXKFSvANxXhks8sY82spmG-EJoCTwDdXkjhTyxoY2Cot3moteVHvxiodTd2KIQWN9uLJ16HIBo4OEF3wgTHzBbhlR9b00dIuMlTTfP0wch=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no1OKtUAOUXhnShW5BTrCvDpArl6qUXKFSvANxXhks8sY82spmG-EJoCTwDdXkjhTyxoY2Cot3moteVHvxiodTd2KIQWN9uLJ16HIBo4OEF3wgTHzBbhlR9b00dIuMlTTfP0wch=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npLZrUiLKXiEJyT6KY-e9UQR4qedsVyZfqyC70Y9RQDW7XudJBpZKyNgzYE3AzHR3CoJD2S5oQafnwRvAl1HuTckW2Gy4kXNVZ89Jux4Z7gBzqptNoMhMANnbZashvKSJITK1TkJg=w224-h497-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Air Terjun Waisia",
+    "alamat": "Rumahkay, Kec. Amalatu, Maluku",
+    "rating": "4.9",
+    "jumlah_review": "22",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.4059386,
+      "longitude": 128.5427879
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Waisia/data=!4m7!3m6!1s0x2d6c7c4bffffffff:0xf4e6a7eeddd144b0!8m2!3d-3.4059386!4d128.5427879!16s%2Fg%2F11c60y_p6_!19sChIJ_____0t8bC0RsETR3e6n5vQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npgELkP0BIoA-mCY-rZ9-3ki4ci8TVAA1VmEOlzWZCL1ZAts18lbIymar9aosTJzd6Yxfz334qtGqL8TpTvx_isaoUhI3OJcsLYyhraHaheUgNC2OmZx6Nw3wc2i04ifpRJCjv1ng=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npgELkP0BIoA-mCY-rZ9-3ki4ci8TVAA1VmEOlzWZCL1ZAts18lbIymar9aosTJzd6Yxfz334qtGqL8TpTvx_isaoUhI3OJcsLYyhraHaheUgNC2OmZx6Nw3wc2i04ifpRJCjv1ng=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npgELkP0BIoA-mCY-rZ9-3ki4ci8TVAA1VmEOlzWZCL1ZAts18lbIymar9aosTJzd6Yxfz334qtGqL8TpTvx_isaoUhI3OJcsLYyhraHaheUgNC2OmZx6Nw3wc2i04ifpRJCjv1ng=w224-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Benteng VOC Belgica",
+    "alamat": "FVFX+GHV, Nusantara, Kec. Banda, Maluku",
+    "rating": "4.7",
+    "jumlah_review": "616",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -4.526129,
+      "longitude": 129.8989078
+    },
+    "url": "https://www.google.com/maps/place/Benteng+VOC+Belgica/data=!4m7!3m6!1s0x2d15860903e4fb6b:0xfabde573db11c1a7!8m2!3d-4.526129!4d129.8989078!16s%2Fm%2F05mv5_d!19sChIJa_vkAwmGFS0Rp8ER23Plvfo?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqExm_jqOTVNsc4TjOaS7IPzJ6Kq9OjzOLyWrOTS-SfX2FuijPxL-PCSqYw2Oe5BxNL3MAe1Sx2BnURotZtMyEkOIC9y-ou9hvtKMmDWvZZTvhWxyV6yDWA63iWkdnc_UQm1uaL=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqExm_jqOTVNsc4TjOaS7IPzJ6Kq9OjzOLyWrOTS-SfX2FuijPxL-PCSqYw2Oe5BxNL3MAe1Sx2BnURotZtMyEkOIC9y-ou9hvtKMmDWvZZTvhWxyV6yDWA63iWkdnc_UQm1uaL=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqExm_jqOTVNsc4TjOaS7IPzJ6Kq9OjzOLyWrOTS-SfX2FuijPxL-PCSqYw2Oe5BxNL3MAe1Sx2BnURotZtMyEkOIC9y-ou9hvtKMmDWvZZTvhWxyV6yDWA63iWkdnc_UQm1uaL=w397-h298-k-no"
+    ],
+    "kategori": [
+      "benteng"
+    ]
+  },
+  {
+    "nama": "Tebing Batu HATUPIA",
+    "alamat": "Sawai, Kec. Seram Utara, Maluku",
+    "rating": "5.0",
+    "jumlah_review": "50",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.9475479,
+      "longitude": 129.2583293
+    },
+    "url": "https://www.google.com/maps/place/Tebing+Batu+HATUPIA/data=!4m7!3m6!1s0x2d6bd5fde8851c3d:0x16cf550745b8a7c3!8m2!3d-2.9475479!4d129.2583293!16s%2Fg%2F11ssbhn1vx!19sChIJPRyF6P3Vay0Rw6e4RQdVzxY?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np-0sQuWCIGRac-U9BgwmlE7anaAb5FH8yNbfDT4GVVB_dpsqIs27eMWoTBPWepew02zxRy-w36oOZIfeODuflXBFD06XJ7EJmTw8l3AgLMtSNvdk9A9336-70PnD-Km76FmQTP=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no2uUEiT4oKpMRaAmMZsITU58Vm2_03Qmv1QCZxJjWU6ApnA2ZHR8mxFQfAUcJV-zMS2kGRkn3TPRYthFpvOgo8T0X19nqiwmJPuKMT51EVQo9xbkExJGTk4vLykyF_Et1ysOw=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqXpP2bLrkSZuxRBwJzPW0fZToko7zmXqfgdmCT4ths2ytr5lSZUxu_6y4kn3ty65AX-57wVb39Q2LuUxcW_khV3vWpilnryIDC4vywZxthFXlvQvnvRa9ce0illP_cc81JCPDZKw=w156-h114-p-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pantai Ina Marina",
+    "alamat": "Ampera",
+    "rating": "4.3",
+    "jumlah_review": "579",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.299009,
+      "longitude": 128.953178
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Ina+Marina/data=!4m7!3m6!1s0x2d6b982edabe8d0b:0x64b55143ad1008c3!8m2!3d-3.299009!4d128.953178!16s%2Fg%2F11cn9s9np6!19sChIJC42-2i6Yay0RwwgQrUNRtWQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrNN_CqE00e8z1_FeTGrsBhheKXDlbxLPufZzZdkyDyWpeyZxhvVbzIVcpK6RzmVtKsM-z9-we6ouaKyZpUsduITdB5yuVi58syW38_BSn6eh9GGSpXMkGhXxPyjgnRDzhQTNADtA=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrNN_CqE00e8z1_FeTGrsBhheKXDlbxLPufZzZdkyDyWpeyZxhvVbzIVcpK6RzmVtKsM-z9-we6ouaKyZpUsduITdB5yuVi58syW38_BSn6eh9GGSpXMkGhXxPyjgnRDzhQTNADtA=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrNN_CqE00e8z1_FeTGrsBhheKXDlbxLPufZzZdkyDyWpeyZxhvVbzIVcpK6RzmVtKsM-z9-we6ouaKyZpUsduITdB5yuVi58syW38_BSn6eh9GGSpXMkGhXxPyjgnRDzhQTNADtA=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Monumen Pattimura",
+    "alamat": "Uritetu, Kec. Sirimau, Maluku",
+    "rating": "4.5",
+    "jumlah_review": "206",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.6931066,
+      "longitude": 128.1831823
+    },
+    "url": "https://www.google.com/maps/place/Monumen+Pattimura/data=!4m7!3m6!1s0x2d6ce851a10c5357:0xc3b5b716813c4a6f!8m2!3d-3.6931066!4d128.1831823!16s%2Fg%2F11ckwjj6yt!19sChIJV1MMoVHobC0Rb0o8gRa3tcM?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npdxXyQSMZx2yZN7Wl-zbpMQj7MoqECbcfWDq7mO8lzjhcDWnz2OoK12n-LpyVCa4_CwWx0fvS4hw-h_pVAjpyvF-BsIJaXZRPG3muMcg23LcfRJ20aHx22wDAJ3p3fWLR4SqWu=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npdxXyQSMZx2yZN7Wl-zbpMQj7MoqECbcfWDq7mO8lzjhcDWnz2OoK12n-LpyVCa4_CwWx0fvS4hw-h_pVAjpyvF-BsIJaXZRPG3muMcg23LcfRJ20aHx22wDAJ3p3fWLR4SqWu=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npdxXyQSMZx2yZN7Wl-zbpMQj7MoqECbcfWDq7mO8lzjhcDWnz2OoK12n-LpyVCa4_CwWx0fvS4hw-h_pVAjpyvF-BsIJaXZRPG3muMcg23LcfRJ20aHx22wDAJ3p3fWLR4SqWu=w224-h298-k-no"
+    ],
+    "kategori": [
+      "situs_sejarah"
+    ]
+  },
+  {
+    "nama": "Keramba Cinta",
+    "alamat": "Sawai, Maluku",
+    "rating": "4.8",
+    "jumlah_review": "28",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.9276967,
+      "longitude": 129.1698204
+    },
+    "url": "https://www.google.com/maps/place/Keramba+Cinta/data=!4m7!3m6!1s0x2d6bd7b448db7673:0x582649aaf6362540!8m2!3d-2.9276967!4d129.1698204!16s%2Fg%2F11txcnc2cr!19sChIJc3bbSLTXay0RQCU29qpJJlg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no9KX778r7vmHzGBXHXURYOD5Q4ASXfLq_UsttMo8c8OBypNoMvQuBZ8GYkHy-VWWmWVEnjIwBKPXjYMwXpuRCncogGUV7bEjSNAgJwfNMMFa6LNt7MwojYr1BJoCD2AlCIejxD=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no9KX778r7vmHzGBXHXURYOD5Q4ASXfLq_UsttMo8c8OBypNoMvQuBZ8GYkHy-VWWmWVEnjIwBKPXjYMwXpuRCncogGUV7bEjSNAgJwfNMMFa6LNt7MwojYr1BJoCD2AlCIejxD=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no9KX778r7vmHzGBXHXURYOD5Q4ASXfLq_UsttMo8c8OBypNoMvQuBZ8GYkHy-VWWmWVEnjIwBKPXjYMwXpuRCncogGUV7bEjSNAgJwfNMMFa6LNt7MwojYr1BJoCD2AlCIejxD=w224-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Taman Nasional Manusela",
+    "alamat": "Manusela, Seram Utara, Maluku",
+    "rating": "4.5",
+    "jumlah_review": "75",
+    "deskripsi": "Taman Nasional Manusela adalah taman nasional yang terletak di Kepulauan Maluku, Indonesia. Gunung Binaiya, dengan ketinggian 3.027 meter, merupakan gunung tertinggi di taman ini. Terdapat sekitar 117 spesies burung, 14 di antaranya endemik, seperti Nuri Bayan, Kasturi tengkuk-ungu, Kakatua Maluku, Todiramphus lazuli, Todiramphus sanctus, Philemon subcorniculatus dan Alisterus amboinensis.\nTaman Nasional Manusela merupakan perwakilan tipe ekosistem pantai, hutan rawa, hutan hujan dataran rendah ...",
+    "koordinat": {
+      "latitude": -3.0751277,
+      "longitude": 129.6199663
+    },
+    "url": "https://www.google.com/maps/place/Taman+Nasional+Manusela/data=!4m7!3m6!1s0x2d6a3e86e135f24f:0x123b0ca6b8339a6e!8m2!3d-3.0751277!4d129.6199663!16s%2Fm%2F09v1db8!19sChIJT_I14YY-ai0RbpozuKYMOxI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrS3mteQ3PejKWuMM92skjJxsxKUu9dboG0BDS-X_MDfj0bpwISBpHBHZXQp85GItHtsWWREjwgGRdjJryVlhcwuhip_ojP_W40z7EipzrSSHW7jU1EoAkGSyjvUNmHMcDDLutF=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrS3mteQ3PejKWuMM92skjJxsxKUu9dboG0BDS-X_MDfj0bpwISBpHBHZXQp85GItHtsWWREjwgGRdjJryVlhcwuhip_ojP_W40z7EipzrSSHW7jU1EoAkGSyjvUNmHMcDDLutF=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrS3mteQ3PejKWuMM92skjJxsxKUu9dboG0BDS-X_MDfj0bpwISBpHBHZXQp85GItHtsWWREjwgGRdjJryVlhcwuhip_ojP_W40z7EipzrSSHW7jU1EoAkGSyjvUNmHMcDDLutF=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai",
+      "gunung",
+      "taman",
+      "taman_nasional",
+      "pulau"
+    ]
+  },
+  {
+    "nama": "Talaga Cinta Laziz- Suli",
+    "alamat": "Unnamed Road, Suli, Kec. Salahutu, Maluku",
+    "rating": "4.4",
+    "jumlah_review": "68",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.613671,
+      "longitude": 128.304507
+    },
+    "url": "https://www.google.com/maps/place/Talaga+Cinta+Laziz-+Suli/data=!4m7!3m6!1s0x2d6ced99a80ae9f1:0x65f77bb809579afc!8m2!3d-3.613671!4d128.304507!16s%2Fg%2F11qr2ff2f4!19sChIJ8ekKqJntbC0R_JpXCbh792U?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npUsZnmMrhPQyFnxNQ2NEZr6CY-BxsKdiXPh_eW-r0ntdAzBzygCo9mvk2BNCVOeAN92mZAXq65Eu0aNX4oRDe3FxGc8aHjwt5OB74f_ZjaSysJiDVR0gr0J76W3BqbQz00jy4=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npUsZnmMrhPQyFnxNQ2NEZr6CY-BxsKdiXPh_eW-r0ntdAzBzygCo9mvk2BNCVOeAN92mZAXq65Eu0aNX4oRDe3FxGc8aHjwt5OB74f_ZjaSysJiDVR0gr0J76W3BqbQz00jy4=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npUsZnmMrhPQyFnxNQ2NEZr6CY-BxsKdiXPh_eW-r0ntdAzBzygCo9mvk2BNCVOeAN92mZAXq65Eu0aNX4oRDe3FxGc8aHjwt5OB74f_ZjaSysJiDVR0gr0J76W3BqbQz00jy4=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pantai Pintu Kota Ambon",
+    "alamat": "Nusaniwe, Kec. Nusaniwe, Maluku",
+    "rating": "4.4",
+    "jumlah_review": "1.021",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.7705365,
+      "longitude": 128.1524331
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Pintu+Kota+Ambon/data=!4m7!3m6!1s0x2d6cc335f61cc1e9:0x456317295a6201a6!8m2!3d-3.7705365!4d128.1524331!16s%2Fg%2F11b7vd74_p!19sChIJ6cEc9jXDbC0RpgFiWikXY0U?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np65dpSNOiAvV099OKpzvOKbHV0ORo_waNbCx6nef6eUFEUXDPSQtnV5mjDWQSbR_asKXLWhARS61fFd3aXy6HvD-4_67M1p_p8UACbTgReLwF4HH7MHrIXSiIyXdMVqfOwnp8P=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np65dpSNOiAvV099OKpzvOKbHV0ORo_waNbCx6nef6eUFEUXDPSQtnV5mjDWQSbR_asKXLWhARS61fFd3aXy6HvD-4_67M1p_p8UACbTgReLwF4HH7MHrIXSiIyXdMVqfOwnp8P=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np65dpSNOiAvV099OKpzvOKbHV0ORo_waNbCx6nef6eUFEUXDPSQtnV5mjDWQSbR_asKXLWhARS61fFd3aXy6HvD-4_67M1p_p8UACbTgReLwF4HH7MHrIXSiIyXdMVqfOwnp8P=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Belut Raksasa Morea",
+    "alamat": "Waai, Kec. Salahutu, Maluku",
+    "rating": "4.3",
+    "jumlah_review": "526",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.5648206,
+      "longitude": 128.3188058
+    },
+    "url": "https://www.google.com/maps/place/Belut+Raksasa+Morea/data=!4m7!3m6!1s0x2d6cf2cfffffffff:0x169f30c553bf872a!8m2!3d-3.5648206!4d128.3188058!16s%2Fg%2F11c7053tmr!19sChIJ_____8_ybC0RKoe_U8UwnxY?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqqWrhEPX7SP4lk3kgJuQMx6FSljYjQkjcGuy6QglC7oO7KdMHYUUYHKzIUq4pulIk9EBf7JBomzJNeRVPlXb4jUt6Q-hPHXaLNDXemmqr5lOxlp_kJCPTeZn16bdGkkIEadRjYpQ=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqqWrhEPX7SP4lk3kgJuQMx6FSljYjQkjcGuy6QglC7oO7KdMHYUUYHKzIUq4pulIk9EBf7JBomzJNeRVPlXb4jUt6Q-hPHXaLNDXemmqr5lOxlp_kJCPTeZn16bdGkkIEadRjYpQ=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqqWrhEPX7SP4lk3kgJuQMx6FSljYjQkjcGuy6QglC7oO7KdMHYUUYHKzIUq4pulIk9EBf7JBomzJNeRVPlXb4jUt6Q-hPHXaLNDXemmqr5lOxlp_kJCPTeZn16bdGkkIEadRjYpQ=w529-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Air Asinahu",
+    "alamat": "Sawai, Kec. Seram Utara, Maluku",
+    "rating": "4.9",
+    "jumlah_review": "34",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.9595186,
+      "longitude": 129.1814525
+    },
+    "url": "https://www.google.com/maps/place/Air+Asinahu/data=!4m7!3m6!1s0x2d6bd7398879595d:0xa0e12b9803b5b914!8m2!3d-2.9595186!4d129.1814525!16s%2Fg%2F11j38k2zr_!19sChIJXVl5iDnXay0RFLm1A5gr4aA?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npv_FAxgS4P7iWErfL11X6siG0cZV79t2oHJdfmgY4N6p895JBt1FJiC3bYbupuYpxbj8mFMKHn0Yc5ECBksMVNJNjMPTQGQb8oVdlx-wJqZcJ28TxsNYs7aiMC_YPVjm0o-8uKow=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npv_FAxgS4P7iWErfL11X6siG0cZV79t2oHJdfmgY4N6p895JBt1FJiC3bYbupuYpxbj8mFMKHn0Yc5ECBksMVNJNjMPTQGQb8oVdlx-wJqZcJ28TxsNYs7aiMC_YPVjm0o-8uKow=w408-h305-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npv_FAxgS4P7iWErfL11X6siG0cZV79t2oHJdfmgY4N6p895JBt1FJiC3bYbupuYpxbj8mFMKHn0Yc5ECBksMVNJNjMPTQGQb8oVdlx-wJqZcJ28TxsNYs7aiMC_YPVjm0o-8uKow=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Taman Pantai Air Salobar",
+    "alamat": "kEL NUSANIWE, Kec. Nusaniwe",
+    "rating": "4.3",
+    "jumlah_review": "242",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.7056018,
+      "longitude": 128.1568537
+    },
+    "url": "https://www.google.com/maps/place/Taman+Pantai+Air+Salobar/data=!4m7!3m6!1s0x2d6ce80d14e31fb3:0x83dcab4cbff2124d!8m2!3d-3.7056018!4d128.1568537!16s%2Fg%2F11gg94cdgz!19sChIJsx_jFA3obC0RTRLyv0yr3IM?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noIVbwSVCbKBPSZVvlmBq93i_W3F94Hi7rc3iVaOwxX69cfMaKuIJK56J7TGFIsmO3qIm6dnodHU1Mnc3c__JXlrdLEmYQ2DzMBtKS5Y73ZXJMiItvOHOpTPKmY-W-Hh10G0sv4=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noIVbwSVCbKBPSZVvlmBq93i_W3F94Hi7rc3iVaOwxX69cfMaKuIJK56J7TGFIsmO3qIm6dnodHU1Mnc3c__JXlrdLEmYQ2DzMBtKS5Y73ZXJMiItvOHOpTPKmY-W-Hh10G0sv4=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noIVbwSVCbKBPSZVvlmBq93i_W3F94Hi7rc3iVaOwxX69cfMaKuIJK56J7TGFIsmO3qIm6dnodHU1Mnc3c__JXlrdLEmYQ2DzMBtKS5Y73ZXJMiItvOHOpTPKmY-W-Hh10G0sv4=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai",
+      "taman"
+    ]
+  },
+  {
+    "nama": "Batu Layar",
+    "alamat": "Bar., , Larike, Kec. Leihitu Bar., Maluku",
+    "rating": "4.4",
+    "jumlah_review": "267",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.7348091,
+      "longitude": 127.9232047
+    },
+    "url": "https://www.google.com/maps/place/Batu+Layar/data=!4m7!3m6!1s0x2d6d21d9ac649383:0x319be0f452c53924!8m2!3d-3.7348091!4d127.9232047!16s%2Fg%2F11bzq4dgmt!19sChIJg5NkrNkhbS0RJDnFUvTgmzE?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npr3j2F1PCq9aLnRiuXWSlol_MHcm_cqlJ_Fz5wXSer92SjhKko4zblmUnIwqXYXBE1Z9kxlX2t9vsGRQvnBOtanYcp79T6xYNvkKQNp0rRm00GZo0JWtAgGMgVfP01iH9-GRVw=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npr3j2F1PCq9aLnRiuXWSlol_MHcm_cqlJ_Fz5wXSer92SjhKko4zblmUnIwqXYXBE1Z9kxlX2t9vsGRQvnBOtanYcp79T6xYNvkKQNp0rRm00GZo0JWtAgGMgVfP01iH9-GRVw=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npr3j2F1PCq9aLnRiuXWSlol_MHcm_cqlJ_Fz5wXSer92SjhKko4zblmUnIwqXYXBE1Z9kxlX2t9vsGRQvnBOtanYcp79T6xYNvkKQNp0rRm00GZo0JWtAgGMgVfP01iH9-GRVw=w224-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pantai Waka",
+    "alamat": "Fatkauyon, Kec. Sulabesi Timur, Maluku Utara",
+    "rating": "4.9",
+    "jumlah_review": "11",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.4747994,
+      "longitude": 126.0524873
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Waka/data=!4m7!3m6!1s0x2d70d7006480e337:0x3d6935210a8da9b1!8m2!3d-2.4747994!4d126.0524873!16s%2Fg%2F11w9w0g12_!19sChIJN-OAZADXcC0RsamNCiE1aT0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npCnQEs0dHb2B8ilwhLL9uYXgxqEAeF8GIpN_5PkEVe8uP7uIxOQPaZtcT7W8aoQRkA_hYXY3dlCRKsuksMQokfLCelbzDnsCgRGPZAiMhnZKc5jk3scnuUB7rEb5ISzr61x5RiWA=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npCnQEs0dHb2B8ilwhLL9uYXgxqEAeF8GIpN_5PkEVe8uP7uIxOQPaZtcT7W8aoQRkA_hYXY3dlCRKsuksMQokfLCelbzDnsCgRGPZAiMhnZKc5jk3scnuUB7rEb5ISzr61x5RiWA=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npCnQEs0dHb2B8ilwhLL9uYXgxqEAeF8GIpN_5PkEVe8uP7uIxOQPaZtcT7W8aoQRkA_hYXY3dlCRKsuksMQokfLCelbzDnsCgRGPZAiMhnZKc5jk3scnuUB7rEb5ISzr61x5RiWA=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Lubang Buaya Morela",
+    "alamat": "Morela, Kec. Leihitu",
+    "rating": "4.6",
+    "jumlah_review": "1.196",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.5183437,
+      "longitude": 128.2236557
+    },
+    "url": "https://www.google.com/maps/place/Lubang+Buaya+Morela/data=!4m7!3m6!1s0x2d6cf6ae7693ae9f:0x201c7423df81cfcc!8m2!3d-3.5183437!4d128.2236557!16s%2Fg%2F11c45sxdpv!19sChIJn66Tdq72bC0RzM-B3yN0HCA?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipPm_VtfVXGcIYFTCB-dh8JPFsfiJnWpFOd11ZR0=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPm_VtfVXGcIYFTCB-dh8JPFsfiJnWpFOd11ZR0=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPm_VtfVXGcIYFTCB-dh8JPFsfiJnWpFOd11ZR0=w529-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Museum Siwalima Provinsi Maluku",
+    "alamat": "Jl. Dr. Malaiholo, Taman Makmur, Kel. Nusaniwe, Nusaniwe, kEL NUSANIWE, Kec. Nusaniwe, Maluku",
+    "rating": "4.3",
+    "jumlah_review": "230",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.7134761,
+      "longitude": 128.1529805
+    },
+    "url": "https://www.google.com/maps/place/Museum+Siwalima+Provinsi+Maluku/data=!4m7!3m6!1s0x2d6ce80eafbfeb7d:0xbf9977619e9db228!8m2!3d-3.7134761!4d128.1529805!16s%2Fg%2F122hpm3n!19sChIJfeu_rw7obC0RKLKdnmF3mb8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npI30CL3szdhJ8bdO7w5MExmSECv3SriWN5YUKvz-ZZqFGCDFRCgnFviyL7bhyFhM3FEzNwL1S0DoK3SrW8WqL5dBAPMZwoULFrj4cfWueNz7EkHs__vOaAyquPYHr-YfVyc0O4=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npI30CL3szdhJ8bdO7w5MExmSECv3SriWN5YUKvz-ZZqFGCDFRCgnFviyL7bhyFhM3FEzNwL1S0DoK3SrW8WqL5dBAPMZwoULFrj4cfWueNz7EkHs__vOaAyquPYHr-YfVyc0O4=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npI30CL3szdhJ8bdO7w5MExmSECv3SriWN5YUKvz-ZZqFGCDFRCgnFviyL7bhyFhM3FEzNwL1S0DoK3SrW8WqL5dBAPMZwoULFrj4cfWueNz7EkHs__vOaAyquPYHr-YfVyc0O4=w224-h298-k-no"
+    ],
+    "kategori": [
+      "museum"
+    ]
+  },
+  {
+    "nama": "Istana Mini",
+    "alamat": "Dwi Warna, Kec. Banda, Maluku",
+    "rating": "4.4",
+    "jumlah_review": "271",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -4.5290495,
+      "longitude": 129.9005963
+    },
+    "url": "https://www.google.com/maps/place/Istana+Mini/data=!4m7!3m6!1s0x2d158600ec0eb25f:0x5c13e8ca29f208cf!8m2!3d-4.5290495!4d129.9005963!16s%2Fg%2F11b6y7mw8x!19sChIJX7IO7ACGFS0RzwjyKcroE1w?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npS7m7pH8QylGa87jy0j-wAAtFeD8iSQM8kHrloNb3kEfY6dtXpwlyx1Uvr8Ri5Ck34v-vaE83vFpUM4_o9VUfPGFpPRZccWNz9T1yKJ91SVb8HT1i4bpzcfM05XL3a10h9Mbxl=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npS7m7pH8QylGa87jy0j-wAAtFeD8iSQM8kHrloNb3kEfY6dtXpwlyx1Uvr8Ri5Ck34v-vaE83vFpUM4_o9VUfPGFpPRZccWNz9T1yKJ91SVb8HT1i4bpzcfM05XL3a10h9Mbxl=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npS7m7pH8QylGa87jy0j-wAAtFeD8iSQM8kHrloNb3kEfY6dtXpwlyx1Uvr8Ri5Ck34v-vaE83vFpUM4_o9VUfPGFpPRZccWNz9T1yKJ91SVb8HT1i4bpzcfM05XL3a10h9Mbxl=w529-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pantai Ngurbloat Desa Ngilngof - Kei Islands",
+    "alamat": "Ngurbloat, Maluku",
+    "rating": "4.7",
+    "jumlah_review": "1.072",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -5.6624981,
+      "longitude": 132.6362396
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Ngurbloat+Desa+Ngilngof+-+Kei+Islands/data=!4m7!3m6!1s0x2d30042fc9123f8f:0xd3a4a88054e326f!8m2!3d-5.6624981!4d132.6362396!16s%2Fg%2F11b86hyzjt!19sChIJjz8SyS8EMC0RbzJOBYhKOg0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noDru3tLXvAk2M_7q3CwIUj5X5DLaJzl6pLczgevg_aJS9eOBzzWy8V3O6eLI0ycYbkC8X2Tk3YqRZOOEIKRmNMy6BB5rpq8OPQ8Y5Mb1u8lecn8vq8BrfCcTxZca6DypRlzjg=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noDru3tLXvAk2M_7q3CwIUj5X5DLaJzl6pLczgevg_aJS9eOBzzWy8V3O6eLI0ycYbkC8X2Tk3YqRZOOEIKRmNMy6BB5rpq8OPQ8Y5Mb1u8lecn8vq8BrfCcTxZca6DypRlzjg=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noDru3tLXvAk2M_7q3CwIUj5X5DLaJzl6pLczgevg_aJS9eOBzzWy8V3O6eLI0ycYbkC8X2Tk3YqRZOOEIKRmNMy6BB5rpq8OPQ8Y5Mb1u8lecn8vq8BrfCcTxZca6DypRlzjg=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pantai",
+      "pulau"
+    ]
+  },
+  {
+    "nama": "Pantai Hukurila",
+    "alamat": "Banda Sea, Hukurila, Maluku",
+    "rating": "4.5",
+    "jumlah_review": "442",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.7381507,
+      "longitude": 128.240791
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Hukurila/data=!4m7!3m6!1s0x2d6cc18e44ac7471:0x666d9152d3bbd2a7!8m2!3d-3.7381507!4d128.240791!16s%2Fg%2F11cm0lh9yr!19sChIJcXSsRI7BbC0Rp9K701KRbWY?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noOEWGkcSUEWWI_kTFf75sJBgTFdCTh6_07sXLWi-7u24qO16eefOlQIY8EQ0J9Wx-vgGBl2se0JnqWl_ajY1Tk4lkcdawVCv3Fqa9BcfRzg7NLZJM0BzENeXCdJhy52p2NzhPA=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noOEWGkcSUEWWI_kTFf75sJBgTFdCTh6_07sXLWi-7u24qO16eefOlQIY8EQ0J9Wx-vgGBl2se0JnqWl_ajY1Tk4lkcdawVCv3Fqa9BcfRzg7NLZJM0BzENeXCdJhy52p2NzhPA=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noOEWGkcSUEWWI_kTFf75sJBgTFdCTh6_07sXLWi-7u24qO16eefOlQIY8EQ0J9Wx-vgGBl2se0JnqWl_ajY1Tk4lkcdawVCv3Fqa9BcfRzg7NLZJM0BzENeXCdJhy52p2NzhPA=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  }
+]

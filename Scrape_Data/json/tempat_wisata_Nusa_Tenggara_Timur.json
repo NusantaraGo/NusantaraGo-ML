@@ -1,0 +1,747 @@
+[
+  {
+    "nama": "Batu Termanu",
+    "alamat": "Onotali, Kec. Rote Tengah, Nusa Tenggara Tim.",
+    "rating": "4.7",
+    "jumlah_review": "169",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -10.6741859,
+      "longitude": 123.0952443
+    },
+    "url": "https://www.google.com/maps/place/Batu+Termanu/data=!4m7!3m6!1s0x2c56d33b505839d7:0x6f48315944dabb10!8m2!3d-10.6741859!4d123.0952443!16s%2Fg%2F11c1sjglxl!19sChIJ1zlYUDvTViwRELvaRFkxSG8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqo53cA8QkV_wq-mt7oligQ8b_59uxYmWaLFwfldT-Jb2BaN2hR-Y9ebN7tsktVnQedkccx4SclNL5vwnAW9JdF3KNQDI98z_3HEDg5GwmmIMS75Z8tFTYbUMN1QYeQVMgubGBEug=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqo53cA8QkV_wq-mt7oligQ8b_59uxYmWaLFwfldT-Jb2BaN2hR-Y9ebN7tsktVnQedkccx4SclNL5vwnAW9JdF3KNQDI98z_3HEDg5GwmmIMS75Z8tFTYbUMN1QYeQVMgubGBEug=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqo53cA8QkV_wq-mt7oligQ8b_59uxYmWaLFwfldT-Jb2BaN2hR-Y9ebN7tsktVnQedkccx4SclNL5vwnAW9JdF3KNQDI98z_3HEDg5GwmmIMS75Z8tFTYbUMN1QYeQVMgubGBEug=w529-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Wisata Goa Monyet",
+    "alamat": "Jalan Doktor Samratulangi Raya, Klp. Lima, Kec. Klp. Lima",
+    "rating": "4.0",
+    "jumlah_review": "291",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -10.1506092,
+      "longitude": 123.6141317
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Goa+Monyet/data=!4m7!3m6!1s0x2c569cceb4904161:0xddaa6f0bfbb8979e!8m2!3d-10.1506092!4d123.6141317!16s%2Fg%2F1hm30xkgk!19sChIJYUGQtM6cViwRnpe4-wtvqt0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np8ILh5DlRjxRZhwI1iydxuvXe_R1_tuHtU2m7wF-8uYkgvX4p6b9GE4j0Hjxjltqp_kmugCoBP3F4LksJzxz7G_iMZjGovm1sCYgfY89-d2NyXaf-U2Hw7f1Ej1sggGNTDJko=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np8ILh5DlRjxRZhwI1iydxuvXe_R1_tuHtU2m7wF-8uYkgvX4p6b9GE4j0Hjxjltqp_kmugCoBP3F4LksJzxz7G_iMZjGovm1sCYgfY89-d2NyXaf-U2Hw7f1Ej1sggGNTDJko=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np8ILh5DlRjxRZhwI1iydxuvXe_R1_tuHtU2m7wF-8uYkgvX4p6b9GE4j0Hjxjltqp_kmugCoBP3F4LksJzxz7G_iMZjGovm1sCYgfY89-d2NyXaf-U2Hw7f1Ej1sggGNTDJko=w397-h298-k-no"
+    ],
+    "kategori": [
+      "goa"
+    ]
+  },
+  {
+    "nama": "Waerebo Village",
+    "alamat": "Satar Lenda, Kec. Satar Mese Bar., Nusa Tenggara Tim.",
+    "rating": "4.7",
+    "jumlah_review": "1.080",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.7691132,
+      "longitude": 120.2841863
+    },
+    "url": "https://www.google.com/maps/place/Waerebo+Village/data=!4m7!3m6!1s0x2db36459b2e80e9d:0xce74c6b87dcb8a88!8m2!3d-8.7691132!4d120.2841863!16s%2Fg%2F11b6bn90h1!19sChIJnQ7osllksy0RiIrLfbjGdM4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npXzQtmeAorbBrWyRfQunHnqkV7uhVUR8BsBk4qJaiU3I7N5lVYSGljq7G1_HnwthTEFLKwEoPsgwkLk5zzKyehyiZfkKHFokiMZtB5Af9jcTdyMJnZomtD3kzaDkCMrBVx-sih=w128-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npXzQtmeAorbBrWyRfQunHnqkV7uhVUR8BsBk4qJaiU3I7N5lVYSGljq7G1_HnwthTEFLKwEoPsgwkLk5zzKyehyiZfkKHFokiMZtB5Af9jcTdyMJnZomtD3kzaDkCMrBVx-sih=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npXzQtmeAorbBrWyRfQunHnqkV7uhVUR8BsBk4qJaiU3I7N5lVYSGljq7G1_HnwthTEFLKwEoPsgwkLk5zzKyehyiZfkKHFokiMZtB5Af9jcTdyMJnZomtD3kzaDkCMrBVx-sih=w446-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pulau Sabolo",
+    "alamat": "Pasir Putih, Kec. Komodo, Nusa Tenggara Tim.",
+    "rating": "4.9",
+    "jumlah_review": "121",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.3975575,
+      "longitude": 119.8094883
+    },
+    "url": "https://www.google.com/maps/place/Pulau+Sabolo/data=!4m7!3m6!1s0x2db46991747ea467:0x6971cb071042608e!8m2!3d-8.3975575!4d119.8094883!16s%2Fg%2F11pt_2_636!19sChIJZ6R-dJFptC0RjmBCEAfLcWk?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nprtNN0Y7dHxMlataLgcx_9_o5ycYBL_pMhA4n7JBFdmw_tCzusWg3_BnPuMVhebhZGDDjydLFeE-QGlzepaJX70x0rd6pfXo4VAV-6scM4GreoBMprGwXift29OsV6b4IHCHlZ=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nprtNN0Y7dHxMlataLgcx_9_o5ycYBL_pMhA4n7JBFdmw_tCzusWg3_BnPuMVhebhZGDDjydLFeE-QGlzepaJX70x0rd6pfXo4VAV-6scM4GreoBMprGwXift29OsV6b4IHCHlZ=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nprtNN0Y7dHxMlataLgcx_9_o5ycYBL_pMhA4n7JBFdmw_tCzusWg3_BnPuMVhebhZGDDjydLFeE-QGlzepaJX70x0rd6pfXo4VAV-6scM4GreoBMprGwXift29OsV6b4IHCHlZ=w224-h298-k-no"
+    ],
+    "kategori": [
+      "pulau"
+    ]
+  },
+  {
+    "nama": "Bukit Mando'o",
+    "alamat": "Kuli, Kec. Lobalain, Nusa Tenggara Tim.",
+    "rating": "4.6",
+    "jumlah_review": "112",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -10.8504094,
+      "longitude": 123.0740786
+    },
+    "url": "https://www.google.com/maps/place/Bukit+Mando%27o/data=!4m7!3m6!1s0x2c50d4b23a943029:0x642a35872518ff49!8m2!3d-10.8504094!4d123.0740786!16s%2Fg%2F11c4bjysq2!19sChIJKTCUOrLUUCwRSf8YJYc1KmQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noI324sbDphex_Ja241b2jXdMv8bTgBrs5r5nxnvvR7D08W3ddiiE4WVWKm22pSOkTunzUrJY6JUeEFQZMtql8jc6_-HZN7iNLEvLAxD09T8_Y0dklcANBtVjmKt_r1RQ5l1zb8Zw=w99-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noI324sbDphex_Ja241b2jXdMv8bTgBrs5r5nxnvvR7D08W3ddiiE4WVWKm22pSOkTunzUrJY6JUeEFQZMtql8jc6_-HZN7iNLEvLAxD09T8_Y0dklcANBtVjmKt_r1RQ5l1zb8Zw=w408-h353-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npZu6qE406n4cJyfzGmH89nRQDz-DvOaXCd-2Pp1spzu7hvERe9_7fegAWuM9WGKruTKJDtSoercEuu0A19NirwaoXZHRj-PCg1shWiDb00nmsXEang_PHMcnTDtt_IIJ8XvFZ1tQ=w397-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Desa Wisata Golo Loni",
+    "alamat": "Jln.Trans Flores, Golo Loni, Kec. Rana Mese",
+    "rating": "3.8",
+    "jumlah_review": "10",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.6646639,
+      "longitude": 120.5615921
+    },
+    "url": "https://www.google.com/maps/place/Desa+Wisata+Golo+Loni/data=!4m7!3m6!1s0x2db30de6e394e0e7:0x2f89fce6019c73a5!8m2!3d-8.6646639!4d120.5615921!16s%2Fg%2F11s39l0cv7!19sChIJ5-CU4-YNsy0RpXOcAeb8iS8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqWS21bDqNHpioadfTEwpQrG10DEl22sUMBV7EFI6uITCI-8NOtyFazSSjVkJGQN-emfJO4pRLiya1A0k8r78gVSZEVZDT8dawNT1Qomkv8E-q0b67UEujjh_7VTLpfnUx30Cm08w=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqWS21bDqNHpioadfTEwpQrG10DEl22sUMBV7EFI6uITCI-8NOtyFazSSjVkJGQN-emfJO4pRLiya1A0k8r78gVSZEVZDT8dawNT1Qomkv8E-q0b67UEujjh_7VTLpfnUx30Cm08w=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqWS21bDqNHpioadfTEwpQrG10DEl22sUMBV7EFI6uITCI-8NOtyFazSSjVkJGQN-emfJO4pRLiya1A0k8r78gVSZEVZDT8dawNT1Qomkv8E-q0b67UEujjh_7VTLpfnUx30Cm08w=w530-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Wisata Alam Nausus",
+    "alamat": "Fatukoto, Kec. Mollo Utara, Nusa Tenggara Tim.",
+    "rating": "4.8",
+    "jumlah_review": "79",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -9.7101624,
+      "longitude": 124.2277409
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Alam+Nausus/data=!4m7!3m6!1s0x2c5594ba5252af81:0xa5ee40a02ec4debc!8m2!3d-9.7101624!4d124.2277409!16s%2Fg%2F11hbl8hkgm!19sChIJga9SUrqUVSwRvN7ELqBA7qU?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no56vNx9SQQrnSE-vPG6I_dRmTWuNSpg7cFyJ94uZPqQMYHD44XibRCefDpY_7brOzFSR015geFK5vsnalII35uiOua9wyDzAAFNZYfUXKg5HOwxeR-l5zoZ211F0MU0-OIH237=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no56vNx9SQQrnSE-vPG6I_dRmTWuNSpg7cFyJ94uZPqQMYHD44XibRCefDpY_7brOzFSR015geFK5vsnalII35uiOua9wyDzAAFNZYfUXKg5HOwxeR-l5zoZ211F0MU0-OIH237=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no56vNx9SQQrnSE-vPG6I_dRmTWuNSpg7cFyJ94uZPqQMYHD44XibRCefDpY_7brOzFSR015geFK5vsnalII35uiOua9wyDzAAFNZYfUXKg5HOwxeR-l5zoZ211F0MU0-OIH237=w224-h298-k-no"
+    ],
+    "kategori": [
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Bukit Fatusuba ( Wisata Goa Kupang ) - Bonen, Baumata",
+    "alamat": "Unnamed Road, Baumata, Kec. Taebenu, Nusa Tenggara Tim.",
+    "rating": "4.8",
+    "jumlah_review": "12",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -10.2069196,
+      "longitude": 123.6634397
+    },
+    "url": "https://www.google.com/maps/place/Bukit+Fatusuba+%28+Wisata+Goa+Kupang+%29+-+Bonen,+Baumata/data=!4m7!3m6!1s0x2c568584792c14b3:0x1792e429b6b2551b!8m2!3d-10.2069196!4d123.6634397!16s%2Fg%2F11rcnv4kbc!19sChIJsxQseYSFViwRG1Wytinkkhc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZJC21dNs7s-vCoZfYj1NoVXRBP7t3TiUoSiGmAacacu38HMMPXpwFqUhq1TmmIfjb50moF5Of4_YYN1Z7TLqzEAoBGBFZxVdULmMRFAYK3t8adfTTIqy8QdsksJrlyNgIN5Tp=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZJC21dNs7s-vCoZfYj1NoVXRBP7t3TiUoSiGmAacacu38HMMPXpwFqUhq1TmmIfjb50moF5Of4_YYN1Z7TLqzEAoBGBFZxVdULmMRFAYK3t8adfTTIqy8QdsksJrlyNgIN5Tp=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZJC21dNs7s-vCoZfYj1NoVXRBP7t3TiUoSiGmAacacu38HMMPXpwFqUhq1TmmIfjb50moF5Of4_YYN1Z7TLqzEAoBGBFZxVdULmMRFAYK3t8adfTTIqy8QdsksJrlyNgIN5Tp=w224-h298-k-no"
+    ],
+    "kategori": [
+      "gunung",
+      "goa"
+    ]
+  },
+  {
+    "nama": "Pantai Uiasa",
+    "alamat": "Uiasa, Kec. Semau, Nusa Tenggara Tim.",
+    "rating": "4.5",
+    "jumlah_review": "44",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -10.1472987,
+      "longitude": 123.4648352
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Uiasa/data=!4m7!3m6!1s0x2c569fa3a0790023:0xe1f36656e5dfd362!8m2!3d-10.1472987!4d123.4648352!16s%2Fg%2F11f3q612y1!19sChIJIwB5oKOfViwRYtPf5VZm8-E?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np-R1zf5cnrurnyMtFHPZ0MWHsx39JA5V4NGNihDiRo8ZAww2DyTnrR_hHVjTf68BJ9b2MS1ZCxFBl8iCtfDxlxB4xYmAmcyVW5RsSXe2IrK4OgQry16OhxIYsZ5sifMNQ0nZ5y=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np-R1zf5cnrurnyMtFHPZ0MWHsx39JA5V4NGNihDiRo8ZAww2DyTnrR_hHVjTf68BJ9b2MS1ZCxFBl8iCtfDxlxB4xYmAmcyVW5RsSXe2IrK4OgQry16OhxIYsZ5sifMNQ0nZ5y=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np-R1zf5cnrurnyMtFHPZ0MWHsx39JA5V4NGNihDiRo8ZAww2DyTnrR_hHVjTf68BJ9b2MS1ZCxFBl8iCtfDxlxB4xYmAmcyVW5RsSXe2IrK4OgQry16OhxIYsZ5sifMNQ0nZ5y=w447-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Gua Maria Bikono",
+    "alamat": "Baumata, Kec. Taebenu, Nusa Tenggara Tim.",
+    "rating": "4.8",
+    "jumlah_review": "41",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -10.2012733,
+      "longitude": 123.6709824
+    },
+    "url": "https://www.google.com/maps/place/Gua+Maria+Bikono/data=!4m7!3m6!1s0x2c56859b61e5e72d:0xed02bb3760e23de0!8m2!3d-10.2012733!4d123.6709824!16s%2Fg%2F11j48ww_dj!19sChIJLeflYZuFViwR4D3iYDe7Au0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4notJf0VljCp5RP4kpiXc9IJoQA7wXb6VnX-V3k_E-MdG5nKpQz-c2li_2jmne4HLANGkdYa5Mh00ojQ_qWYfM4Lk9kxkOaaluxr-EgWssjEVAkZ_WDRmI-5RG2_3cC2KpaX3V8ncQ=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4notJf0VljCp5RP4kpiXc9IJoQA7wXb6VnX-V3k_E-MdG5nKpQz-c2li_2jmne4HLANGkdYa5Mh00ojQ_qWYfM4Lk9kxkOaaluxr-EgWssjEVAkZ_WDRmI-5RG2_3cC2KpaX3V8ncQ=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4notJf0VljCp5RP4kpiXc9IJoQA7wXb6VnX-V3k_E-MdG5nKpQz-c2li_2jmne4HLANGkdYa5Mh00ojQ_qWYfM4Lk9kxkOaaluxr-EgWssjEVAkZ_WDRmI-5RG2_3cC2KpaX3V8ncQ=w224-h298-k-no"
+    ],
+    "kategori": [
+      "goa"
+    ]
+  },
+  {
+    "nama": "Waikuri Lagoon",
+    "alamat": "Desa, Kalena Rongo, Kec. Kodi Utara, Nusa Tenggara Tim.",
+    "rating": "4.7",
+    "jumlah_review": "1.506",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -9.4909691,
+      "longitude": 118.9598404
+    },
+    "url": "https://www.google.com/maps/place/Waikuri+Lagoon/data=!4m7!3m6!1s0x2c4ab9f3e14e9847:0x3915b7886efa48b6!8m2!3d-9.4909691!4d118.9598404!16s%2Fg%2F11gf62gmv9!19sChIJR5hO4fO5SiwRtkj6boi3FTk?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqHQDBdUzhUaAp0QouR3o3yYofmlQwo2NygyDa18AZu3u7vcxA4kxVhTmEHjimqAIm5O4vAax5N3duiFJcOIRlXmONqQgFfEkV7Gd0rsu5qkNP2qatdaMYJDWz12aiwUl1ttPMxiA=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqHQDBdUzhUaAp0QouR3o3yYofmlQwo2NygyDa18AZu3u7vcxA4kxVhTmEHjimqAIm5O4vAax5N3duiFJcOIRlXmONqQgFfEkV7Gd0rsu5qkNP2qatdaMYJDWz12aiwUl1ttPMxiA=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqHQDBdUzhUaAp0QouR3o3yYofmlQwo2NygyDa18AZu3u7vcxA4kxVhTmEHjimqAIm5O4vAax5N3duiFJcOIRlXmONqQgFfEkV7Gd0rsu5qkNP2qatdaMYJDWz12aiwUl1ttPMxiA=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pantai Paradiso",
+    "alamat": "Klp. Lima, Kec. Klp. Lima, Nusa Tenggara Tim.",
+    "rating": "4.3",
+    "jumlah_review": "381",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -10.1409587,
+      "longitude": 123.6266006
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Paradiso/data=!4m7!3m6!1s0x2c5683294eaf4d3b:0xf446c6083f36fe0!8m2!3d-10.1409587!4d123.6266006!16s%2Fg%2F11fy92rnjx!19sChIJO02vTimDViwR4G_zg2BsRA8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noaUM2pcLwFQ3R5cAU3D81G7h6ez-H4TzNIowFjpJNHdX9UJycmImyWr2EpipDn9JFUaHEQ-gvx17p1PuN0Z8LdvQaHYkV4wKdU9ng9doWKIxMERw063g2MAf3xkHzUOAJkc1RBow=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noaUM2pcLwFQ3R5cAU3D81G7h6ez-H4TzNIowFjpJNHdX9UJycmImyWr2EpipDn9JFUaHEQ-gvx17p1PuN0Z8LdvQaHYkV4wKdU9ng9doWKIxMERw063g2MAf3xkHzUOAJkc1RBow=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noaUM2pcLwFQ3R5cAU3D81G7h6ez-H4TzNIowFjpJNHdX9UJycmImyWr2EpipDn9JFUaHEQ-gvx17p1PuN0Z8LdvQaHYkV4wKdU9ng9doWKIxMERw063g2MAf3xkHzUOAJkc1RBow=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pantai Tarimbang",
+    "alamat": "Tarimbang, Kec. Tabundung, Nusa Tenggara Tim.",
+    "rating": "4.7",
+    "jumlah_review": "167",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -9.9728579,
+      "longitude": 119.9458569
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Tarimbang/data=!4m7!3m6!1s0x2c4b9b197a75258b:0x7e882d8dc051e9b1!8m2!3d-9.9728579!4d119.9458569!16s%2Fg%2F11cn0mj8qj!19sChIJiyV1ehmbSywRselRwI0tiH4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrJnudsBz1YHVMJIGixCNONd0ZVy7zfWxS6Xx8ay3Bxfo8D3T022sEEso8519etKOeq6TA5UPOULlO7VJWAgYxNzipJJ6Hk1dBCthkFgqadeU573izjC4k2s1fZD70m4P5exprD=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrJnudsBz1YHVMJIGixCNONd0ZVy7zfWxS6Xx8ay3Bxfo8D3T022sEEso8519etKOeq6TA5UPOULlO7VJWAgYxNzipJJ6Hk1dBCthkFgqadeU573izjC4k2s1fZD70m4P5exprD=w408-h270-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrJnudsBz1YHVMJIGixCNONd0ZVy7zfWxS6Xx8ay3Bxfo8D3T022sEEso8519etKOeq6TA5UPOULlO7VJWAgYxNzipJJ6Hk1dBCthkFgqadeU573izjC4k2s1fZD70m4P5exprD=w449-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pantai Marosi",
+    "alamat": "Jln. Marosi, Patiala Bawa, Kec. Lamboya, Nusa Tenggara Tim.",
+    "rating": "4.6",
+    "jumlah_review": "98",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -9.7621423,
+      "longitude": 119.3144131
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Marosi/data=!4m7!3m6!1s0x2c4afb52b3c26383:0xb6ae3800272803d!8m2!3d-9.7621423!4d119.3144131!16s%2Fg%2F11cmd3195d!19sChIJg2PCs1L7SiwRPYByAoDjags?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npD8ibT0cZ6adXsVyO_chFNnOonq4Yor3fBo84gpMrLBpvPJOJVgnUMD_0Vy9tIJJfmFE-EU5XWyg-lG6KvX8xxe_1egLx5ETv9_KMUpgBj0jFVCXB2A_7T6pSsg79UfimsESU=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npD8ibT0cZ6adXsVyO_chFNnOonq4Yor3fBo84gpMrLBpvPJOJVgnUMD_0Vy9tIJJfmFE-EU5XWyg-lG6KvX8xxe_1egLx5ETv9_KMUpgBj0jFVCXB2A_7T6pSsg79UfimsESU=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npD8ibT0cZ6adXsVyO_chFNnOonq4Yor3fBo84gpMrLBpvPJOJVgnUMD_0Vy9tIJJfmFE-EU5XWyg-lG6KvX8xxe_1egLx5ETv9_KMUpgBj0jFVCXB2A_7T6pSsg79UfimsESU=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Bukit Wairinding",
+    "alamat": "Makamenggit, Nggaha Oriangu, Nusa Tenggara Tim.",
+    "rating": "4.8",
+    "jumlah_review": "166",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -9.6796125,
+      "longitude": 120.1012969
+    },
+    "url": "https://www.google.com/maps/place/Bukit+Wairinding/data=!4m7!3m6!1s0x2c4b7b5835cb00a1:0xc5d77dabddd06b10!8m2!3d-9.6796125!4d120.1012969!16s%2Fg%2F11h8jkx0hk!19sChIJoQDLNVh7SywREGvQ3at918U?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npBN5xXFGhZrb34i24qE4ic07b42T1qUQ4OP9XBeF-fb9BIZIh1533XfpfCj_eiF1p9nivMlNC0aLT718JDnrc_jQd-Yd-KmRX9N9fIJ4AW0j5PzHTsiSNx7SUDq1BXLrOrLMzhWA=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npBN5xXFGhZrb34i24qE4ic07b42T1qUQ4OP9XBeF-fb9BIZIh1533XfpfCj_eiF1p9nivMlNC0aLT718JDnrc_jQd-Yd-KmRX9N9fIJ4AW0j5PzHTsiSNx7SUDq1BXLrOrLMzhWA=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npBN5xXFGhZrb34i24qE4ic07b42T1qUQ4OP9XBeF-fb9BIZIh1533XfpfCj_eiF1p9nivMlNC0aLT718JDnrc_jQd-Yd-KmRX9N9fIJ4AW0j5PzHTsiSNx7SUDq1BXLrOrLMzhWA=w397-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Bendungan Waikelo Sawah",
+    "alamat": "Waikelo Sawah, Tema Tana, Kec. Wewewa Tim., Nusa Tenggara Tim.",
+    "rating": "4.6",
+    "jumlah_review": "332",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -9.5957201,
+      "longitude": 119.3409631
+    },
+    "url": "https://www.google.com/maps/place/Bendungan+Waikelo+Sawah/data=!4m7!3m6!1s0x2c4ade1ca0040d25:0x874fd9461f8abd25!8m2!3d-9.5957201!4d119.3409631!16s%2Fg%2F11gdkpbfw4!19sChIJJQ0EoBzeSiwRJb2KH0bZT4c?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npNckb62LuHo8rH7mFAPzqImoc2sDp9nlpnmyllmbjkOmoCAwDVPnm1xiDiEywYi7B8W2YxYB5Cr16BFVaRw4iXmLf7I7Ri2xGf18Tg5XvrbLCIpDfOZ6jgDruTz5FYhr0WiG_1=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npNckb62LuHo8rH7mFAPzqImoc2sDp9nlpnmyllmbjkOmoCAwDVPnm1xiDiEywYi7B8W2YxYB5Cr16BFVaRw4iXmLf7I7Ri2xGf18Tg5XvrbLCIpDfOZ6jgDruTz5FYhr0WiG_1=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npNckb62LuHo8rH7mFAPzqImoc2sDp9nlpnmyllmbjkOmoCAwDVPnm1xiDiEywYi7B8W2YxYB5Cr16BFVaRw4iXmLf7I7Ri2xGf18Tg5XvrbLCIpDfOZ6jgDruTz5FYhr0WiG_1=w529-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Pantai Liman",
+    "alamat": "Uitiuhtuan, Kec. Semau Sel., Nusa Tenggara Tim.",
+    "rating": "4.8",
+    "jumlah_review": "334",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -10.2931156,
+      "longitude": 123.3076102
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Liman/data=!4m7!3m6!1s0x2c56a4d476d7b87b:0x2467d9fd393b773c!8m2!3d-10.2931156!4d123.3076102!16s%2Fg%2F11cmqzdgnf!19sChIJe7jXdtSkViwRPHc7Of3ZZyQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqnd9I3pr17_d2tBdSeFEATnSYg8zIy0QDRBii3kFJpzg00r657fwvBZ2RdwD-DuPYEJxF90iXeuUkjRZ8r4zapSPuJ6YJduS844XGHeqqfWZxNmiIJjVj4_vZB4yEBNgmnGAFh=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqnd9I3pr17_d2tBdSeFEATnSYg8zIy0QDRBii3kFJpzg00r657fwvBZ2RdwD-DuPYEJxF90iXeuUkjRZ8r4zapSPuJ6YJduS844XGHeqqfWZxNmiIJjVj4_vZB4yEBNgmnGAFh=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqnd9I3pr17_d2tBdSeFEATnSYg8zIy0QDRBii3kFJpzg00r657fwvBZ2RdwD-DuPYEJxF90iXeuUkjRZ8r4zapSPuJ6YJduS844XGHeqqfWZxNmiIJjVj4_vZB4yEBNgmnGAFh=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Goa Kristal",
+    "alamat": "Bolok, Kec. Kupang Bar., Nusa Tenggara Tim.",
+    "rating": "4.4",
+    "jumlah_review": "978",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -10.224566,
+      "longitude": 123.5105867
+    },
+    "url": "https://www.google.com/maps/place/Goa+Kristal/data=!4m7!3m6!1s0x2c569975d1eabc83:0x1646c77c11b0c043!8m2!3d-10.224566!4d123.5105867!16s%2Fg%2F11c3vpqwt5!19sChIJg7zq0XWZViwRQ8CwEXzHRhY?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4notWFw7VS7R4KEAW7wogxBY79Fz2wyyDrft7XGkkOYuGHrMFFfj9VSCgVnTeJmRSdl7K93prgaOUb21vVt3Z-8NJVROauqc2O9NHoy2ibedMwe-95r3soWd2BqhlZsfzuOnpFIC=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4notWFw7VS7R4KEAW7wogxBY79Fz2wyyDrft7XGkkOYuGHrMFFfj9VSCgVnTeJmRSdl7K93prgaOUb21vVt3Z-8NJVROauqc2O9NHoy2ibedMwe-95r3soWd2BqhlZsfzuOnpFIC=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4notWFw7VS7R4KEAW7wogxBY79Fz2wyyDrft7XGkkOYuGHrMFFfj9VSCgVnTeJmRSdl7K93prgaOUb21vVt3Z-8NJVROauqc2O9NHoy2ibedMwe-95r3soWd2BqhlZsfzuOnpFIC=w397-h298-k-no"
+    ],
+    "kategori": [
+      "goa"
+    ]
+  },
+  {
+    "nama": "Taman Wisata Alam Camplong",
+    "alamat": "Jl. Oesao - Bokong, Camplong I, Kec. Fatuleu, Nusa Tenggara Tim.",
+    "rating": "4.2",
+    "jumlah_review": "516",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -10.0378564,
+      "longitude": 123.9270251
+    },
+    "url": "https://www.google.com/maps/place/Taman+Wisata+Alam+Camplong/data=!4m7!3m6!1s0x2c55d64c65c471fb:0x4356468051c824aa!8m2!3d-10.0378564!4d123.9270251!16s%2Fg%2F11g897mjd_!19sChIJ-3HEZUzWVSwRqiTIUYBGVkM?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrEcCw22r0qSbHSwYG_DvU9WeQXfP-3WHjRj68jmpU-bcN2IpJmhY7CcJXKptwzz_8HeYLBzOiOYXmNARaSUeA40AeGgLgnXVsL5NVWUj3VUasnM25vG9aT3B2W_RFi6kCJu4o=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrEcCw22r0qSbHSwYG_DvU9WeQXfP-3WHjRj68jmpU-bcN2IpJmhY7CcJXKptwzz_8HeYLBzOiOYXmNARaSUeA40AeGgLgnXVsL5NVWUj3VUasnM25vG9aT3B2W_RFi6kCJu4o=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrEcCw22r0qSbHSwYG_DvU9WeQXfP-3WHjRj68jmpU-bcN2IpJmhY7CcJXKptwzz_8HeYLBzOiOYXmNARaSUeA40AeGgLgnXVsL5NVWUj3VUasnM25vG9aT3B2W_RFi6kCJu4o=w224-h298-k-no"
+    ],
+    "kategori": [
+      "taman",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Pantai Nunsui",
+    "alamat": "Lasiana, Kec. Klp. Lima, Nusa Tenggara Tim.",
+    "rating": "4.4",
+    "jumlah_review": "460",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -10.1359933,
+      "longitude": 123.6575486
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Nunsui/data=!4m7!3m6!1s0x2c568306b2db271d:0xc7e872de6c08a24d!8m2!3d-10.1359933!4d123.6575486!16s%2Fg%2F11c3t9q98y!19sChIJHSfbsgaDViwRTaIIbN5y6Mc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqKEoUOUG_NFk5F2eHaHaZaLB26QQeX8NXO0rkUP5362gdOhbKtJqpHAW-4TRoMtuMLCNjZPtyFmRNJDYbdJvCaI9s8Q1bF7ueecCJu5N1rJLZey8NyHLBA8zPZgK1LKw-J3TUbNg=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqKEoUOUG_NFk5F2eHaHaZaLB26QQeX8NXO0rkUP5362gdOhbKtJqpHAW-4TRoMtuMLCNjZPtyFmRNJDYbdJvCaI9s8Q1bF7ueecCJu5N1rJLZey8NyHLBA8zPZgK1LKw-J3TUbNg=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqKEoUOUG_NFk5F2eHaHaZaLB26QQeX8NXO0rkUP5362gdOhbKtJqpHAW-4TRoMtuMLCNjZPtyFmRNJDYbdJvCaI9s8Q1bF7ueecCJu5N1rJLZey8NyHLBA8zPZgK1LKw-J3TUbNg=w447-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Bukit Cinta",
+    "alamat": "Watokobu, Kec. Nubatukan, Nusa Tenggara Tim.",
+    "rating": "4.5",
+    "jumlah_review": "408",
+    "deskripsi": "Bukit Cinta adalah sebuah kawasan wisata perbukitan yang terletak di Desa Kebondowo Kecamatan Banyubiru, Semarang. Bukit Cinta merupakan bukit kecil yang terletak di pinggir Danau Rawapening. Sarana transportasi menuju ke tempat ini sangatlah mudah dan murah, kurang lebih hanya sekitar 5 Km dari Kota Ambarawa menuju ke arah Salatiga melewati Banyubiru. Dari Salatiga sendiri, Bukit Cinta dapat ditempuh dengan jarak sekitar 10 Km. Objek wisata ini mengandalkan keteduhan pepohonan dan pemandangan d...",
+    "koordinat": {
+      "latitude": -8.4303358,
+      "longitude": 123.3176132
+    },
+    "url": "https://www.google.com/maps/place/Bukit+Cinta/data=!4m7!3m6!1s0x2dab71b862306367:0x12f367b988b4a0ee!8m2!3d-8.4303358!4d123.3176132!16s%2Fg%2F11f_46877k!19sChIJZ2MwYrhxqy0R7qC0iLln8xI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrsgW7XcZ-J0dBgE-bLTfXtrd3o6BcCRfk-Ec57Goco5DPrQoPQkcTyFkKmA0syQLrpv98A_fd0bafEUctvpOIpw1BWs3uP5dhWROR3tQgZdNxoxY4y1G_tBCkd-l6Xgwi2crK4=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrsgW7XcZ-J0dBgE-bLTfXtrd3o6BcCRfk-Ec57Goco5DPrQoPQkcTyFkKmA0syQLrpv98A_fd0bafEUctvpOIpw1BWs3uP5dhWROR3tQgZdNxoxY4y1G_tBCkd-l6Xgwi2crK4=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrsgW7XcZ-J0dBgE-bLTfXtrd3o6BcCRfk-Ec57Goco5DPrQoPQkcTyFkKmA0syQLrpv98A_fd0bafEUctvpOIpw1BWs3uP5dhWROR3tQgZdNxoxY4y1G_tBCkd-l6Xgwi2crK4=w529-h298-k-no"
+    ],
+    "kategori": [
+      "gunung",
+      "danau"
+    ]
+  },
+  {
+    "nama": "Pantai Onanbalu",
+    "alamat": "Desa Bokonusan, Pulau, Kec. Semau, Nusa Tenggara Tim.",
+    "rating": "4.7",
+    "jumlah_review": "13",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -10.2248454,
+      "longitude": 123.3514747
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Onanbalu/data=!4m7!3m6!1s0x2c56a5479bca7bb9:0x8301a0959b3fa6f2!8m2!3d-10.2248454!4d123.3514747!16s%2Fg%2F11n0wt802b!19sChIJuXvKm0elViwR8qY_m5WgAYM?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npByjt_y9SNjQAZkm-xMPTp4wg6MUj07kZ4nKItShXeAye8NW_b-9LCPwleirl6zu7J3fAEX54gZ6gFX6LpTLDP5Xc0AuqsASFgY0Bc-5smTnVE3zlSTnQitE-eS_SCgtWUxlA1=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npByjt_y9SNjQAZkm-xMPTp4wg6MUj07kZ4nKItShXeAye8NW_b-9LCPwleirl6zu7J3fAEX54gZ6gFX6LpTLDP5Xc0AuqsASFgY0Bc-5smTnVE3zlSTnQitE-eS_SCgtWUxlA1=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npByjt_y9SNjQAZkm-xMPTp4wg6MUj07kZ4nKItShXeAye8NW_b-9LCPwleirl6zu7J3fAEX54gZ6gFX6LpTLDP5Xc0AuqsASFgY0Bc-5smTnVE3zlSTnQitE-eS_SCgtWUxlA1=w224-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Batu Nona Beach",
+    "alamat": "Lasiana, Kec. Klp. Lima, Nusa Tenggara Tim.",
+    "rating": "4.3",
+    "jumlah_review": "705",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -10.1335371,
+      "longitude": 123.6609839
+    },
+    "url": "https://www.google.com/maps/place/Batu+Nona+Beach/data=!4m7!3m6!1s0x2c56830069ef2353:0x591e55a6c55634e4!8m2!3d-10.1335371!4d123.6609839!16s%2Fg%2F11bw2hqjps!19sChIJUyPvaQCDViwR5DRWxaZVHlk?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrGIaqbaXOtsnfbT1FAYQgNSgAlliYWnx4bHt4spylZQcceruHheG4kgmAANY-TqLqPiEwFqIb3WINACiOM0_VAcVGhkxIeXGXXsW46tSNbA4iN2vKUMt510f5s8kf5-go0OwEXCA=w86-h152-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrGIaqbaXOtsnfbT1FAYQgNSgAlliYWnx4bHt4spylZQcceruHheG4kgmAANY-TqLqPiEwFqIb3WINACiOM0_VAcVGhkxIeXGXXsW46tSNbA4iN2vKUMt510f5s8kf5-go0OwEXCA=w408-h725-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrGIaqbaXOtsnfbT1FAYQgNSgAlliYWnx4bHt4spylZQcceruHheG4kgmAANY-TqLqPiEwFqIb3WINACiOM0_VAcVGhkxIeXGXXsW46tSNbA4iN2vKUMt510f5s8kf5-go0OwEXCA=w224-h398-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Kolorae - Pulau Dana, Kabupaten Sabu Raijua, Kecamatan Raijua",
+    "alamat": "Kolorae, Kec. Raijua, Nusa Tenggara Tim.",
+    "rating": "4.7",
+    "jumlah_review": "38",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -10.8255219,
+      "longitude": 121.2761912
+    },
+    "url": "https://www.google.com/maps/place/Kolorae+-+Pulau+Dana,+Kabupaten+Sabu+Raijua,+Kecamatan+Raijua/data=!4m7!3m6!1s0x2c4e381a929a30c9:0x662336bbe47936ce!8m2!3d-10.8255219!4d121.2761912!16s%2Fg%2F11b773f57m!19sChIJyTCakho4TiwRzjZ55Ls2I2Y?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqvcHlZs_oUyr_LtMATDFg4qeMktDE25ejJZgDD-xnmzkfg2HbihMUqoLRkm7GXRMgaBrysefKfu1ogAdjQ6HOremgWNlkHeJGwetbcvY63AdhbVB6w9ABVQRA3NUez4knsn3qAXg=w86-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqvcHlZs_oUyr_LtMATDFg4qeMktDE25ejJZgDD-xnmzkfg2HbihMUqoLRkm7GXRMgaBrysefKfu1ogAdjQ6HOremgWNlkHeJGwetbcvY63AdhbVB6w9ABVQRA3NUez4knsn3qAXg=w408-h408-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqvcHlZs_oUyr_LtMATDFg4qeMktDE25ejJZgDD-xnmzkfg2HbihMUqoLRkm7GXRMgaBrysefKfu1ogAdjQ6HOremgWNlkHeJGwetbcvY63AdhbVB6w9ABVQRA3NUez4knsn3qAXg=w298-h298-k-no"
+    ],
+    "kategori": [
+      "pulau"
+    ]
+  },
+  {
+    "nama": "Pantai Batu Biru (Blue Stone Beach)",
+    "alamat": "Penggajawa, Kec. Nangapanda, Nusa Tenggara Tim.",
+    "rating": "4.2",
+    "jumlah_review": "263",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.8007326,
+      "longitude": 121.493543
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Batu+Biru+%28Blue+Stone+Beach%29/data=!4m7!3m6!1s0x2db2a259ef5b10bd:0x47c8c9d9858579fb!8m2!3d-8.8007326!4d121.493543!16s%2Fg%2F11cjj7m6jb!19sChIJvRBb71misi0R-3mFhdnJyEc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrIs1t9XA800yQGgiPdVHxd2QdP3BzDP5H-JWUb9hqhehKijoKVMg3QtnCQe1lazH7Q2E60gGXDmuvuXTPX3PIPDq37nSI-ye2lTgYB4WevgQXzqot1m6E-2rPW8WiPoMhwfTpM=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrIs1t9XA800yQGgiPdVHxd2QdP3BzDP5H-JWUb9hqhehKijoKVMg3QtnCQe1lazH7Q2E60gGXDmuvuXTPX3PIPDq37nSI-ye2lTgYB4WevgQXzqot1m6E-2rPW8WiPoMhwfTpM=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrIs1t9XA800yQGgiPdVHxd2QdP3BzDP5H-JWUb9hqhehKijoKVMg3QtnCQe1lazH7Q2E60gGXDmuvuXTPX3PIPDq37nSI-ye2lTgYB4WevgQXzqot1m6E-2rPW8WiPoMhwfTpM=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pantai Kelapa Tinggi",
+    "alamat": "Mata Air, Kec. Kupang Tengah, Nusa Tenggara Tim.",
+    "rating": "4.6",
+    "jumlah_review": "117",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -10.1170736,
+      "longitude": 123.6957869
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Kelapa+Tinggi/data=!4m7!3m6!1s0x2c5683dd24a8baed:0xb876c230604b2d15!8m2!3d-10.1170736!4d123.6957869!16s%2Fg%2F11fm6fz31m!19sChIJ7bqoJN2DViwRFS1LYDDCdrg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noAjcNdkgrTgUgpfN-Ea4C7LcvIf841brskOOL6ZabEshCUlFXfLFhpBchS7ZCPAJVCGnJfulEVPhsPRpDqlDAl4a5Eeb7ttQSSxD_JM3UFqo3PCmYgBmFriAoYIHFFl20qrfk=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noAjcNdkgrTgUgpfN-Ea4C7LcvIf841brskOOL6ZabEshCUlFXfLFhpBchS7ZCPAJVCGnJfulEVPhsPRpDqlDAl4a5Eeb7ttQSSxD_JM3UFqo3PCmYgBmFriAoYIHFFl20qrfk=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noAjcNdkgrTgUgpfN-Ea4C7LcvIf841brskOOL6ZabEshCUlFXfLFhpBchS7ZCPAJVCGnJfulEVPhsPRpDqlDAl4a5Eeb7ttQSSxD_JM3UFqo3PCmYgBmFriAoYIHFFl20qrfk=w224-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Bukit Fatubraon",
+    "alamat": "Buraen, Kec. Amarasi Sel., Nusa Tenggara Tim.",
+    "rating": "4.6",
+    "jumlah_review": "256",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -10.3090514,
+      "longitude": 123.8740652
+    },
+    "url": "https://www.google.com/maps/place/Bukit+Fatubraon/data=!4m7!3m6!1s0x2c56615aa549ddcf:0xa52d94d9cfad8a7f!8m2!3d-10.3090514!4d123.8740652!16s%2Fg%2F11f2drf0kp!19sChIJz91JpVphViwRf4qtz9mULaU?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np7jacy9W3l0MESVJvVnjg_KM1rbJM3S7Dc-NPiQmFSe31mW1FsqtIk1AUryoVCxwBGWctHWQIwkN9LT4obFQuWtbXVD4uQTURXQPw297vVauOnCaSRelPlA73_Ja_eodamrvLC=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np7jacy9W3l0MESVJvVnjg_KM1rbJM3S7Dc-NPiQmFSe31mW1FsqtIk1AUryoVCxwBGWctHWQIwkN9LT4obFQuWtbXVD4uQTURXQPw297vVauOnCaSRelPlA73_Ja_eodamrvLC=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqpdXKAZRvyHd31t5frCoMvP9vEnBzbG6GdniHsTgMsbKkgjGPgiKk98cnLsIig4Svr7nlmlIK-eL2E80JC2rGLmHUI_dCPPA2zctYRIUsgAtN065BoGHOq9GGlGct_RlWizAeruA=w396-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Air Terjun Tanggedu",
+    "alamat": "Ndapayami, Kec. Kanatang, Nusa Tenggara Tim.",
+    "rating": "4.8",
+    "jumlah_review": "620",
+    "deskripsi": "Air Terjun Tanggedu adalah sebuah air terjun yang terletak di Desa Tanggedu, Kecamatan Kanatang, Kabupaten Sumba Timur, Nusa Tenggara Timur. Air terjun ini dikenal sebagai \"Grand Canyon\" dari Sumba Timur. Air terjun ini merupakan salah satu objek wisata alam yang berjarak sekitar 46 kilometer di sebelah utara Kota Waingapu.\nAir terjun ini bisa dicapai dengan menggunakan kendaraan roda dua dan roda empat yang melintasi Desa Mondu dan Kampung Adat Prainatang. Air Terjun Tanggedu memiliki ciri khas...",
+    "koordinat": {
+      "latitude": -9.5748361,
+      "longitude": 120.0905607
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Tanggedu/data=!4m7!3m6!1s0x2c4b6118b17a15d9:0xbdade5534ad8ed86!8m2!3d-9.5748361!4d120.0905607!16s%2Fg%2F11fy7dw1tl!19sChIJ2RV6sRhhSywRhu3YSlPlrb0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqlp1SO_S3CrXLoqZFF8zrtvUra5J7RTwBzDiL1T2xwCeJoRcK2fpcHQKaCoto9Tvc6Gu9Q9LJFxNn8hIsFjwchwcGKzoxge9gTIxFijoWJfjkfp2HHfP147CT8e95s0_vcQLJ-5A=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqlp1SO_S3CrXLoqZFF8zrtvUra5J7RTwBzDiL1T2xwCeJoRcK2fpcHQKaCoto9Tvc6Gu9Q9LJFxNn8hIsFjwchwcGKzoxge9gTIxFijoWJfjkfp2HHfP147CT8e95s0_vcQLJ-5A=w408-h305-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqlp1SO_S3CrXLoqZFF8zrtvUra5J7RTwBzDiL1T2xwCeJoRcK2fpcHQKaCoto9Tvc6Gu9Q9LJFxNn8hIsFjwchwcGKzoxge9gTIxFijoWJfjkfp2HHfP147CT8e95s0_vcQLJ-5A=w397-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Loh Liang - Komodo National Park",
+    "alamat": "Komodo, Kec. Komodo, Nusa Tenggara Tim.",
+    "rating": "4.4",
+    "jumlah_review": "1.254",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.5694609,
+      "longitude": 119.5006561
+    },
+    "url": "https://www.google.com/maps/place/Loh+Liang+-+Komodo+National+Park/data=!4m7!3m6!1s0x2db454055748a2cb:0x5f1dc35c81d13132!8m2!3d-8.5694609!4d119.5006561!16s%2Fg%2F11bzsgdxzg!19sChIJy6JIVwVUtC0RMjHRgVzDHV8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqgQGbdIQHesvQq3VKtFTxH0V2gvu9QP55J1SyA27gSimBJV6eMwGDHCUgrNQ7Z4VwIM7u-_OtpjFSjr5P2mgRrY1Ik7iFHRJbis8v8YDwIyefbJ0juewUT0eFuChHEebWbAwrJ=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqgQGbdIQHesvQq3VKtFTxH0V2gvu9QP55J1SyA27gSimBJV6eMwGDHCUgrNQ7Z4VwIM7u-_OtpjFSjr5P2mgRrY1Ik7iFHRJbis8v8YDwIyefbJ0juewUT0eFuChHEebWbAwrJ=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqgQGbdIQHesvQq3VKtFTxH0V2gvu9QP55J1SyA27gSimBJV6eMwGDHCUgrNQ7Z4VwIM7u-_OtpjFSjr5P2mgRrY1Ik7iFHRJbis8v8YDwIyefbJ0juewUT0eFuChHEebWbAwrJ=w224-h298-k-no"
+    ],
+    "kategori": [
+      "taman",
+      "taman_nasional"
+    ]
+  },
+  {
+    "nama": "Taman Nasional Kelimutu",
+    "alamat": "Detusoko Bar., Detusoko, Nusa Tenggara Tim.",
+    "rating": "4.7",
+    "jumlah_review": "1.495",
+    "deskripsi": "Taman Nasional Kelimutu adalah salah satu taman nasional di Indonesia. Tempatnya terletak di wilayah Kabupaten Ende, Provinsi Nusa Tenggara Timur. Dalam sistem koordinat geografis, letaknya di  8°43’ - 8°48’ Lintang Selatan dan 121°44’ - 121°51’ Bujur Timur. Penunjukannya sebagai Kawasan Taman Nasional berdasarkan pada surat keputusan Menteri Kehutanan yang diterbitkan tahun 1992. Surat ini bernomor SK No. 279/Kpts-II/92. Taman Nasional Kelimut menempati lahan seluas ± 5.000 hektare. Luas taman ...",
+    "koordinat": {
+      "latitude": -8.7415482,
+      "longitude": 121.7936207
+    },
+    "url": "https://www.google.com/maps/place/Taman+Nasional+Kelimutu/data=!4m7!3m6!1s0x2dad5d5b7fd93c21:0xb92c1d43de87b7b3!8m2!3d-8.7415482!4d121.7936207!16s%2Fm%2F027jbcz!19sChIJITzZf1tdrS0Rs7eH3kMdLLk?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqze9n_9xwPQ_n0JkcSIQCRhDm9wyeEMJeEPWCa6ut5n8WNYq0JYa8H9PdHWuhUKdJr8UCH7CrlL3pReOP7vZsK9obnWM_FxPif9czqF1MhXxiKvon3BJPz5r-0hXRN5a6tL1xe=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqze9n_9xwPQ_n0JkcSIQCRhDm9wyeEMJeEPWCa6ut5n8WNYq0JYa8H9PdHWuhUKdJr8UCH7CrlL3pReOP7vZsK9obnWM_FxPif9czqF1MhXxiKvon3BJPz5r-0hXRN5a6tL1xe=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqze9n_9xwPQ_n0JkcSIQCRhDm9wyeEMJeEPWCa6ut5n8WNYq0JYa8H9PdHWuhUKdJr8UCH7CrlL3pReOP7vZsK9obnWM_FxPif9czqF1MhXxiKvon3BJPz5r-0hXRN5a6tL1xe=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman",
+      "taman_nasional",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Pantai Kuma",
+    "alamat": "Hobatuwa, Kec. Lio Tim., Nusa Tenggara Tim.",
+    "rating": "4.1",
+    "jumlah_review": "14",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.8139753,
+      "longitude": 121.9736414
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Kuma/data=!4m7!3m6!1s0x2dad477992edbf4d:0x3e10934f305a7819!8m2!3d-8.8139753!4d121.9736414!16s%2Fg%2F11fl0y1lnh!19sChIJTb_tknlHrS0RGXhaME-TED4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrKYKprqU158N5Z6UwG3ALczSRE7Y9ZD9OUlMK1fkzoqebSAgVgqnTauYGUdc4mEa2T-KhmPQVv2Fi534g_F2Eac9iW1AyTuzCDhKJD6XRCU_HnHaSnay53v8jrhaos2oPLNb5m=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrKYKprqU158N5Z6UwG3ALczSRE7Y9ZD9OUlMK1fkzoqebSAgVgqnTauYGUdc4mEa2T-KhmPQVv2Fi534g_F2Eac9iW1AyTuzCDhKJD6XRCU_HnHaSnay53v8jrhaos2oPLNb5m=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrKYKprqU158N5Z6UwG3ALczSRE7Y9ZD9OUlMK1fkzoqebSAgVgqnTauYGUdc4mEa2T-KhmPQVv2Fi534g_F2Eac9iW1AyTuzCDhKJD6XRCU_HnHaSnay53v8jrhaos2oPLNb5m=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "TAMAN WISATA ALAM LAUT 17 PULAU RIUNG",
+    "alamat": "Kec. Riung, Nusa Tenggara Tim.",
+    "rating": "4.5",
+    "jumlah_review": "106",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.4039191,
+      "longitude": 121.0336602
+    },
+    "url": "https://www.google.com/maps/place/TAMAN+WISATA+ALAM+LAUT+17+PULAU+RIUNG/data=!4m7!3m6!1s0x2db250ee0c983711:0xd14b952d02a202b4!8m2!3d-8.4039191!4d121.0336602!16s%2Fg%2F11ddzc99s1!19sChIJETeYDO5Qsi0RtAKiAi2VS9E?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noA8x6iwJCBz0zDyMzOXcCislTW1eKEhxBs6EK2BX_oSUetqlX4QzAdKnaN8c1RBZ_Z828ZmX07-Zg1_kfgIETWpNnJf9gO95cJgoZ89wuf5FP2egbpt1nn42-4-GO06bsO8k4=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noA8x6iwJCBz0zDyMzOXcCislTW1eKEhxBs6EK2BX_oSUetqlX4QzAdKnaN8c1RBZ_Z828ZmX07-Zg1_kfgIETWpNnJf9gO95cJgoZ89wuf5FP2egbpt1nn42-4-GO06bsO8k4=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noA8x6iwJCBz0zDyMzOXcCislTW1eKEhxBs6EK2BX_oSUetqlX4QzAdKnaN8c1RBZ_Z828ZmX07-Zg1_kfgIETWpNnJf9gO95cJgoZ89wuf5FP2egbpt1nn42-4-GO06bsO8k4=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai",
+      "taman",
+      "pulau",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Rae Mea Beach",
+    "alamat": "Loborai, Kec. Sabu Tim., Nusa Tenggara Tim.",
+    "rating": "4.8",
+    "jumlah_review": "72",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -10.4973815,
+      "longitude": 121.9953901
+    },
+    "url": "https://www.google.com/maps/place/Rae+Mea+Beach/data=!4m7!3m6!1s0x2c51934a891fc075:0xafe6721b2021cf94!8m2!3d-10.4973815!4d121.9953901!16s%2Fg%2F11c2y75plj!19sChIJdcAfiUqTUSwRlM8hIBty5q8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrsxJStwwsVAuNYXyTowXntwkukrNIeCGAw3HQXD0FjX0FOtf1zuYNysDmvUWOKd717bD4FFUgGcaswdxVBTKdTu2mB9ZMZH3jcuPW_ujv2jGhwU2mZGjj7FdPdsKbZEtGzA5qXMw=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrsxJStwwsVAuNYXyTowXntwkukrNIeCGAw3HQXD0FjX0FOtf1zuYNysDmvUWOKd717bD4FFUgGcaswdxVBTKdTu2mB9ZMZH3jcuPW_ujv2jGhwU2mZGjj7FdPdsKbZEtGzA5qXMw=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrsxJStwwsVAuNYXyTowXntwkukrNIeCGAw3HQXD0FjX0FOtf1zuYNysDmvUWOKd717bD4FFUgGcaswdxVBTKdTu2mB9ZMZH3jcuPW_ujv2jGhwU2mZGjj7FdPdsKbZEtGzA5qXMw=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Takpala Traditional Village Alor",
+    "alamat": "Unnamed Road, Fungafeng, Alor Tengah Utara, East Nusa Tenggara",
+    "rating": "4.7",
+    "jumlah_review": "246",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.1892436,
+      "longitude": 124.6257942
+    },
+    "url": "https://www.google.com/maps/place/Takpala+Traditional+Village+Alor/data=!4m7!3m6!1s0x2d007d96bdf01a2b:0x50918b38d76e31ed!8m2!3d-8.1892436!4d124.6257942!16s%2Fg%2F11fy8_w6fp!19sChIJKxrwvZZ9AC0R7TFu1ziLkVA?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrR4a3i5iSMtoeJWz-p4iWNW5bJjZc9MxGSiz7WUTxSazt9GTYjdTRwhCLBQjlSo9wk5KFKQlHiDp7YzRzrLANInBPv9ZKN5F79VfZLLMDyfL0IEvfm5EXJgVrM4beEaBy1nxKd=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrR4a3i5iSMtoeJWz-p4iWNW5bJjZc9MxGSiz7WUTxSazt9GTYjdTRwhCLBQjlSo9wk5KFKQlHiDp7YzRzrLANInBPv9ZKN5F79VfZLLMDyfL0IEvfm5EXJgVrM4beEaBy1nxKd=w408-h305-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrR4a3i5iSMtoeJWz-p4iWNW5bJjZc9MxGSiz7WUTxSazt9GTYjdTRwhCLBQjlSo9wk5KFKQlHiDp7YzRzrLANInBPv9ZKN5F79VfZLLMDyfL0IEvfm5EXJgVrM4beEaBy1nxKd=w398-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Telaga Nirwana",
+    "alamat": "Oeseli, Kec. Rote Bar. Daya, Nusa Tenggara Tim.",
+    "rating": "4.8",
+    "jumlah_review": "197",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -10.9147468,
+      "longitude": 122.9109126
+    },
+    "url": "https://www.google.com/maps/place/Telaga+Nirwana/data=!4m7!3m6!1s0x2c50d0851c99abb5:0x185067bf102775d2!8m2!3d-10.9147468!4d122.9109126!16s%2Fg%2F11g01w850c!19sChIJtauZHIXQUCwR0nUnEL9nUBg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Nusa Tenggara Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npJGUqDg_Nq3tvB5U1CLHmbnn-B4k9UAkFNlUEo-RHcavii7vL1yaDSiCoU3_rGbPNoTpuHWuprcI_TYM9NzJ6qqF-GXrsvIlZaJGQZhGZ_uQnMfVKmAQciHK_ZH98JFLAK2zDa=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npJGUqDg_Nq3tvB5U1CLHmbnn-B4k9UAkFNlUEo-RHcavii7vL1yaDSiCoU3_rGbPNoTpuHWuprcI_TYM9NzJ6qqF-GXrsvIlZaJGQZhGZ_uQnMfVKmAQciHK_ZH98JFLAK2zDa=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npJGUqDg_Nq3tvB5U1CLHmbnn-B4k9UAkFNlUEo-RHcavii7vL1yaDSiCoU3_rGbPNoTpuHWuprcI_TYM9NzJ6qqF-GXrsvIlZaJGQZhGZ_uQnMfVKmAQciHK_ZH98JFLAK2zDa=w397-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  }
+]

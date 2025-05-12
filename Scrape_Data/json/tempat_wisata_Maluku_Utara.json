@@ -1,0 +1,748 @@
+[
+  {
+    "nama": "Lubang Buaya Morela",
+    "alamat": "Morela, Kec. Leihitu",
+    "rating": "4.6",
+    "jumlah_review": "1.196",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.5183437,
+      "longitude": 128.2236557
+    },
+    "url": "https://www.google.com/maps/place/Lubang+Buaya+Morela/data=!4m7!3m6!1s0x2d6cf6ae7693ae9f:0x201c7423df81cfcc!8m2!3d-3.5183437!4d128.2236557!16s%2Fg%2F11c45sxdpv!19sChIJn66Tdq72bC0RzM-B3yN0HCA?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipPm_VtfVXGcIYFTCB-dh8JPFsfiJnWpFOd11ZR0=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPm_VtfVXGcIYFTCB-dh8JPFsfiJnWpFOd11ZR0=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPm_VtfVXGcIYFTCB-dh8JPFsfiJnWpFOd11ZR0=w529-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pantai Pasir Putih Masirete",
+    "alamat": "Sulamadaha, Kec. Pulau Ternate, Maluku Utara",
+    "rating": "4.4",
+    "jumlah_review": "7",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.8626738,
+      "longitude": 127.3413005
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Pasir+Putih+Masirete/data=!4m7!3m6!1s0x329cad0034092127:0x3c158982621f1948!8m2!3d0.8626738!4d127.3413005!16s%2Fg%2F11vz1b4g9h!19sChIJJyEJNACtnDIRSBkfYoKJFTw?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npmY5Qz0sT1bNWNGgN5ym_BjpUEW_cKBK1i4Ofifhkekr4fTsfv_Bj1nWftwm8vVYW6r6D4G26FgM0xJMDoaKV7qQey_-lHLrJ_34a1tNUW5y1EvHCnpNZ89m5Qllz9wTieoHb3oQ=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npmY5Qz0sT1bNWNGgN5ym_BjpUEW_cKBK1i4Ofifhkekr4fTsfv_Bj1nWftwm8vVYW6r6D4G26FgM0xJMDoaKV7qQey_-lHLrJ_34a1tNUW5y1EvHCnpNZ89m5Qllz9wTieoHb3oQ=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npmY5Qz0sT1bNWNGgN5ym_BjpUEW_cKBK1i4Ofifhkekr4fTsfv_Bj1nWftwm8vVYW6r6D4G26FgM0xJMDoaKV7qQey_-lHLrJ_34a1tNUW5y1EvHCnpNZ89m5Qllz9wTieoHb3oQ=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pantai Falajawa",
+    "alamat": "Muhajirin, Kec. Ternate Tengah, Maluku Utara",
+    "rating": "4.6",
+    "jumlah_review": "559",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.7839296,
+      "longitude": 127.3886636
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Falajawa/data=!4m7!3m6!1s0x329cb1f848fdaff1:0x3827a866405f08bb!8m2!3d0.7839296!4d127.3886636!16s%2Fg%2F11jdwq_mhj!19sChIJ8a_9SPixnDIRuwhfQGaoJzg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nokTBu9wYI-Qu5hZAG2VdEPfbolzjDXK0njupwwJIooev7uahPCKAkvDFN73F6w6zWQYYx7Vqy4DhWoL8zi0k2NvpE_PtsrOQ_8dsBfQCbC7zWO6mrTcVhK25X38iwXRMCPtkA=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nokTBu9wYI-Qu5hZAG2VdEPfbolzjDXK0njupwwJIooev7uahPCKAkvDFN73F6w6zWQYYx7Vqy4DhWoL8zi0k2NvpE_PtsrOQ_8dsBfQCbC7zWO6mrTcVhK25X38iwXRMCPtkA=w408-h271-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nokTBu9wYI-Qu5hZAG2VdEPfbolzjDXK0njupwwJIooev7uahPCKAkvDFN73F6w6zWQYYx7Vqy4DhWoL8zi0k2NvpE_PtsrOQ_8dsBfQCbC7zWO6mrTcVhK25X38iwXRMCPtkA=w447-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pantai Tobololo",
+    "alamat": "Tobololo, Kec. Pulau Ternate, Maluku Utara",
+    "rating": "4.5",
+    "jumlah_review": "232",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.8541953,
+      "longitude": 127.3525276
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Tobololo/data=!4m7!3m6!1s0x329cadd435dd8fa9:0xfc3175aa15e8cb10!8m2!3d0.8541953!4d127.3525276!16s%2Fg%2F11g0khw0fy!19sChIJqY_dNdStnDIREMvoFap1Mfw?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrazxBUrpjKJQm2VC2AF3bg-UDbmAvgFa6U0CQem-dd-G1DTivPcldpyzpWtX9QuQTZEtoyUgkxO4RtWCBsbl9e4CJXMOe8tZOfztqF10CHGE1sjgFB2lsVnkDAB73CKG8Atfc=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrazxBUrpjKJQm2VC2AF3bg-UDbmAvgFa6U0CQem-dd-G1DTivPcldpyzpWtX9QuQTZEtoyUgkxO4RtWCBsbl9e4CJXMOe8tZOfztqF10CHGE1sjgFB2lsVnkDAB73CKG8Atfc=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrazxBUrpjKJQm2VC2AF3bg-UDbmAvgFa6U0CQem-dd-G1DTivPcldpyzpWtX9QuQTZEtoyUgkxO4RtWCBsbl9e4CJXMOe8tZOfztqF10CHGE1sjgFB2lsVnkDAB73CKG8Atfc=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Museum Siwalima Provinsi Maluku",
+    "alamat": "Jl. Dr. Malaiholo, Taman Makmur, Kel. Nusaniwe, Nusaniwe, kEL NUSANIWE, Kec. Nusaniwe, Maluku",
+    "rating": "4.3",
+    "jumlah_review": "230",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.7134761,
+      "longitude": 128.1529805
+    },
+    "url": "https://www.google.com/maps/place/Museum+Siwalima+Provinsi+Maluku/data=!4m7!3m6!1s0x2d6ce80eafbfeb7d:0xbf9977619e9db228!8m2!3d-3.7134761!4d128.1529805!16s%2Fg%2F122hpm3n!19sChIJfeu_rw7obC0RKLKdnmF3mb8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npI30CL3szdhJ8bdO7w5MExmSECv3SriWN5YUKvz-ZZqFGCDFRCgnFviyL7bhyFhM3FEzNwL1S0DoK3SrW8WqL5dBAPMZwoULFrj4cfWueNz7EkHs__vOaAyquPYHr-YfVyc0O4=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npI30CL3szdhJ8bdO7w5MExmSECv3SriWN5YUKvz-ZZqFGCDFRCgnFviyL7bhyFhM3FEzNwL1S0DoK3SrW8WqL5dBAPMZwoULFrj4cfWueNz7EkHs__vOaAyquPYHr-YfVyc0O4=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npI30CL3szdhJ8bdO7w5MExmSECv3SriWN5YUKvz-ZZqFGCDFRCgnFviyL7bhyFhM3FEzNwL1S0DoK3SrW8WqL5dBAPMZwoULFrj4cfWueNz7EkHs__vOaAyquPYHr-YfVyc0O4=w224-h298-k-no"
+    ],
+    "kategori": [
+      "museum"
+    ]
+  },
+  {
+    "nama": "Pantai Waka",
+    "alamat": "Fatkauyon, Kec. Sulabesi Timur, Maluku Utara",
+    "rating": "4.9",
+    "jumlah_review": "11",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.4747994,
+      "longitude": 126.0524873
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Waka/data=!4m7!3m6!1s0x2d70d7006480e337:0x3d6935210a8da9b1!8m2!3d-2.4747994!4d126.0524873!16s%2Fg%2F11w9w0g12_!19sChIJN-OAZADXcC0RsamNCiE1aT0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npCnQEs0dHb2B8ilwhLL9uYXgxqEAeF8GIpN_5PkEVe8uP7uIxOQPaZtcT7W8aoQRkA_hYXY3dlCRKsuksMQokfLCelbzDnsCgRGPZAiMhnZKc5jk3scnuUB7rEb5ISzr61x5RiWA=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npCnQEs0dHb2B8ilwhLL9uYXgxqEAeF8GIpN_5PkEVe8uP7uIxOQPaZtcT7W8aoQRkA_hYXY3dlCRKsuksMQokfLCelbzDnsCgRGPZAiMhnZKc5jk3scnuUB7rEb5ISzr61x5RiWA=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npCnQEs0dHb2B8ilwhLL9uYXgxqEAeF8GIpN_5PkEVe8uP7uIxOQPaZtcT7W8aoQRkA_hYXY3dlCRKsuksMQokfLCelbzDnsCgRGPZAiMhnZKc5jk3scnuUB7rEb5ISzr61x5RiWA=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Koropon",
+    "alamat": "Soa Laipoh, Maluku Utara",
+    "rating": "4.1",
+    "jumlah_review": "84",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.8257847,
+      "longitude": 128.2506988
+    },
+    "url": "https://www.google.com/maps/place/Koropon/data=!4m7!3m6!1s0x329c6df3000dacaf:0xdee4088fbff7c75a!8m2!3d0.8257847!4d128.2506988!16s%2Fg%2F11fyzcsw1c!19sChIJr6wNAPNtnDIRWsf3v48I5N4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nro9kARJ3Qnd0lL9KuLGKPWMDaVXRmr-_fs0at99cEHCMEdCwLxazxK5xpp_MtlkdIQjlScL9sNWR_zT4kqzjEyX9Zv21lCzL4DThV7S3Va559XEjS9tejaAu4lNWEOE9eOPxttQw=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nro9kARJ3Qnd0lL9KuLGKPWMDaVXRmr-_fs0at99cEHCMEdCwLxazxK5xpp_MtlkdIQjlScL9sNWR_zT4kqzjEyX9Zv21lCzL4DThV7S3Va559XEjS9tejaAu4lNWEOE9eOPxttQw=w408-h270-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nro9kARJ3Qnd0lL9KuLGKPWMDaVXRmr-_fs0at99cEHCMEdCwLxazxK5xpp_MtlkdIQjlScL9sNWR_zT4kqzjEyX9Zv21lCzL4DThV7S3Va559XEjS9tejaAu4lNWEOE9eOPxttQw=w449-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pantai Gorango",
+    "alamat": "Bere Bere, Kec. Morotai Utara, Maluku Utara",
+    "rating": "4.5",
+    "jumlah_review": "63",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 2.4982956,
+      "longitude": 128.6711927
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Gorango/data=!4m7!3m6!1s0x3296d33f9a259b5d:0x79ea964ce4c7fb0b!8m2!3d2.4982956!4d128.6711927!16s%2Fg%2F11c5xtsmj3!19sChIJXZslmj_TljIRC_vH5EyW6nk?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZH01mtAhN3LbzY1nnBb1zG18GB5Vl8H0MYAvdH6h60e8jKmm9n4_Pzhi5eN1kWMmZZ2qZxaqx6uuqTdAud9PuQZhC5masVq0ntTe3uMDvKvNmaUdSVnIoHp-ciBlCA3z_KCd7=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZH01mtAhN3LbzY1nnBb1zG18GB5Vl8H0MYAvdH6h60e8jKmm9n4_Pzhi5eN1kWMmZZ2qZxaqx6uuqTdAud9PuQZhC5masVq0ntTe3uMDvKvNmaUdSVnIoHp-ciBlCA3z_KCd7=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZH01mtAhN3LbzY1nnBb1zG18GB5Vl8H0MYAvdH6h60e8jKmm9n4_Pzhi5eN1kWMmZZ2qZxaqx6uuqTdAud9PuQZhC5masVq0ntTe3uMDvKvNmaUdSVnIoHp-ciBlCA3z_KCd7=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Taman Nasional Manusela",
+    "alamat": "Manusela, Seram Utara, Maluku",
+    "rating": "4.5",
+    "jumlah_review": "75",
+    "deskripsi": "Taman Nasional Manusela adalah taman nasional yang terletak di Kepulauan Maluku, Indonesia. Gunung Binaiya, dengan ketinggian 3.027 meter, merupakan gunung tertinggi di taman ini. Terdapat sekitar 117 spesies burung, 14 di antaranya endemik, seperti Nuri Bayan, Kasturi tengkuk-ungu, Kakatua Maluku, Todiramphus lazuli, Todiramphus sanctus, Philemon subcorniculatus dan Alisterus amboinensis.\nTaman Nasional Manusela merupakan perwakilan tipe ekosistem pantai, hutan rawa, hutan hujan dataran rendah ...",
+    "koordinat": {
+      "latitude": -3.0751277,
+      "longitude": 129.6199663
+    },
+    "url": "https://www.google.com/maps/place/Taman+Nasional+Manusela/data=!4m7!3m6!1s0x2d6a3e86e135f24f:0x123b0ca6b8339a6e!8m2!3d-3.0751277!4d129.6199663!16s%2Fm%2F09v1db8!19sChIJT_I14YY-ai0RbpozuKYMOxI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrS3mteQ3PejKWuMM92skjJxsxKUu9dboG0BDS-X_MDfj0bpwISBpHBHZXQp85GItHtsWWREjwgGRdjJryVlhcwuhip_ojP_W40z7EipzrSSHW7jU1EoAkGSyjvUNmHMcDDLutF=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrS3mteQ3PejKWuMM92skjJxsxKUu9dboG0BDS-X_MDfj0bpwISBpHBHZXQp85GItHtsWWREjwgGRdjJryVlhcwuhip_ojP_W40z7EipzrSSHW7jU1EoAkGSyjvUNmHMcDDLutF=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrS3mteQ3PejKWuMM92skjJxsxKUu9dboG0BDS-X_MDfj0bpwISBpHBHZXQp85GItHtsWWREjwgGRdjJryVlhcwuhip_ojP_W40z7EipzrSSHW7jU1EoAkGSyjvUNmHMcDDLutF=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai",
+      "gunung",
+      "taman",
+      "taman_nasional",
+      "pulau"
+    ]
+  },
+  {
+    "nama": "Benteng Kalamata",
+    "alamat": "Kayu Merah, Kec. Ternate Sel., Maluku Utara",
+    "rating": "4.4",
+    "jumlah_review": "785",
+    "deskripsi": "Benteng Kalamata adalah benteng yang dibangun oleh Portugis pada tahun 1540. Benteng Kalamata disebut juga Benteng Kayu Merah. Disebut Benteng Kayu Merah karena berada kelurahan Kayu Merah, Kota Ternate Selatan. Awalnya benteng ini bernama Santa Lucia, tetapi kemudian terkenal dengan Benteng Kalamata. Kalamata sendiri berasal dari nama Pengeran Kalamata, yakni adik dari Sultan Ternate Madarsyah.",
+    "koordinat": {
+      "latitude": 0.7622315,
+      "longitude": 127.3730646
+    },
+    "url": "https://www.google.com/maps/place/Benteng+Kalamata/data=!4m7!3m6!1s0x329cb423414e100f:0x4541debcea1259b!8m2!3d0.7622315!4d127.3730646!16s%2Fm%2F0g9zm9p!19sChIJDxBOQSO0nDIRmyWhzusdVAQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npQo4Tc12d2pIk7NpYdAKFvuxrs2Wbhr0TUf-qgmGMYGlBf2QYgKQvilrvGmUgOMY2m36aqrAcURCZiEw3h_6FZ8lC3KEenUu7MrH-aXzPUS3OrXSy4_6bt93O6Ijxfsl1lv4M=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npQo4Tc12d2pIk7NpYdAKFvuxrs2Wbhr0TUf-qgmGMYGlBf2QYgKQvilrvGmUgOMY2m36aqrAcURCZiEw3h_6FZ8lC3KEenUu7MrH-aXzPUS3OrXSy4_6bt93O6Ijxfsl1lv4M=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npQo4Tc12d2pIk7NpYdAKFvuxrs2Wbhr0TUf-qgmGMYGlBf2QYgKQvilrvGmUgOMY2m36aqrAcURCZiEw3h_6FZ8lC3KEenUu7MrH-aXzPUS3OrXSy4_6bt93O6Ijxfsl1lv4M=w397-h298-k-no"
+    ],
+    "kategori": [
+      "benteng",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Taman Moya Mabuku",
+    "alamat": "Moya, Kec. Ternate Tengah, Maluku Utara",
+    "rating": "4.4",
+    "jumlah_review": "618",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.7998125,
+      "longitude": 127.3689844
+    },
+    "url": "https://www.google.com/maps/place/Taman+Moya+Mabuku/data=!4m7!3m6!1s0x329cb3c47b62398b:0xf254b27e0024b0ac!8m2!3d0.7998125!4d127.3689844!16s%2Fg%2F11c2pvzj2w!19sChIJizlie8SznDIRrLAkAH6yVPI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nolP3Y-5WX4jCIZhWtGPXOxcEHe5KY8StIKUQxMoKGDECx3dN-jZCXl8qdrm0WtAmdygoNWJs8cEGrk7qkb25dtidaPGL262CA5qptin-zkN37hAgJkti9e_CE_D3Kp7DURqM5_=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nolP3Y-5WX4jCIZhWtGPXOxcEHe5KY8StIKUQxMoKGDECx3dN-jZCXl8qdrm0WtAmdygoNWJs8cEGrk7qkb25dtidaPGL262CA5qptin-zkN37hAgJkti9e_CE_D3Kp7DURqM5_=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nolP3Y-5WX4jCIZhWtGPXOxcEHe5KY8StIKUQxMoKGDECx3dN-jZCXl8qdrm0WtAmdygoNWJs8cEGrk7qkb25dtidaPGL262CA5qptin-zkN37hAgJkti9e_CE_D3Kp7DURqM5_=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Taman Kota Ternate",
+    "alamat": "Toboko, Maluku Utara",
+    "rating": "4.3",
+    "jumlah_review": "1.442",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.7747871,
+      "longitude": 127.3838692
+    },
+    "url": "https://www.google.com/maps/place/Taman+Kota+Ternate/data=!4m7!3m6!1s0x329cb6a9cb489c99:0xc887da6395af3548!8m2!3d0.7747871!4d127.3838692!16s%2Fg%2F11c2nkj7xk!19sChIJmZxIy6m2nDIRSDWvlWPah8g?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqOgKWQkbtEQGKM5J6P7eegytSfirMwf2kuTBc8UI6-hLp8qx-BidITZpdBibTlgdGfSt0oNaUPK4iG6Dg0EV5yxuu3fnUeD73Xb3q5v8N5jpBCgH41CNqYPoh_TZ5eAj5EaYStOg=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqOgKWQkbtEQGKM5J6P7eegytSfirMwf2kuTBc8UI6-hLp8qx-BidITZpdBibTlgdGfSt0oNaUPK4iG6Dg0EV5yxuu3fnUeD73Xb3q5v8N5jpBCgH41CNqYPoh_TZ5eAj5EaYStOg=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqOgKWQkbtEQGKM5J6P7eegytSfirMwf2kuTBc8UI6-hLp8qx-BidITZpdBibTlgdGfSt0oNaUPK4iG6Dg0EV5yxuu3fnUeD73Xb3q5v8N5jpBCgH41CNqYPoh_TZ5eAj5EaYStOg=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Geowisata Batu Angus",
+    "alamat": "Kulaba, Kec. Pulau Ternate, Maluku Utara",
+    "rating": "4.8",
+    "jumlah_review": "12",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.845291,
+      "longitude": 127.3645834
+    },
+    "url": "https://www.google.com/maps/place/Geowisata+Batu+Angus/data=!4m7!3m6!1s0x329cad38dcf7f1c9:0xda8876a42c67af63!8m2!3d0.845291!4d127.3645834!16s%2Fg%2F11r109_w6v!19sChIJyfH33DitnDIRY69nLKR2iNo?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipNs6lkElDGRK0cUey8_Qz8Nh6pdQcvzonDPlDgE=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNs6lkElDGRK0cUey8_Qz8Nh6pdQcvzonDPlDgE=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNs6lkElDGRK0cUey8_Qz8Nh6pdQcvzonDPlDgE=w224-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Sunyie Lamo , Alun-alun Kesultanan Têrnaté",
+    "alamat": "Soa Sio, Maluku Utara",
+    "rating": "4.4",
+    "jumlah_review": "817",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.8003857,
+      "longitude": 127.385501
+    },
+    "url": "https://www.google.com/maps/place/Sunyie+Lamo+,+Alun-alun+Kesultanan+T%C3%AArnat%C3%A9/data=!4m7!3m6!1s0x329cb163b51a1a6f:0xc3fd549e01c421a3!8m2!3d0.8003857!4d127.385501!16s%2Fg%2F11b6b9x299!19sChIJbxoatWOxnDIRoyHEAZ5U_cM?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq-yrW6yCnZoDtHRewhgiJcFeSKi8i0JTI0luTuu1QMbd4OTFpOFjviJFeVykhr9CkTJlhJzHzfm9lKTe_aXA0G2tGSxq5nZvyMxE2Bkx9vgmzfzDSOhgexM7z3ebXhrTMMKZs=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq-yrW6yCnZoDtHRewhgiJcFeSKi8i0JTI0luTuu1QMbd4OTFpOFjviJFeVykhr9CkTJlhJzHzfm9lKTe_aXA0G2tGSxq5nZvyMxE2Bkx9vgmzfzDSOhgexM7z3ebXhrTMMKZs=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq-yrW6yCnZoDtHRewhgiJcFeSKi8i0JTI0luTuu1QMbd4OTFpOFjviJFeVykhr9CkTJlhJzHzfm9lKTe_aXA0G2tGSxq5nZvyMxE2Bkx9vgmzfzDSOhgexM7z3ebXhrTMMKZs=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pantai Kastela",
+    "alamat": "Kelurahan Kastela, Kecamatan Pulau Ternate, Ternate",
+    "rating": "4.2",
+    "jumlah_review": "257",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.7601097,
+      "longitude": 127.3110314
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Kastela/data=!4m7!3m6!1s0x329cb4c4c0c81df9:0xe7da7a8da3018a23!8m2!3d0.7601097!4d127.3110314!16s%2Fg%2F11cn57dr8y!19sChIJ-R3IwMS0nDIRI4oBo4162uc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noXB6byN55GpSVl-E3qRCszWqppu8FtkvasWFSVyAuS9KHxSbTZFOEpTLkqZEzYATHX9SjlIpM0sed2WDsa5wfVQj9RyEfNukDZ7JuIG5DNwc9oe4xNYHcRlzqKPLxr3cDhsQZ86w=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noXB6byN55GpSVl-E3qRCszWqppu8FtkvasWFSVyAuS9KHxSbTZFOEpTLkqZEzYATHX9SjlIpM0sed2WDsa5wfVQj9RyEfNukDZ7JuIG5DNwc9oe4xNYHcRlzqKPLxr3cDhsQZ86w=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noXB6byN55GpSVl-E3qRCszWqppu8FtkvasWFSVyAuS9KHxSbTZFOEpTLkqZEzYATHX9SjlIpM0sed2WDsa5wfVQj9RyEfNukDZ7JuIG5DNwc9oe4xNYHcRlzqKPLxr3cDhsQZ86w=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Taman Nukila ternate",
+    "alamat": "Jalan Sultan Muhammad Iskandar Djabir Jl. Sultan M. Djabir Sjah, Kec. Ternate Tengah, Maluku Utara",
+    "rating": "4.4",
+    "jumlah_review": "3.619",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.7874627,
+      "longitude": 127.3899611
+    },
+    "url": "https://www.google.com/maps/place/Taman+Nukila+ternate/data=!4m7!3m6!1s0x329cb1509a9130a5:0x9c4145e50723efa8!8m2!3d0.7874627!4d127.3899611!16s%2Fg%2F11bc70_lhn!19sChIJpTCRmlCxnDIRqO8jB-VFQZw?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq3JG42nCHCSOl1xn-lYLjgybgt81OHZMcS2crRJaDz9bGndtraZEmbWqoA67DH0mYlLd4tQxqho1i05ffN3OWedLwyP93ZKBnT4U4kTRyyKp_agseEqm7pYW6rX5X6Up0558oe=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq3JG42nCHCSOl1xn-lYLjgybgt81OHZMcS2crRJaDz9bGndtraZEmbWqoA67DH0mYlLd4tQxqho1i05ffN3OWedLwyP93ZKBnT4U4kTRyyKp_agseEqm7pYW6rX5X6Up0558oe=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq3JG42nCHCSOl1xn-lYLjgybgt81OHZMcS2crRJaDz9bGndtraZEmbWqoA67DH0mYlLd4tQxqho1i05ffN3OWedLwyP93ZKBnT4U4kTRyyKp_agseEqm7pYW6rX5X6Up0558oe=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Pantai Nunuhu",
+    "alamat": "Bido, Kec. Morotai Utara, Maluku Utara",
+    "rating": "4.6",
+    "jumlah_review": "112",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 2.2948867,
+      "longitude": 128.6478149
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Nunuhu/data=!4m7!3m6!1s0x3290cd55fe365d47:0xf4308fef9afe0805!8m2!3d2.2948867!4d128.6478149!16s%2Fg%2F11fxw6ybmg!19sChIJR102_lXNkDIRBQj-mu-PMPQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrY8LuaiLhdROEC2kO9RhlmQVNOSHPmq7An6XJZTzS6zzIggJnQ-VAfWs9wBUPPbXuqe-RDGkH1Zgld7NCOcdjxAywXGLShFwC2Sk6RPYtzKsh3h9aDVGvWsc2rnpcnyBwgU_R57A=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrY8LuaiLhdROEC2kO9RhlmQVNOSHPmq7An6XJZTzS6zzIggJnQ-VAfWs9wBUPPbXuqe-RDGkH1Zgld7NCOcdjxAywXGLShFwC2Sk6RPYtzKsh3h9aDVGvWsc2rnpcnyBwgU_R57A=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrY8LuaiLhdROEC2kO9RhlmQVNOSHPmq7An6XJZTzS6zzIggJnQ-VAfWs9wBUPPbXuqe-RDGkH1Zgld7NCOcdjxAywXGLShFwC2Sk6RPYtzKsh3h9aDVGvWsc2rnpcnyBwgU_R57A=w224-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Danau Tolire Kecil",
+    "alamat": "Danau Tolire Kecil, Takome, Kec. Pulau Ternate, Maluku Utara",
+    "rating": "4.3",
+    "jumlah_review": "195",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.8416788,
+      "longitude": 127.3058293
+    },
+    "url": "https://www.google.com/maps/place/Danau+Tolire+Kecil/data=!4m7!3m6!1s0x329cb2a82f97462b:0x7e4b0c9d172e5849!8m2!3d0.8416788!4d127.3058293!16s%2Fg%2F11cmsd8h8t!19sChIJK0aXL6iynDIRSVguF50MS34?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrFoYFWG_Tyon6ouzmsQeiBMV_sRY9O2F3SKFEJmW-4d9F60YrmsvaOE_mtIpNb-_1EtppmbkzrnOxfzLRvmV1tOth5lLAXf-fDKK46PFu5YHMDOFji_8je1At2Y0KTT4MFRQYmAw=w143-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrFoYFWG_Tyon6ouzmsQeiBMV_sRY9O2F3SKFEJmW-4d9F60YrmsvaOE_mtIpNb-_1EtppmbkzrnOxfzLRvmV1tOth5lLAXf-fDKK46PFu5YHMDOFji_8je1At2Y0KTT4MFRQYmAw=w408-h244-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrFoYFWG_Tyon6ouzmsQeiBMV_sRY9O2F3SKFEJmW-4d9F60YrmsvaOE_mtIpNb-_1EtppmbkzrnOxfzLRvmV1tOth5lLAXf-fDKK46PFu5YHMDOFji_8je1At2Y0KTT4MFRQYmAw=w496-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Danau Ngade",
+    "alamat": "Danau Sel., , Ngade, Kec. Ternate Sel., Maluku Utara",
+    "rating": "4.4",
+    "jumlah_review": "53",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.7632249,
+      "longitude": 127.3478967
+    },
+    "url": "https://www.google.com/maps/place/Danau+Ngade/data=!4m7!3m6!1s0x329cb45c57959039:0x282066c1fa8f79a!8m2!3d0.7632249!4d127.3478967!16s%2Fg%2F11c58qjb1l!19sChIJOZCVV1y0nDIRmveoH2wGggI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npXL5EFjIDgF-EitV9LZ2N3h7kS7-vNHbiIzIKhidnxoCImpXCjQfiXJBWOsqQxKt5mWeRJhRqNmx-hPv1POTjY0L-VJM3sztwUkEHpf1Hrx8toDJeZpNA_datshCTugZnw3VHx7Q=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npXL5EFjIDgF-EitV9LZ2N3h7kS7-vNHbiIzIKhidnxoCImpXCjQfiXJBWOsqQxKt5mWeRJhRqNmx-hPv1POTjY0L-VJM3sztwUkEHpf1Hrx8toDJeZpNA_datshCTugZnw3VHx7Q=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noXFf3R3f9g0rylUgIG7jbH-M_TJBtlIxHxP_N6L8KkRnxVfwJ85VgVqgglXVi2xcGrLF_iWgXXbZm4G9RQTt7p2OCpJkpjGXuOBj_SVdtmvfH9XjbrcZvNDCQSwYG2u56hfv0S=w397-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Pasir putih",
+    "alamat": "Tim., Mafututu, Kec. Tidore Tim., Maluku Utara",
+    "rating": "4.3",
+    "jumlah_review": "27",
+    "deskripsi": "Pasir Putih adalah album ketiga KLa Project. Album ini dirilis tahun 1992 dengan mengusung lagu andalan Tak Bisa ke Lain Hati dan Belahan Jiwa. Album ini meraih 1 Penghargaan BASF Awards 1992 untuk kategori Pop Kontemporer Terbaik.\nSetelah album ketiga dirilis, Ari Burhani (drum) memilih mengundurkan diri pada tahun 1993 dan beralih peran menjadi manajer band pada tahun 1995.",
+    "koordinat": {
+      "latitude": 0.7582085,
+      "longitude": 127.404657
+    },
+    "url": "https://www.google.com/maps/place/Pasir+putih/data=!4m7!3m6!1s0x329cb6ed485f1bd3:0x81a744abcf493a67!8m2!3d0.7582085!4d127.404657!16s%2Fg%2F11g8vpl7xs!19sChIJ0xtfSO22nDIRZzpJz6tEp4E?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npkmvy5Dr_B6xG_oIm8oSh3EbDbt5eLXbye3Lz6lrs08zwyQ_Qvn03H9y5s_XX1ytpwT0cXX9hh9YQQkEwH-cCN23fRpSoZ4CRWNMXWIG6II-V7P02cWj1A5Cbj_wg87uLyKe6r=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npkmvy5Dr_B6xG_oIm8oSh3EbDbt5eLXbye3Lz6lrs08zwyQ_Qvn03H9y5s_XX1ytpwT0cXX9hh9YQQkEwH-cCN23fRpSoZ4CRWNMXWIG6II-V7P02cWj1A5Cbj_wg87uLyKe6r=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npkmvy5Dr_B6xG_oIm8oSh3EbDbt5eLXbye3Lz6lrs08zwyQ_Qvn03H9y5s_XX1ytpwT0cXX9hh9YQQkEwH-cCN23fRpSoZ4CRWNMXWIG6II-V7P02cWj1A5Cbj_wg87uLyKe6r=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pantai Bobane Ici",
+    "alamat": "Dorpedu, Kec. Pulau Ternate, Maluku Utara",
+    "rating": "4.2",
+    "jumlah_review": "199",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.7946105,
+      "longitude": 127.2940172
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Bobane+Ici/data=!4m7!3m6!1s0x32834cb452d4d479:0x99593d4f1e033475!8m2!3d0.7946105!4d127.2940172!16s%2Fg%2F11c60gdh7w!19sChIJedTUUrRMgzIRdTQDHk89WZk?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrWhCfZHNIY3NpNwX0SP0Q4c8brK0jQB3RFyIxPr2BlztIX_45uZp0lhqL9ogIkqK6n8nK5eylas7zH-h-PR5d22j2Sx_N439dc5Kc4oQ9eqO075S2KNjD5i2ZG9LyRWZ3R9GYF=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrWhCfZHNIY3NpNwX0SP0Q4c8brK0jQB3RFyIxPr2BlztIX_45uZp0lhqL9ogIkqK6n8nK5eylas7zH-h-PR5d22j2Sx_N439dc5Kc4oQ9eqO075S2KNjD5i2ZG9LyRWZ3R9GYF=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrWhCfZHNIY3NpNwX0SP0Q4c8brK0jQB3RFyIxPr2BlztIX_45uZp0lhqL9ogIkqK6n8nK5eylas7zH-h-PR5d22j2Sx_N439dc5Kc4oQ9eqO075S2KNjD5i2ZG9LyRWZ3R9GYF=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Air Terjun Waai",
+    "alamat": "Waai, Kec. Salahutu, Maluku",
+    "rating": "4.5",
+    "jumlah_review": "35",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.5551063,
+      "longitude": 128.2983254
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Waai/data=!4m7!3m6!1s0x2d6cf35d360804ef:0xaf64676366d7105!8m2!3d-3.5551063!4d128.2983254!16s%2Fg%2F11h6l90vjg!19sChIJ7wQINl3zbC0RBXFtNnZG9go?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no1OKtUAOUXhnShW5BTrCvDpArl6qUXKFSvANxXhks8sY82spmG-EJoCTwDdXkjhTyxoY2Cot3moteVHvxiodTd2KIQWN9uLJ16HIBo4OEF3wgTHzBbhlR9b00dIuMlTTfP0wch=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no1OKtUAOUXhnShW5BTrCvDpArl6qUXKFSvANxXhks8sY82spmG-EJoCTwDdXkjhTyxoY2Cot3moteVHvxiodTd2KIQWN9uLJ16HIBo4OEF3wgTHzBbhlR9b00dIuMlTTfP0wch=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npLZrUiLKXiEJyT6KY-e9UQR4qedsVyZfqyC70Y9RQDW7XudJBpZKyNgzYE3AzHR3CoJD2S5oQafnwRvAl1HuTckW2Gy4kXNVZ89Jux4Z7gBzqptNoMhMANnbZashvKSJITK1TkJg=w224-h497-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Benteng Nieuw Victoria",
+    "alamat": "Uritetu, Kec. Sirimau",
+    "rating": "4.1",
+    "jumlah_review": "208",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.6927869,
+      "longitude": 128.1824825
+    },
+    "url": "https://www.google.com/maps/place/Benteng+Nieuw+Victoria/data=!4m7!3m6!1s0x2d6ce850f28ddc35:0xe2373ab58800130a!8m2!3d-3.6927869!4d128.1824825!16s%2Fg%2F1q5hbc1bs!19sChIJNdyN8lDobC0RChMAiLU6N-I?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nprhRi3jXqhcK3v5GbEBFJ4FDC3L-qWLFdnlZ6w2V3IPetN6pyRoGroapkjJ4AYC1YLjRCHHDy2igMkPDNKCsDwdAJmg0KSQWLTMXfhoc52MXKV3GwtEnNDzny3t5emqKvWtv_V=w116-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nprhRi3jXqhcK3v5GbEBFJ4FDC3L-qWLFdnlZ6w2V3IPetN6pyRoGroapkjJ4AYC1YLjRCHHDy2igMkPDNKCsDwdAJmg0KSQWLTMXfhoc52MXKV3GwtEnNDzny3t5emqKvWtv_V=w408-h301-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nprhRi3jXqhcK3v5GbEBFJ4FDC3L-qWLFdnlZ6w2V3IPetN6pyRoGroapkjJ4AYC1YLjRCHHDy2igMkPDNKCsDwdAJmg0KSQWLTMXfhoc52MXKV3GwtEnNDzny3t5emqKvWtv_V=w403-h298-k-no"
+    ],
+    "kategori": [
+      "benteng"
+    ]
+  },
+  {
+    "nama": "Buku Bintang Ternate",
+    "alamat": "Toboleu, Maluku Utara",
+    "rating": "4.4",
+    "jumlah_review": "409",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.8157371,
+      "longitude": 127.3794623
+    },
+    "url": "https://www.google.com/maps/place/Buku+Bintang+Ternate/data=!4m7!3m6!1s0x329cb150ec8f9cf5:0xca1ccb23e730c076!8m2!3d0.8157371!4d127.3794623!16s%2Fg%2F11f6cr5n31!19sChIJ9ZyP7FCxnDIRdsAw5yPLHMo?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npLqG_QO6UF0h8Sg6wBNBmjcZXVqyB9WT00XWDtFm5kwhyw0mrDnls1feKC0QMqATMRKC1sk8O96k1KhAKv0UKrnQbCuvV3mtw47WMgUp7o2cvZsPUmjpF9uNcaHipV0PLyY69C=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npLqG_QO6UF0h8Sg6wBNBmjcZXVqyB9WT00XWDtFm5kwhyw0mrDnls1feKC0QMqATMRKC1sk8O96k1KhAKv0UKrnQbCuvV3mtw47WMgUp7o2cvZsPUmjpF9uNcaHipV0PLyY69C=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npLqG_QO6UF0h8Sg6wBNBmjcZXVqyB9WT00XWDtFm5kwhyw0mrDnls1feKC0QMqATMRKC1sk8O96k1KhAKv0UKrnQbCuvV3mtw47WMgUp7o2cvZsPUmjpF9uNcaHipV0PLyY69C=w396-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Air Terjun Tiga bidadari",
+    "alamat": "Dakaino, Mekar Sari, Kec. Wasile, Maluku Utara",
+    "rating": "4.4",
+    "jumlah_review": "57",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 1.0681336,
+      "longitude": 128.2225969
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Tiga+bidadari/data=!4m7!3m6!1s0x329b8e0f5009d6e9:0x7630a700dfdd21ad!8m2!3d1.0681336!4d128.2225969!16s%2Fg%2F11g02bchb3!19sChIJ6dYJUA-OmzIRrSHd3wCnMHY?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npPJb-b9K6QriH9l11C9CXvvzmkmLdzXCweOzY1BkuvenKBx4Oiys-OqVVkBaSdldP6U0jaX6yIpGJyd1srjNtHVU0uF84gVmiyvOZk4GiVzEeOigsFP6ePMqGuofZPKggzyG88bw=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npPJb-b9K6QriH9l11C9CXvvzmkmLdzXCweOzY1BkuvenKBx4Oiys-OqVVkBaSdldP6U0jaX6yIpGJyd1srjNtHVU0uF84gVmiyvOZk4GiVzEeOigsFP6ePMqGuofZPKggzyG88bw=w408-h271-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npPJb-b9K6QriH9l11C9CXvvzmkmLdzXCweOzY1BkuvenKBx4Oiys-OqVVkBaSdldP6U0jaX6yIpGJyd1srjNtHVU0uF84gVmiyvOZk4GiVzEeOigsFP6ePMqGuofZPKggzyG88bw=w448-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Pantai Lapasi",
+    "alamat": "Susupu, Kec. Jailolo",
+    "rating": "4.5",
+    "jumlah_review": "109",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 1.1426036,
+      "longitude": 127.4318864
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Lapasi/data=!4m7!3m6!1s0x329b4ff4a7002ee1:0xcbc7a4b3b0f7a1b0!8m2!3d1.1426036!4d127.4318864!16s%2Fg%2F11f5_jbx9f!19sChIJ4S4Ap_RPmzIRsKH3sLOkx8s?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq7SvLrg-i6qT-nm7H84a57irIXTc68VlK7Xcl6A2Bro3eLYqqi7YHMs47sE5TuW9Oonbi7G619kPyYhoHx_UCmHDcnLiyAZ5dSz7aZ4CqVdwHaFngQBoPwjCOrzIOCjLDNzSsN=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq7SvLrg-i6qT-nm7H84a57irIXTc68VlK7Xcl6A2Bro3eLYqqi7YHMs47sE5TuW9Oonbi7G619kPyYhoHx_UCmHDcnLiyAZ5dSz7aZ4CqVdwHaFngQBoPwjCOrzIOCjLDNzSsN=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq7SvLrg-i6qT-nm7H84a57irIXTc68VlK7Xcl6A2Bro3eLYqqi7YHMs47sE5TuW9Oonbi7G619kPyYhoHx_UCmHDcnLiyAZ5dSz7aZ4CqVdwHaFngQBoPwjCOrzIOCjLDNzSsN=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pantai Jikomalamo - Kota Ternate, Maluku Utara",
+    "alamat": "Jl. Syaikh Muhammad Al-Khidhir, Sulamadaha, Kec. Pulau Ternate, Maluku Utara",
+    "rating": "4.6",
+    "jumlah_review": "2.135",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.8630399,
+      "longitude": 127.319987
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Jikomalamo+-+Kota+Ternate,+Maluku+Utara/data=!4m7!3m6!1s0x329cad17688b1b01:0x3ab3165d5be4f865!8m2!3d0.8630399!4d127.319987!16s%2Fg%2F11bzy77bw3!19sChIJARuLaBetnDIRZfjkW10Wszo?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npB5sA4I51TTMkFer2r5BHqsAr7INjJTQIpYHSi7cCYQ3a8P48QcVdMlwrc0MNYQPmxtZidICCBTC1Tl-CNSM8mZxFJTWBeXIcYTzyyF6OrUBG7z4WG7eM-jPk4TKNxUe8qvQc=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npB5sA4I51TTMkFer2r5BHqsAr7INjJTQIpYHSi7cCYQ3a8P48QcVdMlwrc0MNYQPmxtZidICCBTC1Tl-CNSM8mZxFJTWBeXIcYTzyyF6OrUBG7z4WG7eM-jPk4TKNxUe8qvQc=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npB5sA4I51TTMkFer2r5BHqsAr7INjJTQIpYHSi7cCYQ3a8P48QcVdMlwrc0MNYQPmxtZidICCBTC1Tl-CNSM8mZxFJTWBeXIcYTzyyF6OrUBG7z4WG7eM-jPk4TKNxUe8qvQc=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "PANTAI LUARI TOBELO (Luari Beach)",
+    "alamat": "Jl Tobelo Galela, Jalan Desa Pantai Wisata, Luari, Kec. Tobelo",
+    "rating": "4.4",
+    "jumlah_review": "252",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 1.8068854,
+      "longitude": 127.9304953
+    },
+    "url": "https://www.google.com/maps/place/PANTAI+LUARI+TOBELO+%28Luari+Beach%29/data=!4m7!3m6!1s0x328f98762319cfc5:0xb89bc4963e558ab!8m2!3d1.8068854!4d127.9304953!16s%2Fg%2F12hqnk_gl!19sChIJxc8ZI3aYjzIRq1jlY0m8iQs?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipOmteAwYYbk0HB42RwDWt25ngbgKwP7JBSl_b8d=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipOmteAwYYbk0HB42RwDWt25ngbgKwP7JBSl_b8d=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipOmteAwYYbk0HB42RwDWt25ngbgKwP7JBSl_b8d=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Gunung Kie Besi",
+    "alamat": "JL. Peleri, Samsuma, Makian, Maluku Utara",
+    "rating": "5.0",
+    "jumlah_review": "15",
+    "deskripsi": "Gunung Kie Besi atau Gunung Makian adalah sebuah gunung berapi stratovolcano yang terletak di Pulau Makian sebelah barat Pulau Halmahera, Indonesia. Gunung ini secara administratif berada di Kecamatan Pulau Makian, Kabupaten Halmahera Selatan, Provinsi Maluku Utara. Karakter letusan Gunung yang memiliki luas 113,12 km² ini umumnya bersifat eksposif, efusif serta freatomagmatik. Letusan besar Gunung Kie Besi terjadi terakhir kali pada tahun 1988. Gunung ini selanjutnya pernah mengalami peningkata...",
+    "koordinat": {
+      "latitude": 0.329588,
+      "longitude": 127.397461
+    },
+    "url": "https://www.google.com/maps/place/Gunung+Kie+Besi/data=!4m7!3m6!1s0x100040505011b675:0x12b031dbb4ec7a5e!8m2!3d0.329588!4d127.397461!16zL20vMDFyNzVy!19sChIJdbYRUFBAABARXnrstNsxsBI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqaLme01xcj6Fzn-cnsUKwxrkFFCmj-5aINPu7Ez4NC4S5lG-XYl_jzAP8qvSTkrJarlzqKnLfRKfEJ2t-PbfiRElDPJTCKYyTHZKBK6NQwddqpm09sik43uC7GvpuU6Sxqscc=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqaLme01xcj6Fzn-cnsUKwxrkFFCmj-5aINPu7Ez4NC4S5lG-XYl_jzAP8qvSTkrJarlzqKnLfRKfEJ2t-PbfiRElDPJTCKYyTHZKBK6NQwddqpm09sik43uC7GvpuU6Sxqscc=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np4YiSRh0nNjKbhKO97LN5JAe4wuOnghg5PfHy_Yueaw8llwd35sRmqTVHOZAmfbx0FNbL18WVM4iyP_WkJseCcNsEgSRTnNQ6hB_d6Fpf3rFePDlbksY3f6Vmkspywg233ZBQjXw=w360-h202-k-no"
+    ],
+    "kategori": [
+      "gunung",
+      "pulau",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Benteng Kastela",
+    "alamat": "Kastela, Kec. Pulau Ternate, Maluku Utara",
+    "rating": "4.2",
+    "jumlah_review": "309",
+    "deskripsi": "Benteng Kastela adalah sebuah reruntuhan benteng yang terletak di pesisir barat daya Ternate. Benteng ini terkenal sebagai benteng kolonial pertama yang dibangun di Kepulauan Maluku, Indonesia. Dibangun oleh Portugis pada tahun 1522, benteng ini juga disebut dalam bahasa yang berbeda seperti São João Batista (Bahasa Portugis), Ciudad del Rosario (Bahasa Spanyol) atau Gammalamma (Bahasa Ternate dan Belanda). Benteng ini lebih dikenal oleh masyarakat lokal saat ini sebagai Kastella/Kastela.",
+    "koordinat": {
+      "latitude": 0.7610035,
+      "longitude": 127.3121905
+    },
+    "url": "https://www.google.com/maps/place/Benteng+Kastela/data=!4m7!3m6!1s0x329cb4c46b908ccf:0x4ffcdaf900c9df98!8m2!3d0.7610035!4d127.3121905!16s%2Fm%2F0zmw_yx!19sChIJz4yQa8S0nDIRmN_JAPna_E8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqkyZHQ8LddfZ0Fdbhzs9ild5eXub9Mx3DKwB9cPnoFukFhQUY-_Tj_AwmOFJ3zo_SflMiMPQlGnXqcKqqm9SAPBdfkFCJPBU4Ieod_R1WlGXpToFh7sQCkGckGTwtE_cCNtpw3YA=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqkyZHQ8LddfZ0Fdbhzs9ild5eXub9Mx3DKwB9cPnoFukFhQUY-_Tj_AwmOFJ3zo_SflMiMPQlGnXqcKqqm9SAPBdfkFCJPBU4Ieod_R1WlGXpToFh7sQCkGckGTwtE_cCNtpw3YA=w408-h543-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqkyZHQ8LddfZ0Fdbhzs9ild5eXub9Mx3DKwB9cPnoFukFhQUY-_Tj_AwmOFJ3zo_SflMiMPQlGnXqcKqqm9SAPBdfkFCJPBU4Ieod_R1WlGXpToFh7sQCkGckGTwtE_cCNtpw3YA=w224-h298-k-no"
+    ],
+    "kategori": [
+      "pantai",
+      "pulau",
+      "benteng",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Wisata Air Panas Mamuya",
+    "alamat": "QVRX+WPQ, Mamuya, Kec. Galela, Maluku Utara",
+    "rating": "4.4",
+    "jumlah_review": "216",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 1.7923298,
+      "longitude": 127.8993703
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Air+Panas+Mamuya/data=!4m7!3m6!1s0x329a88d17c6c0b2f:0xa15b55cc3aec3470!8m2!3d1.7923298!4d127.8993703!16s%2Fg%2F11g8w9p1f1!19sChIJLwtsfNGImjIRcDTsOsxVW6E?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noF6QzYu2dg7S5csQo-VgS5b6ipDVH51FhKZOvQcWrcyzaFWu4UqkKF5IIdvVNV1B0ScZh8Q1PucXgcjptRI7BToEIThaBgy02XVOf2Jljz_W_OrnpszFlas0nBpkLqlicfmedT=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noF6QzYu2dg7S5csQo-VgS5b6ipDVH51FhKZOvQcWrcyzaFWu4UqkKF5IIdvVNV1B0ScZh8Q1PucXgcjptRI7BToEIThaBgy02XVOf2Jljz_W_OrnpszFlas0nBpkLqlicfmedT=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noF6QzYu2dg7S5csQo-VgS5b6ipDVH51FhKZOvQcWrcyzaFWu4UqkKF5IIdvVNV1B0ScZh8Q1PucXgcjptRI7BToEIThaBgy02XVOf2Jljz_W_OrnpszFlas0nBpkLqlicfmedT=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Tanjung Rappa Pelangi",
+    "alamat": "Bobanehena, Kec. Jailolo, Maluku Utara",
+    "rating": "4.6",
+    "jumlah_review": "178",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 1.0501947,
+      "longitude": 127.4441042
+    },
+    "url": "https://www.google.com/maps/place/Tanjung+Rappa+Pelangi/data=!4m7!3m6!1s0x329b50f381d37b3f:0xf03624d261c81e4!8m2!3d1.0501947!4d127.4441042!16s%2Fg%2F11f345c46g!19sChIJP3vTgfNQmzIR5IEcJk1iAw8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nojmFFMVJ-hAbpR1fIIqoAAHtc4zmQfQcmZu-pXjE035s3nIyqs6tYnlTCFwrLl3_5Hm7mritCi267w9twcMaezZ48PfjdhGaMWYFEeFk-mGOSsyJr6Q6TNnTrWuiHeBsy36bGttQ=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nojmFFMVJ-hAbpR1fIIqoAAHtc4zmQfQcmZu-pXjE035s3nIyqs6tYnlTCFwrLl3_5Hm7mritCi267w9twcMaezZ48PfjdhGaMWYFEeFk-mGOSsyJr6Q6TNnTrWuiHeBsy36bGttQ=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nojmFFMVJ-hAbpR1fIIqoAAHtc4zmQfQcmZu-pXjE035s3nIyqs6tYnlTCFwrLl3_5Hm7mritCi267w9twcMaezZ48PfjdhGaMWYFEeFk-mGOSsyJr6Q6TNnTrWuiHeBsy36bGttQ=w529-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Batu Angus",
+    "alamat": "Jl. Pertamina, Kulaba, Kec. Pulau Ternate, Maluku Utara",
+    "rating": "4.5",
+    "jumlah_review": "980",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.8464784,
+      "longitude": 127.3654112
+    },
+    "url": "https://www.google.com/maps/place/Batu+Angus/data=!4m7!3m6!1s0x329cad99b9ba04cb:0xc07086c0152a202f!8m2!3d0.8464784!4d127.3654112!16s%2Fg%2F11b_0297r8!19sChIJywS6uZmtnDIRLyAqFcCGcMA?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrJ_uqFmO76E90eTrnxPRZbvySFcIAG5IG-D8qCoVUmVLgpuS3_Y3n88k5fYK6pozM9SHmStAQB6eM09lTnRtzrcvZvYhdSF6CUcDaLWJMbESDuLDgGKJUGopbJ0S_XTL9gMZyRJw=w86-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrJ_uqFmO76E90eTrnxPRZbvySFcIAG5IG-D8qCoVUmVLgpuS3_Y3n88k5fYK6pozM9SHmStAQB6eM09lTnRtzrcvZvYhdSF6CUcDaLWJMbESDuLDgGKJUGopbJ0S_XTL9gMZyRJw=w408-h408-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrJ_uqFmO76E90eTrnxPRZbvySFcIAG5IG-D8qCoVUmVLgpuS3_Y3n88k5fYK6pozM9SHmStAQB6eM09lTnRtzrcvZvYhdSF6CUcDaLWJMbESDuLDgGKJUGopbJ0S_XTL9gMZyRJw=w298-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Cagar Budaya van VOC Fort Benteng Amsterdam",
+    "alamat": "Kaitetu, Kec. Leihitu, Maluku",
+    "rating": "4.5",
+    "jumlah_review": "866",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.5828682,
+      "longitude": 128.0831395
+    },
+    "url": "https://www.google.com/maps/place/Cagar+Budaya+van+VOC+Fort+Benteng+Amsterdam/data=!4m7!3m6!1s0x2d6cfad4c6874ac7:0xb2ee545928ea5c55!8m2!3d-3.5828682!4d128.0831395!16s%2Fm%2F0wyjt8d!19sChIJx0qHxtT6bC0RVVzqKFlU7rI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nozP7t4kF1mMP_41B9OsjTlAFxouHZI6PjVYmqzbDUv5_mNS26ryN80czYzEuUysTppenPfbAqpWp3dt8hxUQizRWU34sUosOs02fEwNJFwd_hyvwhAK-aGrktSnAQQ91w1YnQDsA=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nozP7t4kF1mMP_41B9OsjTlAFxouHZI6PjVYmqzbDUv5_mNS26ryN80czYzEuUysTppenPfbAqpWp3dt8hxUQizRWU34sUosOs02fEwNJFwd_hyvwhAK-aGrktSnAQQ91w1YnQDsA=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nozP7t4kF1mMP_41B9OsjTlAFxouHZI6PjVYmqzbDUv5_mNS26ryN80czYzEuUysTppenPfbAqpWp3dt8hxUQizRWU34sUosOs02fEwNJFwd_hyvwhAK-aGrktSnAQQ91w1YnQDsA=w224-h298-k-no"
+    ],
+    "kategori": [
+      "benteng"
+    ]
+  },
+  {
+    "nama": "Danau Tolire Besar",
+    "alamat": "Takome, Kec. Pulau Ternate, Maluku Utara",
+    "rating": "4.5",
+    "jumlah_review": "841",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.8361802,
+      "longitude": 127.3075619
+    },
+    "url": "https://www.google.com/maps/place/Danau+Tolire+Besar/data=!4m7!3m6!1s0x329cb2aed966c761:0x8302c4c7225ce74e!8m2!3d0.8361802!4d127.3075619!16s%2Fg%2F11cnrc33cd!19sChIJYcdm2a6ynDIRTudcIsfEAoM?authuser=0&hl=id&rclk=1",
+    "provinsi": "Maluku Utara",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noOBhSPgheWHlNv26AgP9DR62NaORtQj_KwADpyh9wHU1CYCrtitxlCCw0f9gCWxWOiNlHw9QqZOi5tw71-HXONwotm8EH3wBt7cT34nOe07T43_siJ98Frc5RvX8QqdWNig705PQ=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noOBhSPgheWHlNv26AgP9DR62NaORtQj_KwADpyh9wHU1CYCrtitxlCCw0f9gCWxWOiNlHw9QqZOi5tw71-HXONwotm8EH3wBt7cT34nOe07T43_siJ98Frc5RvX8QqdWNig705PQ=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noOBhSPgheWHlNv26AgP9DR62NaORtQj_KwADpyh9wHU1CYCrtitxlCCw0f9gCWxWOiNlHw9QqZOi5tw71-HXONwotm8EH3wBt7cT34nOe07T43_siJ98Frc5RvX8QqdWNig705PQ=w397-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  }
+]
