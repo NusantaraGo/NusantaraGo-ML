@@ -1,0 +1,746 @@
+[
+  {
+    "nama": "Taman Hutan Pinus PAL X, Kota Jambi",
+    "alamat": "Jl. Raya Palembang - Jambi, Kenali Asam Bawah",
+    "rating": "4.2",
+    "jumlah_review": "1.322",
+    "deskripsi": "Taman Hutan Pinus PAL X adalah taman wisata yang terletak di Jl. Raya Palembang - Jambi, Kenali Asam Bawah, Kota Jambi. Taman ini menawarkan keindahan alam dan fasilitas rekreasi yang cocok untuk liburan keluarga.",
+    "koordinat": {
+      "latitude": -1.6732299,
+      "longitude": 103.591953
+    },
+    "url": "https://www.google.com/maps/place/Taman+Hutan+Pinus+PAL+X,+Kota+Jambi/data=!4m7!3m6!1s0x2e2586fdbbd64107:0x519bb0ac55a7bc2e!8m2!3d-1.6732299!4d103.591953!16s%2Fg%2F11fyljz1f2!19sChIJB0HWu_2GJS4RLrynVaywm1E?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noQcVOGuvCc6OLtoYGW-FyqUTsLcZH_L4mlk1jAi3YykRYKOFRkoHtQcD7bShKT46lLui978cifwCidCAZaf7GmsYwauYt2iW6J5__Bpt8LzK77rkX9K8kJfUHU5ei8Vsv32I_X=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noQcVOGuvCc6OLtoYGW-FyqUTsLcZH_L4mlk1jAi3YykRYKOFRkoHtQcD7bShKT46lLui978cifwCidCAZaf7GmsYwauYt2iW6J5__Bpt8LzK77rkX9K8kJfUHU5ei8Vsv32I_X=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noQcVOGuvCc6OLtoYGW-FyqUTsLcZH_L4mlk1jAi3YykRYKOFRkoHtQcD7bShKT46lLui978cifwCidCAZaf7GmsYwauYt2iW6J5__Bpt8LzK77rkX9K8kJfUHU5ei8Vsv32I_X=w529-h298-k-no"
+    ],
+    "kategori": [
+      "taman",
+      "taman_hutan"
+    ]
+  },
+  {
+    "nama": "Kawasan Wisata Danau Sipin",
+    "alamat": "Jl. Ade Irma Suryani Nasution, Telanaipura, Kec. Telanaipura",
+    "rating": "4.4",
+    "jumlah_review": "77",
+    "deskripsi": "Kawasan Wisata Danau Sipin adalah sebuah danau alami yang terletak di tengah Kota Jambi, tepatnya di Kecamatan Telanaipura. Danau ini memiliki luas sekitar 40 hektar dan menjadi salah satu destinasi wisata populer bagi masyarakat Jambi dan sekitarnya.",
+    "koordinat": {
+      "latitude": -1.6020969,
+      "longitude": 103.5825217
+    },
+    "url": "https://www.google.com/maps/place/Kawasan+Wisata+Danau+Sipin/data=!4m7!3m6!1s0x2e2589b7e4add73f:0x57f7757566ed0f91!8m2!3d-1.6020969!4d103.5825217!16s%2Fg%2F11j3x93klp!19sChIJP9et5LeJJS4RkQ_tZnV191c?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npZBjgHeonpIzPm0b6JNTJMrGAJZar2CvvPNWtrxCsAEumyuBoaqox9DDEJ4R7MYKXLV4mAAQAwC2RZ5cK37ILdViynPdD97EltiGN5xwbAgXjMxGEWzbvK3UAEhU2JfMvQ3xIO=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npZBjgHeonpIzPm0b6JNTJMrGAJZar2CvvPNWtrxCsAEumyuBoaqox9DDEJ4R7MYKXLV4mAAQAwC2RZ5cK37ILdViynPdD97EltiGN5xwbAgXjMxGEWzbvK3UAEhU2JfMvQ3xIO=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npZBjgHeonpIzPm0b6JNTJMrGAJZar2CvvPNWtrxCsAEumyuBoaqox9DDEJ4R7MYKXLV4mAAQAwC2RZ5cK37ILdViynPdD97EltiGN5xwbAgXjMxGEWzbvK3UAEhU2JfMvQ3xIO=w529-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Air Terjun Arai Indah",
+    "alamat": "Unnamed Road, Mukai Pintu, Kec. Siulak",
+    "rating": "4.0",
+    "jumlah_review": "14",
+    "deskripsi": "Air Terjun Arai Indah adalah sebuah air terjun yang terletak di Desa Talang Kemulun, Kecamatan Danau Kerinci, Kabupaten Kerinci, Provinsi Jambi. Beberapa sumber juga menyebutkan lokasinya berada di Mukai Pintu, Siulak, Kabupaten Kerinci.",
+    "koordinat": {
+      "latitude": -1.9421689,
+      "longitude": 101.3627115
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Arai+Indah/data=!4m7!3m6!1s0x2e2da7e0d448ba27:0x3d2ec6bc1ef33490!8m2!3d-1.9421689!4d101.3627115!16s%2Fg%2F11hcfjnj99!19sChIJJ7pI1OCnLS4RkDTzHrzGLj0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no0KPAVRp8V_vTr5farM-s5efDOBoAto4wM9qxX5JeDA0riaj5DzwLxXcUk6j8u076lJNSZcAwsmKPgHqITB6dX9kiC3DaoZY_MJF1tcfwwsIe17eBYWJjt8eyINkPhdtZv0dWD=w86-h129-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no0KPAVRp8V_vTr5farM-s5efDOBoAto4wM9qxX5JeDA0riaj5DzwLxXcUk6j8u076lJNSZcAwsmKPgHqITB6dX9kiC3DaoZY_MJF1tcfwwsIe17eBYWJjt8eyINkPhdtZv0dWD=w408-h612-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no0KPAVRp8V_vTr5farM-s5efDOBoAto4wM9qxX5JeDA0riaj5DzwLxXcUk6j8u076lJNSZcAwsmKPgHqITB6dX9kiC3DaoZY_MJF1tcfwwsIe17eBYWJjt8eyINkPhdtZv0dWD=w224-h336-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Destinasi Wisata Jambi",
+    "alamat": "Penyengat Rendah, Kec. Telanaipura",
+    "rating": "5.0",
+    "jumlah_review": "1",
+    "deskripsi": "Destinasi Wisata Jambi adalah sebuah destinasi wisata yang terletak di Penyengat Rendah, Kecamatan Telanaipura, Kota Jambi. Destinasi ini menawarkan berbagai fasilitas rekreasi dan hiburan yang cocok untuk liburan keluarga.",
+    "koordinat": {
+      "latitude": -1.569703,
+      "longitude": 103.5525794
+    },
+    "url": "https://www.google.com/maps/place/Destinasi+Wisata+Jambi/data=!4m7!3m6!1s0x2e25895597697955:0xf123a9fb5bdcdb56!8m2!3d-1.569703!4d103.5525794!16s%2Fg%2F11v02x4j_p!19sChIJVXlpl1WJJS4RVtvcW_upI_E?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipPuFiU64odh_ARbG5D8ZlT3obJ2yOB5dIOIL29J=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPuFiU64odh_ARbG5D8ZlT3obJ2yOB5dIOIL29J=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPuFiU64odh_ARbG5D8ZlT3obJ2yOB5dIOIL29J=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Taman Kongkow Kota Jambi",
+    "alamat": "Paal Lima",
+    "rating": "4.3",
+    "jumlah_review": "1.332",
+    "deskripsi": "Taman Kongkow Kota Jambi adalah ruang terbuka hijau yang berlokasi di Jalan Kopral Sardi RT 25, Kelurahan Paal Lima, Kecamatan Kota Baru, Kota Jambi. Taman ini menjadi tempat rekreasi yang populer di kalangan masyarakat Jambi, terutama anak-anak dan keluarga.",
+    "koordinat": {
+      "latitude": -1.6394095,
+      "longitude": 103.6222213
+    },
+    "url": "https://www.google.com/maps/place/Taman+Kongkow+Kota+Jambi/data=!4m7!3m6!1s0x2e25861066d97a1f:0xee60b66a761d4431!8m2!3d-1.6394095!4d103.6222213!16s%2Fg%2F11c2kl8nfs!19sChIJH3rZZhCGJS4RMUQddmq2YO4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrf0S_TIFCJIayu1eMHJ8f-i86y_7-tOgUkMlV0pMH2lFaUjsXrte_cwR1DBLLvl7uLy1U7xuw92Am_KzRXHk3a3VBNr3LluDO5VYL_jgqQxC-xpVdXbOgLBq3TtYEF8JLTBpVH=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrf0S_TIFCJIayu1eMHJ8f-i86y_7-tOgUkMlV0pMH2lFaUjsXrte_cwR1DBLLvl7uLy1U7xuw92Am_KzRXHk3a3VBNr3LluDO5VYL_jgqQxC-xpVdXbOgLBq3TtYEF8JLTBpVH=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrf0S_TIFCJIayu1eMHJ8f-i86y_7-tOgUkMlV0pMH2lFaUjsXrte_cwR1DBLLvl7uLy1U7xuw92Am_KzRXHk3a3VBNr3LluDO5VYL_jgqQxC-xpVdXbOgLBq3TtYEF8JLTBpVH=w529-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Sipin Lake",
+    "alamat": "Legok, Kec. Telanaipura",
+    "rating": "4.2",
+    "jumlah_review": "621",
+    "deskripsi": "Danau Sipin sudah pernah kita bahas sebelumnya. Ini adalah danau alami yang terletak di tengah Kota Jambi, menjadi tempat rekreasi yang populer. Danau ini menawarkan pemandangan indah, aktivitas air, serta kuliner khas Jambi.",
+    "koordinat": {
+      "latitude": -1.5983409,
+      "longitude": 103.594535
+    },
+    "url": "https://www.google.com/maps/place/Sipin+Lake/data=!4m7!3m6!1s0x2e2588fa2f635dcb:0xafd48b021c6fbd0d!8m2!3d-1.5983409!4d103.594535!16s%2Fg%2F11gdz5_r0k!19sChIJy11jL_qIJS4RDb1vHAKL1K8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqcodVLMZFE8iCzsNPe_IW0hbwkbkI13jNBvI_WlUzyPm5AfK58pVQQ1PLomrMGuZwT-Q-WTb7FSXqqKEfpq4dmi2zS_tS9i7KX9jIaRpdT-W66NZW-Fh4Hlp_waRMMOOtB4mh3gA=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqcodVLMZFE8iCzsNPe_IW0hbwkbkI13jNBvI_WlUzyPm5AfK58pVQQ1PLomrMGuZwT-Q-WTb7FSXqqKEfpq4dmi2zS_tS9i7KX9jIaRpdT-W66NZW-Fh4Hlp_waRMMOOtB4mh3gA=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqcodVLMZFE8iCzsNPe_IW0hbwkbkI13jNBvI_WlUzyPm5AfK58pVQQ1PLomrMGuZwT-Q-WTb7FSXqqKEfpq4dmi2zS_tS9i7KX9jIaRpdT-W66NZW-Fh4Hlp_waRMMOOtB4mh3gA=w397-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Ancol Kota Jambi",
+    "alamat": "Kasang, Kec. Ps. Jambi",
+    "rating": "4.3",
+    "jumlah_review": "378",
+    "deskripsi": "Ancol Kota Jambi adalah sebuah taman yang terletak di Kota Jambi. Tempat ini berdekatan dengan Jembatan Gentala Arasy dan menawarkan berbagai pilihan kuliner.",
+    "koordinat": {
+      "latitude": -1.5884232,
+      "longitude": 103.6170821
+    },
+    "url": "https://www.google.com/maps/place/Ancol+Kota+Jambi/data=!4m7!3m6!1s0x2e2589213d64626d:0x3d4765cddb359403!8m2!3d-1.5884232!4d103.6170821!16s%2Fg%2F11c51w52b8!19sChIJbWJkPSGJJS4RA5Q1281lRz0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nreCwn9w6z2gJFf2OVM22ULaxK672WwilzHlgplmpNkR6we7Jp-A6kpafGALhzpdpy-1eiGuw_jNS_54koX0a7QP8VsZqjFYW-bznii4B5FeS0XYd_QI84EjnQ2q2VRYyXZ5g_B=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nreCwn9w6z2gJFf2OVM22ULaxK672WwilzHlgplmpNkR6we7Jp-A6kpafGALhzpdpy-1eiGuw_jNS_54koX0a7QP8VsZqjFYW-bznii4B5FeS0XYd_QI84EjnQ2q2VRYyXZ5g_B=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nreCwn9w6z2gJFf2OVM22ULaxK672WwilzHlgplmpNkR6we7Jp-A6kpafGALhzpdpy-1eiGuw_jNS_54koX0a7QP8VsZqjFYW-bznii4B5FeS0XYd_QI84EjnQ2q2VRYyXZ5g_B=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Rawa Bento",
+    "alamat": "Jernih Jaya, Kec. Gn. Tujuh, Jambi",
+    "rating": "4.5",
+    "jumlah_review": "162",
+    "deskripsi": "Rawa Bento merupakan rawa tertinggi yang ada di Sumatra yaitu pada ketinggian 1333 mdpl. Rawa ini terletak di terletak di Desa Jernih Jaya, Kecamatan Gunung Tujuh, Kabupaten Kerinci, Jambi. Kawasan rawa dengan luas kurang lebih 1000 ha ini memiliki ekosistem rawa yang terdiri atas rumput rawa gambut, hutan rawa kerdil, serta danau rawa kecil. \nRawa Bento berasal dari kata Bento, dalam bahasa lokal berarti rumput. Rumput rawa gambut pada rawa Bento didominasi oleh rumput Bento (Leersia hexandra: ...",
+    "koordinat": {
+      "latitude": -1.7279178,
+      "longitude": 101.3472401
+    },
+    "url": "https://www.google.com/maps/place/Rawa+Bento/data=!4m7!3m6!1s0x2e2c55eea0824e8d:0xd403674a6992181!8m2!3d-1.7279178!4d101.3472401!16s%2Fg%2F11h_st1n_2!19sChIJjU6CoO5VLC4RgSGZpnQ2QA0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipNuEzuP5eW-rubjDublRymeUkd4tjah_TXGWSmw=w153-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNuEzuP5eW-rubjDublRymeUkd4tjah_TXGWSmw=w427-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNuEzuP5eW-rubjDublRymeUkd4tjah_TXGWSmw=w531-h298-k-no"
+    ],
+    "kategori": [
+      "gunung",
+      "danau",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Air Terjun Muara Karing",
+    "alamat": "Air Batu, Kec. Renah Pembarap",
+    "rating": "4.3",
+    "jumlah_review": "138",
+    "deskripsi": "Air Terjun Muara Karing atau dikenal juga dengan Air Terjun Mengkaring merupakan air terjun yang terletak dikawasan Geopark Merangin-Jambi atau lebih tepatnya di desa Air Batu, kecamatan Renah Pembarap, Merangin, Jambi.\nAir terjun ini memiliki beberapa tingkatan, terletak di pertemuan muara Sungai Karing dengan Sungai Batang Merangin.\n\nAir Terjun Muara Karing memang cukup unik, terdapat batu-batu sungai yang membentuk seperti tingkatan. Debit air yang dipengaruhi dengan cuaca, ketika musim pengh...",
+    "koordinat": {
+      "latitude": -2.1518347,
+      "longitude": 102.1538444
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Muara+Karing/data=!4m7!3m6!1s0x2e2e0b13176df8dd:0x96b5bcbc1944e582!8m2!3d-2.1518347!4d102.1538444!16s%2Fg%2F11l9l8w06h!19sChIJ3fhtFxMLLi4RguVEGby8tZY?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr9FY-e4Fx9aASZ9OUEvwHAfHC_KbLYjR-NSQsXNWmPI1932OfGonaKQ2NYuXJZuDR540cMYRJW4dKx76EwEGVByoXex6STNmA8tXHIDI-qy5vIEEpjWy_GDftbdPwMq8BhRUTV=w127-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr9FY-e4Fx9aASZ9OUEvwHAfHC_KbLYjR-NSQsXNWmPI1932OfGonaKQ2NYuXJZuDR540cMYRJW4dKx76EwEGVByoXex6STNmA8tXHIDI-qy5vIEEpjWy_GDftbdPwMq8BhRUTV=w408-h275-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr9FY-e4Fx9aASZ9OUEvwHAfHC_KbLYjR-NSQsXNWmPI1932OfGonaKQ2NYuXJZuDR540cMYRJW4dKx76EwEGVByoXex6STNmA8tXHIDI-qy5vIEEpjWy_GDftbdPwMq8BhRUTV=w441-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun",
+      "taman"
+    ]
+  },
+  {
+    "nama": "Jembatan Gentala Arasy",
+    "alamat": "Kasang, Kec. Jambi Tim.",
+    "rating": "4.5",
+    "jumlah_review": "7.148",
+    "deskripsi": "Jembatan Gentala Arasy adalah sebuah jembatan pedestrian untuk pejalan kaki yang melintang di atas Sungai Batanghari, Kota Jambi. Jembatan ini menghubungkan Tepian Tanggo Rajo ke Menara Gentala Arasy, Jambi Seberang. Jembatan Gentala Arasy adalah jembatan pedestrian di atas sungai pertama di Indonesia yang memiliki kontur meliuk seperti huruf S. \nJembatan ini merupakan proyek dari masa pemerintahan Gubernur Jambi, Hasan Basri Agus, dan diresmikan oleh Wakil Presiden Indonesia pada waktu itu, Jus...",
+    "koordinat": {
+      "latitude": -1.586732,
+      "longitude": 103.6156861
+    },
+    "url": "https://www.google.com/maps/place/Jembatan+Gentala+Arasy/data=!4m7!3m6!1s0x2e25892177b8b457:0xa72648d09e67b339!8m2!3d-1.586732!4d103.6156861!16s%2Fg%2F11bw3dk3vr!19sChIJV7S4dyGJJS4RObNnntBIJqc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nozI2oCwc4-YD2Ib1gdxWtH6W9WZcjMJqwnJaz5lfz2gn6JA-70IFfMCPHQn46t7igqP-4vyIrfz2ZqBguG65MEez7Mg8wmJldO54GPVr6yqvo56FYlEcVERclrPlkVIXInwujC=w86-h152-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nozI2oCwc4-YD2Ib1gdxWtH6W9WZcjMJqwnJaz5lfz2gn6JA-70IFfMCPHQn46t7igqP-4vyIrfz2ZqBguG65MEez7Mg8wmJldO54GPVr6yqvo56FYlEcVERclrPlkVIXInwujC=w408-h725-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nozI2oCwc4-YD2Ib1gdxWtH6W9WZcjMJqwnJaz5lfz2gn6JA-70IFfMCPHQn46t7igqP-4vyIrfz2ZqBguG65MEez7Mg8wmJldO54GPVr6yqvo56FYlEcVERclrPlkVIXInwujC=w224-h398-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Taman Wisata Jambi Paradise",
+    "alamat": "Simpang Acai, Kb. IX, Kec. Sungai Gelam",
+    "rating": "4.2",
+    "jumlah_review": "3.868",
+    "deskripsi": "Taman Wisata Jambi Paradise adalah taman wisata yang menawarkan berbagai wahana rekreasi air dan darat, cocok untuk liburan keluarga. Taman ini terletak di Simpang Acai, Kebon IX, Sungai Gelam, Kabupaten Muaro Jambi, Jambi. Jaraknya sekitar 30 menit dari pusat Kota Jambi.",
+    "koordinat": {
+      "latitude": -1.6689459,
+      "longitude": 103.6539111
+    },
+    "url": "https://www.google.com/maps/place/Taman+Wisata+Jambi+Paradise/data=!4m7!3m6!1s0x2e25843396a160b3:0x8eacdff215797d2b!8m2!3d-1.6689459!4d103.6539111!16s%2Fg%2F11bw2j6bwk!19sChIJs2ChljOEJS4RK315FfLfrI4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npyW_-NKX7u6XXBuGkpdtF54bzDtRMvnIOsGWxMyyWzwe0nCKudhQmSsFIAI7z_aex4VfSRFk0ypxhQILCKkdJwqWu7I1WdkEYkVm4V6h8tQTV1ku9kLBFVv_MycGif3O3kGMk84w=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npyW_-NKX7u6XXBuGkpdtF54bzDtRMvnIOsGWxMyyWzwe0nCKudhQmSsFIAI7z_aex4VfSRFk0ypxhQILCKkdJwqWu7I1WdkEYkVm4V6h8tQTV1ku9kLBFVv_MycGif3O3kGMk84w=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npyW_-NKX7u6XXBuGkpdtF54bzDtRMvnIOsGWxMyyWzwe0nCKudhQmSsFIAI7z_aex4VfSRFk0ypxhQILCKkdJwqWu7I1WdkEYkVm4V6h8tQTV1ku9kLBFVv_MycGif3O3kGMk84w=w224-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Wisata Danau Letang",
+    "alamat": "Jl. Pramuka, Muara Bulian, Kec. Muara Bulian",
+    "rating": "4.2",
+    "jumlah_review": "202",
+    "deskripsi": "Danau Letang adalah sebuah danau yang terletak di Kecamatan Muara Bulian, Kabupaten Batanghari, Provinsi Jambi. Dulunya, Danau Letang merupakan area rawa dan tempat pemancingan. Namun, berkat inisiatif masyarakat setempat, tempat ini disulap menjadi destinasi wisata air yang menarik.",
+    "koordinat": {
+      "latitude": -1.7212616,
+      "longitude": 103.2577059
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Danau+Letang/data=!4m7!3m6!1s0x2e2f75369d5c3021:0xf26f30c80fd7a90!8m2!3d-1.7212616!4d103.2577059!16s%2Fg%2F11j4nhdxyg!19sChIJITBcnTZ1Ly4RkHr9gAzzJg8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrFpNVdfqep6fzylkLEVn6dfsFCwyMioA-GXQWanKQKEYXRY07WNCzW2OOHg-IuARVo8qr31SoJAMhmAfUiuWMSHYa_N7TeU2jTu3C51NUvK2OtR-MsGiIs1yTUOCGeUU5NsPIJ=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrFpNVdfqep6fzylkLEVn6dfsFCwyMioA-GXQWanKQKEYXRY07WNCzW2OOHg-IuARVo8qr31SoJAMhmAfUiuWMSHYa_N7TeU2jTu3C51NUvK2OtR-MsGiIs1yTUOCGeUU5NsPIJ=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrFpNVdfqep6fzylkLEVn6dfsFCwyMioA-GXQWanKQKEYXRY07WNCzW2OOHg-IuARVo8qr31SoJAMhmAfUiuWMSHYa_N7TeU2jTu3C51NUvK2OtR-MsGiIs1yTUOCGeUU5NsPIJ=w397-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Hutan Kota Muhammad Sabki Kota Jambi",
+    "alamat": "Kenali Asam Bawah",
+    "rating": "4.4",
+    "jumlah_review": "1.042",
+    "deskripsi": "Hutan Kota Muhammad Sabki adalah taman hutan kota yang terletak di Kenali Asam Bawah, Kota Baru, Kota Jambi. Taman ini memiliki luas sekitar 11 hektar dan berfungsi sebagai ruang terbuka hijau, tempat wisata alam, sarana edukasi, olahraga, dan penelitian.",
+    "koordinat": {
+      "latitude": -1.6552207,
+      "longitude": 103.5854681
+    },
+    "url": "https://www.google.com/maps/place/Hutan+Kota+Muhammad+Sabki+Kota+Jambi/data=!4m7!3m6!1s0x2e2587b4cb80cf6f:0xe9c7d60a63d810b4!8m2!3d-1.6552207!4d103.5854681!16s%2Fg%2F11b6dp8999!19sChIJb8-Ay7SHJS4RtBDYYwrWx-k?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrUKsO6zqnEgKl5R2v2WunBldNDJqNcsAtpBgDbThVXEaQVBm86aWjWc1Iw5T-FhoO-I6xeaGME7z_sE4v8o7GanWK8KDQo9CYEYm11GJWStSh7HAWEzNHBACP8TV7JciJOzXS4=w172-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrUKsO6zqnEgKl5R2v2WunBldNDJqNcsAtpBgDbThVXEaQVBm86aWjWc1Iw5T-FhoO-I6xeaGME7z_sE4v8o7GanWK8KDQo9CYEYm11GJWStSh7HAWEzNHBACP8TV7JciJOzXS4=w480-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrUKsO6zqnEgKl5R2v2WunBldNDJqNcsAtpBgDbThVXEaQVBm86aWjWc1Iw5T-FhoO-I6xeaGME7z_sE4v8o7GanWK8KDQo9CYEYm11GJWStSh7HAWEzNHBACP8TV7JciJOzXS4=w596-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Air Terjun Telun Berasap",
+    "alamat": "Telun Berasap, Kec. Gn. Tujuh",
+    "rating": "4.3",
+    "jumlah_review": "933",
+    "deskripsi": "Air Terjun Telun Berasap adalah salah satu dari begitu banyak air terjun yang terdapat di kabupaten Kerinci, Jambi. Air terjun yang terletak di desa Telun Berasap ini memiliki ketinggian kurang lebih 50 Meter. Sumber dari air terjun ini adalah sungai-sungai yang berhulu disekitar Gunung Tujuh yang mengalir dari bibir Danau Gunung Tujuh.",
+    "koordinat": {
+      "latitude": -1.6898849,
+      "longitude": 101.339739
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Telun+Berasap/data=!4m7!3m6!1s0x2e2cf88302b9538f:0x65be8f0e60f88d3b!8m2!3d-1.6898849!4d101.339739!16s%2Fm%2F010lvqc2!19sChIJj1O5AoP4LC4RO434YA6PvmU?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nra1zunlyIMHU0WIWoe1vzlNwCI4R1mI9mzkjGhRPNoBNxc9-3IVnYzSwMNqtC68Ju2tWE82U7RJ94cXaplMtRs7d_EW95DMdOIRxsUk42-tK9PtGSR5JtA98tLx0XNIZ52yPh1=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nra1zunlyIMHU0WIWoe1vzlNwCI4R1mI9mzkjGhRPNoBNxc9-3IVnYzSwMNqtC68Ju2tWE82U7RJ94cXaplMtRs7d_EW95DMdOIRxsUk42-tK9PtGSR5JtA98tLx0XNIZ52yPh1=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nra1zunlyIMHU0WIWoe1vzlNwCI4R1mI9mzkjGhRPNoBNxc9-3IVnYzSwMNqtC68Ju2tWE82U7RJ94cXaplMtRs7d_EW95DMdOIRxsUk42-tK9PtGSR5JtA98tLx0XNIZ52yPh1=w224-h298-k-no"
+    ],
+    "kategori": [
+      "gunung",
+      "danau",
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Taman Tanggo Rajo - Kota Jambi",
+    "alamat": "Kasang, Kec. Jambi Tim.",
+    "rating": "4.2",
+    "jumlah_review": "166",
+    "deskripsi": "Taman Tanggo Rajo adalah sebuah kawasan wisata yang terletak di tepi Sungai Batanghari, tepatnya di Jalan Sultan Thaha, Kasang, Kecamatan Jambi Timur, Kota Jambi. Kawasan ini memiliki nilai sejarah dan menawarkan pemandangan sungai yang menenangkan.",
+    "koordinat": {
+      "latitude": -1.5879189,
+      "longitude": 103.6172342
+    },
+    "url": "https://www.google.com/maps/place/Taman+Tanggo+Rajo+-+Kota+Jambi/data=!4m7!3m6!1s0x2e258926ab99f4d1:0xb86cb2f11004de04!8m2!3d-1.5879189!4d103.6172342!16s%2Fg%2F11c1tldjrm!19sChIJ0fSZqyaJJS4RBN4EEPGybLg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqyucckKYDzIdwSS5rRpuft14iXFqa1F9GDxXDRldIRHxgBdJGaylfZqd0ZXnBNPyvLwqQnEWf2X9j2nINMBEHUKJYv0e2E0owxKkkx4HeByi4P2_vZNxQYbZWxLPpKezEmu0kZ=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqyucckKYDzIdwSS5rRpuft14iXFqa1F9GDxXDRldIRHxgBdJGaylfZqd0ZXnBNPyvLwqQnEWf2X9j2nINMBEHUKJYv0e2E0owxKkkx4HeByi4P2_vZNxQYbZWxLPpKezEmu0kZ=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqyucckKYDzIdwSS5rRpuft14iXFqa1F9GDxXDRldIRHxgBdJGaylfZqd0ZXnBNPyvLwqQnEWf2X9j2nINMBEHUKJYv0e2E0owxKkkx4HeByi4P2_vZNxQYbZWxLPpKezEmu0kZ=w529-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Danau Sipin (DANSIP)",
+    "alamat": "Sungai Putri, Kec. Telanaipura, Jambi",
+    "rating": "4.5",
+    "jumlah_review": "60",
+    "deskripsi": "Danau Sipin sudah pernah kita bahas sebelumnya. Ini adalah danau alami yang terletak di tengah Kota Jambi, menjadi tempat rekreasi yang populer. Danau ini menawarkan pemandangan indah, aktivitas air, serta kuliner khas Jambi.",
+    "koordinat": {
+      "latitude": -1.6011297,
+      "longitude": 103.5864921
+    },
+    "url": "https://www.google.com/maps/place/Danau+Sipin+%28DANSIP%29/data=!4m7!3m6!1s0x2e25896cdb36df2f:0xe4adbfb6fa657728!8m2!3d-1.6011297!4d103.5864921!16s%2Fg%2F11td3pjb1b!19sChIJL98222yJJS4RKHdl-ra_reQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npXM06Xya76wOFCbNCjbIwVY2oPGUpYWULHcA7erfR_F07QbbTiqAHMu_KmleFnTVqkWDJ3K1I52pBIEOvXAY023aO_MahL7aYrAReIplpeOz6sxkUGMgxxHZQ1Ed8dcCzoip_9=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npXM06Xya76wOFCbNCjbIwVY2oPGUpYWULHcA7erfR_F07QbbTiqAHMu_KmleFnTVqkWDJ3K1I52pBIEOvXAY023aO_MahL7aYrAReIplpeOz6sxkUGMgxxHZQ1Ed8dcCzoip_9=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npXM06Xya76wOFCbNCjbIwVY2oPGUpYWULHcA7erfR_F07QbbTiqAHMu_KmleFnTVqkWDJ3K1I52pBIEOvXAY023aO_MahL7aYrAReIplpeOz6sxkUGMgxxHZQ1Ed8dcCzoip_9=w397-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Pantai Indah Koto Petai",
+    "alamat": "Koto Petai, Kec. Danau Kerinci, Jambi",
+    "rating": "4.3",
+    "jumlah_review": "232",
+    "deskripsi": "Pantai Indah Koto Petai adalah sebuah pantai yang terletak di Desa Koto Petai, Kecamatan Tanah Sepenggal Lintas, Kabupaten Bungo, Provinsi Jambi. Meskipun Jambi terkenal dengan situs sejarah dan keindahan alam pegunungannya, pantai ini menawarkan alternatif wisata yang menarik di wilayah tersebut.",
+    "koordinat": {
+      "latitude": -2.124831,
+      "longitude": 101.4784639
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Indah+Koto+Petai/data=!4m7!3m6!1s0x2e2d985f649d2451:0xdd940683de22f43b!8m2!3d-2.124831!4d101.4784639!16s%2Fg%2F11b7cjf1cw!19sChIJUSSdZF-YLS4RO_Qi3oMGlN0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4notzHDz9lJ6Aqbt1r0Yu_DqnSnenEMuKb8ZmizBfI0YScOmdnXhCGA4lR2_O2W-PfkF2nbZohOh_Fp1MewXJXv2P1QOOZEKsCyLkzhL0nsxNMIyT69fn26jZd1wrjUfpcSxKO8Y=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4notzHDz9lJ6Aqbt1r0Yu_DqnSnenEMuKb8ZmizBfI0YScOmdnXhCGA4lR2_O2W-PfkF2nbZohOh_Fp1MewXJXv2P1QOOZEKsCyLkzhL0nsxNMIyT69fn26jZd1wrjUfpcSxKO8Y=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4notzHDz9lJ6Aqbt1r0Yu_DqnSnenEMuKb8ZmizBfI0YScOmdnXhCGA4lR2_O2W-PfkF2nbZohOh_Fp1MewXJXv2P1QOOZEKsCyLkzhL0nsxNMIyT69fn26jZd1wrjUfpcSxKO8Y=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Air Terjun Dukun Batuah",
+    "alamat": "Rantau Suli, Kec. Jangkat Timur",
+    "rating": "4.3",
+    "jumlah_review": "60",
+    "deskripsi": "Air Terjun Dukun Batuah adalah sebuah air terjun yang terletak di Desa Rantau Suli, Kecamatan Sungai Tenang, Kabupaten Merangin, Provinsi Jambi. Lokasinya berjarak sekitar 95 kilometer dari Kota Bangko, ibu kota Kabupaten Merangin, dengan perkiraan waktu tempuh sekitar 3 jam menggunakan kendaraan roda empat atau motor.",
+    "koordinat": {
+      "latitude": -2.5564351,
+      "longitude": 101.9743567
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Dukun+Batuah/data=!4m7!3m6!1s0x2e3204aeb1219575:0x5f86f4c62916acb9!8m2!3d-2.5564351!4d101.9743567!16s%2Fg%2F11c750jj2n!19sChIJdZUhsa4EMi4RuawWKcb0hl8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noqewYRFPgUqhZ-R8sodXJySyEOpFGywWK4pksoCGUN0gNZxO0V4OD4Ax8TabDI1cM9afWQhe4QSL9mPWcVkHw_-593TqxeUnTQ1WHKZanhaz-9wbrUdC6pC7J53uHt4_U4-98ZIg=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noqewYRFPgUqhZ-R8sodXJySyEOpFGywWK4pksoCGUN0gNZxO0V4OD4Ax8TabDI1cM9afWQhe4QSL9mPWcVkHw_-593TqxeUnTQ1WHKZanhaz-9wbrUdC6pC7J53uHt4_U4-98ZIg=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noqewYRFPgUqhZ-R8sodXJySyEOpFGywWK4pksoCGUN0gNZxO0V4OD4Ax8TabDI1cM9afWQhe4QSL9mPWcVkHw_-593TqxeUnTQ1WHKZanhaz-9wbrUdC6pC7J53uHt4_U4-98ZIg=w224-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Lubuk Penyengat",
+    "alamat": "Baru, Kec. Maro Sebo",
+    "rating": "4.2",
+    "jumlah_review": "38",
+    "deskripsi": "Lubuk Penyengat adalah sebuah destinasi wisata alam yang terletak di Desa Baru, Kecamatan Muaro Sebo, Kabupaten Muaro Jambi, Provinsi Jambi. Lokasinya berjarak sekitar 15 kilometer dari Kota Jambi, dengan waktu tempuh sekitar 30 menit menggunakan kendaraan roda dua.",
+    "koordinat": {
+      "latitude": -1.4921661,
+      "longitude": 103.6304833
+    },
+    "url": "https://www.google.com/maps/place/Lubuk+Penyengat/data=!4m7!3m6!1s0x2e258b0cd84c5585:0xad827e086ea8e030!8m2!3d-1.4921661!4d103.6304833!16s%2Fg%2F11j7dxwc7n!19sChIJhVVM2AyLJS4RMOCobgh-gq0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nro9NDFHTqLrAtkRm6_8vHZohisL9As3GGiH3kFQIjp7fgHpGTJU22a6ZeluhEj2CYRGx2XiyoRnVeeBhaUFNPY_Y0N6G08vskCPsvQ9JpElDabZy4qYPf_VNcEh4kh1vBATEgx9A=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nro9NDFHTqLrAtkRm6_8vHZohisL9As3GGiH3kFQIjp7fgHpGTJU22a6ZeluhEj2CYRGx2XiyoRnVeeBhaUFNPY_Y0N6G08vskCPsvQ9JpElDabZy4qYPf_VNcEh4kh1vBATEgx9A=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nro9NDFHTqLrAtkRm6_8vHZohisL9As3GGiH3kFQIjp7fgHpGTJU22a6ZeluhEj2CYRGx2XiyoRnVeeBhaUFNPY_Y0N6G08vskCPsvQ9JpElDabZy4qYPf_VNcEh4kh1vBATEgx9A=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Tugu Juang Jambi",
+    "alamat": "Selamat, Kec. Telanaipura",
+    "rating": "4.4",
+    "jumlah_review": "4.592",
+    "deskripsi": "Tugu Juang Jambi adalah sebuah monumen bersejarah yang menjadi simbol perjuangan rakyat Jambi dalam meraih kemerdekaan dan melawan penjajah. Tugu ini terletak di Jalan HOS Cokroaminoto No. 4, Kelurahan Selamat, Kecamatan Telanaipura, Kota Jambi. Lokasinya cukup strategis dan mudah ditemukan di pusat kota.",
+    "koordinat": {
+      "latitude": -1.61953,
+      "longitude": 103.5910482
+    },
+    "url": "https://www.google.com/maps/place/Tugu+Juang+Jambi/data=!4m7!3m6!1s0x2e25888809541e19:0x2fcfdb750558a7cb!8m2!3d-1.61953!4d103.5910482!16s%2Fg%2F1pp2tljl6!19sChIJGR5UCYiIJS4Ry6dYBXXbzy8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npnNalCpeP8h0oraxOhrbD9Scmiiu1yP5dP3AJkGykH7Qqsxu_l3XBdjdtqW5Weban3s3OAxhcLPfhgGsWSxywWGaSpcOTc0h6TfFvm5hhYlJxgTR1sO7andlP69bEIssnb3j5G=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npnNalCpeP8h0oraxOhrbD9Scmiiu1yP5dP3AJkGykH7Qqsxu_l3XBdjdtqW5Weban3s3OAxhcLPfhgGsWSxywWGaSpcOTc0h6TfFvm5hhYlJxgTR1sO7andlP69bEIssnb3j5G=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npnNalCpeP8h0oraxOhrbD9Scmiiu1yP5dP3AJkGykH7Qqsxu_l3XBdjdtqW5Weban3s3OAxhcLPfhgGsWSxywWGaSpcOTc0h6TfFvm5hhYlJxgTR1sO7andlP69bEIssnb3j5G=w224-h298-k-no"
+    ],
+    "kategori": [
+      "situs_sejarah"
+    ]
+  },
+  {
+    "nama": "Wisata Kampoeng Radja",
+    "alamat": "Kenali Besar",
+    "rating": "4.1",
+    "jumlah_review": "2.438",
+    "deskripsi": "Wisata Kampoeng Radja adalah sebuah taman hiburan yang populer dan menjadi salah satu destinasi wisata keluarga terbesar dan terlengkap di Jambi. Berlokasi di Jalan Lingkar Barat No. 108, Kenali Besar, Kota Baru, Kota Jambi (sekitar 10 km atau 30 menit dari pusat kota), tempat ini menawarkan berbagai wahana dan aktivitas menarik untuk segala usia.",
+    "koordinat": {
+      "latitude": -1.6342753,
+      "longitude": 103.5491872
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Kampoeng+Radja/data=!4m7!3m6!1s0x2e25887196d9ac25:0x391ca682a715da89!8m2!3d-1.6342753!4d103.5491872!16s%2Fg%2F1pzvnzhpv!19sChIJJazZlnGIJS4RidoVp4KmHDk?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npVSEQST5fO4ELAyeOlIZfIStCBjX5XCYZTS3Vncd1uhHnboqwpDi9HwejSDOVvAkvs8LZXC9VpKaTLdXCnCVe_0c6IjcoBJoc60yXFlNsXcXyNth71JaD8CJqTb_4L5OMhqtw8=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npVSEQST5fO4ELAyeOlIZfIStCBjX5XCYZTS3Vncd1uhHnboqwpDi9HwejSDOVvAkvs8LZXC9VpKaTLdXCnCVe_0c6IjcoBJoc60yXFlNsXcXyNth71JaD8CJqTb_4L5OMhqtw8=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npVSEQST5fO4ELAyeOlIZfIStCBjX5XCYZTS3Vncd1uhHnboqwpDi9HwejSDOVvAkvs8LZXC9VpKaTLdXCnCVe_0c6IjcoBJoc60yXFlNsXcXyNth71JaD8CJqTb_4L5OMhqtw8=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "World Of Water Waterpark",
+    "alamat": "Mendalo Darat",
+    "rating": "4.2",
+    "jumlah_review": "1.297",
+    "deskripsi": "World Of Water Waterpark adalah sebuah taman rekreasi air yang berlokasi di CitraRaya City, Mendalo Darat, Kecamatan Jambi Luar Kota, Kabupaten Muaro Jambi, Jambi. Tempat ini dikenal sebagai salah satu waterpark terbesar di Jambi dan menjadi destinasi populer bagi keluarga yang ingin menikmati liburan air yang seru.",
+    "koordinat": {
+      "latitude": -1.6379102,
+      "longitude": 103.5114375
+    },
+    "url": "https://www.google.com/maps/place/World+Of+Water+Waterpark/data=!4m7!3m6!1s0x2e2f7d305cfe86b5:0xcccf9fa9e360cb0f!8m2!3d-1.6379102!4d103.5114375!16s%2Fg%2F11c31n5ygw!19sChIJtYb-XDB9Ly4RD8tg46mfz8w?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipNBZJrnVU4y6Pj-zectHQkvrIFTIDLwLGwQexEb=w98-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNBZJrnVU4y6Pj-zectHQkvrIFTIDLwLGwQexEb=w408-h356-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNBZJrnVU4y6Pj-zectHQkvrIFTIDLwLGwQexEb=w341-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Danau Tangkas Desa Tanjung Lanjut Kec. Sekernan Kab. Muaro Jambi",
+    "alamat": "Unnamed Road, Tj. Lanjut, Kec. Sekernan",
+    "rating": "4.3",
+    "jumlah_review": "211",
+    "deskripsi": "Danau Tangkas adalah sebuah danau wisata yang terletak di Desa Tanjung Lanjut, Kecamatan Sekernan, Kabupaten Muaro Jambi, Jambi. Danau ini menawarkan keindahan alam yang memukau dan menjadi tempat yang tepat untuk bersantai dan menikmati udara segar.",
+    "koordinat": {
+      "latitude": -1.4785491,
+      "longitude": 103.4094327
+    },
+    "url": "https://www.google.com/maps/place/Danau+Tangkas+Desa+Tanjung+Lanjut+Kec.+Sekernan+Kab.+Muaro+Jambi/data=!4m7!3m6!1s0x2e2f5d29793c3807:0xf73aa8029ffefe1f!8m2!3d-1.4785491!4d103.4094327!16s%2Fg%2F11j95g21l_!19sChIJBzg8eSldLy4RH_7-nwKoOvc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrCUfEKTNtIQ9Fetird92AJa68J6lqUi3kADS9E4Ze9eguconqS58iI_YIBEMomqdOCQSXCuUodx0iTxf9c9akjWLwAKuKuoDmHYuDr8Wta68bypHyThf1aoqiXB3nTPFOTfGvc=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrCUfEKTNtIQ9Fetird92AJa68J6lqUi3kADS9E4Ze9eguconqS58iI_YIBEMomqdOCQSXCuUodx0iTxf9c9akjWLwAKuKuoDmHYuDr8Wta68bypHyThf1aoqiXB3nTPFOTfGvc=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrCUfEKTNtIQ9Fetird92AJa68J6lqUi3kADS9E4Ze9eguconqS58iI_YIBEMomqdOCQSXCuUodx0iTxf9c9akjWLwAKuKuoDmHYuDr8Wta68bypHyThf1aoqiXB3nTPFOTfGvc=w396-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Taman Payung",
+    "alamat": "Pulau Betung, Kec. Pemayung",
+    "rating": "4.1",
+    "jumlah_review": "510",
+    "deskripsi": "Taman Payung, juga dikenal sebagai Taman 1000 Payung, adalah sebuah objek wisata menarik di Jambi yang terletak di Jalan Jambi Muara Bulian, Desa Pulau Betung, Kecamatan Pemayung, Kabupaten Batanghari, Jambi.",
+    "koordinat": {
+      "latitude": -1.5958992,
+      "longitude": 103.4172194
+    },
+    "url": "https://www.google.com/maps/place/Taman+Payung/data=!4m7!3m6!1s0x2e2f65536a126f77:0x89da37a2098a75ca!8m2!3d-1.5958992!4d103.4172194!16s%2Fg%2F11f61gh58q!19sChIJd28SalNlLy4RynWKCaI32ok?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq-wGTwf6R2xUVMOSpOUey3AJd1MeS8gc5oZj2xAGAXsUHe4pVvOEpgti5goo4wiyRNQPxbvYqoW9tTAJEgenS0c4pCbBlLFL9OGYkHdLLfyg_TPusOAqTn2Z_AQ7FBpejSH3ZOwg=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq-wGTwf6R2xUVMOSpOUey3AJd1MeS8gc5oZj2xAGAXsUHe4pVvOEpgti5goo4wiyRNQPxbvYqoW9tTAJEgenS0c4pCbBlLFL9OGYkHdLLfyg_TPusOAqTn2Z_AQ7FBpejSH3ZOwg=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq-wGTwf6R2xUVMOSpOUey3AJd1MeS8gc5oZj2xAGAXsUHe4pVvOEpgti5goo4wiyRNQPxbvYqoW9tTAJEgenS0c4pCbBlLFL9OGYkHdLLfyg_TPusOAqTn2Z_AQ7FBpejSH3ZOwg=w529-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Wisata Mangrove Pangkal Babu",
+    "alamat": "Tungkal I, Kec. Tungkal Ilir",
+    "rating": "4.2",
+    "jumlah_review": "90",
+    "deskripsi": "Wisata Mangrove Pangkal Babu adalah sebuah kawasan ekowisata yang terletak di Dusun Bahagia, Desa Tungkal I, Kecamatan Tungkal Ilir, Kabupaten Tanjung Jabung Barat, Jambi. Tempat ini menjadi daya tarik karena keindahan hutan mangrove yang luas dan upaya pelestariannya oleh masyarakat setempat.",
+    "koordinat": {
+      "latitude": -0.8263368,
+      "longitude": 103.5418591
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Mangrove+Pangkal+Babu/data=!4m7!3m6!1s0x2e289f7ea054b667:0x770a8f1f123ff037!8m2!3d-0.8263368!4d103.5418591!16s%2Fg%2F11j0vrk8_g!19sChIJZ7ZUoH6fKC4RN_A_Eh-PCnc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrd1lNDWOuaakczrmvsLUAhkoP6Lu5ojWi_8aaQcVNA5RXE8882i52dui6fajcItz0UM1ZvE_AWvQCvHzuyfQDRsAfMV1pVDd_nXcUMUTaDtRGiEsd2yp8uI5xlXp83PE3iE-Q=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrd1lNDWOuaakczrmvsLUAhkoP6Lu5ojWi_8aaQcVNA5RXE8882i52dui6fajcItz0UM1ZvE_AWvQCvHzuyfQDRsAfMV1pVDd_nXcUMUTaDtRGiEsd2yp8uI5xlXp83PE3iE-Q=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrd1lNDWOuaakczrmvsLUAhkoP6Lu5ojWi_8aaQcVNA5RXE8882i52dui6fajcItz0UM1ZvE_AWvQCvHzuyfQDRsAfMV1pVDd_nXcUMUTaDtRGiEsd2yp8uI5xlXp83PE3iE-Q=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Water Front City",
+    "alamat": "Sungai Pengabuan, Jl. Asia No.Kel, Tungkal IV Desa, Kec. Tungkal Ilir",
+    "rating": "4.3",
+    "jumlah_review": "1.299",
+    "deskripsi": "Waterfront City adalah konsep pengembangan wilayah yang terletak di tepian perairan seperti pantai, sungai, atau danau. Kawasan ini dirancang untuk menjadi ruang publik yang menarik, lengkap dengan berbagai fasilitas rekreasi, pusat perbelanjaan, tempat ibadah, dan bahkan terminal penumpang kapal pesiar.",
+    "koordinat": {
+      "latitude": -0.8120558,
+      "longitude": 103.4604933
+    },
+    "url": "https://www.google.com/maps/place/Water+Front+City/data=!4m7!3m6!1s0x2e289eaedf5f6a0f:0xadb01b12f8fd4e4f!8m2!3d-0.8120558!4d103.4604933!16s%2Fg%2F11dyltds6j!19sChIJD2pf366eKC4RT079-BIbsK0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npra1GRy-X6XnhLH16f_JMroKGvxBHQ7yP0xGs3lmhJnObPtYL3CFvHcfNEtm4UFfmvkNM0L1suoMDvY4MnJW-Uu_noMi3eIsYOulymP0kyVHf76-FXzVZoY47oyI_6wSDVsRbi=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npra1GRy-X6XnhLH16f_JMroKGvxBHQ7yP0xGs3lmhJnObPtYL3CFvHcfNEtm4UFfmvkNM0L1suoMDvY4MnJW-Uu_noMi3eIsYOulymP0kyVHf76-FXzVZoY47oyI_6wSDVsRbi=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npra1GRy-X6XnhLH16f_JMroKGvxBHQ7yP0xGs3lmhJnObPtYL3CFvHcfNEtm4UFfmvkNM0L1suoMDvY4MnJW-Uu_noMi3eIsYOulymP0kyVHf76-FXzVZoY47oyI_6wSDVsRbi=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Taman Jomblo Kota Jambi",
+    "alamat": "Jl. Jend. Basuki Rahmat, Paal Lima",
+    "rating": "4.3",
+    "jumlah_review": "4.624",
+    "deskripsi": "Taman Jomblo Kota Jambi adalah sebuah ruang terbuka hijau yang terletak di Jalan Basuki Rahmat, tepatnya di dekat komplek perkantoran Walikota Jambi, Kota Jambi. Awalnya, tempat ini hanyalah sebuah trotoar biasa yang ramai oleh pedagang kaki lima pada sore hingga malam hari. Namun, atas inisiatif Pemerintah Kota Jambi, trotoar ini disulap menjadi taman yang cantik dan menarik.",
+    "koordinat": {
+      "latitude": -1.6304855,
+      "longitude": 103.6075253
+    },
+    "url": "https://www.google.com/maps/place/Taman+Jomblo+Kota+Jambi/data=!4m7!3m6!1s0x2e2586272d465d21:0x5e828779ada312c1!8m2!3d-1.6304855!4d103.6075253!16s%2Fg%2F11cjk3tyyp!19sChIJIV1GLSeGJS4RwRKjrXmHgl4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqHrafRuTtexEFV2ufWmeb8-lou0JK7TX6Yf6HxDpWA0sEDx3oSJWnf87YoxjEiAD5y7pCIIHoIn1ef8LBF4Eyy24rMN07WFyULlb74iQZzzNHDVZn4_mG13Q_RtGppfe05TqNb=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqHrafRuTtexEFV2ufWmeb8-lou0JK7TX6Yf6HxDpWA0sEDx3oSJWnf87YoxjEiAD5y7pCIIHoIn1ef8LBF4Eyy24rMN07WFyULlb74iQZzzNHDVZn4_mG13Q_RtGppfe05TqNb=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqHrafRuTtexEFV2ufWmeb8-lou0JK7TX6Yf6HxDpWA0sEDx3oSJWnf87YoxjEiAD5y7pCIIHoIn1ef8LBF4Eyy24rMN07WFyULlb74iQZzzNHDVZn4_mG13Q_RtGppfe05TqNb=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Bukit Tiung",
+    "alamat": "Pasar Bawah, , Ps. Atas Bangko, Kec. Bangko",
+    "rating": "4.0",
+    "jumlah_review": "122",
+    "deskripsi": "Bukit Tiung adalah sebuah kawasan wisata yang terletak di Kota Bangko, Kabupaten Merangin, Provinsi Jambi. Lebih tepatnya, lokasinya berada di Pasar Bawah dan Pasar Atas Bangko, Kecamatan Bangko.",
+    "koordinat": {
+      "latitude": -2.0738182,
+      "longitude": 102.2755095
+    },
+    "url": "https://www.google.com/maps/place/Bukit+Tiung/data=!4m7!3m6!1s0x2e2e6d6d302d8ce9:0x1f3ea591aad74a5f!8m2!3d-2.0738182!4d102.2755095!16s%2Fg%2F11bwhbnlvq!19sChIJ6YwtMG1tLi4RX0rXqpGlPh8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrkvrUViPal9WaXocOKIlvyfO5TYxyi-56rl48wFyjMMHIt2YS0uwhwkVR2khAL_bphB6e5jUMz48svrm0IRWGpfVXlE2hxIA57OLpWpWMBwbmdqJIdt2KWQlpukQiYQYaRQwQEEQ=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrkvrUViPal9WaXocOKIlvyfO5TYxyi-56rl48wFyjMMHIt2YS0uwhwkVR2khAL_bphB6e5jUMz48svrm0IRWGpfVXlE2hxIA57OLpWpWMBwbmdqJIdt2KWQlpukQiYQYaRQwQEEQ=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrkvrUViPal9WaXocOKIlvyfO5TYxyi-56rl48wFyjMMHIt2YS0uwhwkVR2khAL_bphB6e5jUMz48svrm0IRWGpfVXlE2hxIA57OLpWpWMBwbmdqJIdt2KWQlpukQiYQYaRQwQEEQ=w397-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Candi Muaro Jambi",
+    "alamat": "Muaro Jambi, Kec. Maro Sebo",
+    "rating": "4.5",
+    "jumlah_review": "2.090",
+    "deskripsi": "Satuan Ruang Geografis Muarajambi merupakan peninggalan Kerajaan Malayu Kuno dan Sriwijaya, yang dikenal sebagai pusat peribadatan agama Buddha terluas di Indonesia pada abad ke-7 hingga ke-13 Masehi. \nDalam konteks sejarah regional, Kerajaan Malayu dan Sriwijaya diakui memiliki pengaruh yang luas, tidak hanya di wilayah Nusantara, tetapi juga hingga ke daratan Asia Tenggara seperti Malaysia dan Thailand. Kedua kerajaan ini memainkan peran penting dalam percaturan politik dan ekonomi internasion...",
+    "koordinat": {
+      "latitude": -1.4779213,
+      "longitude": 103.6670838
+    },
+    "url": "https://www.google.com/maps/place/Candi+Muaro+Jambi/data=!4m7!3m6!1s0x2e25f3532e01e437:0x9251412ef519ac6f!8m2!3d-1.4779213!4d103.6670838!16s%2Fm%2F03h3n81!19sChIJN-QBLlPzJS4Rb6wZ9S5BUZI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipPSexkn9VhEVAAvauyQEIAUJe4UriaH5pkRnf0m=w153-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPSexkn9VhEVAAvauyQEIAUJe4UriaH5pkRnf0m=w427-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPSexkn9VhEVAAvauyQEIAUJe4UriaH5pkRnf0m=w530-h298-k-no"
+    ],
+    "kategori": [
+      "candi",
+      "situs_sejarah",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Taman Anggrek Sri Sudewi - Jambi",
+    "alamat": "Jl. A Yani, Telanaipura, Kec. Telanaipura",
+    "rating": "4.2",
+    "jumlah_review": "1.820",
+    "deskripsi": "Taman Anggrek Sri Soedewi adalah sebuah taman agrowisata dan edukasi yang terletak di Jalan Jenderal Ahmad Yani, Kecamatan Telanaipura, Kota Jambi, dekat dengan komplek perkantoran Pemerintah Provinsi Jambi. Taman ini memiliki luas sekitar 2,5 hektar dan menyimpan berbagai jenis tanaman anggrek.",
+    "koordinat": {
+      "latitude": -1.6058921,
+      "longitude": 103.5827289
+    },
+    "url": "https://www.google.com/maps/place/Taman+Anggrek+Sri+Sudewi+-+Jambi/data=!4m7!3m6!1s0x2e25885c09ea9c0d:0x3093b197592c5bae!8m2!3d-1.6058921!4d103.5827289!16s%2Fg%2F11bysjspss!19sChIJDZzqCVyIJS4RrlssWZexkzA?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npXhuERuAyxQyKSw3AKz2H-uCHvxb2dbiDf5ydouxMxrsqk_VwDnuwT9FamZmgODvri-5DlMtTsxqohSrcVthvjz0e2x5EIpcTgyDQtaLCC3sP936yFuI3pi0VFDH9fFtkd4V-OIw=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npXhuERuAyxQyKSw3AKz2H-uCHvxb2dbiDf5ydouxMxrsqk_VwDnuwT9FamZmgODvri-5DlMtTsxqohSrcVthvjz0e2x5EIpcTgyDQtaLCC3sP936yFuI3pi0VFDH9fFtkd4V-OIw=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npXhuERuAyxQyKSw3AKz2H-uCHvxb2dbiDf5ydouxMxrsqk_VwDnuwT9FamZmgODvri-5DlMtTsxqohSrcVthvjz0e2x5EIpcTgyDQtaLCC3sP936yFuI3pi0VFDH9fFtkd4V-OIw=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Menara Gentala Arasy",
+    "alamat": "Arab Melayu, Kec. Pelayangan",
+    "rating": "4.5",
+    "jumlah_review": "2.702",
+    "deskripsi": "Menara Gentala Arasy adalah sebuah kompleks ikonik yang menjadi salah satu landmark utama di Kota Jambi. Terletak di Seberang Kota Jambi, tepatnya di Kelurahan Arab Melayu, Kecamatan Pelayangan Jambi, menara ini terhubung dengan pusat kota melalui Jembatan Pedestrian Gentala Arasy yang membentang di atas Sungai Batanghari.",
+    "koordinat": {
+      "latitude": -1.5849803,
+      "longitude": 103.6142392
+    },
+    "url": "https://www.google.com/maps/place/Menara+Gentala+Arasy/data=!4m7!3m6!1s0x2e2589223f96305b:0x679d1039e56eef15!8m2!3d-1.5849803!4d103.6142392!16s%2Fg%2F11jn_swb_l!19sChIJWzCWPyKJJS4RFe9u5TkQnWc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npoPIhL7SRAuEsiXXx36amK-Y-qU8XkfHZm_RkXQSvscAj2CK70zRMizpNQfX1eacKYGNAwWXUTNETrVniNbNmTAiTH_YMM4UV3quuO19c0vy_yibmXnO0IMQpWwQKcLGxg1sNH=w86-h152-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npoPIhL7SRAuEsiXXx36amK-Y-qU8XkfHZm_RkXQSvscAj2CK70zRMizpNQfX1eacKYGNAwWXUTNETrVniNbNmTAiTH_YMM4UV3quuO19c0vy_yibmXnO0IMQpWwQKcLGxg1sNH=w408-h725-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npoPIhL7SRAuEsiXXx36amK-Y-qU8XkfHZm_RkXQSvscAj2CK70zRMizpNQfX1eacKYGNAwWXUTNETrVniNbNmTAiTH_YMM4UV3quuO19c0vy_yibmXnO0IMQpWwQKcLGxg1sNH=w224-h398-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Semagi Water Park",
+    "alamat": "Sungai Mengkuang, Kec. Rimbo Tengah",
+    "rating": "4.1",
+    "jumlah_review": "525",
+    "deskripsi": "Semagi Water Park adalah taman rekreasi air yang terletak di Sungai Mengkuang, Rimbo Tengah, Bungo, Kabupaten Bungo, Jambi. Tempat ini menawarkan berbagai wahana air yang menarik, menjadikannya pilihan populer untuk liburan keluarga.",
+    "koordinat": {
+      "latitude": -1.5397483,
+      "longitude": 102.1037099
+    },
+    "url": "https://www.google.com/maps/place/Semagi+Water+Park/data=!4m7!3m6!1s0x2e2e9e436fb496e9:0xa27153f17c542692!8m2!3d-1.5397483!4d102.1037099!16s%2Fg%2F11b7q0w0vd!19sChIJ6Za0b0OeLi4RkiZUfPFTcaI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqfHcFkhtMhj-8zmkquCaBkNaLzRSn0CQYX7ajdXkCwrlB2RV6U2uBwW5yO2KcocbmzNv1Ie8iY3jYOS7szygKhK3B0jOkGBVIIl02k0xV6N28JD068d8d-74fXmjEN3Vlpb8rnWg=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqfHcFkhtMhj-8zmkquCaBkNaLzRSn0CQYX7ajdXkCwrlB2RV6U2uBwW5yO2KcocbmzNv1Ie8iY3jYOS7szygKhK3B0jOkGBVIIl02k0xV6N28JD068d8d-74fXmjEN3Vlpb8rnWg=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqfHcFkhtMhj-8zmkquCaBkNaLzRSn0CQYX7ajdXkCwrlB2RV6U2uBwW5yO2KcocbmzNv1Ie8iY3jYOS7szygKhK3B0jOkGBVIIl02k0xV6N28JD068d8d-74fXmjEN3Vlpb8rnWg=w529-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Air Terjun Sigerincing",
+    "alamat": "Tuo, Kec. Lembah Masurai",
+    "rating": "4.4",
+    "jumlah_review": "316",
+    "deskripsi": "Air Terjun Sigerincing adalah air terjun yang setinggi sekira kurang lebih 40-60 meter ini terletak di desa Dusun Tuo, kecamatan Lembah Masurai, kabupaten Merangin, Jambi. Air terjun ini merupakan bagian dari aliran sungai Batang Tembesi yang berhulu di Gunung Masurai.\n\n\n== Referensi ==",
+    "koordinat": {
+      "latitude": -2.378222,
+      "longitude": 101.9079559
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Sigerincing/data=!4m7!3m6!1s0x2e2df8376134025d:0x45eff5bab5fecc80!8m2!3d-2.378222!4d101.9079559!16s%2Fg%2F11c37znx9r!19sChIJXQI0YTf4LS4RgMz-tbr170U?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noyqTEjCoPHRb5jalJs6LTXWNas8E3eB6ZuWCeMYDi5PaqLmrlhxBEMItq9vhcnPwjFJDkjOlW1m3MCtEMm13-Ls1vNtwVziuOa48mLsYKrnW7FgOaPtxcJHFx7Ab7Um8Q8N8Ph=w86-h152-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noyqTEjCoPHRb5jalJs6LTXWNas8E3eB6ZuWCeMYDi5PaqLmrlhxBEMItq9vhcnPwjFJDkjOlW1m3MCtEMm13-Ls1vNtwVziuOa48mLsYKrnW7FgOaPtxcJHFx7Ab7Um8Q8N8Ph=w408-h724-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noyqTEjCoPHRb5jalJs6LTXWNas8E3eB6ZuWCeMYDi5PaqLmrlhxBEMItq9vhcnPwjFJDkjOlW1m3MCtEMm13-Ls1vNtwVziuOa48mLsYKrnW7FgOaPtxcJHFx7Ab7Um8Q8N8Ph=w224-h397-k-no"
+    ],
+    "kategori": [
+      "gunung",
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Bukit Khayangan, Sungai Penuh, Kerinci",
+    "alamat": "Renah Kayu Embun, Kec. Kumun Debai",
+    "rating": "4.5",
+    "jumlah_review": "1.455",
+    "deskripsi": "Bukit Khayangan adalah destinasi wisata alam yang terletak di Desa Renah Kayu Embun, Kota Sungai Penuh, Kabupaten Kerinci, Jambi. Bukit ini berada di barisan Gunung Raya dan berbatasan langsung dengan Taman Nasional Kerinci Seblat, dengan ketinggian sekitar 1.500 - 2.000 meter di atas permukaan laut.",
+    "koordinat": {
+      "latitude": -2.1094083,
+      "longitude": 101.3887674
+    },
+    "url": "https://www.google.com/maps/place/Bukit+Khayangan,+Sungai+Penuh,+Kerinci/data=!4m7!3m6!1s0x2e2d9f789cb8069f:0xa776e59ccf64142c!8m2!3d-2.1094083!4d101.3887674!16s%2Fg%2F1s052gf0l!19sChIJnwa4nHifLS4RLBRkz5zldqc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqnn3-fE848OY_19lX474pZNOza-gubnZTnHvZAH-xZhPyG_fkZz2AQTszwcK4Wf3eIqXn6eGjbGxP4epCPZBk6RdSHXRtYOdtw0C1QLvEXEo3NhOqjCii_vJgUWqzDSIqgjoG0=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqnn3-fE848OY_19lX474pZNOza-gubnZTnHvZAH-xZhPyG_fkZz2AQTszwcK4Wf3eIqXn6eGjbGxP4epCPZBk6RdSHXRtYOdtw0C1QLvEXEo3NhOqjCii_vJgUWqzDSIqgjoG0=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqnn3-fE848OY_19lX474pZNOza-gubnZTnHvZAH-xZhPyG_fkZz2AQTszwcK4Wf3eIqXn6eGjbGxP4epCPZBk6RdSHXRtYOdtw0C1QLvEXEo3NhOqjCii_vJgUWqzDSIqgjoG0=w529-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Jambi Seberang",
+    "alamat": "Jl. KH. M. Ja'afar, Arab Melayu, Kec. Pelayangan",
+    "rating": "4.7",
+    "jumlah_review": "208",
+    "deskripsi": "Jambi Seberang adalah wilayah di Kota Jambi yang terletak di seberang Sungai Batanghari. Wilayah ini dikenal sebagai kawasan yang memiliki sejarah panjang, kental dengan budaya Melayu Jambi, dan memiliki banyak peninggalan bersejarah.",
+    "koordinat": {
+      "latitude": -1.584217,
+      "longitude": 103.6144727
+    },
+    "url": "https://www.google.com/maps/place/Jambi+Seberang/data=!4m7!3m6!1s0x2e258922f7036063:0xdbe9da7ac135c8d1!8m2!3d-1.584217!4d103.6144727!16s%2Fg%2F11ddzh_6kg!19sChIJY2AD9yKJJS4R0cg1wXra6ds?authuser=0&hl=id&rclk=1",
+    "provinsi": "Jambi",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq-qpIK_yNd0B2cNm2MzLAVmt7dKVisAJItUtQnF6S7k4PuoW700H_ncVL3l5kJ0u_Jfci0nL_-8p8W43Xk2Jg5pj5DaiwX-vkZuLAtOA7D9eCE_zj_PX4n2ZpXVW_wJxPo96O4bA=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq-qpIK_yNd0B2cNm2MzLAVmt7dKVisAJItUtQnF6S7k4PuoW700H_ncVL3l5kJ0u_Jfci0nL_-8p8W43Xk2Jg5pj5DaiwX-vkZuLAtOA7D9eCE_zj_PX4n2ZpXVW_wJxPo96O4bA=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq-qpIK_yNd0B2cNm2MzLAVmt7dKVisAJItUtQnF6S7k4PuoW700H_ncVL3l5kJ0u_Jfci0nL_-8p8W43Xk2Jg5pj5DaiwX-vkZuLAtOA7D9eCE_zj_PX4n2ZpXVW_wJxPo96O4bA=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  }
+]

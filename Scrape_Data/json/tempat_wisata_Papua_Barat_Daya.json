@@ -1,0 +1,43 @@
+[
+  {
+    "nama": "Rumah Etnik Papua",
+    "alamat": "Aimas, Kec. Aimas",
+    "rating": "4.7",
+    "jumlah_review": "222",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.9713386,
+      "longitude": 131.340271
+    },
+    "url": "https://www.google.com/maps/place/Rumah+Etnik+Papua/data=!4m7!3m6!1s0x2d5bf93ba8f0b3f7:0xe82ed12b8348bf7f!8m2!3d-0.9713386!4d131.340271!16s%2Fg%2F11pd3tg2vz!19sChIJ97PwqDv5Wy0Rf79IgyvRLug?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat Daya",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipOt_QDpx21oEO-Nhzqtr4Yt9-8_IzNGhsGCGFYs=w153-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipOt_QDpx21oEO-Nhzqtr4Yt9-8_IzNGhsGCGFYs=w427-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipOt_QDpx21oEO-Nhzqtr4Yt9-8_IzNGhsGCGFYs=w530-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Kais darat Papua Barat daya",
+    "alamat": "Morombuy, Merdey, Papua Bar.",
+    "rating": "5.0",
+    "jumlah_review": "1",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -1.3361154,
+      "longitude": 133.1747162
+    },
+    "url": "https://www.google.com/maps/place/Kais+darat+Papua+Barat+daya/data=!4m7!3m6!1s0x2d50ff6c7f6b616f:0xce1ed461b4351285!8m2!3d-1.3361154!4d133.1747162!16s%2Fg%2F11vkrmx8_x!19sChIJb2Frf2z_UC0RhRI1tGHUHs4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Barat Daya",
+    "foto": [
+      "https://lh3.googleusercontent.com/a-/ALV-UjVhABmMT0_6JdoDNEvqryMVhaOSpDHP8Pkdywo1ovFaBx8eeQ8n=w36-h36-p-rp-mo-br100",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no6cWKe9Fx3mhhWpdWV8Lo2PP_pURXRAuqtQ29dwYwgNJoxqLffJMVXX2aJPezwBEdPlWsRbcan-Qd03zu6e2yfnyRsp6atPh07BD7QxcN50QUsROdhPTSzi9_GE2h961dGl2ci=w156-h114-p-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  }
+]

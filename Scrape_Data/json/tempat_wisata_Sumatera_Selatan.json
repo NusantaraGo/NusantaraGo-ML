@@ -1,0 +1,749 @@
+[
+  {
+    "nama": "Air Terjun Bedegung",
+    "alamat": "Air Terjun Curup Tenang, Bedegung, Kec. Tj. Agung",
+    "rating": "4.5",
+    "jumlah_review": "673",
+    "deskripsi": "Air Terjun Bedegung adalah sebuah air terjun yang terletak di Air Terjun Curup Tenang, Bedegung, Kec. Tj. Agung, Kabupaten Lampung Selatan, Provinsi Lampung. Air terjun ini terkenal karena keindahan alamnya yang memiliki air terjun yang indah dan bersejarah.",
+    "koordinat": {
+      "latitude": -4.0592127,
+      "longitude": 103.7668845
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Bedegung/data=!4m7!3m6!1s0x2e39c4f108a54b6d:0xe1b35d0cc53ea2da!8m2!3d-4.0592127!4d103.7668845!16s%2Fg%2F11c5s7tg2v!19sChIJbUulCPHEOS4R2qI-xQxds-E?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqMsNXk7AK74HH0vMI8TY6CcqZblfixAWqo1a_7AxwkrUD0-yI2hcdyXNvDP_2GVjq12cXLoYFUwKt4DZMZykiG0sevURggG6TcZMs9Wd1gULkb3ZI1k2stykgv1MWMvyMWYqxh=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqMsNXk7AK74HH0vMI8TY6CcqZblfixAWqo1a_7AxwkrUD0-yI2hcdyXNvDP_2GVjq12cXLoYFUwKt4DZMZykiG0sevURggG6TcZMs9Wd1gULkb3ZI1k2stykgv1MWMvyMWYqxh=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqMsNXk7AK74HH0vMI8TY6CcqZblfixAWqo1a_7AxwkrUD0-yI2hcdyXNvDP_2GVjq12cXLoYFUwKt4DZMZykiG0sevURggG6TcZMs9Wd1gULkb3ZI1k2stykgv1MWMvyMWYqxh=w224-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Danau Palem Raya",
+    "alamat": "Talang Aur, Kec. Indralaya",
+    "rating": "4.4",
+    "jumlah_review": "168",
+    "deskripsi": "Danau Palem Raya adalah sebuah danau yang terletak di Talang Aur, Kec. Indralaya, Kabupaten Lampung Selatan, Provinsi Lampung. Danau ini terkenal karena keindahan alamnya yang memiliki danau yang indah dan bersejarah.",
+    "koordinat": {
+      "latitude": -3.2165625,
+      "longitude": 104.6981875
+    },
+    "url": "https://www.google.com/maps/place/Danau+Palem+Raya/data=!4m7!3m6!1s0x2e3b97405789b00b:0xf806694bd38348bc!8m2!3d-3.2165625!4d104.6981875!16s%2Fg%2F11p56l6b70!19sChIJC7CJV0CXOy4RvEiD00tpBvg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqyIWHFaukSxoiKFWvStoNvgtAoXsVMD5aM4shT-qxmPTQoHhZiExES15ljxPSjgbmnVdtTaHHdw91JOgMf9_bdDGnY89LX0Id6MTa6T0iqLberm3UkchDsxUQsPKOmR8bwxGUi=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqyIWHFaukSxoiKFWvStoNvgtAoXsVMD5aM4shT-qxmPTQoHhZiExES15ljxPSjgbmnVdtTaHHdw91JOgMf9_bdDGnY89LX0Id6MTa6T0iqLberm3UkchDsxUQsPKOmR8bwxGUi=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqyIWHFaukSxoiKFWvStoNvgtAoXsVMD5aM4shT-qxmPTQoHhZiExES15ljxPSjgbmnVdtTaHHdw91JOgMf9_bdDGnY89LX0Id6MTa6T0iqLberm3UkchDsxUQsPKOmR8bwxGUi=w397-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Wisata Alam Bukit Sulap Taman Nasional Kerinci Seblat",
+    "alamat": "Ulak Surung, Kec. Lubuk Linggau Utara II",
+    "rating": "4.2",
+    "jumlah_review": "1.333",
+    "deskripsi": "Wisata Alam Bukit Sulap Taman Nasional Kerinci Seblat adalah sebuah wisata yang terletak di Ulak Surung, Kec. Lubuk Linggau Utara II, Kabupaten Lubuk Linggau, Provinsi Sumatera Selatan. Wisata ini menjadi daya tarik karena keindahan alamnya yang memiliki bukit yang indah dan bersejarah.",
+    "koordinat": {
+      "latitude": -3.2858711,
+      "longitude": 102.8569352
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Alam+Bukit+Sulap+Taman+Nasional+Kerinci+Seblat/data=!4m7!3m6!1s0x2e30e104e6279947:0xa3d10db2fea3182e!8m2!3d-3.2858711!4d102.8569352!16s%2Fg%2F11b6xd4zd2!19sChIJR5kn5gThMC4RLhij_rIN0aM?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqYiTOIb70LRA6UJ42SiS8Rdmht1srmEuWSmnwZ75dY3hlF4wNGzfIsBjXD7TITCC-jgVA6GjSIKMP7OtnA0lV3LbypCF36VtcSVa_fAfQUjM_3kKFCC2Gy9TMjSqDhjHDQ2BOhPA=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqYiTOIb70LRA6UJ42SiS8Rdmht1srmEuWSmnwZ75dY3hlF4wNGzfIsBjXD7TITCC-jgVA6GjSIKMP7OtnA0lV3LbypCF36VtcSVa_fAfQUjM_3kKFCC2Gy9TMjSqDhjHDQ2BOhPA=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqYiTOIb70LRA6UJ42SiS8Rdmht1srmEuWSmnwZ75dY3hlF4wNGzfIsBjXD7TITCC-jgVA6GjSIKMP7OtnA0lV3LbypCF36VtcSVa_fAfQUjM_3kKFCC2Gy9TMjSqDhjHDQ2BOhPA=w529-h298-k-no"
+    ],
+    "kategori": [
+      "gunung",
+      "taman",
+      "taman_nasional",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Wisata Gua Tulung",
+    "alamat": "Jungai, Kec. Rambang Kapak Tengah",
+    "rating": "4.8",
+    "jumlah_review": "10",
+    "deskripsi": "Wisata Gua Tulung adalah sebuah wisata yang terletak di Jungai, Kec. Rambang Kapak Tengah, Kabupaten Lubuk Linggau, Provinsi Sumatera Selatan. Wisata ini menjadi daya tarik karena keindahan alamnya yang memiliki gua yang indah dan bersejarah.",
+    "koordinat": {
+      "latitude": -3.5587521,
+      "longitude": 104.2761353
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Gua+Tulung/data=!4m7!3m6!1s0x2e3a2bcd478762ed:0xd2f556bb36c26156!8m2!3d-3.5587521!4d104.2761353!16s%2Fg%2F11lkpnhl8g!19sChIJ7WKHR80rOi4RVmHCNrtW9dI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqV_LNQPwb38IpzfXZq6ddUSAc3RYPjmjVY1P_U4gneA850rguIUOGLnQfQxf6DOynRlY38uTUae1hERBC0XZwOOsBYodGch-Jo3w49hpYW7tSizy8wRPOvc5m1LZEGuMQ4SpGn=w86-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqV_LNQPwb38IpzfXZq6ddUSAc3RYPjmjVY1P_U4gneA850rguIUOGLnQfQxf6DOynRlY38uTUae1hERBC0XZwOOsBYodGch-Jo3w49hpYW7tSizy8wRPOvc5m1LZEGuMQ4SpGn=w408-h408-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npv288aEAA20_WzqbOxjLR_FU9Mj5riKoCz1qqAa0zf8ulN1M_asKQQybEzWNi52g8qihDfz2lumt2nYFTbu7Y80sIlbLCofnLrphpChPbCi-_knF50OtdG2DcgDuiHrwmLprE=w360-h640-k-no"
+    ],
+    "kategori": [
+      "goa"
+    ]
+  },
+  {
+    "nama": "Kampung Wisata Hadrami Al Munawar",
+    "alamat": "Munawar, Seberang Ulu II",
+    "rating": "4.6",
+    "jumlah_review": "2.360",
+    "deskripsi": "Kampung Wisata Hadrami Al Munawar adalah sebuah perkampungan unik di Palembang yang dihuni oleh masyarakat keturunan Arab Hadrami. Kampung ini terletak di Kelurahan 13 Ulu, Kecamatan Seberang Ulu II, Kota Palembang, tepat di tepi Sungai Musi.",
+    "koordinat": {
+      "latitude": -2.987663,
+      "longitude": 104.7730714
+    },
+    "url": "https://www.google.com/maps/place/Kampung+Wisata+%22+Hadrami+%22+Al+Munawar/data=!4m7!3m6!1s0x2e3b7618500b513d:0xbb4bec34ea02b949!8m2!3d-2.987663!4d104.7730714!16s%2Fg%2F11c6m3hmmg!19sChIJPVELUBh2Oy4RSbkC6jTsS7s?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noo14iwZ7SJLvkNXd4fu2rQ2YY28RMi_Kkmap-FwburzvR4F40woM1L_xrA5bJL06gGWsJOO_yCyRARqm7SNG1viLVwUzuj30iyTgUhYJs5ajcD8ZPqMb28mDIw7QQ0H-mSfu_q=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noo14iwZ7SJLvkNXd4fu2rQ2YY28RMi_Kkmap-FwburzvR4F40woM1L_xrA5bJL06gGWsJOO_yCyRARqm7SNG1viLVwUzuj30iyTgUhYJs5ajcD8ZPqMb28mDIw7QQ0H-mSfu_q=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noo14iwZ7SJLvkNXd4fu2rQ2YY28RMi_Kkmap-FwburzvR4F40woM1L_xrA5bJL06gGWsJOO_yCyRARqm7SNG1viLVwUzuj30iyTgUhYJs5ajcD8ZPqMb28mDIw7QQ0H-mSfu_q=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Danau Buatan Air Batu",
+    "alamat": "Air Batu, Kec. Talang Klp., Kab. Banyuasin",
+    "rating": "4.3",
+    "jumlah_review": "612",
+    "deskripsi": "Danau Buatan Air Batu adalah sebuah danau yang terletak di Air Batu, Kec. Talang Klp., Kab. Banyuasin, Provinsi Sumatera Selatan. Danau ini terkenal karena keindahan alamnya yang memiliki danau yang indah dan bersejarah.",
+    "koordinat": {
+      "latitude": -2.9019557,
+      "longitude": 104.6172214
+    },
+    "url": "https://www.google.com/maps/place/Danau+Buatan+Air+Batu/data=!4m7!3m6!1s0x2e3b0c8c806f844b:0xb13fe606fcca0d5!8m2!3d-2.9019557!4d104.6172214!16s%2Fg%2F11b7hnl730!19sChIJS4RvgIwMOy4R1aDMb2D-Ews?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqaIsHUR7KUPB_pJEYWNWx566pXpzXSpfVz7NK9LkaqhHzLzr-0mE37IDWoFrBZfGNQ5xTQBkcJFAkoF-8z-yDP6hZ5I7lLc7vBO2zQ1eUw8purMUrkcCXXOTBuxF35I3xU_Y1rIQ=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqaIsHUR7KUPB_pJEYWNWx566pXpzXSpfVz7NK9LkaqhHzLzr-0mE37IDWoFrBZfGNQ5xTQBkcJFAkoF-8z-yDP6hZ5I7lLc7vBO2zQ1eUw8purMUrkcCXXOTBuxF35I3xU_Y1rIQ=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqaIsHUR7KUPB_pJEYWNWx566pXpzXSpfVz7NK9LkaqhHzLzr-0mE37IDWoFrBZfGNQ5xTQBkcJFAkoF-8z-yDP6hZ5I7lLc7vBO2zQ1eUw8purMUrkcCXXOTBuxF35I3xU_Y1rIQ=w397-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Taman Wisata Alam Punti Kayu",
+    "alamat": "Jl. Kolonel H. Barlian, Srijaya, Kec. Alang-Alang Lebar",
+    "rating": "4.2",
+    "jumlah_review": "7.783",
+    "deskripsi": "Taman Wisata Alam (TWA) Punti Kayu adalah sebuah kawasan pelestarian alam yang dimanfaatkan untuk kegiatan pariwisata alam dan rekreasi di Palembang, Sumatera Selatan . Terletak di tengah kota Palembang - tepatnya di kawasan Km.7 Palembang, Punti Kayu menjadi tempat liburan favorit yang ramai dikunjungi warga kota Palembang khususnya pada akhir pekan dan hari-hari libur. Kawasan ini dilengkapi dengan fasilitas flying fox, taman bermain, miniatur 7 keajaiban dunia, danau, waterpark, dan berbagai ...",
+    "koordinat": {
+      "latitude": -2.9437262,
+      "longitude": 104.7282731
+    },
+    "url": "https://www.google.com/maps/place/Taman+Wisata+Alam+Punti+Kayu/data=!4m7!3m6!1s0x2e3b74795c704869:0x30e21e94d2770c6!8m2!3d-2.9437262!4d104.7282731!16s%2Fg%2F122d8c2g!19sChIJaUhwXHl0Oy4RxnAnTekhDgM?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrZNcbrmC-m5ZygORc9eZWJmcimKb0cfc5pqta40yJ_Bq9xkWuW2AmdXT2A3KJSB8y2CHW0-wzG1GbpFaMypVTRN1lzzEPMKYo-3Kags5QzG02VpiMbufjtV8E9q2uSomPc3k4I=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrZNcbrmC-m5ZygORc9eZWJmcimKb0cfc5pqta40yJ_Bq9xkWuW2AmdXT2A3KJSB8y2CHW0-wzG1GbpFaMypVTRN1lzzEPMKYo-3Kags5QzG02VpiMbufjtV8E9q2uSomPc3k4I=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrZNcbrmC-m5ZygORc9eZWJmcimKb0cfc5pqta40yJ_Bq9xkWuW2AmdXT2A3KJSB8y2CHW0-wzG1GbpFaMypVTRN1lzzEPMKYo-3Kags5QzG02VpiMbufjtV8E9q2uSomPc3k4I=w397-h298-k-no"
+    ],
+    "kategori": [
+      "danau",
+      "taman",
+      "taman_rekreasi",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Danau Dedughuk",
+    "alamat": "Segamit, Kec. Semendo Darat Ulu",
+    "rating": "4.6",
+    "jumlah_review": "128",
+    "deskripsi": "Danau Dedughuk adalah sebuah danau yang terletak di Segamit, Kec. Semendo Darat Ulu, Kabupaten Banyuasin, Provinsi Sumatera Selatan. Danau ini terkenal karena keindahan alamnya yang memiliki danau yang indah dan bersejarah.",
+    "koordinat": {
+      "latitude": -4.2024149,
+      "longitude": 103.442384
+    },
+    "url": "https://www.google.com/maps/place/Danau+Dedughuk/data=!4m7!3m6!1s0x2e377eb5527f1799:0x7e102f65d04ad217!8m2!3d-4.2024149!4d103.442384!16s%2Fg%2F11f_p3gtby!19sChIJmRd_UrV-Ny4RF9JK0GUvEH4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqVyGOhKvSGpLiruxWhhjpOXPfaiNg_fqs4mgWziGWLNW_99fGjSxY84evs308k_zWN7G8oPET3u4YuKccvOk4BwarwHQV-eozZU2idi5NYJeElq1g6n0nuTO76eQRbu6fMrXzk0A=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqVyGOhKvSGpLiruxWhhjpOXPfaiNg_fqs4mgWziGWLNW_99fGjSxY84evs308k_zWN7G8oPET3u4YuKccvOk4BwarwHQV-eozZU2idi5NYJeElq1g6n0nuTO76eQRbu6fMrXzk0A=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqVyGOhKvSGpLiruxWhhjpOXPfaiNg_fqs4mgWziGWLNW_99fGjSxY84evs308k_zWN7G8oPET3u4YuKccvOk4BwarwHQV-eozZU2idi5NYJeElq1g6n0nuTO76eQRbu6fMrXzk0A=w397-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Taman jokis",
+    "alamat": "jembatan, Kenten laut sebrang, Jl.nanguning, Tanah MAS, Kec. Talang Klp., Kab. Banyuasin",
+    "rating": "4.5",
+    "jumlah_review": "126",
+    "deskripsi": "Taman Jokis, juga dikenal sebagai Taman Bunga Celosia Jokis, adalah sebuah taman wisata yang terletak di Kenten Laut, Kabupaten Banyuasin, Sumatera Selatan, dekat Palembang. Taman ini menawarkan berbagai spot foto menarik dengan latar belakang ribuan bunga celosia yang indah.",
+    "koordinat": {
+      "latitude": -2.8837991,
+      "longitude": 104.7756977
+    },
+    "url": "https://www.google.com/maps/place/Taman+jokis/data=!4m7!3m6!1s0x2e3b71028f2eeb37:0x4ce1b986fd5cba20!8m2!3d-2.8837991!4d104.7756977!16s%2Fg%2F11qqymg1pn!19sChIJN-sujwJxOy4RILpc_Ya54Uw?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noxHtmr7sX6V5vB-BLeSkf2EwfLLoM1lm3Ol7wC92T2JacRe0HPLc5KFDTJ4il-GRLR_43Vv3PWc9g_YAGDi-LknZTrLElbdzTVQtC-NT4-jKCwyzLUgZ7LAEVv9zNF32J_U_Yo=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noxHtmr7sX6V5vB-BLeSkf2EwfLLoM1lm3Ol7wC92T2JacRe0HPLc5KFDTJ4il-GRLR_43Vv3PWc9g_YAGDi-LknZTrLElbdzTVQtC-NT4-jKCwyzLUgZ7LAEVv9zNF32J_U_Yo=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noxHtmr7sX6V5vB-BLeSkf2EwfLLoM1lm3Ol7wC92T2JacRe0HPLc5KFDTJ4il-GRLR_43Vv3PWc9g_YAGDi-LknZTrLElbdzTVQtC-NT4-jKCwyzLUgZ7LAEVv9zNF32J_U_Yo=w224-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Museum Bayt Al-Qur'an Al-akbar",
+    "alamat": "Jl. Moh. Amin, Gandus, Kec. Gandus",
+    "rating": "4.6",
+    "jumlah_review": "5.322",
+    "deskripsi": "Museum Bayt Al-Qur'an Al-Akbar, juga dikenal sebagai Al-Qur'an Raksasa, adalah sebuah museum yang menyimpan Al-Qur'an ukir terbesar di dunia. Terletak di Jalan Moh. Amin, Gandus, Kecamatan Gandus, Kota Palembang, museum ini menjadi ikon wisata religi yang populer di Palembang.",
+    "koordinat": {
+      "latitude": -3.011463,
+      "longitude": 104.704183
+    },
+    "url": "https://www.google.com/maps/place/Museum+Bayt+Al-Qur%27an+Al-akbar/data=!4m7!3m6!1s0x2e3b9fcdb814b867:0x593219792e75b507!8m2!3d-3.011463!4d104.704183!16s%2Fg%2F11b7ztqpqy!19sChIJZ7gUuM2fOy4RB7V1LnkZMlk?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrdPPRrB7JN50j3HuWlcuJrLgXDqZziyl3C6vK3uCLt5VwgZZllXVQa2dxgpoh1LQ6D1skR4eAnjncJg45HwmxSOmj5kt96hF-eEr78crIY7LFWEP28VeOXe3M1kDHCdSb69rh6=w86-h101-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrdPPRrB7JN50j3HuWlcuJrLgXDqZziyl3C6vK3uCLt5VwgZZllXVQa2dxgpoh1LQ6D1skR4eAnjncJg45HwmxSOmj5kt96hF-eEr78crIY7LFWEP28VeOXe3M1kDHCdSb69rh6=w408-h482-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrdPPRrB7JN50j3HuWlcuJrLgXDqZziyl3C6vK3uCLt5VwgZZllXVQa2dxgpoh1LQ6D1skR4eAnjncJg45HwmxSOmj5kt96hF-eEr78crIY7LFWEP28VeOXe3M1kDHCdSb69rh6=w251-h298-k-no"
+    ],
+    "kategori": [
+      "museum"
+    ]
+  },
+  {
+    "nama": "Wisata Tirto Mulyo Desa Tegal Mulyo",
+    "alamat": "Tegal Mulyo, Kec. Keluang, Sumatera Selatan",
+    "rating": "4.3",
+    "jumlah_review": "43",
+    "deskripsi": "Wahana Tirto Mulyo adalah sebuah destinasi wisata yang menawarkan berbagai wahana permainan air dan darat yang cocok untuk keluarga. Tempat ini menjadi pilihan rekreasi bagi warga sekitar dan pengunjung yang mencari hiburan di Kabupaten Musi Banyuasin.",
+    "koordinat": {
+      "latitude": -2.6218728,
+      "longitude": 104.0039822
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Tirto+Mulyo+Desa+Tegal+Mulyo/data=!4m7!3m6!1s0x2e3ac5a0dec95991:0xbf1938684b716889!8m2!3d-2.6218728!4d104.0039822!16s%2Fg%2F11r2s88lxf!19sChIJkVnJ3qDFOi4RiWhxS2g4Gb8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npH5--hI1XyAaC7E_YKqGHja3qxqnZXo0zw767S5-kub-jhiom_ONZh-wr182OpcQ4Ywt5wHdPGgfBhRtHQRn7rRJBPZBYq1o-gGtImf7EEnnhzeffd33EVQXuMVmNI4Q5mb5tr=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npH5--hI1XyAaC7E_YKqGHja3qxqnZXo0zw767S5-kub-jhiom_ONZh-wr182OpcQ4Ywt5wHdPGgfBhRtHQRn7rRJBPZBYq1o-gGtImf7EEnnhzeffd33EVQXuMVmNI4Q5mb5tr=w408-h541-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npH5--hI1XyAaC7E_YKqGHja3qxqnZXo0zw767S5-kub-jhiom_ONZh-wr182OpcQ4Ywt5wHdPGgfBhRtHQRn7rRJBPZBYq1o-gGtImf7EEnnhzeffd33EVQXuMVmNI4Q5mb5tr=w224-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Danau Tanah Mas",
+    "alamat": "Sukamoro, Kec. Talang Klp., Kab. Banyuasin",
+    "rating": "4.1",
+    "jumlah_review": "2.040",
+    "deskripsi": "Danau Tanah Mas adalah sebuah danau yang terletak di Sukamoro, Kec. Talang Klp., Kab. Banyuasin, Provinsi Sumatera Selatan. Danau ini terkenal karena keindahan alamnya yang memiliki danau yang indah dan bersejarah.",
+    "koordinat": {
+      "latitude": -2.9226025,
+      "longitude": 104.6705739
+    },
+    "url": "https://www.google.com/maps/place/Danau+Tanah+Mas/data=!4m7!3m6!1s0x2e3b735de95968b9:0x7cf259c3869d4def!8m2!3d-2.9226025!4d104.6705739!16s%2Fg%2F11b73qdrmj!19sChIJuWhZ6V1zOy4R702dhsNZ8nw?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np0mAtCyMIg1SKsPTi08d3hnQrf9P42kW5n8_HTo2FvCL_F6eVVbHlSok4Q0IVj60nRx0hSJ-ovimP24sMcuTRlz9XF9jP5DHWWiwtmylveL4_VCvOj8KoLlpeFTKNYtdeAGzY=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np0mAtCyMIg1SKsPTi08d3hnQrf9P42kW5n8_HTo2FvCL_F6eVVbHlSok4Q0IVj60nRx0hSJ-ovimP24sMcuTRlz9XF9jP5DHWWiwtmylveL4_VCvOj8KoLlpeFTKNYtdeAGzY=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np0mAtCyMIg1SKsPTi08d3hnQrf9P42kW5n8_HTo2FvCL_F6eVVbHlSok4Q0IVj60nRx0hSJ-ovimP24sMcuTRlz9XF9jP5DHWWiwtmylveL4_VCvOj8KoLlpeFTKNYtdeAGzY=w224-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Objek Wisata Air Terjun Bidadari Karang Dalam",
+    "alamat": "Jl. Letnan Alamsyah, Karang Dalam, Kec. Pulau Pinang",
+    "rating": "4.7",
+    "jumlah_review": "52",
+    "deskripsi": "Objek Wisata Air Terjun Bidadari Karang Dalam adalah sebuah objek wisata yang terletak di Jl. Letnan Alamsyah, Karang Dalam, Kec. Pulau Pinang, Kabupaten Lampung Selatan, Provinsi Lampung. Objek wisata ini menjadi daya tarik karena keindahan alamnya yang memiliki air terjun yang indah dan bersejarah.",
+    "koordinat": {
+      "latitude": -3.8539552,
+      "longitude": 103.5212731
+    },
+    "url": "https://www.google.com/maps/place/Objek+Wisata+Air+Terjun+Bidadari+Karang+Dalam/data=!4m7!3m6!1s0x2e3759f6dd80d9b7:0xa01bd038dcdad60f!8m2!3d-3.8539552!4d103.5212731!16s%2Fg%2F11rgg1jl52!19sChIJt9mA3fZZNy4RD9ba3DjQG6A?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npMrcNQo7_A8q6b2h3cKxexV8cKxGaMiTd8ltyyJU0ahs76Z512K09BWT6-ozmF3Yt0BcoaArT03AtZwSMTUbP9KR9YZKXprYajAwbgrFILVP4wvkByvxnDqY3Bx9rHcvqNpKbWKQ=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npMrcNQo7_A8q6b2h3cKxexV8cKxGaMiTd8ltyyJU0ahs76Z512K09BWT6-ozmF3Yt0BcoaArT03AtZwSMTUbP9KR9YZKXprYajAwbgrFILVP4wvkByvxnDqY3Bx9rHcvqNpKbWKQ=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npMrcNQo7_A8q6b2h3cKxexV8cKxGaMiTd8ltyyJU0ahs76Z512K09BWT6-ozmF3Yt0BcoaArT03AtZwSMTUbP9KR9YZKXprYajAwbgrFILVP4wvkByvxnDqY3Bx9rHcvqNpKbWKQ=w529-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Desa Wisata Kampung Warna Burai",
+    "alamat": "Burai, Kec. Tj. Batu",
+    "rating": "4.5",
+    "jumlah_review": "207",
+    "deskripsi": "Desa Wisata Kampung Warna Burai adalah sebuah desa wisata yang terletak di Burai, Kec. Tj. Batu, Kabupaten Lampung Selatan, Provinsi Lampung. Desa ini menjadi daya tarik karena keindahan alamnya yang memiliki desa yang indah dan bersejarah.",
+    "koordinat": {
+      "latitude": -3.2806541,
+      "longitude": 104.5946902
+    },
+    "url": "https://www.google.com/maps/place/Desa+Wisata+Kampung+Warna+Burai/data=!4m7!3m6!1s0x2e3bbf1c52fcc415:0xed60ae07d7a0947d!8m2!3d-3.2806541!4d104.5946902!16s%2Fg%2F11ghfkxgw1!19sChIJFcT8Uhy_Oy4RfZSg1weuYO0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrIWRp6C3hFGjNsSQAp5PYvBlvXlIn6bDL5asnV6SpgQQ3nalflKxRwB5bM2Wi-24sc5yV0LZAwLgMk84nvHYuKdW-KoUj-l-5gW5kzPlvivB8wCu55Jz0yPzfwYq1GCWI19CJy1A=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrIWRp6C3hFGjNsSQAp5PYvBlvXlIn6bDL5asnV6SpgQQ3nalflKxRwB5bM2Wi-24sc5yV0LZAwLgMk84nvHYuKdW-KoUj-l-5gW5kzPlvivB8wCu55Jz0yPzfwYq1GCWI19CJy1A=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrIWRp6C3hFGjNsSQAp5PYvBlvXlIn6bDL5asnV6SpgQQ3nalflKxRwB5bM2Wi-24sc5yV0LZAwLgMk84nvHYuKdW-KoUj-l-5gW5kzPlvivB8wCu55Jz0yPzfwYq1GCWI19CJy1A=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Danau Aur",
+    "alamat": "Sumber Jaya, Kec. Sumber Harta",
+    "rating": "4.1",
+    "jumlah_review": "778",
+    "deskripsi": "Danau Aur adalah sebuah danau yang terletak di Sumber Jaya, Kec. Sumber Harta, Kabupaten Lampung Selatan, Provinsi Lampung. Danau ini terkenal karena keindahan alamnya yang memiliki danau yang indah dan bersejarah.",
+    "koordinat": {
+      "latitude": -3.0993473,
+      "longitude": 102.9256256
+    },
+    "url": "https://www.google.com/maps/place/Danau+Aur/data=!4m7!3m6!1s0x2e30f99fb774a945:0x6aa529d680466c9e!8m2!3d-3.0993473!4d102.9256256!16s%2Fg%2F11b88q88_h!19sChIJRal0t5_5MC4RnmxGgNYppWo?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noJLoVCF_XcdyZL12GUBofDSWEQVrf5J6wCiCrkK7AGrNs4LTLs8VkLAQIj7J30OCvocm5qt60jdG9QINUdYXNZiQbn_aqN5Wn2bNxreqwy5a4FU8aZwEotNtqohDKzDq5w9uGH=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noJLoVCF_XcdyZL12GUBofDSWEQVrf5J6wCiCrkK7AGrNs4LTLs8VkLAQIj7J30OCvocm5qt60jdG9QINUdYXNZiQbn_aqN5Wn2bNxreqwy5a4FU8aZwEotNtqohDKzDq5w9uGH=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noJLoVCF_XcdyZL12GUBofDSWEQVrf5J6wCiCrkK7AGrNs4LTLs8VkLAQIj7J30OCvocm5qt60jdG9QINUdYXNZiQbn_aqN5Wn2bNxreqwy5a4FU8aZwEotNtqohDKzDq5w9uGH=w397-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Lembah Sakura Palembang",
+    "alamat": "Jl. Tj. Bubuk, Gandus, Kec. Gandus",
+    "rating": "4.3",
+    "jumlah_review": "52",
+    "deskripsi": "Lembah Sakura Palembang adalah sebuah lembah yang terletak di Jl. Tj. Bubuk, Gandus, Kec. Gandus, Kota Palembang, Provinsi Sumatera Selatan. Lembah ini menjadi daya tarik karena keindahan alamnya yang memiliki lembah yang indah dan bersejarah.",
+    "koordinat": {
+      "latitude": -3.0044859,
+      "longitude": 104.7062412
+    },
+    "url": "https://www.google.com/maps/place/Lembah+Sakura+Palembang/data=!4m7!3m6!1s0x2e3b9fe2bf0d36bb:0xedc06aefe7b3fd37!8m2!3d-3.0044859!4d104.7062412!16s%2Fg%2F11fw8f6cfl!19sChIJuzYNv-KfOy4RN_2z5-9qwO0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipOWdTeODLmIHIwNDOffyWM_Z21BR5rJgCwHHwy3=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipOWdTeODLmIHIwNDOffyWM_Z21BR5rJgCwHHwy3=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipOWdTeODLmIHIwNDOffyWM_Z21BR5rJgCwHHwy3=w529-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Fantasy Island",
+    "alamat": "Jalan Prameswara, Karya Jaya, Kec. Kertapati",
+    "rating": "4.3",
+    "jumlah_review": "1.033",
+    "deskripsi": "Fantasy Island adalah serial televisi drama fantasi Amerika Serikat yang dibuat oleh Gene Levitt. Fantasy Island ditayangkan di ABC dari tahun 1977 hingga 1984. Serial ini dibintangi oleh Ricardo Montalbán sebagai Tuan Roarke dan Hervé Villechaize sebagai asistennya, Tattoo. Para tamu diberikan apa yang disebut sebagai \"fantasi\" di pulau itu di mana terdapat harga tertentu yang harus dibayarkan.",
+    "koordinat": {
+      "latitude": -3.076923,
+      "longitude": 104.7262407
+    },
+    "url": "https://www.google.com/maps/place/Fantasy+Island/data=!4m7!3m6!1s0x2e3b9935965b0ae7:0x96e70687bb39c8a8!8m2!3d-3.076923!4d104.7262407!16s%2Fg%2F1hm6bt7js!19sChIJ5wpbljWZOy4RqMg5u4cG55Y?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np5eCRcXCDTBull7CNkLRxJvFg9EC2BWIuAuCXw0QOUcMb8JPMfHkae0G6RvHx102UlybJilkqZTPdGiSfm6280WK7V9otAbd9JJCXg9mZtMCoYHt_p9OI1e4F_K5kf93GBy6M=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np5eCRcXCDTBull7CNkLRxJvFg9EC2BWIuAuCXw0QOUcMb8JPMfHkae0G6RvHx102UlybJilkqZTPdGiSfm6280WK7V9otAbd9JJCXg9mZtMCoYHt_p9OI1e4F_K5kf93GBy6M=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np5eCRcXCDTBull7CNkLRxJvFg9EC2BWIuAuCXw0QOUcMb8JPMfHkae0G6RvHx102UlybJilkqZTPdGiSfm6280WK7V9otAbd9JJCXg9mZtMCoYHt_p9OI1e4F_K5kf93GBy6M=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pulau"
+    ]
+  },
+  {
+    "nama": "Wisata Kuliner Tepian Sungai Musi",
+    "alamat": "Kec. Ilir Tim. I",
+    "rating": "4.4",
+    "jumlah_review": "25",
+    "deskripsi": "Wisata Kuliner Tepian Sungai Musi adalah sebuah wisata yang terletak di Kec. Ilir Tim. I, Kota Palembang, Provinsi Sumatera Selatan. Wisata ini menjadi daya tarik karena keindahan alamnya yang memiliki wisata yang indah dan bersejarah.",
+    "koordinat": {
+      "latitude": -2.9894011,
+      "longitude": 104.7627676
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Kuliner+Tepian+Sungai+Musi/data=!4m7!3m6!1s0x2e3b7604ae1efd33:0x83ad73817cec25d4!8m2!3d-2.9894011!4d104.7627676!16s%2Fg%2F11c1cz24mr!19sChIJM_0ergR2Oy4R1CXsfIFzrYM?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noX-lR0SLvAkaIVRxSYoz0mLtraH3rfCXexc-xucWMfLCAbhl4LL1F6DH16jsNZQNZypEaPRdDdA8FXY60gHirA8oseLVuJmzPXbBGuUXwRqWZqXxgdX3AQbUyzq8cLMs2ld9dd=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noX-lR0SLvAkaIVRxSYoz0mLtraH3rfCXexc-xucWMfLCAbhl4LL1F6DH16jsNZQNZypEaPRdDdA8FXY60gHirA8oseLVuJmzPXbBGuUXwRqWZqXxgdX3AQbUyzq8cLMs2ld9dd=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noX-lR0SLvAkaIVRxSYoz0mLtraH3rfCXexc-xucWMfLCAbhl4LL1F6DH16jsNZQNZypEaPRdDdA8FXY60gHirA8oseLVuJmzPXbBGuUXwRqWZqXxgdX3AQbUyzq8cLMs2ld9dd=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Danau Ski Air Jakabaring Sport City",
+    "alamat": "Jl. Gelora Sriwijaya, Sentosa, Kec. Seberang Ulu II",
+    "rating": "4.5",
+    "jumlah_review": "2.348",
+    "deskripsi": "Danau Ski Air Jakabaring Sport City adalah sebuah danau yang terletak di Jl. Gelora Sriwijaya, Sentosa, Kec. Seberang Ulu II, Kota Palembang, Provinsi Sumatera Selatan. Danau ini terkenal karena keindahan alamnya yang memiliki danau yang indah dan bersejarah.",
+    "koordinat": {
+      "latitude": -3.0188419,
+      "longitude": 104.7955011
+    },
+    "url": "https://www.google.com/maps/place/Danau+Ski+Air+Jakabaring+Sport+City/data=!4m7!3m6!1s0x2e3b9da11f8e988b:0x94165fc7142a31c!8m2!3d-3.0188419!4d104.7955011!16s%2Fg%2F11cjh_b2hz!19sChIJi5iOH6GdOy4RHKNCcfxlQQk?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npNH2F6CUFncf8FwxllbQjaSEOy5cqxyqeqGeyFr0T-I5_HaT-Wy336Fabl5EDvJ0iwUXgK5R3MHo1RPBrbPDOda2wk0UVspPX1kBgoRYbK1WDl6spAVSk-Wu6WqUVu1RHtL59pXQ=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npNH2F6CUFncf8FwxllbQjaSEOy5cqxyqeqGeyFr0T-I5_HaT-Wy336Fabl5EDvJ0iwUXgK5R3MHo1RPBrbPDOda2wk0UVspPX1kBgoRYbK1WDl6spAVSk-Wu6WqUVu1RHtL59pXQ=w408-h305-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npNH2F6CUFncf8FwxllbQjaSEOy5cqxyqeqGeyFr0T-I5_HaT-Wy336Fabl5EDvJ0iwUXgK5R3MHo1RPBrbPDOda2wk0UVspPX1kBgoRYbK1WDl6spAVSk-Wu6WqUVu1RHtL59pXQ=w398-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Taman Asih Sidomulyo",
+    "alamat": "Sidomulyo, Kec. Air Kumbang, Kab. Banyuasin, Sumatera Selatan",
+    "rating": "4.5",
+    "jumlah_review": "264",
+    "deskripsi": "Taman Asih Sidomulyo adalah sebuah taman yang terletak di Sidomulyo, Kec. Air Kumbang, Kab. Banyuasin, Sumatera Selatan. Taman ini menjadi daya tarik karena keindahan alamnya yang memiliki taman yang indah dan bersejarah.",
+    "koordinat": {
+      "latitude": -2.9489105,
+      "longitude": 105.0073715
+    },
+    "url": "https://www.google.com/maps/place/Taman+Asih+Sidomulyo/data=!4m7!3m6!1s0x2e3b7f8d10e53f03:0x746198553ee7f0fb!8m2!3d-2.9489105!4d105.0073715!16s%2Fg%2F11rhd_0qcn!19sChIJAz_lEI1_Oy4R-_DnPlWYYXQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq8dAwGujTILKXBOdJ4h2j1O2X-YvXZt6zNNKQK7FkV7vYCXPFc0z9deYzENn6bXnFzNaCOCEKmRIF2_aPwPKPlSz7G_KP1PA_CD2zwjHuyexQDT8_R3K9MJv2baZoeypum07HO=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq8dAwGujTILKXBOdJ4h2j1O2X-YvXZt6zNNKQK7FkV7vYCXPFc0z9deYzENn6bXnFzNaCOCEKmRIF2_aPwPKPlSz7G_KP1PA_CD2zwjHuyexQDT8_R3K9MJv2baZoeypum07HO=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq8dAwGujTILKXBOdJ4h2j1O2X-YvXZt6zNNKQK7FkV7vYCXPFc0z9deYzENn6bXnFzNaCOCEKmRIF2_aPwPKPlSz7G_KP1PA_CD2zwjHuyexQDT8_R3K9MJv2baZoeypum07HO=w529-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Danau Telok Putih",
+    "alamat": "Unnamed Road, Sakatiga, Kec. Indralaya",
+    "rating": "4.6",
+    "jumlah_review": "107",
+    "deskripsi": "Danau Telok Putih adalah sebuah danau yang terletak di Unnamed Road, Sakatiga, Kec. Indralaya, Kabupaten Banyuasin, Sumatera Selatan. Danau ini terkenal karena keindahan alamnya yang memiliki danau yang indah dan bersejarah.",
+    "koordinat": {
+      "latitude": -3.2561385,
+      "longitude": 104.6875435
+    },
+    "url": "https://www.google.com/maps/place/Danau+Telok+Putih/data=!4m7!3m6!1s0x2e3b956860d67839:0x2ccf089cb297edbb!8m2!3d-3.2561385!4d104.6875435!16s%2Fg%2F11j0zsxbg8!19sChIJOXjWYGiVOy4Ru-2XspwIzyw?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrnhBgTJdeKLWsR4kwTRBuXJxT2Q7wiSoE4AWSHDfkCiqOIetgeAtdAjL5d9RFZ5O1nssbTVnZwG01khEW_n3o6CMurFhgVUIEMZkstxnaT7ak8Cwzi9Z5UE0kwRn1NbxhTXq4TLw=w86-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrnhBgTJdeKLWsR4kwTRBuXJxT2Q7wiSoE4AWSHDfkCiqOIetgeAtdAjL5d9RFZ5O1nssbTVnZwG01khEW_n3o6CMurFhgVUIEMZkstxnaT7ak8Cwzi9Z5UE0kwRn1NbxhTXq4TLw=w408-h408-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrnhBgTJdeKLWsR4kwTRBuXJxT2Q7wiSoE4AWSHDfkCiqOIetgeAtdAjL5d9RFZ5O1nssbTVnZwG01khEW_n3o6CMurFhgVUIEMZkstxnaT7ak8Cwzi9Z5UE0kwRn1NbxhTXq4TLw=w298-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Objek wisata tanjung sakti SPJ desa Sindang panjang dusun 1",
+    "alamat": "Gn. Kembang, Kec. Tj. Sakti Pumi",
+    "rating": "4.6",
+    "jumlah_review": "124",
+    "deskripsi": "Objek Wisata Tanjung Sakti SPJ, yang terletak di Desa Sindang Panjang, Kecamatan Tanjung Sakti Pumi, Kabupaten Lahat, Sumatera Selatan, menawarkan agrowisata dengan nuansa alam yang masih alami dan udara yang sejuk khas daerah perbukitan.",
+    "koordinat": {
+      "latitude": -4.1372348,
+      "longitude": 103.0724967
+    },
+    "url": "https://www.google.com/maps/place/Objek+wisata+tanjung+sakti+SPJ+desa+Sindang+panjang+dusun+1/data=!4m7!3m6!1s0x2e370f37a413f18d:0x108b42acd1b7c216!8m2!3d-4.1372348!4d103.0724967!16s%2Fg%2F11kmz4yr2p!19sChIJjfETpDcPNy4RFsK30axCixA?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nocMGA0TfwX8mvvIZ2_fnecovDvcCI1kFbVj8_tOXNq4-Nj40SoBTqMU5cqtpQFe66PPvWrFnqiqjUfsIXccUQCIvtUCnTJbKSSk3I6dV3AHRN_rgRz3HTYFJuvLCc4ZZ8EUZS4=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nocMGA0TfwX8mvvIZ2_fnecovDvcCI1kFbVj8_tOXNq4-Nj40SoBTqMU5cqtpQFe66PPvWrFnqiqjUfsIXccUQCIvtUCnTJbKSSk3I6dV3AHRN_rgRz3HTYFJuvLCc4ZZ8EUZS4=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nocMGA0TfwX8mvvIZ2_fnecovDvcCI1kFbVj8_tOXNq4-Nj40SoBTqMU5cqtpQFe66PPvWrFnqiqjUfsIXccUQCIvtUCnTJbKSSk3I6dV3AHRN_rgRz3HTYFJuvLCc4ZZ8EUZS4=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Danau Kaisar Palembang",
+    "alamat": "Jl. Dewi Motik, Talang Klp., Kec. Alang-Alang Lebar",
+    "rating": "4.4",
+    "jumlah_review": "11",
+    "deskripsi": "Danau Kaisar Palembang adalah danau tersembunyi yang menawarkan suasana tenang dan privat. Lokasinya yang belum banyak diketahui wisatawan menjadikannya tempat yang cocok untuk bersantai dan menikmati pemandangan alam.",
+    "koordinat": {
+      "latitude": -2.9389941,
+      "longitude": 104.6969522
+    },
+    "url": "https://www.google.com/maps/place/Danau+Kaisar+Palembang/data=!4m7!3m6!1s0x2e3b750933672b11:0x738cd943e1b5d74f!8m2!3d-2.9389941!4d104.6969522!16s%2Fg%2F11rxn91g1m!19sChIJEStnMwl1Oy4RT9e14UPZjHM?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipMFVVYhQEKlvV0FjIPaaG4QHuDR67LnfQdltu32=w86-h181-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipMFVVYhQEKlvV0FjIPaaG4QHuDR67LnfQdltu32=w408-h862-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipMFVVYhQEKlvV0FjIPaaG4QHuDR67LnfQdltu32=w224-h473-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Taman Kambang Iwak Besak",
+    "alamat": "Jl. Tasik, Talang Semut, Kec. Bukit Kecil",
+    "rating": "4.5",
+    "jumlah_review": "11.653",
+    "deskripsi": "Taman Kambang Iwak Besak adalah sebuah taman kota yang terletak di jantung Kota Palembang, tepatnya di Jalan Tasik, Talang Semut, Kecamatan Bukit Kecil. Taman ini telah ada sejak tahun 1900-an dan awalnya dibangun sebagai sarana olahraga bagi warga keturunan Belanda.",
+    "koordinat": {
+      "latitude": -2.9901952,
+      "longitude": 104.7471067
+    },
+    "url": "https://www.google.com/maps/place/Taman+Kambang+Iwak+Besak/data=!4m7!3m6!1s0x2e3b75fc781b580b:0x476edb23622568df!8m2!3d-2.9901952!4d104.7471067!16s%2Fg%2F11b7l1g1fd!19sChIJC1gbePx1Oy4R32glYiPbbkc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqvW9hlHuzB894Xlik6e_KHAG13U1UI1lyFFUFX7VIbxKRJOkaqz1j86AHLGAem0BkY68C-AaUJjM1xRKZLOkTiGG-mKjF-YlI_rmlTWlBztiRkWjOaU-2eDg_jbMfmAwmNxmr7=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqvW9hlHuzB894Xlik6e_KHAG13U1UI1lyFFUFX7VIbxKRJOkaqz1j86AHLGAem0BkY68C-AaUJjM1xRKZLOkTiGG-mKjF-YlI_rmlTWlBztiRkWjOaU-2eDg_jbMfmAwmNxmr7=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqvW9hlHuzB894Xlik6e_KHAG13U1UI1lyFFUFX7VIbxKRJOkaqz1j86AHLGAem0BkY68C-AaUJjM1xRKZLOkTiGG-mKjF-YlI_rmlTWlBztiRkWjOaU-2eDg_jbMfmAwmNxmr7=w447-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Palembang Bird Park",
+    "alamat": "Jl. Gubernur H.A. Bastari, Jakabaring, Kawasan Opi Mall, sebelah Waterfun, Sungai Kedukan, Kec. Rambutan",
+    "rating": "4.3",
+    "jumlah_review": "3.033",
+    "deskripsi": "Palembang Bird Park adalah taman burung pertama di Kota Palembang, yang terletak di kawasan OPI Mal, Jalan Gubernur H.A. Bastari, Jakabaring, bersebelahan dengan OPI Water Fun. Taman ini dibuka sejak Desember 2016 sebagai sarana hiburan dan wisata edukasi bagi warga Palembang dan sekitarnya.",
+    "koordinat": {
+      "latitude": -3.0366659,
+      "longitude": 104.7885918
+    },
+    "url": "https://www.google.com/maps/place/Palembang+Bird+Park/data=!4m7!3m6!1s0x2e3b9c5265a3a351:0xf9f1b104adc81e5e!8m2!3d-3.0366659!4d104.7885918!16s%2Fg%2F11cmsbgzkv!19sChIJUaOjZVKcOy4RXh7IrQSx8fk?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nozrvWQKN9Q7eh0kR0zvesuXhQwF8Ql9rbJbEALKFj8b6jQV2AGr5MJUg4F5CIwNO2k794H5tsdCPyDB1o9N3t-EAfO3Vy4oPe8nKY_8yxbCdD5pWfMGjicFvLklkmuPsR1Lc2x=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nozrvWQKN9Q7eh0kR0zvesuXhQwF8Ql9rbJbEALKFj8b6jQV2AGr5MJUg4F5CIwNO2k794H5tsdCPyDB1o9N3t-EAfO3Vy4oPe8nKY_8yxbCdD5pWfMGjicFvLklkmuPsR1Lc2x=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nozrvWQKN9Q7eh0kR0zvesuXhQwF8Ql9rbJbEALKFj8b6jQV2AGr5MJUg4F5CIwNO2k794H5tsdCPyDB1o9N3t-EAfO3Vy4oPe8nKY_8yxbCdD5pWfMGjicFvLklkmuPsR1Lc2x=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Taman Purbakala Kerajaan Sriwijaya",
+    "alamat": "XPMM+XQM, Jl. Syakyakirti, Karang Anyar, Kec. Gandus, Sumatera Selatan",
+    "rating": "4.4",
+    "jumlah_review": "3.400",
+    "deskripsi": "Taman Purbakala Kerajaan Sriwijaya atau sebelumnya dikenal dengan nama Situs Karanganyar adalah taman purbakala bekas kawasan permukiman dan taman yang dikaitkan dengan kerajaan Sriwijaya yang terletak tepi utara Sungai Musi di Kec. Gandus, Kota Palembang, Sumatera Selatan. Di kawasan ini ditemukan jaringan kanal, parit dan kolam yang disusun rapi dan teratur yang memastikan bahwa kawasan ini adalah buatan manusia, sehingga dipercaya bahwa pusat kerajaan Sriwijaya di Palembang terletak di situs ...",
+    "koordinat": {
+      "latitude": -3.0150322,
+      "longitude": 104.7344182
+    },
+    "url": "https://www.google.com/maps/place/Taman+Purbakala+Kerajaan+Sriwijaya/data=!4m7!3m6!1s0x2e3b9e6cae9eb351:0x83f75e4e0e8a569e!8m2!3d-3.0150322!4d104.7344182!16s%2Fm%2F0hndjtq!19sChIJUbOermyeOy4RnlaKDk5e94M?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noOyJ4bdKMwIGpMQZ11Iop_z_avj3xe6CfX_xY_qRaD-aDCTY2rjYrs98VQ1lhgw6NLE9BCirDVOE8BWApwHf2nIAg75CddEV21evucYYxWc6H74MIsuA9Hr3EWiur5cANpDXVi7g=w153-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noOyJ4bdKMwIGpMQZ11Iop_z_avj3xe6CfX_xY_qRaD-aDCTY2rjYrs98VQ1lhgw6NLE9BCirDVOE8BWApwHf2nIAg75CddEV21evucYYxWc6H74MIsuA9Hr3EWiur5cANpDXVi7g=w427-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noOyJ4bdKMwIGpMQZ11Iop_z_avj3xe6CfX_xY_qRaD-aDCTY2rjYrs98VQ1lhgw6NLE9BCirDVOE8BWApwHf2nIAg75CddEV21evucYYxWc6H74MIsuA9Hr3EWiur5cANpDXVi7g=w530-h298-k-no"
+    ],
+    "kategori": [
+      "taman",
+      "situs_sejarah"
+    ]
+  },
+  {
+    "nama": "Wisata Air Terjun Curup Maung",
+    "alamat": "Atung Bungsu, Dempo Selatan, Trans SP II Padang Muara Dua, Gumay Ulu, Trans SP II Padang Muara Dua, Kec. Gumay Ulu",
+    "rating": "4.5",
+    "jumlah_review": "355",
+    "deskripsi": "Wisata Air Terjun Curup Maung adalah sebuah destinasi wisata alam yang terletak di Desa Rinduhati, Kecamatan Gumay Ulu, Kabupaten Lahat, Provinsi Sumatera Selatan. Nama 'Curup Maung' dalam bahasa setempat berarti 'Air Terjun Harimau'. Air terjun ini menawarkan keindahan alam yang masih alami dan suasana yang menenangkan.",
+    "koordinat": {
+      "latitude": -3.9898475,
+      "longitude": 103.3924755
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Air+Terjun+Curup+Maung/data=!4m7!3m6!1s0x2e3757e255555555:0xd1ebb046d918c79f!8m2!3d-3.9898475!4d103.3924755!16s%2Fg%2F11bw2km5r3!19sChIJVVVVVeJXNy4Rn8cY2Uaw69E?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nplAt4H0AC71bxRDYMbjVbOnVXj9AaDIPv1B79mtHHrw-yR-RpR8ujWLVMrH5tZ9Nq3DZtkRobS-Wl0YYtRhEQPVhQoKYqrYm2OMOJ8cpxuqmaj98FWZeEvpeGk5nu34waC9J7ydw=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nplAt4H0AC71bxRDYMbjVbOnVXj9AaDIPv1B79mtHHrw-yR-RpR8ujWLVMrH5tZ9Nq3DZtkRobS-Wl0YYtRhEQPVhQoKYqrYm2OMOJ8cpxuqmaj98FWZeEvpeGk5nu34waC9J7ydw=w408-h270-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nplAt4H0AC71bxRDYMbjVbOnVXj9AaDIPv1B79mtHHrw-yR-RpR8ujWLVMrH5tZ9Nq3DZtkRobS-Wl0YYtRhEQPVhQoKYqrYm2OMOJ8cpxuqmaj98FWZeEvpeGk5nu34waC9J7ydw=w449-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Wisata Alam Lubuk Putih",
+    "alamat": "Seleman, Kec. Tj. Agung",
+    "rating": "4.2",
+    "jumlah_review": "148",
+    "deskripsi": "Wisata Alam Lubuk Putih menawarkan keindahan sungai dengan tebing batu putih yang menjulang tinggi di kedua sisinya. Air sungai Enim yang jernih mengalir di antara tebing, menciptakan pemandangan yang eksotis dan menjadi daya tarik utama bagi wisatawan.",
+    "koordinat": {
+      "latitude": -3.8772005,
+      "longitude": 103.7923033
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Alam+Lubuk+Putih/data=!4m7!3m6!1s0x2e39efcff5dd3543:0xfaf74b0e0c56770b!8m2!3d-3.8772005!4d103.7923033!16s%2Fg%2F11fn1w4x8d!19sChIJQzXd9c_vOS4RC3dWDA5L9_o?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqlnmo1RHtvfnOIH7wpR65kdG40N44HhvLVVVFRP1iRSeeay3pn1SgzA7C8lkpc_QdTS5SAq--B431_7TKdbUOTjQ-4bPozYWpUTsR_U34RLoZqdM7p1Y_vuqdRTy8_DTytSdcPQg=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqlnmo1RHtvfnOIH7wpR65kdG40N44HhvLVVVFRP1iRSeeay3pn1SgzA7C8lkpc_QdTS5SAq--B431_7TKdbUOTjQ-4bPozYWpUTsR_U34RLoZqdM7p1Y_vuqdRTy8_DTytSdcPQg=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqlnmo1RHtvfnOIH7wpR65kdG40N44HhvLVVVFRP1iRSeeay3pn1SgzA7C8lkpc_QdTS5SAq--B431_7TKdbUOTjQ-4bPozYWpUTsR_U34RLoZqdM7p1Y_vuqdRTy8_DTytSdcPQg=w397-h298-k-no"
+    ],
+    "kategori": [
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "GELAM FOREST FANTASI",
+    "alamat": "Sukamoro, Kec. Talang Klp., Kab. Banyuasin, Sumatera Selatan",
+    "rating": "4.4",
+    "jumlah_review": "139",
+    "deskripsi": "GELAM FOREST FANTASI adalah sebuah wisata alam yang menawarkan nuansa hutan gelam yang khas Sumatera Selatan. Hutan gelam sendiri merupakan ekosistem rawa dengan pepohonan gelam yang mendominasi. Tempat ini cocok bagi Anda yang ingin menikmati suasana alami dan bersantai bersama keluarga.",
+    "koordinat": {
+      "latitude": -2.8595302,
+      "longitude": 104.6842387
+    },
+    "url": "https://www.google.com/maps/place/GELAM+FOREST+FANTASI/data=!4m7!3m6!1s0x2e3b737d313e796f:0xe94f01a63bfbc234!8m2!3d-2.8595302!4d104.6842387!16s%2Fg%2F11kb3fh__t!19sChIJb3k-MX1zOy4RNML7O6YBT-k?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrO6xRgnrk8CxiRMF3Cu2PyObj0UkCBBVizcOllvvhXIgQQGl9F1fhY4TONWdtRi0yedpGbJLShc4l10LA2Ukzhr3FFKnnaGdX13hJSB3Yv66bH2mutk_Kkkr6yKN1TQ_67cpth=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrO6xRgnrk8CxiRMF3Cu2PyObj0UkCBBVizcOllvvhXIgQQGl9F1fhY4TONWdtRi0yedpGbJLShc4l10LA2Ukzhr3FFKnnaGdX13hJSB3Yv66bH2mutk_Kkkr6yKN1TQ_67cpth=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrO6xRgnrk8CxiRMF3Cu2PyObj0UkCBBVizcOllvvhXIgQQGl9F1fhY4TONWdtRi0yedpGbJLShc4l10LA2Ukzhr3FFKnnaGdX13hJSB3Yv66bH2mutk_Kkkr6yKN1TQ_67cpth=w396-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Green Paradise Pagar Alam",
+    "alamat": "Bumi Agung, Kec. Dempo Utara",
+    "rating": "4.4",
+    "jumlah_review": "1.465",
+    "deskripsi": "Green Paradise Pagar Alam adalah destinasi wisata alam yang memikat di Kota Pagar Alam, Sumatera Selatan. Terletak di kaki Gunung Dempo, tempat ini menawarkan kombinasi keindahan alam, berbagai aktivitas menarik, dan suasana yang menyegarkan.",
+    "koordinat": {
+      "latitude": -4.0685814,
+      "longitude": 103.1920588
+    },
+    "url": "https://www.google.com/maps/place/Green+Paradise+Pagar+Alam/data=!4m7!3m6!1s0x2e376cc38d89fdc5:0x2be26d667a60504b!8m2!3d-4.0685814!4d103.1920588!16s%2Fg%2F11c594qt17!19sChIJxf2JjcNsNy4RS1BgemZt4is?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np30fEPPTxC0EDEqSB84qNVh368_MNcgiTLfkIZK_A4o6qYKE9RvRK3PxC42r4x9Neav_pj2ZK7PVMnOG-q4dhXf2MU23C8q_NXUbO2kBMlU3DDwQaXUiuE8IEcwSGW4THzy_c9=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np30fEPPTxC0EDEqSB84qNVh368_MNcgiTLfkIZK_A4o6qYKE9RvRK3PxC42r4x9Neav_pj2ZK7PVMnOG-q4dhXf2MU23C8q_NXUbO2kBMlU3DDwQaXUiuE8IEcwSGW4THzy_c9=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np30fEPPTxC0EDEqSB84qNVh368_MNcgiTLfkIZK_A4o6qYKE9RvRK3PxC42r4x9Neav_pj2ZK7PVMnOG-q4dhXf2MU23C8q_NXUbO2kBMlU3DDwQaXUiuE8IEcwSGW4THzy_c9=w529-h298-k-no"
+    ],
+    "kategori": [
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Kawasan Wisata Gunung Dempo",
+    "alamat": "Jalan Alamsyah Ratu Prawiranegara, Pagar Wangi, Kec. Dempo Utara",
+    "rating": "4.6",
+    "jumlah_review": "268",
+    "deskripsi": "Kawasan Wisata Gunung Dempo, yang terletak di Kota Pagar Alam, Sumatera Selatan, adalah tujuan wisata populer yang menawarkan berbagai daya tarik alam dan aktivitas.",
+    "koordinat": {
+      "latitude": -4.037473,
+      "longitude": 103.1949821
+    },
+    "url": "https://www.google.com/maps/place/Kawasan+Wisata+Gunung+Dempo/data=!4m7!3m6!1s0x2e376c81e981f027:0x36801d0f60439a4d!8m2!3d-4.037473!4d103.1949821!16s%2Fg%2F11cn92r8k0!19sChIJJ_CB6YFsNy4RTZpDYA8dgDY?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrfyVTQHFhbcT8DkfqO3sEhzc6ACb-fTOxet0OVcIDLYVZZ9DdiZPsHFWDSx5TOh7_WwJ6q4fYrmib-QBxj_UlwKpe4x4l4V6z7PKkxFjWk-s5_559QC_wqU-oOiObWCxDtew3W=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrfyVTQHFhbcT8DkfqO3sEhzc6ACb-fTOxet0OVcIDLYVZZ9DdiZPsHFWDSx5TOh7_WwJ6q4fYrmib-QBxj_UlwKpe4x4l4V6z7PKkxFjWk-s5_559QC_wqU-oOiObWCxDtew3W=w408-h307-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrfyVTQHFhbcT8DkfqO3sEhzc6ACb-fTOxet0OVcIDLYVZZ9DdiZPsHFWDSx5TOh7_WwJ6q4fYrmib-QBxj_UlwKpe4x4l4V6z7PKkxFjWk-s5_559QC_wqU-oOiObWCxDtew3W=w395-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Amanzi Waterpark",
+    "alamat": "Talang Klp., Kec. Alang-Alang Lebar",
+    "rating": "4.3",
+    "jumlah_review": "4.448",
+    "deskripsi": "Amanzi Waterpark adalah taman rekreasi air yang terletak di Komp. CitraGrand City, Copacabana Lifestyle Center Blok D No.38 Jl. Alang-alang Lebar KM 12, Talang Kelapa, Kota Palembang, Sumatera Selatan. Mengusung tema petualangan alam liar Afrika, Amanzi Waterpark menawarkan berbagai wahana air seru untuk segala usia.",
+    "koordinat": {
+      "latitude": -2.9379403,
+      "longitude": 104.6836213
+    },
+    "url": "https://www.google.com/maps/place/Amanzi+Waterpark/data=!4m7!3m6!1s0x2e3b749555357ea1:0x86f5fd1d8c6e375c!8m2!3d-2.9379403!4d104.6836213!16s%2Fg%2F1hhlg1kwx!19sChIJoX41VZV0Oy4RXDdujB399YY?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noruPx7_f5leyFMEfQ-_7HpHniaSxT11wIKsMF6J3ofNJf74K0BtaZspuRB69vaHoq9VMgB9PjX835hbin4-LwfInTHifwk7sVVx53F379xwR-wi9-WpKgnEnE0TLhHhkkSZag3qQ=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noruPx7_f5leyFMEfQ-_7HpHniaSxT11wIKsMF6J3ofNJf74K0BtaZspuRB69vaHoq9VMgB9PjX835hbin4-LwfInTHifwk7sVVx53F379xwR-wi9-WpKgnEnE0TLhHhkkSZag3qQ=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noruPx7_f5leyFMEfQ-_7HpHniaSxT11wIKsMF6J3ofNJf74K0BtaZspuRB69vaHoq9VMgB9PjX835hbin4-LwfInTHifwk7sVVx53F379xwR-wi9-WpKgnEnE0TLhHhkkSZag3qQ=w224-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Agrowisata Tanjung Sakti",
+    "alamat": "Jl. Raya Manna - Pagar Alam, Sindang Panjang, Kec. Tj. Sakti Pumi",
+    "rating": "4.6",
+    "jumlah_review": "845",
+    "deskripsi": "Agrowisata Tanjung Sakti adalah destinasi wisata  bernuansa dan memiliki bentuk alam khas daerah perbukitan yang didirikan pada lahan seluas 12 hektar di Jalan Raya Manna-Pagar Alam, Gunung Kembang, Kecamatan Tanjung Sakti Pumi, Kabupaten Lahat, Provinsi Sumatera Selatan pada tahun 2018. Dalam destinasi ini terdapat air terjun, taman bunga sindang panjang, kolam cinta, dan perkebunan, kamar mandi, musala, dan tenda untuk beristirahat.   Luas Tanjung Sakti adalah 436 km2 yang terdiri dari hutan d...",
+    "koordinat": {
+      "latitude": -4.1362868,
+      "longitude": 103.0718462
+    },
+    "url": "https://www.google.com/maps/place/Agrowisata+Tanjung+Sakti/data=!4m7!3m6!1s0x2e370f3861f6fb75:0xb558beb945d65747!8m2!3d-4.1362868!4d103.0718462!16s%2Fg%2F11llfc0wyl!19sChIJdfv2YTgPNy4RR1fWRbm-WLU?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npq7fJlTBH6OA6gJWE2_wb3TtM39v-0iO2_c5Ib8FrbWw4z-cf-N-WwFR8QQQ3aS0h2KnkrHxk3KD0m3w-Xu_3sEArYQXfpngycd3x90HC9Y28HDJaorO1nHIHMlgpnitrpURVe=w86-h105-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npq7fJlTBH6OA6gJWE2_wb3TtM39v-0iO2_c5Ib8FrbWw4z-cf-N-WwFR8QQQ3aS0h2KnkrHxk3KD0m3w-Xu_3sEArYQXfpngycd3x90HC9Y28HDJaorO1nHIHMlgpnitrpURVe=w408-h502-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npq7fJlTBH6OA6gJWE2_wb3TtM39v-0iO2_c5Ib8FrbWw4z-cf-N-WwFR8QQQ3aS0h2KnkrHxk3KD0m3w-Xu_3sEArYQXfpngycd3x90HC9Y28HDJaorO1nHIHMlgpnitrpURVe=w241-h298-k-no"
+    ],
+    "kategori": [
+      "gunung",
+      "air_terjun",
+      "taman",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Waterfront Sekayu",
+    "alamat": "Serasan Jaya, Kec. Sekayu",
+    "rating": "4.3",
+    "jumlah_review": "792",
+    "deskripsi": "Waterfront Sekayu adalah sebuah kawasan wisata yang terletak di tepi Sungai Musi, di Kota Sekayu, ibu kota Kabupaten Musi Banyuasin, Sumatera Selatan. Tempat ini menjadi ruang publik yang populer bagi warga setempat dan wisatawan untuk bersantai, menikmati pemandangan sungai, dan menghabiskan waktu bersama keluarga.",
+    "koordinat": {
+      "latitude": -2.8758635,
+      "longitude": 103.8316168
+    },
+    "url": "https://www.google.com/maps/place/Waterfront+Sekayu/data=!4m7!3m6!1s0x2e3a8ddc95d16b69:0x55aa4214fa21965a!8m2!3d-2.8758635!4d103.8316168!16s%2Fg%2F11by_gsd46!19sChIJaWvRldyNOi4RWpYh-hRCqlU?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np7RMq1Huxz6Bbf-zZ1yXtfQUsbL_hmeacoUw4CRsePzqj1tPhsieAEhwTSX6jVsV9RtIJxpExPEshR2UGUpwPMdF1zMlCygArRCToFJkgvrHdkZzmbMG8ILkTaejezY6p-xRI-=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np7RMq1Huxz6Bbf-zZ1yXtfQUsbL_hmeacoUw4CRsePzqj1tPhsieAEhwTSX6jVsV9RtIJxpExPEshR2UGUpwPMdF1zMlCygArRCToFJkgvrHdkZzmbMG8ILkTaejezY6p-xRI-=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np7RMq1Huxz6Bbf-zZ1yXtfQUsbL_hmeacoUw4CRsePzqj1tPhsieAEhwTSX6jVsV9RtIJxpExPEshR2UGUpwPMdF1zMlCygArRCToFJkgvrHdkZzmbMG8ILkTaejezY6p-xRI-=w529-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Taman Wisata Telaga Arum",
+    "alamat": "Unnamed Road, Sepancar Lawang Kulon, Kec. Baturaja Timur",
+    "rating": "4.4",
+    "jumlah_review": "24",
+    "deskripsi": "Taman Wisata Telaga Arum adalah sebuah destinasi wisata yang terletak di Desa Tegal Arum, Kelurahan Sepancar Lawang Kulon, Kecamatan Baturaja Timur, Kabupaten Ogan Komering Ulu (OKU), Sumatera Selatan.",
+    "koordinat": {
+      "latitude": -4.2020447,
+      "longitude": 104.2476938
+    },
+    "url": "https://www.google.com/maps/place/Taman+Wisata+Telaga+Arum/data=!4m7!3m6!1s0x2e39abf15cf67b3b:0x7deab1631d48afd3!8m2!3d-4.2020447!4d104.2476938!16s%2Fg%2F11rxtdhy9y!19sChIJO3v2XPGrOS4R069IHWOx6n0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sumatera Selatan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npS_oaDAhdawMV1czWemFXZnR0vhW1mVWa6uMSuVhlrCsf1t0YezX-GDMB7is3Q2kxcCJO-1VAifu4QhQWBSn9VjvEAkCwvK-Z5blcNpK3yPIayhafybtvz1xYKha-TZlqX0sOb=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npS_oaDAhdawMV1czWemFXZnR0vhW1mVWa6uMSuVhlrCsf1t0YezX-GDMB7is3Q2kxcCJO-1VAifu4QhQWBSn9VjvEAkCwvK-Z5blcNpK3yPIayhafybtvz1xYKha-TZlqX0sOb=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npS_oaDAhdawMV1czWemFXZnR0vhW1mVWa6uMSuVhlrCsf1t0YezX-GDMB7is3Q2kxcCJO-1VAifu4QhQWBSn9VjvEAkCwvK-Z5blcNpK3yPIayhafybtvz1xYKha-TZlqX0sOb=w529-h298-k-no"
+    ],
+    "kategori": [
+      "danau",
+      "taman"
+    ]
+  }
+]

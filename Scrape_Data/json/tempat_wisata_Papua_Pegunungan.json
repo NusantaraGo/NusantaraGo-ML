@@ -1,0 +1,45 @@
+[
+  {
+    "nama": "Taman Hutan Raya Pocut Meurah Intan",
+    "alamat": "Suka Mulia, Kec. Lembah Seulawah",
+    "rating": "4.4",
+    "jumlah_review": "191",
+    "deskripsi": "Taman Hutan Raya Pocut Meurah Intan adalah taman hutan raya yang berada di Kabupaten Aceh Besar, Aceh, Indonesia.\nPenetapannya sebagai taman hutan raya secara hukum berdasarkan Surat Keputusan Menteri Kehutanan Nomor 95/Kpts-II/2001. Surat Keputusan ini dikeluarkan pada tanggal 15 Maret 2001.",
+    "koordinat": {
+      "latitude": 5.4433126,
+      "longitude": 95.7594917
+    },
+    "url": "https://www.google.com/maps/place/Taman+Hutan+Raya+Pocut+Meurah+Intan/data=!4m7!3m6!1s0x3040f5da412ed6cd:0xd867977e24fac3e!8m2!3d5.4433126!4d95.7594917!16s%2Fg%2F11bztrwllc!19sChIJzdYuQdr1QDARPqxP4nd5hg0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Pegunungan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npCTNAKGn_c8niNeXlv9wrn0q8PK3JHFkdA63p-ULv03td5u2m4l1ZN1LA9nP5NSnmP-j-lQGV84X2Y_VfKe8OESH8aRqHyKlHJ0CA5wC7C2_v6zKGWO5fvu-42fjFEZaFcwks=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npCTNAKGn_c8niNeXlv9wrn0q8PK3JHFkdA63p-ULv03td5u2m4l1ZN1LA9nP5NSnmP-j-lQGV84X2Y_VfKe8OESH8aRqHyKlHJ0CA5wC7C2_v6zKGWO5fvu-42fjFEZaFcwks=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npCTNAKGn_c8niNeXlv9wrn0q8PK3JHFkdA63p-ULv03td5u2m4l1ZN1LA9nP5NSnmP-j-lQGV84X2Y_VfKe8OESH8aRqHyKlHJ0CA5wC7C2_v6zKGWO5fvu-42fjFEZaFcwks=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman",
+      "taman_hutan"
+    ]
+  },
+  {
+    "nama": "Monumen Kilometer Nol Indonesia",
+    "alamat": "Iboih, Sukakarya",
+    "rating": "4.6",
+    "jumlah_review": "6.827",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 5.9060416,
+      "longitude": 95.2168003
+    },
+    "url": "https://www.google.com/maps/place/Monumen+Kilometer+Nol+Indonesia/data=!4m7!3m6!1s0x3041dad00315c33b:0x187f80e8713c590f!8m2!3d5.9060416!4d95.2168003!16s%2Fg%2F11bv6pz16l!19sChIJO8MVA9DaQTARD1k8ceiAfxg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Papua Pegunungan",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npw3ovIrzSDb4bHqGtlloijD5f2QLFfJdpqLjSJa9JPMxJefQGNcXB33rWvpjN2QumAYCKTLQRe8UuP9yYEJMDj9XWeZYS4QbZqc0UXDdj3qiIr4T7UXhNWuISaKClx_dUm8qPlFQ=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npw3ovIrzSDb4bHqGtlloijD5f2QLFfJdpqLjSJa9JPMxJefQGNcXB33rWvpjN2QumAYCKTLQRe8UuP9yYEJMDj9XWeZYS4QbZqc0UXDdj3qiIr4T7UXhNWuISaKClx_dUm8qPlFQ=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npw3ovIrzSDb4bHqGtlloijD5f2QLFfJdpqLjSJa9JPMxJefQGNcXB33rWvpjN2QumAYCKTLQRe8UuP9yYEJMDj9XWeZYS4QbZqc0UXDdj3qiIr4T7UXhNWuISaKClx_dUm8qPlFQ=w529-h298-k-no"
+    ],
+    "kategori": [
+      "situs_sejarah"
+    ]
+  }
+]
