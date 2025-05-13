@@ -4,7 +4,7 @@
     "alamat": "Meunasah Balee, Kec. Lhoknga",
     "rating": "4.6",
     "jumlah_review": "758",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Tebing Lampuuk, yang terletak di Kec. Lhoknga, Aceh Besar, menawarkan pengalaman wisata pantai yang unik dengan perpaduan tebing, pasir, dan laut yang indah. Pantai ini memiliki pasir putih yang halus, air laut yang jernih, dan tebing-tebing curam yang menjadi daya tarik tersendiri, terutama saat matahari terbenam.",
     "koordinat": {
       "latitude": 5.4970038,
       "longitude": 95.227854
@@ -25,7 +25,7 @@
     "alamat": "Sawang, Kec. Samudera, Aceh",
     "rating": "3.6",
     "jumlah_review": "31",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Sawang atau yang dikenal juga dengan nama Pantai SBB (Sawang Biduak Buruak) adalah pantai yang indah dan populer di Labuhan Haji, Aceh Selatan. Pantai ini terkenal dengan pasir putih yang lembut dan ombaknya yang tenang, sehingga aman untuk berenang dan bermain air.",
     "koordinat": {
       "latitude": 5.1545321,
       "longitude": 97.2442516
@@ -46,7 +46,7 @@
     "alamat": "Gampong Pande, Kec. Kuta Raja, Aceh",
     "rating": "4.4",
     "jumlah_review": "661",
-    "deskripsi": "N/A",
+    "deskripsi": "Tugu Nol Kilometer Kota Banda Aceh adalah sebuah tempat wisata sejarah yang terletak di Gampong Pande, Kecamatan Kutaraja, Kota Banda Aceh. Tempat ini menandai titik awal mula berdirinya Kota Banda Aceh pada tanggal 22 April 1205 M. Di sini, pengunjung dapat bersantai, berfoto, dan menikmati pemandangan pantai.",
     "koordinat": {
       "latitude": 5.5826227,
       "longitude": 95.3141429
@@ -67,7 +67,7 @@
     "alamat": "Ulee Lheue, Kec. Meuraxa, Aceh",
     "rating": "4.5",
     "jumlah_review": "625",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Ulee Lheue di Banda Aceh adalah tempat wisata yang memadukan keindahan alam, sejarah, dan budaya. Pantai ini menawarkan panorama senja yang menakjubkan. Selain pemandangan laut, pantai ini juga dikelilingi oleh pegunungan yang menambah keindahan.",
     "koordinat": {
       "latitude": 5.5643903,
       "longitude": 95.2923091
@@ -88,7 +88,7 @@
     "alamat": "",
     "rating": "4.3",
     "jumlah_review": "654",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Ujong Kareung, yang sering disebut Pantai Ujung Karang, adalah tempat wisata bahari yang populer di Aceh, khususnya di daerah Meulaboh. Pantai ini terkenal dengan pasir putihnya, panorama alam yang indah, dan deburan ombak yang menenangkan. Selain cocok untuk liburan, pantai ini juga ideal untuk kegiatan outdoor seperti camping dan piknik.",
     "koordinat": {
       "latitude": 4.124597,
       "longitude": 96.1279608
@@ -109,7 +109,7 @@
     "alamat": "Kp. Baru, Kec. Baiturrahman",
     "rating": "4.5",
     "jumlah_review": "11.275",
-    "deskripsi": "N/A",
+    "deskripsi": "Lapangan Blang Padang adalah sebuah ruang terbuka hijau yang terletak di pusat Kota Banda Aceh, tepatnya di Kp. Baru, Kec. Baiturrahman. Tempat ini sangat populer di kalangan masyarakat Aceh dan wisatawan sebagai destinasi wisata sejarah dan rekreasi.",
     "koordinat": {
       "latitude": 5.5499808,
       "longitude": 95.3136744
@@ -130,7 +130,7 @@
     "alamat": "Gampong Terujak, Serba Jadi",
     "rating": "4.5",
     "jumlah_review": "18",
-    "deskripsi": "N/A",
+    "deskripsi": "Air Terjun Terujak adalah sebuah air terjun yang terletak di Desa Terujak, Kecamatan Serbajadi, Kabupaten Aceh Timur. Tempat ini menawarkan keindahan alam yang masih asri dengan air terjun yang jernih dan hutan yang hijau. Perjalanan menuju air terjun ini membutuhkan waktu sekitar 5 jam dari Kabupaten Aceh Timur dan melibatkan berjalan kaki menyusuri sungai dan jalanan yang mungkin licin, terutama saat musim hujan.",
     "koordinat": {
       "latitude": 4.4023382,
       "longitude": 97.5083087
@@ -173,7 +173,7 @@
     "alamat": "Lamsod, Kec. Darul Kamal",
     "rating": "4.1",
     "jumlah_review": "71",
-    "deskripsi": "N/A",
+    "deskripsi": "Air Terjun Peukan Biluy adalah sebuah destinasi wisata alam yang menakjubkan yang terletak di Lamsod, Kecamatan Darul Kamal, Kabupaten Aceh Besar, Aceh. Air terjun ini menawarkan keindahan alam yang mempesona dengan suasana yang tenang dan menyegarkan.",
     "koordinat": {
       "latitude": 5.4603125,
       "longitude": 95.3264219
@@ -194,7 +194,7 @@
     "alamat": "Meulaboh, Kuta Padang, Aceh Barat",
     "rating": "4.5",
     "jumlah_review": "939",
-    "deskripsi": "N/A",
+    "deskripsi": "Tugu Teuku Umar, yang juga dikenal sebagai Tugu Kupiah Meukeutop, adalah sebuah tempat wisata sejarah yang terletak di Desa Ujong Kalak, Kecamatan Johan Pahlawan, Kabupaten Aceh Barat. Tugu ini dibangun sebagai penghormatan dan pengingat atas jasa Teuku Umar, seorang pahlawan Aceh yang gugur saat melawan pasukan Belanda.",
     "koordinat": {
       "latitude": 4.1478223,
       "longitude": 96.1158339
@@ -215,7 +215,7 @@
     "alamat": "Jl. Ujung Pancu, Lam Pageu, Kec. Peukan Bada",
     "rating": "4.5",
     "jumlah_review": "17",
-    "deskripsi": "N/A",
+    "deskripsi": "Pulau Tuan adalah sebuah pulau kecil tak berpenghuni yang terletak di Kecamatan Peukan Bada, Kabupaten Aceh Besar, Aceh. Pulau ini menawarkan keindahan wisata bahari yang menawan dan menjadi surga tersembunyi bagi para pecinta alam dan aktivitas laut. Masyarakat setempat juga mengenalnya dengan sebutan Tuan di Pulo.",
     "koordinat": {
       "latitude": 5.5645635,
       "longitude": 95.2496014
@@ -236,7 +236,7 @@
     "alamat": "Jl. Japakeh, Peuniti, Kec. Baiturrahman",
     "rating": "4.4",
     "jumlah_review": "411",
-    "deskripsi": "N/A",
+    "deskripsi": "Anjong Mon Mata adalah sebuah bangunan yang terletak di Banda Aceh. Berdasarkan hasil pencarian, tempat ini sering digunakan untuk acara-acara resmi pemerintah provinsi Aceh. Misalnya, rapat-rapat penting, pengukuhan Paskibraka Aceh, dan acara peringatan hari ibu.",
     "koordinat": {
       "latitude": 5.5463277,
       "longitude": 95.3200505
@@ -257,7 +257,7 @@
     "alamat": "Jl. Senangin, Bandar Baru, Kec. Kuta Alam, Aceh",
     "rating": "4.4",
     "jumlah_review": "1.760",
-    "deskripsi": "N/A",
+    "deskripsi": "Taman Sulthanah Safiatuddin adalah sebuah taman yang terletak di Jalan Teuku Nyak Arief, Desa Lampriet, Kecamatan Kuta Alam, Banda Aceh. Taman ini dibangun untuk mengenang jasa Ratu Safiatuddin, putri Sultan Iskandar Muda, yang dikenal cerdas dan berbakat dalam kesusasteraan, dan diresmikan oleh Presiden Megawati Soekarnoputri.",
     "koordinat": {
       "latitude": 5.5695786,
       "longitude": 95.3372124
@@ -278,7 +278,7 @@
     "alamat": "Lambirah, Kec. SukaMakmur",
     "rating": "4.3",
     "jumlah_review": "1.824",
-    "deskripsi": "N/A",
+    "deskripsi": "Taman Rusa Aceh Besar adalah destinasi wisata edukasi dan rekreasi keluarga yang menawarkan pengalaman unik. Di sini, pengunjung dapat menikmati keindahan alam, melihat berbagai satwa, termasuk rusa, dan menikmati fasilitas permainan anak, seperti kolam renang dan wahana lainnya.",
     "koordinat": {
       "latitude": 5.4503503,
       "longitude": 95.3679703
@@ -299,7 +299,7 @@
     "alamat": "Jl. Malahayati, Kuta Ateueh, Sukakarya, Aceh",
     "rating": "4.5",
     "jumlah_review": "421",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Paradiso adalah sebuah pantai yang menawan di Kota Sabang, Aceh. Pantai ini terkenal dengan pasir putihnya yang indah, air laut yang jernih, dan pemandangan matahari terbenam yang memukau.",
     "koordinat": {
       "latitude": 5.8953313,
       "longitude": 95.3133934
@@ -320,7 +320,7 @@
     "alamat": "Aneuk Glee, Indrapuri",
     "rating": "4.6",
     "jumlah_review": "89",
-    "deskripsi": "N/A",
+    "deskripsi": "Mon Ceunong adalah sebuah gunung yang terletak di Kecamatan Lhoong, Kabupaten Aceh Besar, Aceh. Tempat ini menawarkan pemandangan alam yang menakjubkan dan menjadi destinasi populer bagi para pendaki dan pecinta alam.",
     "koordinat": {
       "latitude": 5.3823745,
       "longitude": 95.4002
@@ -341,7 +341,7 @@
     "alamat": "Keureuweung Krueng, Kec. Kuta Cot Glie",
     "rating": "4.1",
     "jumlah_review": "221",
-    "deskripsi": "N/A",
+    "deskripsi": "Waduk Keliling adalah sebuah waduk yang terletak di Keureuweung Krueng, Kecamatan Kuta Cot Glie, Kabupaten Aceh Besar, Aceh. Waduk ini berjarak sekitar 35 km dari pusat Kota Banda Aceh dan dapat ditempuh dalam waktu sekitar 45 menit dengan kendaraan.",
     "koordinat": {
       "latitude": 5.3663583,
       "longitude": 95.479085
@@ -362,7 +362,7 @@
     "alamat": "besar, Kec. Lhoknga",
     "rating": "4.6",
     "jumlah_review": "127",
-    "deskripsi": "N/A",
+    "deskripsi": "Desa Wisata Nusa, yang terletak di Kecamatan Lhoknga, Kabupaten Aceh Besar, Provinsi Aceh, adalah sebuah destinasi wisata yang unik dan menarik. Desa ini menawarkan perpaduan antara keindahan alam, kekayaan budaya, dan inovasi masyarakat yang patut diacungi jempol.",
     "koordinat": {
       "latitude": 5.4944044,
       "longitude": 95.2676545
@@ -383,7 +383,7 @@
     "alamat": "Sukaramai, Kec. Baiturrahman",
     "rating": "4.6",
     "jumlah_review": "120",
-    "deskripsi": "N/A",
+    "deskripsi": "Taman Sari Gunongan adalah sebuah situs bersejarah yang terletak di Banda Aceh. Taman ini dibangun pada masa pemerintahan Sultan Iskandar Muda (1607-1636 M) sebagai bentuk cinta kepada permaisurinya, Putri Kamaliah (Putroe Phang), yang berasal dari Pahang, Malaysia.",
     "koordinat": {
       "latitude": 5.5460501,
       "longitude": 95.3159891
@@ -404,7 +404,7 @@
     "alamat": "Jalan Indrapuri, Reukih Dayah, Kec. Indrapuri",
     "rating": "3.5",
     "jumlah_review": "306",
-    "deskripsi": "N/A",
+    "deskripsi": "Taman Wisata Burung Dara adalah sebuah destinasi wisata yang terletak di Bukit Peradaban, Glee Karong, Kecamatan Indrapuri, Kabupaten Aceh Besar. Tempat ini menawarkan pengalaman unik berinteraksi dengan ratusan burung merpati jinak di tengah suasana alam yang asri.",
     "koordinat": {
       "latitude": 5.4053958,
       "longitude": 95.4362969
@@ -425,7 +425,7 @@
     "alamat": "Kuta Barat, Sukakarya",
     "rating": "4.6",
     "jumlah_review": "849",
-    "deskripsi": "N/A",
+    "deskripsi": "Menara Merah Putih adalah sebuah landmark ikonik yang terletak di Kota Sabang, Aceh. Menara ini menjadi daya tarik wisata yang populer, menawarkan pemandangan indah Kota Sabang dan sekitarnya dari ketinggian.",
     "koordinat": {
       "latitude": 5.8902267,
       "longitude": 95.321031
@@ -446,7 +446,7 @@
     "alamat": "Neuheun, Kec. Mesjid Raya, Aceh",
     "rating": "4.1",
     "jumlah_review": "580",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Ujong Batee, juga dikenal sebagai Ujung Batee, adalah sebuah pantai dan tanjung yang terletak di Gam. Durung, Kecamatan Masjid Raya, Kabupaten Aceh Besar. Pantai ini berjarak sekitar 20 km dari Banda Aceh dan menawarkan keindahan alam yang memukau.",
     "koordinat": {
       "latitude": 5.6499521,
       "longitude": 95.4195857
@@ -490,7 +490,7 @@
     "alamat": "Jl. Meulaboh - Banda Aceh, Dayah Mamplam, Kec. Leupung",
     "rating": "4.3",
     "jumlah_review": "583",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Penyu adalah sebuah destinasi wisata yang terletak di Desa Lubuk Damar, Kecamatan Setia Bakti, Kabupaten Aceh Jaya, Aceh. Sesuai dengan namanya, pantai ini terkenal sebagai salah satu tempat peneluran penyu hijau (Chelonia mydas) yang penting di Aceh.",
     "koordinat": {
       "latitude": 5.4127632,
       "longitude": 95.2476097
@@ -511,7 +511,7 @@
     "alamat": "Bueng",
     "rating": "4.4",
     "jumlah_review": "69",
-    "deskripsi": "N/A",
+    "deskripsi": "Air Terjun Peucari Jantho adalah sebuah air terjun yang terletak di Desa Pucok Alue, Kecamatan Kuta Cot Glie, Kabupaten Aceh Besar, Aceh. Air terjun ini menawarkan keindahan alam yang masih alami dengan air yang jernih dan suasana hutan yang sejuk.",
     "koordinat": {
       "latitude": 5.2322453,
       "longitude": 95.6568237
@@ -532,7 +532,7 @@
     "alamat": "Lampisang, Kec. Peukan Bada",
     "rating": "4.6",
     "jumlah_review": "1.196",
-    "deskripsi": "N/A",
+    "deskripsi": "Rumah Cut Nyak Dhien adalah sebuah rumah panggung tradisional Aceh yang terletak di Desa Lampisang, Kecamatan Peukan Bada, Kabupaten Aceh Besar. Rumah ini memiliki nilai sejarah yang sangat penting karena merupakan tempat tinggal dan markas pejuang wanita Aceh, Cut Nyak Dhien, dalam melawan penjajah Belanda.",
     "koordinat": {
       "latitude": 5.5168026,
       "longitude": 95.271683
@@ -553,7 +553,7 @@
     "alamat": "Mon Ikeun, Kec. Lhoknga",
     "rating": "4.5",
     "jumlah_review": "259",
-    "deskripsi": "N/A",
+    "deskripsi": "Pucok Krueng adalah sebuah destinasi wisata alam yang terletak di Mon Ikeun, Kecamatan Lhoknga, Kabupaten Aceh Besar. Tempat ini merupakan ujung sungai (Pucok berarti ujung, Krueng berarti sungai) dan menjadi hulu dari sumber air Krueng Raba.",
     "koordinat": {
       "latitude": 5.4605987,
       "longitude": 95.2615318
@@ -574,7 +574,7 @@
     "alamat": "Lam Ara Tunong, Kuta Malaka, Luthu Lamweu, Kec. SukaMakmur",
     "rating": "4.4",
     "jumlah_review": "256",
-    "deskripsi": "N/A",
+    "deskripsi": "Air Terjun Kuta Malaka adalah sebuah air terjun yang terletak di Desa Kuta Malaka, Kecamatan Kuta Malaka, Kabupaten Aceh Besar, Aceh. Air terjun ini menawarkan keindahan alam yang memukau dan menjadi tujuan wisata populer di Aceh.",
     "koordinat": {
       "latitude": 5.3910936,
       "longitude": 95.3665239
@@ -595,7 +595,7 @@
     "alamat": "Jl. Hutan, Tibang, Kec. Syiah Kuala, Aceh",
     "rating": "4.3",
     "jumlah_review": "956",
-    "deskripsi": "N/A",
+    "deskripsi": "Hutan Kota BNI, juga dikenal sebagai Hutan Kota Tibang, adalah sebuah ruang terbuka hijau yang terletak di Desa Tibang, Kecamatan Syiah Kuala, Kota Banda Aceh. Hutan kota ini memiliki luas sekitar 6,75 hektar dan berfungsi sebagai paru-paru kota, membantu mengurangi polusi udara.",
     "koordinat": {
       "latitude": 5.5844998,
       "longitude": 95.35101
@@ -616,7 +616,7 @@
     "alamat": "Ujung Kelindu, , Lamreh, Kec. Mesjid Raya, Aceh",
     "rating": "4.4",
     "jumlah_review": "523",
-    "deskripsi": "N/A",
+    "deskripsi": "Bukit Lamreh adalah sebuah destinasi wisata alam yang terletak di Desa Lamreh, Kecamatan Mesjid Raya, Kabupaten Aceh Besar, Aceh. Tempat ini terkenal dengan pemandangan laut yang spektakuler, terutama pemandangan Samudra Hindia dan gugusan pulau-pulau kecil di sekitarnya.",
     "koordinat": {
       "latitude": 5.6161133,
       "longitude": 95.5439356
@@ -637,7 +637,7 @@
     "alamat": "Unnamed Road, Lam Pageu, Lam Pageu, Peukan Bada",
     "rating": "4.5",
     "jumlah_review": "284",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Ujong Pancu, juga dikenal sebagai Ujoeng Pancu Beach, adalah sebuah destinasi wisata pantai yang terletak di Aceh Besar. Pantai ini menawarkan perpaduan pemandangan yang indah antara pantai berpasir luas dan perbukitan hijau.",
     "koordinat": {
       "latitude": 5.5628997,
       "longitude": 95.2347956
@@ -658,7 +658,7 @@
     "alamat": "Jln, air terjun, Tunong Krueng Kala, Kec. Lhoong",
     "rating": "4.1",
     "jumlah_review": "29",
-    "deskripsi": "N/A",
+    "deskripsi": "Air Terjun Suhom adalah sebuah destinasi wisata alam yang terletak di Gampong Krueng Kala, Kecamatan Lhoong, Kabupaten Aceh Besar, Aceh. Air terjun ini menawarkan keindahan alam yang memukau dengan air yang jernih dan suasana hutan yang sejuk.",
     "koordinat": {
       "latitude": 5.2856426,
       "longitude": 95.2602065
@@ -679,7 +679,7 @@
     "alamat": "Banda Aceh, Laksana, Kuta Alam",
     "rating": "4.6",
     "jumlah_review": "1.359",
-    "deskripsi": "N/A",
+    "deskripsi": "Tugu Simpang Lima adalah sebuah landmark ikonik yang terletak di pusat Kota Banda Aceh. Tugu ini berdiri di persimpangan lima jalan utama, menjadikannya titik pusat pertemuan yang penting bagi warga lokal dan wisatawan.",
     "koordinat": {
       "latitude": 5.5560312,
       "longitude": 95.3217652
@@ -700,7 +700,7 @@
     "alamat": "Kp. Baru, Kec. Baiturrahman",
     "rating": "4.3",
     "jumlah_review": "1.443",
-    "deskripsi": "N/A",
+    "deskripsi": "Taman Bustanussalatin adalah sebuah taman populer yang terletak di Kp. Baru, Kec. Baiturrahman, Kota Banda Aceh. Taman ini buka 24 jam setiap hari dan menjadi tempat favorit warga lokal dan wisatawan untuk bersantai dan menikmati suasana kota.",
     "koordinat": {
       "latitude": 5.5502495,
       "longitude": 95.3172526
@@ -721,7 +721,7 @@
     "alamat": "Ulee Lheue, Kec. Meuraxa, Aceh",
     "rating": "4.4",
     "jumlah_review": "3.743",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Ulee Lheue adalah sebuah pantai yang terletak di Kecamatan Meuraxa, Kota Banda Aceh, Aceh. Pantai ini menawarkan keindahan alam yang memukau dan menjadi salah satu destinasi wisata populer di Banda Aceh.",
     "koordinat": {
       "latitude": 5.5597522,
       "longitude": 95.2852583

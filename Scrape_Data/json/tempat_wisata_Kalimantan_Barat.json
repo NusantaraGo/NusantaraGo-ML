@@ -4,7 +4,7 @@
     "alamat": "Pasir, Kec. Mempawah Hilir, Kab. Mempawah",
     "rating": "4.3",
     "jumlah_review": "1.244",
-    "deskripsi": "N/A",
+    "deskripsi": "Mempawah Mangrove Park adalah sebuah kawasan wisata edukasi berbasis lingkungan yang terletak di Desa Pasir, Kecamatan Mempawah Hilir, Kabupaten Mempawah, Kalimantan Barat. Tempat ini menawarkan keindahan hutan mangrove yang dilindungi, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": 0.3968263,
       "longitude": 108.9462068
@@ -25,7 +25,7 @@
     "alamat": "Jl. KH. Abdurahman Wahid, Kuala Dua, Kec. Sungai Raya",
     "rating": "4.1",
     "jumlah_review": "395",
-    "deskripsi": "N/A",
+    "deskripsi": "Hutan Albasia adalah sebuah kawasan wisata alam yang terletak di Desa Kuala Dua, Kecamatan Sungai Raya, Kabupaten Mempawah, Kalimantan Barat. Tempat ini menawarkan keindahan hutan albasia yang dilindungi, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": -0.181995,
       "longitude": 109.4414858
@@ -46,7 +46,7 @@
     "alamat": "Jl. Poros Sukadana - Ketapang, Pampang Harapan, Kec. Sukadana",
     "rating": "4.3",
     "jumlah_review": "199",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Pasir Mayang adalah sebuah kawasan wisata pantai yang terletak di Desa Pampang Harapan, Kecamatan Sukadana, Kabupaten Ketapang, Kalimantan Barat. Tempat ini menawarkan keindahan pantai yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": -1.2747618,
       "longitude": 109.9914875
@@ -67,7 +67,7 @@
     "alamat": "Setapuk Besar, Singkawang Utara",
     "rating": "4.3",
     "jumlah_review": "204",
-    "deskripsi": "N/A",
+    "deskripsi": "Mangrove Setapuk Besar adalah sebuah kawasan wisata alam yang terletak di Desa Setapuk Besar, Kecamatan Singkawang Utara, Kabupaten Singkawang, Kalimantan Barat. Tempat ini menawarkan keindahan mangrove yang dilindungi, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": 0.9826428,
       "longitude": 108.9792822
@@ -110,7 +110,7 @@
     "alamat": "Bhakti Mulya, Kec. Bengkayang",
     "rating": "4.6",
     "jumlah_review": "277",
-    "deskripsi": "N/A",
+    "deskripsi": "Bukit Jamur Bengkayang adalah sebuah kawasan wisata alam yang terletak di Desa Bhakti Mulya, Kecamatan Bengkayang, Kabupaten Bengkayang, Kalimantan Barat. Tempat ini menawarkan keindahan bukit yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": 0.7781171,
       "longitude": 109.4754982
@@ -131,7 +131,7 @@
     "alamat": "Merayuh, Kec. Air Besar",
     "rating": "4.4",
     "jumlah_review": "67",
-    "deskripsi": "N/A",
+    "deskripsi": "Air terjun Mananggar adalah sebuah kawasan wisata alam yang terletak di Desa Merayuh, Kecamatan Air Besar, Kabupaten Bengkayang, Kalimantan Barat. Tempat ini menawarkan keindahan air terjun yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": 0.8539274,
       "longitude": 110.1581455
@@ -152,7 +152,7 @@
     "alamat": "Lanjak Deras, Kec. Batang Lupar",
     "rating": "4.8",
     "jumlah_review": "11",
-    "deskripsi": "N/A",
+    "deskripsi": "Bukit Babi adalah sebuah kawasan wisata alam yang terletak di Desa Lanjak Deras, Kecamatan Batang Lupar, Kabupaten Ketapang, Kalimantan Barat. Tempat ini menawarkan keindahan bukit yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": 0.9705837,
       "longitude": 112.2698695
@@ -173,7 +173,7 @@
     "alamat": "Pedalaman, Kec. Tayan Hilir",
     "rating": "4.4",
     "jumlah_review": "398",
-    "deskripsi": "N/A",
+    "deskripsi": "Keraton Pakunegara Kesultanan Tayan adalah sebuah kawasan wisata sejarah yang terletak di Desa Pedalaman, Kecamatan Tayan Hilir, Kabupaten Ketapang, Kalimantan Barat. Tempat ini menawarkan keindahan keraton yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": -0.038017,
       "longitude": 110.120948
@@ -194,7 +194,7 @@
     "alamat": "Nyarumkop, Kec. Singkawang Tim.",
     "rating": "4.5",
     "jumlah_review": "821",
-    "deskripsi": "N/A",
+    "deskripsi": "Wisata Batu Belimbing adalah sebuah kawasan wisata alam yang terletak di Desa Nyarumkop, Kecamatan Singkawang Timur, Kabupaten Singkawang, Kalimantan Barat. Tempat ini menawarkan keindahan batu belimbing yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": 0.8752506,
       "longitude": 109.053685
@@ -215,7 +215,7 @@
     "alamat": "Sempatung Lawek, Kec. Air Besar",
     "rating": "4.9",
     "jumlah_review": "63",
-    "deskripsi": "N/A",
+    "deskripsi": "Air Terjun Bedawat adalah sebuah kawasan wisata alam yang terletak di Desa Sempatung Lawek, Kecamatan Air Besar, Kabupaten Bengkayang, Kalimantan Barat. Tempat ini menawarkan keindahan air terjun yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": 0.8443975,
       "longitude": 110.0122264
@@ -236,7 +236,7 @@
     "alamat": "Jl. Khatulistiwa No.Kel, Batu Layang, Kec. Pontianak Utara",
     "rating": "4.4",
     "jumlah_review": "8.807",
-    "deskripsi": "N/A",
+    "deskripsi": "Taman Khatulistiwa adalah sebuah kawasan wisata yang terletak di Jl. Khatulistiwa No.Kel, Batu Layang, Kec. Pontianak Utara, Kabupaten Pontianak, Kalimantan Barat. Tempat ini menawarkan keindahan taman yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": 0.0009995,
       "longitude": 109.3222052
@@ -257,7 +257,7 @@
     "alamat": "Jl. Raya Jungkat, Sei Nipah, Kec. Jongkat, Kab. Mempawah",
     "rating": "4.2",
     "jumlah_review": "3.114",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Jungkat & Resort adalah sebuah kawasan wisata pantai yang terletak di Jl. Raya Jungkat, Sei Nipah, Kec. Jongkat, Kab. Mempawah, Kalimantan Barat. Tempat ini menawarkan keindahan pantai yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": 0.065402,
       "longitude": 109.192148
@@ -278,7 +278,7 @@
     "alamat": "Jl. Lintas Temajuk, Temajuk, Kec. Paloh",
     "rating": "4.4",
     "jumlah_review": "104",
-    "deskripsi": "N/A",
+    "deskripsi": "Rumah Terbalik Kalbar adalah sebuah kawasan wisata yang terletak di Jl. Lintas Temajuk, Temajuk, Kec. Paloh, Kabupaten Kapuas, Kalimantan Barat. Tempat ini menawarkan keindahan rumah yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": 1.9893952,
       "longitude": 109.5907239
@@ -299,7 +299,7 @@
     "alamat": "Dsn. Sungai Bemban Des, Sei Batu, Kec. Kapuas",
     "rating": "4.5",
     "jumlah_review": "70",
-    "deskripsi": "N/A",
+    "deskripsi": "Air Terjun Saka Dua adalah sebuah kawasan wisata alam yang terletak di Desa Sungai Bemban Des, Sei Batu, Kec. Kapuas, Kabupaten Kapuas, Kalimantan Barat. Tempat ini menawarkan keindahan air terjun yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": -0.040797,
       "longitude": 110.536587
@@ -320,7 +320,7 @@
     "alamat": "Batu Layang, Pontianak Utara, Pontianak",
     "rating": "4.0",
     "jumlah_review": "79",
-    "deskripsi": "N/A",
+    "deskripsi": "Bukit Rel adalah sebuah kawasan wisata alam yang terletak di Batu Layang, Pontianak Utara, Pontianak, Kalimantan Barat. Tempat ini menawarkan keindahan bukit yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": 0.0327332,
       "longitude": 109.3099092
@@ -363,7 +363,7 @@
     "alamat": "Jl. Pantai Gosong, Sungai Raya, Sungai Raya Kepulauan",
     "rating": "4.1",
     "jumlah_review": "126",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Gosong adalah sebuah kawasan wisata pantai yang terletak di Jl. Pantai Gosong, Sungai Raya, Sungai Raya Kepulauan, Kabupaten Ketapang, Kalimantan Barat. Tempat ini menawarkan keindahan pantai yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": 0.7127766,
       "longitude": 108.8725001
@@ -384,7 +384,7 @@
     "alamat": "Lalang, Kec. Tayan Hilir",
     "rating": "4.2",
     "jumlah_review": "133",
-    "deskripsi": "N/A",
+    "deskripsi": "Wisata Danau Laet adalah sebuah kawasan wisata alam yang terletak di Lalang, Kec. Tayan Hilir, Kabupaten Ketapang, Kalimantan Barat. Tempat ini menawarkan keindahan danau yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": 0.0183332,
       "longitude": 109.9143689
@@ -426,7 +426,7 @@
     "alamat": "Telidik, Kec. Teriak",
     "rating": "4.4",
     "jumlah_review": "106",
-    "deskripsi": "N/A",
+    "deskripsi": "Wisata Alam Setanga Lestari Desa Sebente adalah sebuah kawasan wisata alam yang terletak di Telidik, Kec. Teriak, Kabupaten Ketapang, Kalimantan Barat. Tempat ini menawarkan keindahan alam yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": 0.7737321,
       "longitude": 109.5250064
@@ -468,11 +468,11 @@
     ]
   },
   {
-    "nama": "Danau Belibis tayan",
+    "nama": "Danau Belibis Tayan",
     "alamat": "Sejotang, Kec. Tayan Hilir",
     "rating": "4.3",
     "jumlah_review": "257",
-    "deskripsi": "N/A",
+    "deskripsi": "Danau Belibis Tayan adalah sebuah danau yang terletak di Sejotang, Kec. Tayan Hilir, Kabupaten Ketapang, Kalimantan Barat. Tempat ini menawarkan keindahan danau yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": 0.0490965,
       "longitude": 110.0040305
@@ -493,7 +493,7 @@
     "alamat": "Pisak, Kec. Tujuh Belas",
     "rating": "4.6",
     "jumlah_review": "176",
-    "deskripsi": "N/A",
+    "deskripsi": "Air Terjun Riam Ampang adalah sebuah air terjun yang terletak di Pisak, Kec. Tujuh Belas, Kabupaten Kapuas, Kalimantan Barat. Tempat ini menawarkan keindahan air terjun yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": 1.055222,
       "longitude": 109.7848085
@@ -559,7 +559,7 @@
     "alamat": "Jl. Karya Jaya Benteng Laut, sui, Sungai Kakap, Kec. Sungai Kakap",
     "rating": "4.9",
     "jumlah_review": "10",
-    "deskripsi": "N/A",
+    "deskripsi": "Wisata Borneo Bahari adalah sebuah kawasan wisata yang terletak di Jl. Karya Jaya Benteng Laut, sui, Sungai Kakap, Kec. Sungai Kakap, Kabupaten Pontianak, Kalimantan Barat. Tempat ini menawarkan keindahan wisata yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": -0.0501959,
       "longitude": 109.1676011
@@ -580,7 +580,7 @@
     "alamat": "Tanjung, Kec. Mempawah Hilir, Kab. Mempawah",
     "rating": "4.1",
     "jumlah_review": "199",
-    "deskripsi": "N/A",
+    "deskripsi": "Mangrove Pantai Tanjung Burung adalah sebuah kawasan wisata yang terletak di Tanjung, Kec. Mempawah Hilir, Kab. Mempawah, Kalimantan Barat. Tempat ini menawarkan keindahan mangrove yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": 0.322716,
       "longitude": 108.9279719
@@ -601,7 +601,7 @@
     "alamat": "Sungai Mawang, Kec. Kapuas, Kalimantan Barat",
     "rating": "4.6",
     "jumlah_review": "14",
-    "deskripsi": "N/A",
+    "deskripsi": "Air Terjun Riam Macan adalah sebuah air terjun yang terletak di Sungai Mawang, Kec. Kapuas, Kalimantan Barat. Tempat ini menawarkan keindahan air terjun yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": 0.1582354,
       "longitude": 110.5425936
@@ -622,7 +622,7 @@
     "alamat": "Jl. Jenderal Ahmad Yani, Bansir Laut, Kec. Pontianak Tenggara",
     "rating": "4.6",
     "jumlah_review": "725",
-    "deskripsi": "N/A",
+    "deskripsi": "Tugu Digulis Kalimantan Barat adalah sebuah tugu yang terletak di Jl. Jenderal Ahmad Yani, Bansir Laut, Kec. Pontianak Tenggara, Kabupaten Pontianak, Kalimantan Barat. Tempat ini menawarkan keindahan tugu yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": -0.0553407,
       "longitude": 109.3494283
@@ -643,7 +643,7 @@
     "alamat": "Tembawang Panjang, Kec. Nanga Pinoh",
     "rating": "4.3",
     "jumlah_review": "146",
-    "deskripsi": "N/A",
+    "deskripsi": "Lepung Kurnia adalah sebuah kawasan wisata yang terletak di Tembawang Panjang, Kec. Nanga Pinoh, Kabupaten Kapuas, Kalimantan Barat. Tempat ini menawarkan keindahan lepung yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": -0.3716875,
       "longitude": 111.7133125
@@ -664,7 +664,7 @@
     "alamat": "Jl. Pasir Panjang, Sedau, Kec. Singkawang Sel.",
     "rating": "4.4",
     "jumlah_review": "338",
-    "deskripsi": "N/A",
+    "deskripsi": "Wisata Pantai Gratis adalah sebuah kawasan wisata pantai yang terletak di Jl. Pasir Panjang, Sedau, Kec. Singkawang Sel., Kabupaten Singkawang, Kalimantan Barat. Tempat ini menawarkan keindahan pantai yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": 0.8414216,
       "longitude": 108.8754867
@@ -685,7 +685,7 @@
     "alamat": "Dalam Bugis, Kec. Pontianak Tim.",
     "rating": "4.6",
     "jumlah_review": "2.482",
-    "deskripsi": "N/A",
+    "deskripsi": "Istana Kadriah Kesultanan Pontianak adalah sebuah istana yang terletak di Dalam Bugis, Kec. Pontianak Tim., Kabupaten Pontianak, Kalimantan Barat. Tempat ini menawarkan keindahan istana yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": -0.0287892,
       "longitude": 109.3498511
@@ -706,7 +706,7 @@
     "alamat": "Jl. Sutan Syahrir, Akcaya",
     "rating": "4.3",
     "jumlah_review": "3.502",
-    "deskripsi": "N/A",
+    "deskripsi": "Taman Akcaya Pontianak adalah sebuah taman yang terletak di Jl. Sutan Syahrir, Akcaya, Kec. Pontianak Utara, Kabupaten Pontianak, Kalimantan Barat. Tempat ini menawarkan keindahan taman yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": -0.0455737,
       "longitude": 109.3218981
@@ -727,7 +727,7 @@
     "alamat": "Batu Jato, Kec. Nanga Taman",
     "rating": "4.5",
     "jumlah_review": "135",
-    "deskripsi": "N/A",
+    "deskripsi": "Wisata Batu Jato adalah sebuah kawasan wisata yang terletak di Batu Jato, Kec. Nanga Taman, Kabupaten Kapuas, Kalimantan Barat. Tempat ini menawarkan keindahan batu yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
     "koordinat": {
       "latitude": -0.3608367,
       "longitude": 110.8383472
