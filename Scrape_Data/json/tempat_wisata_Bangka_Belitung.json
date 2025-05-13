@@ -4,7 +4,7 @@
     "alamat": "Beluluk, Kec. Pangkalan Baru",
     "rating": "4.5",
     "jumlah_review": "160",
-    "deskripsi": "N/A",
+    "deskripsi": "Bukit Kejora adalah sebuah bukit yang terletak di Desa Beluluk, Kecamatan Pangkalan Baru, Kabupaten Bangka Tengah, Kepulauan Bangka Belitung. Bukit ini menawarkan pemandangan alam yang indah, di mana pengunjung dapat menikmati hamparan pepohonan hijau yang menyejukkan mata, serta pemandangan kota dari atas ketinggian, terutama saat matahari terbenam dan malam hari.",
     "koordinat": {
       "latitude": -2.1821656,
       "longitude": 106.1352033
@@ -25,7 +25,7 @@
     "alamat": "Lenggang, Kec. Gantung",
     "rating": "4.2",
     "jumlah_review": "487",
-    "deskripsi": "N/A",
+    "deskripsi": "Rumah Keong Belitung adalah sebuah dermaga dengan bangunan unik berbentuk cangkang keong yang terbuat dari rotan. Tempat ini terletak di Desa Lenggang, Kecamatan Gantung, Belitung Timur, tidak jauh dari SD Laskar Pelangi.",
     "koordinat": {
       "latitude": -2.9612504,
       "longitude": 108.1520326
@@ -46,7 +46,7 @@
     "alamat": "Keciput, Sijuk",
     "rating": "4.8",
     "jumlah_review": "978",
-    "deskripsi": "Pulau Kelayang   adalah sebuah pulau yang terletak di kabupaten Indragiri Hilir, provinsi Riau, Indonesia.",
+    "deskripsi": "Pulau Kelayang adalah sebuah pulau yang terletak di kabupaten Indragiri Hilir, provinsi Riau, Indonesia.",
     "koordinat": {
       "latitude": -2.5505284,
       "longitude": 107.6697737
@@ -67,7 +67,7 @@
     "alamat": "Air Itam, Kec. Bukitintan, Kepulauan Bangka Belitung",
     "rating": "4.4",
     "jumlah_review": "118",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Tanjung Bunga adalah sebuah pantai yang terletak di Kota Pangkalpinang, Provinsi Kepulauan Bangka Belitung. Pantai ini menawarkan pesona alam yang cukup menarik dengan ciri khasnya yang berbeda dari pantai-pantai berpasir putih di Belitung.",
     "koordinat": {
       "latitude": -2.1294682,
       "longitude": 106.1792028
@@ -88,7 +88,7 @@
     "alamat": "XCRR+CVF, jl alising kampung baru, Tj. Ketapang, Kec. Toboali",
     "rating": "4.3",
     "jumlah_review": "505",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Batu Kapur adalah sebuah pantai yang terletak di Kelurahan Tanjung Ketapang, Kecamatan Toboali, Kabupaten Bangka Selatan, Kepulauan Bangka Belitung. Pantai ini menjadi salah satu destinasi wisata yang cukup populer di Bangka Selatan karena keindahan dan keunikan lanskapnya.",
     "koordinat": {
       "latitude": -3.0089309,
       "longitude": 106.4421565
@@ -109,7 +109,7 @@
     "alamat": "Jalan Toba I, Kudai Utara, Sinar Jaya, Sinar Baru, Sungai Liat",
     "rating": "4.4",
     "jumlah_review": "583",
-    "deskripsi": "N/A",
+    "deskripsi": "Telaga Emas Bersinar adalah sebuah destinasi wisata yang terletak di Jalan Toba I, Kudai Utara, Sinar Baru, Kecamatan Sungailiat, Kabupaten Bangka, Kepulauan Bangka Belitung. Tempat ini dulunya merupakan lahan bekas penambangan timah yang kemudian dialihfungsikan menjadi kawasan wisata yang ramah keluarga.",
     "koordinat": {
       "latitude": -1.8421444,
       "longitude": 106.105424
@@ -130,7 +130,7 @@
     "alamat": "Tj. Ketapang, Kec. Toboali",
     "rating": "4.2",
     "jumlah_review": "104",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Kelisut adalah sebuah pantai yang terletak di Desa Tanjung Ketapang, Kecamatan Toboali, Kabupaten Bangka Selatan, Kepulauan Bangka Belitung. Pantai ini berjarak sekitar 1,5 kilometer dari pusat Kota Toboali dan dapat dicapai dalam waktu sekitar 5-10 menit dengan kendaraan roda dua maupun roda empat.",
     "koordinat": {
       "latitude": -3.0041615,
       "longitude": 106.4434926
@@ -151,7 +151,7 @@
     "alamat": "Jl. Pariwisata Pantai Tanjung Kemirai, Pasir Putih, Kec. Tukak Sadai, Kepulauan Bangka Belitung",
     "rating": "4.1",
     "jumlah_review": "55",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Tanjung Kemirai adalah sebuah pantai yang terletak di Desa Pasir Putih, Kecamatan Tukak Sadai, Kabupaten Bangka Selatan, Kepulauan Bangka Belitung. Pantai ini berjarak sekitar 30 kilometer dari Toboali, ibu kota Kabupaten Bangka Selatan, atau sekitar 1,5 jam perjalanan dari pusat Kota Toboali.",
     "koordinat": {
       "latitude": -3.0811217,
       "longitude": 106.7260127
@@ -172,7 +172,7 @@
     "alamat": "Parit Padang, Sungai Liat",
     "rating": "4.6",
     "jumlah_review": "152",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Batu Ketak adalah sebuah pantai yang terletak di Desa Parit Padang, Kecamatan Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung. Pantai ini menawarkan pemandangan alam yang indah, terutama saat matahari terbenam dan malam hari.",
     "koordinat": {
       "latitude": -1.8993648,
       "longitude": 106.1858205
@@ -193,7 +193,7 @@
     "alamat": "Deniang, Kec. Riau Silip",
     "rating": "4.4",
     "jumlah_review": "241",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Pulau Tiga, Bio adalah sebuah pantai yang terletak di Desa Deniang, Kecamatan Riau Silip, Kabupaten Bangka, Kepulauan Bangka Belitung. Pantai ini menawarkan pemandangan alam yang indah, terutama saat matahari terbenam dan malam hari.",
     "koordinat": {
       "latitude": -1.7583468,
       "longitude": 106.0899553
@@ -215,7 +215,7 @@
     "alamat": "Arung Dalam, Kec. Koba",
     "rating": "4.2",
     "jumlah_review": "531",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Arung Dalam adalah sebuah pantai yang terletak di Desa Arung Dalam, Kecamatan Koba, Kabupaten Bangka, Kepulauan Bangka Belitung. Pantai ini menawarkan pemandangan alam yang indah, terutama saat matahari terbenam dan malam hari.",
     "koordinat": {
       "latitude": -2.4727025,
       "longitude": 106.3725552
@@ -237,7 +237,7 @@
     "alamat": "Jl. Pantai Temberan, Air Anyir, Kec. Merawang",
     "rating": "4.2",
     "jumlah_review": "641",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Temberan adalah sebuah pantai yang terletak di Desa Air Anyir, Kecamatan Merawang, Kabupaten Bangka, Kepulauan Bangka Belitung. Pantai ini menawarkan pemandangan alam yang indah, terutama saat matahari terbenam dan malam hari.",
     "koordinat": {
       "latitude": -2.0262463,
       "longitude": 106.1551124
@@ -258,7 +258,7 @@
     "alamat": "Jl. Penganak, Air Gantang, Kec. Parittiga",
     "rating": "4.1",
     "jumlah_review": "287",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Penganak adalah sebuah pantai yang terletak di Desa Penganak, Kecamatan Parittiga, Kabupaten Bangka, Kepulauan Bangka Belitung. Pantai ini menawarkan pemandangan alam yang indah, terutama saat matahari terbenam dan malam hari.",
     "koordinat": {
       "latitude": -1.5958183,
       "longitude": 105.4360988
@@ -279,7 +279,7 @@
     "alamat": "Jl. Jend. Sudirman, Tj. Ketapang, Kec. Toboali",
     "rating": "4.3",
     "jumlah_review": "875",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Nek Aji adalah sebuah pantai yang terletak di Desa Tj. Ketapang, Kecamatan Toboali, Kabupaten Bangka Selatan, Kepulauan Bangka Belitung. Pantai ini menawarkan pemandangan alam yang indah, terutama saat matahari terbenam dan malam hari.",
     "koordinat": {
       "latitude": -3.0150175,
       "longitude": 106.4503906
@@ -300,7 +300,7 @@
     "alamat": "Air Anyir, Kec. Merawang",
     "rating": "4.1",
     "jumlah_review": "171",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Air Anyir adalah sebuah pantai yang terletak di Desa Air Anyir, Kecamatan Merawang, Kabupaten Bangka, Kepulauan Bangka Belitung. Pantai ini menawarkan pemandangan alam yang indah, terutama saat matahari terbenam dan malam hari.",
     "koordinat": {
       "latitude": -2.0193529,
       "longitude": 106.1552899
@@ -321,7 +321,7 @@
     "alamat": "Lubuk Lingkuk, Kec. Lubuk Besar",
     "rating": "4.5",
     "jumlah_review": "98",
-    "deskripsi": "N/A",
+    "deskripsi": "Air Terjun Bukit Pading adalah sebuah air terjun yang terletak di Desa Lubuk Lingkuk, Kecamatan Lubuk Besar, Kabupaten Bangka, Kepulauan Bangka Belitung. Air terjun ini menawarkan pemandangan alam yang indah, terutama saat matahari terbenam dan malam hari.",
     "koordinat": {
       "latitude": -2.6325375,
       "longitude": 106.5592969
@@ -343,7 +343,7 @@
     "alamat": "Jl. Gajah Mada, Lesung Batang, Kec. Tj. Pandan",
     "rating": "4.5",
     "jumlah_review": "2.062",
-    "deskripsi": "N/A",
+    "deskripsi": "Rumah Adat Belitung, yang juga dikenal dengan sebutan Rumah Panggong, adalah representasi arsitektur vernakular khas dari Pulau Belitung, yang merupakan bagian dari Provinsi Kepulauan Bangka Belitung. Rumah ini bukan hanya sekadar bangunan tempat tinggal, tetapi juga cerminan dari sejarah, budaya, dan filosofi masyarakat Belitung.",
     "koordinat": {
       "latitude": -2.7419538,
       "longitude": 107.653305
@@ -364,7 +364,7 @@
     "alamat": "Air Lintang, Kec. Tempilang",
     "rating": "4.2",
     "jumlah_review": "348",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Pasir Kuning Tempilang adalah sebuah pantai yang terletak di Desa Air Lintang, Kecamatan Tempilang, Kabupaten Bangka, Kepulauan Bangka Belitung. Pantai ini menawarkan pemandangan alam yang indah, terutama saat matahari terbenam dan malam hari.",
     "koordinat": {
       "latitude": -2.1267031,
       "longitude": 105.6608411
@@ -385,7 +385,7 @@
     "alamat": "Sungai Buluh, Kec. Jebus",
     "rating": "4.6",
     "jumlah_review": "94",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Bembang adalah sebuah pantai yang terletak di Desa Sungai Buluh, Kecamatan Jebus, Kabupaten Bangka, Kepulauan Bangka Belitung. Pantai ini menawarkan pemandangan alam yang indah, terutama saat matahari terbenam dan malam hari.",
     "koordinat": {
       "latitude": -1.6876365,
       "longitude": 105.3496539
@@ -406,7 +406,7 @@
     "alamat": "Koba, Kec. Koba",
     "rating": "4.2",
     "jumlah_review": "335",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Sumur Tujuh adalah sebuah pantai yang terletak di Desa Koba, Kecamatan Koba, Kabupaten Bangka, Kepulauan Bangka Belitung. Pantai ini menawarkan pemandangan alam yang indah, terutama saat matahari terbenam dan malam hari.",
     "koordinat": {
       "latitude": -2.479566,
       "longitude": 106.4283552
@@ -449,7 +449,7 @@
     "alamat": "Dul, Kec. Pangkalan Baru",
     "rating": "4.6",
     "jumlah_review": "92",
-    "deskripsi": "N/A",
+    "deskripsi": "Bukit Pinteir adalah sebuah destinasi wisata alam yang terletak di Kelurahan Dul, Kecamatan Pangkalan Baru, Kabupaten Bangka Tengah, Kepulauan Bangka Belitung. Bukit ini menjadi populer karena lokasinya yang tidak jauh dari kota dan mudah diakses, menjadikannya pilihan menarik untuk hiking, berkemah, dan bersepeda gunung.",
     "koordinat": {
       "latitude": -2.1929132,
       "longitude": 106.114049
@@ -470,7 +470,7 @@
     "alamat": "Jl. Lintas Timur, Selindung, Kec. Gabek",
     "rating": "4.3",
     "jumlah_review": "693",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Pukan adalah sebuah pantai yang terletak di Desa Selindung, Kecamatan Gabek, Kabupaten Bangka, Kepulauan Bangka Belitung. Pantai ini menawarkan pemandangan alam yang indah, terutama saat matahari terbenam dan malam hari.",
     "koordinat": {
       "latitude": -2.0443367,
       "longitude": 106.1594233
@@ -491,7 +491,7 @@
     "alamat": "Tj. Binga, Sijuk",
     "rating": "4.5",
     "jumlah_review": "265",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Tanjung Binga adalah sebuah pantai yang terletak di Desa Tj. Binga, Kecamatan Sijuk, Kabupaten Bangka, Kepulauan Bangka Belitung. Pantai ini menawarkan pemandangan alam yang indah, terutama saat matahari terbenam dan malam hari.",
     "koordinat": {
       "latitude": -2.5887898,
       "longitude": 107.6427736
@@ -512,7 +512,7 @@
     "alamat": "Parit Padang, Sungai Liat, Kepulauan Bangka Belitung",
     "rating": "4.6",
     "jumlah_review": "38",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Tanjung Batu adalah sebuah pantai yang terletak di Desa Parit Padang, Sungai Liat, Kecamatan Parittiga, Kabupaten Bangka, Kepulauan Bangka Belitung. Pantai ini menawarkan pemandangan alam yang indah, terutama saat matahari terbenam dan malam hari.",
     "koordinat": {
       "latitude": -1.8775391,
       "longitude": 106.172909
@@ -533,7 +533,7 @@
     "alamat": "GCFX+WPX, Padang Mulia, Kec. Koba, Kepulauan Bangka Belitung",
     "rating": "4.5",
     "jumlah_review": "49",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Tanjung Langka Koba adalah sebuah pantai yang terletak di Desa Koba, Kecamatan Koba, Kabupaten Bangka, Kepulauan Bangka Belitung. Pantai ini menawarkan pemandangan alam yang indah, terutama saat matahari terbenam dan malam hari.",
     "koordinat": {
       "latitude": -2.4751303,
       "longitude": 106.4493713
@@ -554,7 +554,7 @@
     "alamat": "Perawas, Kec. Tj. Pandan",
     "rating": "4.3",
     "jumlah_review": "3.127",
-    "deskripsi": "N/A",
+    "deskripsi": "Danau Kaolin adalah sebuah danau yang terbentuk dari bekas penambangan kaolin (sejenis tanah liat putih) yang terletak di Desa Nibung, Kecamatan Koba, Kabupaten Bangka Tengah, Kepulauan Bangka Belitung.",
     "koordinat": {
       "latitude": -2.736802,
       "longitude": 107.6818554
@@ -575,7 +575,7 @@
     "alamat": "Dusun Mengguru, Cendil, Kec. Klp. Kampit",
     "rating": "4.5",
     "jumlah_review": "66",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Batu Pulas adalah sebuah pantai yang terletak di Desa Mengguru, Kecamatan Cendil, Kabupaten Bangka Tengah, Kepulauan Bangka Belitung. Pantai ini menawarkan pemandangan alam yang indah, terutama saat matahari terbenam dan malam hari.",
     "koordinat": {
       "latitude": -2.5693488,
       "longitude": 107.9502322
@@ -596,7 +596,7 @@
     "alamat": "Bangka Island, Kepulauan Bangka Belitung",
     "rating": "4.2",
     "jumlah_review": "244",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Batu Belubang adalah sebuah pantai yang terletak di Desa Koba, Kecamatan Koba, Kabupaten Bangka, Kepulauan Bangka Belitung. Pantai ini menawarkan pemandangan alam yang indah, terutama saat matahari terbenam dan malam hari.",
     "koordinat": {
       "latitude": -2.1690746,
       "longitude": 106.1882019
@@ -617,7 +617,7 @@
     "alamat": "Nyelanding, Kec. Air Gegas",
     "rating": "4.1",
     "jumlah_review": "145",
-    "deskripsi": "N/A",
+    "deskripsi": "Wisata Air Panas Kater Desa Nyelanding adalah sebuah wisata air panas yang terletak di Desa Nyelanding, Kecamatan Air Gegas, Kabupaten Bangka, Kepulauan Bangka Belitung. Wisata ini menawarkan pemandangan alam yang indah, terutama saat matahari terbenam dan malam hari.",
     "koordinat": {
       "latitude": -2.7004123,
       "longitude": 106.2731224
@@ -638,7 +638,7 @@
     "alamat": "Padang Kandis, Membalong",
     "rating": "4.4",
     "jumlah_review": "559",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Panyabong adalah sebuah pantai yang terletak di Desa Padang Kandis, Kecamatan Membalong, Kabupaten Bangka, Kepulauan Bangka Belitung. Pantai ini menawarkan pemandangan alam yang indah, terutama saat matahari terbenam dan malam hari.",
     "koordinat": {
       "latitude": -3.2385128,
       "longitude": 107.6402168
@@ -681,7 +681,7 @@
     "alamat": "Keciput, Sijuk",
     "rating": "4.7",
     "jumlah_review": "709",
-    "deskripsi": "N/A",
+    "deskripsi": "Pulau Kepayang adalah sebuah pulau yang terletak di Desa Keciput, Kecamatan Sijuk, Kabupaten Bangka, Kepulauan Bangka Belitung. Pulau ini menawarkan pemandangan alam yang indah, terutama saat matahari terbenam dan malam hari.",
     "koordinat": {
       "latitude": -2.5489247,
       "longitude": 107.6508575
@@ -702,7 +702,7 @@
     "alamat": "Kurau, Kec. Koba, Kepulauan Bangka Belitung",
     "rating": "4.6",
     "jumlah_review": "21",
-    "deskripsi": "Pulau Ketawai adalah sebuah pulau di Kabupaten Bangka Tengah.\n\n\n== Referensi ==",
+    "deskripsi": "Pulau Ketawai adalah sebuah pulau yang terletak di Desa Kurau, Kecamatan Koba, Kabupaten Bangka, Kepulauan Bangka Belitung. Pulau ini menawarkan pemandangan alam yang indah, terutama saat matahari terbenam dan malam hari.",
     "koordinat": {
       "latitude": -2.2669609,
       "longitude": 106.326325
@@ -723,7 +723,7 @@
     "alamat": "Tj. Ketapang, Bang Toboali",
     "rating": "4.4",
     "jumlah_review": "1.095",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Batu Belimbing adalah sebuah pantai yang terletak di Desa Tanjung Ketapang, Kecamatan Toboali, Kabupaten Bangka Selatan, Kepulauan Bangka Belitung. Pantai ini berdekatan dengan Pantai Batu Perahu dan Pantai Kelisut, yang hanya berjarak sekitar 100 meter.",
     "koordinat": {
       "latitude": -3.0056437,
       "longitude": 106.4454459

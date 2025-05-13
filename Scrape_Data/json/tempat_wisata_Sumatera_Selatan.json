@@ -4,7 +4,7 @@
     "alamat": "Air Terjun Curup Tenang, Bedegung, Kec. Tj. Agung",
     "rating": "4.5",
     "jumlah_review": "673",
-    "deskripsi": "N/A",
+    "deskripsi": "Air Terjun Bedegung adalah sebuah air terjun yang terletak di Air Terjun Curup Tenang, Bedegung, Kec. Tj. Agung, Kabupaten Lampung Selatan, Provinsi Lampung. Air terjun ini terkenal karena keindahan alamnya yang memiliki air terjun yang indah dan bersejarah.",
     "koordinat": {
       "latitude": -4.0592127,
       "longitude": 103.7668845
@@ -25,7 +25,7 @@
     "alamat": "Talang Aur, Kec. Indralaya",
     "rating": "4.4",
     "jumlah_review": "168",
-    "deskripsi": "N/A",
+    "deskripsi": "Danau Palem Raya adalah sebuah danau yang terletak di Talang Aur, Kec. Indralaya, Kabupaten Lampung Selatan, Provinsi Lampung. Danau ini terkenal karena keindahan alamnya yang memiliki danau yang indah dan bersejarah.",
     "koordinat": {
       "latitude": -3.2165625,
       "longitude": 104.6981875
@@ -46,7 +46,7 @@
     "alamat": "Ulak Surung, Kec. Lubuk Linggau Utara II",
     "rating": "4.2",
     "jumlah_review": "1.333",
-    "deskripsi": "N/A",
+    "deskripsi": "Wisata Alam Bukit Sulap Taman Nasional Kerinci Seblat adalah sebuah wisata yang terletak di Ulak Surung, Kec. Lubuk Linggau Utara II, Kabupaten Lubuk Linggau, Provinsi Sumatera Selatan. Wisata ini menjadi daya tarik karena keindahan alamnya yang memiliki bukit yang indah dan bersejarah.",
     "koordinat": {
       "latitude": -3.2858711,
       "longitude": 102.8569352
@@ -70,7 +70,7 @@
     "alamat": "Jungai, Kec. Rambang Kapak Tengah",
     "rating": "4.8",
     "jumlah_review": "10",
-    "deskripsi": "N/A",
+    "deskripsi": "Wisata Gua Tulung adalah sebuah wisata yang terletak di Jungai, Kec. Rambang Kapak Tengah, Kabupaten Lubuk Linggau, Provinsi Sumatera Selatan. Wisata ini menjadi daya tarik karena keindahan alamnya yang memiliki gua yang indah dan bersejarah.",
     "koordinat": {
       "latitude": -3.5587521,
       "longitude": 104.2761353
@@ -87,11 +87,11 @@
     ]
   },
   {
-    "nama": "Kampung Wisata \" Hadrami \" Al Munawar",
+    "nama": "Kampung Wisata Hadrami Al Munawar",
     "alamat": "Munawar, Seberang Ulu II",
     "rating": "4.6",
     "jumlah_review": "2.360",
-    "deskripsi": "N/A",
+    "deskripsi": "Kampung Wisata Hadrami Al Munawar adalah sebuah perkampungan unik di Palembang yang dihuni oleh masyarakat keturunan Arab Hadrami. Kampung ini terletak di Kelurahan 13 Ulu, Kecamatan Seberang Ulu II, Kota Palembang, tepat di tepi Sungai Musi.",
     "koordinat": {
       "latitude": -2.987663,
       "longitude": 104.7730714
@@ -112,7 +112,7 @@
     "alamat": "Air Batu, Kec. Talang Klp., Kab. Banyuasin",
     "rating": "4.3",
     "jumlah_review": "612",
-    "deskripsi": "N/A",
+    "deskripsi": "Danau Buatan Air Batu adalah sebuah danau yang terletak di Air Batu, Kec. Talang Klp., Kab. Banyuasin, Provinsi Sumatera Selatan. Danau ini terkenal karena keindahan alamnya yang memiliki danau yang indah dan bersejarah.",
     "koordinat": {
       "latitude": -2.9019557,
       "longitude": 104.6172214
@@ -157,7 +157,7 @@
     "alamat": "Segamit, Kec. Semendo Darat Ulu",
     "rating": "4.6",
     "jumlah_review": "128",
-    "deskripsi": "N/A",
+    "deskripsi": "Danau Dedughuk adalah sebuah danau yang terletak di Segamit, Kec. Semendo Darat Ulu, Kabupaten Banyuasin, Provinsi Sumatera Selatan. Danau ini terkenal karena keindahan alamnya yang memiliki danau yang indah dan bersejarah.",
     "koordinat": {
       "latitude": -4.2024149,
       "longitude": 103.442384
@@ -178,7 +178,7 @@
     "alamat": "jembatan, Kenten laut sebrang, Jl.nanguning, Tanah MAS, Kec. Talang Klp., Kab. Banyuasin",
     "rating": "4.5",
     "jumlah_review": "126",
-    "deskripsi": "N/A",
+    "deskripsi": "Taman Jokis, juga dikenal sebagai Taman Bunga Celosia Jokis, adalah sebuah taman wisata yang terletak di Kenten Laut, Kabupaten Banyuasin, Sumatera Selatan, dekat Palembang. Taman ini menawarkan berbagai spot foto menarik dengan latar belakang ribuan bunga celosia yang indah.",
     "koordinat": {
       "latitude": -2.8837991,
       "longitude": 104.7756977
@@ -199,7 +199,7 @@
     "alamat": "Jl. Moh. Amin, Gandus, Kec. Gandus",
     "rating": "4.6",
     "jumlah_review": "5.322",
-    "deskripsi": "N/A",
+    "deskripsi": "Museum Bayt Al-Qur'an Al-Akbar, juga dikenal sebagai Al-Qur'an Raksasa, adalah sebuah museum yang menyimpan Al-Qur'an ukir terbesar di dunia. Terletak di Jalan Moh. Amin, Gandus, Kecamatan Gandus, Kota Palembang, museum ini menjadi ikon wisata religi yang populer di Palembang.",
     "koordinat": {
       "latitude": -3.011463,
       "longitude": 104.704183
@@ -220,7 +220,7 @@
     "alamat": "Tegal Mulyo, Kec. Keluang, Sumatera Selatan",
     "rating": "4.3",
     "jumlah_review": "43",
-    "deskripsi": "N/A",
+    "deskripsi": "Wahana Tirto Mulyo adalah sebuah destinasi wisata yang menawarkan berbagai wahana permainan air dan darat yang cocok untuk keluarga. Tempat ini menjadi pilihan rekreasi bagi warga sekitar dan pengunjung yang mencari hiburan di Kabupaten Musi Banyuasin.",
     "koordinat": {
       "latitude": -2.6218728,
       "longitude": 104.0039822
@@ -241,7 +241,7 @@
     "alamat": "Sukamoro, Kec. Talang Klp., Kab. Banyuasin",
     "rating": "4.1",
     "jumlah_review": "2.040",
-    "deskripsi": "N/A",
+    "deskripsi": "Danau Tanah Mas adalah sebuah danau yang terletak di Sukamoro, Kec. Talang Klp., Kab. Banyuasin, Provinsi Sumatera Selatan. Danau ini terkenal karena keindahan alamnya yang memiliki danau yang indah dan bersejarah.",
     "koordinat": {
       "latitude": -2.9226025,
       "longitude": 104.6705739
@@ -262,7 +262,7 @@
     "alamat": "Jl. Letnan Alamsyah, Karang Dalam, Kec. Pulau Pinang",
     "rating": "4.7",
     "jumlah_review": "52",
-    "deskripsi": "N/A",
+    "deskripsi": "Objek Wisata Air Terjun Bidadari Karang Dalam adalah sebuah objek wisata yang terletak di Jl. Letnan Alamsyah, Karang Dalam, Kec. Pulau Pinang, Kabupaten Lampung Selatan, Provinsi Lampung. Objek wisata ini menjadi daya tarik karena keindahan alamnya yang memiliki air terjun yang indah dan bersejarah.",
     "koordinat": {
       "latitude": -3.8539552,
       "longitude": 103.5212731
@@ -284,7 +284,7 @@
     "alamat": "Burai, Kec. Tj. Batu",
     "rating": "4.5",
     "jumlah_review": "207",
-    "deskripsi": "N/A",
+    "deskripsi": "Desa Wisata Kampung Warna Burai adalah sebuah desa wisata yang terletak di Burai, Kec. Tj. Batu, Kabupaten Lampung Selatan, Provinsi Lampung. Desa ini menjadi daya tarik karena keindahan alamnya yang memiliki desa yang indah dan bersejarah.",
     "koordinat": {
       "latitude": -3.2806541,
       "longitude": 104.5946902
@@ -305,7 +305,7 @@
     "alamat": "Sumber Jaya, Kec. Sumber Harta",
     "rating": "4.1",
     "jumlah_review": "778",
-    "deskripsi": "N/A",
+    "deskripsi": "Danau Aur adalah sebuah danau yang terletak di Sumber Jaya, Kec. Sumber Harta, Kabupaten Lampung Selatan, Provinsi Lampung. Danau ini terkenal karena keindahan alamnya yang memiliki danau yang indah dan bersejarah.",
     "koordinat": {
       "latitude": -3.0993473,
       "longitude": 102.9256256
@@ -326,7 +326,7 @@
     "alamat": "Jl. Tj. Bubuk, Gandus, Kec. Gandus",
     "rating": "4.3",
     "jumlah_review": "52",
-    "deskripsi": "N/A",
+    "deskripsi": "Lembah Sakura Palembang adalah sebuah lembah yang terletak di Jl. Tj. Bubuk, Gandus, Kec. Gandus, Kota Palembang, Provinsi Sumatera Selatan. Lembah ini menjadi daya tarik karena keindahan alamnya yang memiliki lembah yang indah dan bersejarah.",
     "koordinat": {
       "latitude": -3.0044859,
       "longitude": 104.7062412
@@ -368,7 +368,7 @@
     "alamat": "Kec. Ilir Tim. I",
     "rating": "4.4",
     "jumlah_review": "25",
-    "deskripsi": "N/A",
+    "deskripsi": "Wisata Kuliner Tepian Sungai Musi adalah sebuah wisata yang terletak di Kec. Ilir Tim. I, Kota Palembang, Provinsi Sumatera Selatan. Wisata ini menjadi daya tarik karena keindahan alamnya yang memiliki wisata yang indah dan bersejarah.",
     "koordinat": {
       "latitude": -2.9894011,
       "longitude": 104.7627676
@@ -389,7 +389,7 @@
     "alamat": "Jl. Gelora Sriwijaya, Sentosa, Kec. Seberang Ulu II",
     "rating": "4.5",
     "jumlah_review": "2.348",
-    "deskripsi": "N/A",
+    "deskripsi": "Danau Ski Air Jakabaring Sport City adalah sebuah danau yang terletak di Jl. Gelora Sriwijaya, Sentosa, Kec. Seberang Ulu II, Kota Palembang, Provinsi Sumatera Selatan. Danau ini terkenal karena keindahan alamnya yang memiliki danau yang indah dan bersejarah.",
     "koordinat": {
       "latitude": -3.0188419,
       "longitude": 104.7955011
@@ -410,7 +410,7 @@
     "alamat": "Sidomulyo, Kec. Air Kumbang, Kab. Banyuasin, Sumatera Selatan",
     "rating": "4.5",
     "jumlah_review": "264",
-    "deskripsi": "N/A",
+    "deskripsi": "Taman Asih Sidomulyo adalah sebuah taman yang terletak di Sidomulyo, Kec. Air Kumbang, Kab. Banyuasin, Sumatera Selatan. Taman ini menjadi daya tarik karena keindahan alamnya yang memiliki taman yang indah dan bersejarah.",
     "koordinat": {
       "latitude": -2.9489105,
       "longitude": 105.0073715
@@ -431,7 +431,7 @@
     "alamat": "Unnamed Road, Sakatiga, Kec. Indralaya",
     "rating": "4.6",
     "jumlah_review": "107",
-    "deskripsi": "N/A",
+    "deskripsi": "Danau Telok Putih adalah sebuah danau yang terletak di Unnamed Road, Sakatiga, Kec. Indralaya, Kabupaten Banyuasin, Sumatera Selatan. Danau ini terkenal karena keindahan alamnya yang memiliki danau yang indah dan bersejarah.",
     "koordinat": {
       "latitude": -3.2561385,
       "longitude": 104.6875435
@@ -452,7 +452,7 @@
     "alamat": "Gn. Kembang, Kec. Tj. Sakti Pumi",
     "rating": "4.6",
     "jumlah_review": "124",
-    "deskripsi": "N/A",
+    "deskripsi": "Objek Wisata Tanjung Sakti SPJ, yang terletak di Desa Sindang Panjang, Kecamatan Tanjung Sakti Pumi, Kabupaten Lahat, Sumatera Selatan, menawarkan agrowisata dengan nuansa alam yang masih alami dan udara yang sejuk khas daerah perbukitan.",
     "koordinat": {
       "latitude": -4.1372348,
       "longitude": 103.0724967
@@ -473,7 +473,7 @@
     "alamat": "Jl. Dewi Motik, Talang Klp., Kec. Alang-Alang Lebar",
     "rating": "4.4",
     "jumlah_review": "11",
-    "deskripsi": "N/A",
+    "deskripsi": "Danau Kaisar Palembang adalah danau tersembunyi yang menawarkan suasana tenang dan privat. Lokasinya yang belum banyak diketahui wisatawan menjadikannya tempat yang cocok untuk bersantai dan menikmati pemandangan alam.",
     "koordinat": {
       "latitude": -2.9389941,
       "longitude": 104.6969522
@@ -494,7 +494,7 @@
     "alamat": "Jl. Tasik, Talang Semut, Kec. Bukit Kecil",
     "rating": "4.5",
     "jumlah_review": "11.653",
-    "deskripsi": "N/A",
+    "deskripsi": "Taman Kambang Iwak Besak adalah sebuah taman kota yang terletak di jantung Kota Palembang, tepatnya di Jalan Tasik, Talang Semut, Kecamatan Bukit Kecil. Taman ini telah ada sejak tahun 1900-an dan awalnya dibangun sebagai sarana olahraga bagi warga keturunan Belanda.",
     "koordinat": {
       "latitude": -2.9901952,
       "longitude": 104.7471067
@@ -515,7 +515,7 @@
     "alamat": "Jl. Gubernur H.A. Bastari, Jakabaring, Kawasan Opi Mall, sebelah Waterfun, Sungai Kedukan, Kec. Rambutan",
     "rating": "4.3",
     "jumlah_review": "3.033",
-    "deskripsi": "N/A",
+    "deskripsi": "Palembang Bird Park adalah taman burung pertama di Kota Palembang, yang terletak di kawasan OPI Mal, Jalan Gubernur H.A. Bastari, Jakabaring, bersebelahan dengan OPI Water Fun. Taman ini dibuka sejak Desember 2016 sebagai sarana hiburan dan wisata edukasi bagi warga Palembang dan sekitarnya.",
     "koordinat": {
       "latitude": -3.0366659,
       "longitude": 104.7885918
@@ -558,7 +558,7 @@
     "alamat": "Atung Bungsu, Dempo Selatan, Trans SP II Padang Muara Dua, Gumay Ulu, Trans SP II Padang Muara Dua, Kec. Gumay Ulu",
     "rating": "4.5",
     "jumlah_review": "355",
-    "deskripsi": "N/A",
+    "deskripsi": "Wisata Air Terjun Curup Maung adalah sebuah destinasi wisata alam yang terletak di Desa Rinduhati, Kecamatan Gumay Ulu, Kabupaten Lahat, Provinsi Sumatera Selatan. Nama 'Curup Maung' dalam bahasa setempat berarti 'Air Terjun Harimau'. Air terjun ini menawarkan keindahan alam yang masih alami dan suasana yang menenangkan.",
     "koordinat": {
       "latitude": -3.9898475,
       "longitude": 103.3924755
@@ -579,7 +579,7 @@
     "alamat": "Seleman, Kec. Tj. Agung",
     "rating": "4.2",
     "jumlah_review": "148",
-    "deskripsi": "N/A",
+    "deskripsi": "Wisata Alam Lubuk Putih menawarkan keindahan sungai dengan tebing batu putih yang menjulang tinggi di kedua sisinya. Air sungai Enim yang jernih mengalir di antara tebing, menciptakan pemandangan yang eksotis dan menjadi daya tarik utama bagi wisatawan.",
     "koordinat": {
       "latitude": -3.8772005,
       "longitude": 103.7923033
@@ -600,7 +600,7 @@
     "alamat": "Sukamoro, Kec. Talang Klp., Kab. Banyuasin, Sumatera Selatan",
     "rating": "4.4",
     "jumlah_review": "139",
-    "deskripsi": "N/A",
+    "deskripsi": "GELAM FOREST FANTASI adalah sebuah wisata alam yang menawarkan nuansa hutan gelam yang khas Sumatera Selatan. Hutan gelam sendiri merupakan ekosistem rawa dengan pepohonan gelam yang mendominasi. Tempat ini cocok bagi Anda yang ingin menikmati suasana alami dan bersantai bersama keluarga.",
     "koordinat": {
       "latitude": -2.8595302,
       "longitude": 104.6842387
@@ -621,7 +621,7 @@
     "alamat": "Bumi Agung, Kec. Dempo Utara",
     "rating": "4.4",
     "jumlah_review": "1.465",
-    "deskripsi": "N/A",
+    "deskripsi": "Green Paradise Pagar Alam adalah destinasi wisata alam yang memikat di Kota Pagar Alam, Sumatera Selatan. Terletak di kaki Gunung Dempo, tempat ini menawarkan kombinasi keindahan alam, berbagai aktivitas menarik, dan suasana yang menyegarkan.",
     "koordinat": {
       "latitude": -4.0685814,
       "longitude": 103.1920588
@@ -642,7 +642,7 @@
     "alamat": "Jalan Alamsyah Ratu Prawiranegara, Pagar Wangi, Kec. Dempo Utara",
     "rating": "4.6",
     "jumlah_review": "268",
-    "deskripsi": "N/A",
+    "deskripsi": "Kawasan Wisata Gunung Dempo, yang terletak di Kota Pagar Alam, Sumatera Selatan, adalah tujuan wisata populer yang menawarkan berbagai daya tarik alam dan aktivitas.",
     "koordinat": {
       "latitude": -4.037473,
       "longitude": 103.1949821
@@ -663,7 +663,7 @@
     "alamat": "Talang Klp., Kec. Alang-Alang Lebar",
     "rating": "4.3",
     "jumlah_review": "4.448",
-    "deskripsi": "N/A",
+    "deskripsi": "Amanzi Waterpark adalah taman rekreasi air yang terletak di Komp. CitraGrand City, Copacabana Lifestyle Center Blok D No.38 Jl. Alang-alang Lebar KM 12, Talang Kelapa, Kota Palembang, Sumatera Selatan. Mengusung tema petualangan alam liar Afrika, Amanzi Waterpark menawarkan berbagai wahana air seru untuk segala usia.",
     "koordinat": {
       "latitude": -2.9379403,
       "longitude": 104.6836213
@@ -708,7 +708,7 @@
     "alamat": "Serasan Jaya, Kec. Sekayu",
     "rating": "4.3",
     "jumlah_review": "792",
-    "deskripsi": "N/A",
+    "deskripsi": "Waterfront Sekayu adalah sebuah kawasan wisata yang terletak di tepi Sungai Musi, di Kota Sekayu, ibu kota Kabupaten Musi Banyuasin, Sumatera Selatan. Tempat ini menjadi ruang publik yang populer bagi warga setempat dan wisatawan untuk bersantai, menikmati pemandangan sungai, dan menghabiskan waktu bersama keluarga.",
     "koordinat": {
       "latitude": -2.8758635,
       "longitude": 103.8316168
@@ -729,7 +729,7 @@
     "alamat": "Unnamed Road, Sepancar Lawang Kulon, Kec. Baturaja Timur",
     "rating": "4.4",
     "jumlah_review": "24",
-    "deskripsi": "N/A",
+    "deskripsi": "Taman Wisata Telaga Arum adalah sebuah destinasi wisata yang terletak di Desa Tegal Arum, Kelurahan Sepancar Lawang Kulon, Kecamatan Baturaja Timur, Kabupaten Ogan Komering Ulu (OKU), Sumatera Selatan.",
     "koordinat": {
       "latitude": -4.2020447,
       "longitude": 104.2476938
