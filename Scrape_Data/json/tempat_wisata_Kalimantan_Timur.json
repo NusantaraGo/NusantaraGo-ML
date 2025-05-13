@@ -1,0 +1,735 @@
+[
+  {
+    "nama": "Wisata Sawah Betapus",
+    "alamat": "Jl. Usaha Tani, Lempake, Kec. Samarinda Utara",
+    "rating": "4.4",
+    "jumlah_review": "632",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.4168837,
+      "longitude": 117.1785956
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Sawah+Betapus/data=!4m7!3m6!1s0x2df5d74cb4c3ad3b:0xbfe3ec28f4814051!8m2!3d-0.4168837!4d117.1785956!16s%2Fg%2F11r6b78q5l!19sChIJO63DtEzX9S0RUUCB9Cjs478?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrbF-6KuHxC8FDw6cspKYJDY1BxK5lsWfXJJr4-n15trf3cT10WgoiazkFgKzs5ngCz62PTTCAysn5-UvAPZKz952k3Tobh7e9eNUGBpALQC_dfI4oYwPCoPSQQJDibHmvTr3CVzA=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrbF-6KuHxC8FDw6cspKYJDY1BxK5lsWfXJJr4-n15trf3cT10WgoiazkFgKzs5ngCz62PTTCAysn5-UvAPZKz952k3Tobh7e9eNUGBpALQC_dfI4oYwPCoPSQQJDibHmvTr3CVzA=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrbF-6KuHxC8FDw6cspKYJDY1BxK5lsWfXJJr4-n15trf3cT10WgoiazkFgKzs5ngCz62PTTCAysn5-UvAPZKz952k3Tobh7e9eNUGBpALQC_dfI4oYwPCoPSQQJDibHmvTr3CVzA=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Air Terjun Pinang Seribu",
+    "alamat": "Unnamed Road, Sempaja Utara, Kec. Samarinda Utara",
+    "rating": "4.0",
+    "jumlah_review": "403",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.4020354,
+      "longitude": 117.155879
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Pinang+Seribu/data=!4m7!3m6!1s0x2df6781de7993217:0xadd77ef2ac9199f1!8m2!3d-0.4020354!4d117.155879!16s%2Fg%2F11c52r8jpy!19sChIJFzKZ5x149i0R8ZmRrPJ-160?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq9kusBP2MjbCx1KA6U9XfzNua78UElxUppwJughylTjQpamLNf5UjecUhdFEKTTcJ_7RccdelK03HvkTouKHtY58fHmqkC_4p25boYgDXDMxADy6QinA0aN5NK5YWNVaKQZ6nX=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq9kusBP2MjbCx1KA6U9XfzNua78UElxUppwJughylTjQpamLNf5UjecUhdFEKTTcJ_7RccdelK03HvkTouKHtY58fHmqkC_4p25boYgDXDMxADy6QinA0aN5NK5YWNVaKQZ6nX=w397-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np7bdvhH1R6OupGwsgLTRGUQyvArh7tmIEB253-Dfu87jx0NojUptqIvGjK6lrvHaOZ2cS4L1PfBTZ_9lyHto59YDjeCTzOl1tXG6lbYm8r9lyrU5Y7YxYs32YCvm2VUam1lZRy=w224-h397-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Danau Cermin Lamaru",
+    "alamat": "Lamaru, Kec. Balikpapan Tim.",
+    "rating": "3.8",
+    "jumlah_review": "315",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -1.1960325,
+      "longitude": 116.975654
+    },
+    "url": "https://www.google.com/maps/place/Danau+Cermin+Lamaru/data=!4m7!3m6!1s0x2df14648531f2151:0xbc4a7f24234c0df!8m2!3d-1.1960325!4d116.975654!16s%2Fg%2F11bt_hq94j!19sChIJUSEfU0hG8S0R38A0QvKnxAs?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr-_p5SAQiW1t7aEE6hzGYgzVH2MGWbC7tQbCKb7y4zWr2a2c5PEBg1VlIMlm5Nsxl_zdw5mns6Hbywf80hjBskiux2X8SqmCwOXaCjwJcsIqEcZt1dT6wyj1HaOdw-2AEQ4mkC=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr-_p5SAQiW1t7aEE6hzGYgzVH2MGWbC7tQbCKb7y4zWr2a2c5PEBg1VlIMlm5Nsxl_zdw5mns6Hbywf80hjBskiux2X8SqmCwOXaCjwJcsIqEcZt1dT6wyj1HaOdw-2AEQ4mkC=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr-_p5SAQiW1t7aEE6hzGYgzVH2MGWbC7tQbCKb7y4zWr2a2c5PEBg1VlIMlm5Nsxl_zdw5mns6Hbywf80hjBskiux2X8SqmCwOXaCjwJcsIqEcZt1dT6wyj1HaOdw-2AEQ4mkC=w224-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Gunung embun",
+    "alamat": "Desa luan, Kec. Muara Samu",
+    "rating": "4.6",
+    "jumlah_review": "1.266",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -1.9485388,
+      "longitude": 116.0022468
+    },
+    "url": "https://www.google.com/maps/place/Gunung+embun/data=!4m7!3m6!1s0x2df015ab499d6d71:0xf503f5231d5439e3!8m2!3d-1.9485388!4d116.0022468!16s%2Fg%2F11h51yr5fy!19sChIJcW2dSasV8C0R4zlUHSP1A_U?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noENPoajyU9K03-_nUSMCSjieqmP6awJhat-hvTqmhuNc0xzW8nHesQQqJnFf_Eea1YWqHuOyDLGpMili6au3Hl_eYewbniM9MkEo0a9aXcY3H0Hoa79hSh278axIdFZkRU0MSY=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noENPoajyU9K03-_nUSMCSjieqmP6awJhat-hvTqmhuNc0xzW8nHesQQqJnFf_Eea1YWqHuOyDLGpMili6au3Hl_eYewbniM9MkEo0a9aXcY3H0Hoa79hSh278axIdFZkRU0MSY=w396-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no0ujtdcg786G0iaw4c0mfSgVCj9Th5N23SV0k9cqaN1pGEeGw4zmOmowmlnM74qlI0hp_uZDcOCD5y4m0DTNlAScryzrMvDp-sTyhdE5nK0eYjWgAoNiEDegdrONhIzq8hsWGRHFlaqflX=w224-h510-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Danau telaga biru",
+    "alamat": "Tembudan, Kec. Batu Putih",
+    "rating": "4.5",
+    "jumlah_review": "526",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 1.4151515,
+      "longitude": 118.3493001
+    },
+    "url": "https://www.google.com/maps/place/Danau+telaga+biru/data=!4m7!3m6!1s0x320cc3d2876b9de3:0x2a82fe708bd1a973!8m2!3d1.4151515!4d118.3493001!16s%2Fg%2F11c310p30b!19sChIJ451rh9LDDDIRc6nRi3D-gio?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npBzeTa7f56GH1_I3kokbMgUCZlyVbvh5ZuepunonZK81CxljAQGthQWixFVUff5Jf4r6zTPoxSEg0WjX7FdKfq48MV_6b6oO855UeCqfRzsjaC2yfHKy1rUCRxdpyMzI4QafOuEQ=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npBzeTa7f56GH1_I3kokbMgUCZlyVbvh5ZuepunonZK81CxljAQGthQWixFVUff5Jf4r6zTPoxSEg0WjX7FdKfq48MV_6b6oO855UeCqfRzsjaC2yfHKy1rUCRxdpyMzI4QafOuEQ=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npBzeTa7f56GH1_I3kokbMgUCZlyVbvh5ZuepunonZK81CxljAQGthQWixFVUff5Jf4r6zTPoxSEg0WjX7FdKfq48MV_6b6oO855UeCqfRzsjaC2yfHKy1rUCRxdpyMzI4QafOuEQ=w224-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Lakeview IKN",
+    "alamat": "Sungai Seluang, Kec. Samboja, Kalimantan Timur",
+    "rating": "4.9",
+    "jumlah_review": "2.742",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -1.0005499,
+      "longitude": 117.0480607
+    },
+    "url": "https://www.google.com/maps/place/Lakeview+IKN/data=!4m7!3m6!1s0x2df6af002b5f3f2b:0x6248d84253fe5ba!8m2!3d-1.0005499!4d117.0480607!16s%2Fg%2F11y3m70ldj!19sChIJKz9fKwCv9i0RuuU_JYSNJAY?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipPyjPTAeJ2N6zMmy1nlr_Mt4_lWk977euJHmmqT=w192-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPyjPTAeJ2N6zMmy1nlr_Mt4_lWk977euJHmmqT=w538-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPyjPTAeJ2N6zMmy1nlr_Mt4_lWk977euJHmmqT=w668-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Tempat wisata Pemandian Serayu Lestari",
+    "alamat": "Tanah Merah, Kec. Samarinda Utara",
+    "rating": "4.4",
+    "jumlah_review": "380",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.4332896,
+      "longitude": 117.2108753
+    },
+    "url": "https://www.google.com/maps/place/Tempat+wisata+Pemandian+Serayu+Lestari/data=!4m7!3m6!1s0x2df5d7ad57501ed5:0x9b933c83728110ea!8m2!3d-0.4332896!4d117.2108753!16s%2Fg%2F11d_8gm011!19sChIJ1R5QV63X9S0R6hCBcoM8k5s?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noGOrLQHEwXpwftUt8ext0rOM7umNgulsHiSqOKGWXtbYag6W98A6ez31DvUABxCvFJxm5FE9v95p7DwCOo2kDXlTSKRWlwfIzYFkFdBMG7r9W69bP-IUSEVI0-iHMHg8gQe5Q=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noGOrLQHEwXpwftUt8ext0rOM7umNgulsHiSqOKGWXtbYag6W98A6ez31DvUABxCvFJxm5FE9v95p7DwCOo2kDXlTSKRWlwfIzYFkFdBMG7r9W69bP-IUSEVI0-iHMHg8gQe5Q=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noGOrLQHEwXpwftUt8ext0rOM7umNgulsHiSqOKGWXtbYag6W98A6ez31DvUABxCvFJxm5FE9v95p7DwCOo2kDXlTSKRWlwfIzYFkFdBMG7r9W69bP-IUSEVI0-iHMHg8gQe5Q=w396-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Teluk Lerong Garden.",
+    "alamat": "Jl. RE Martadinata, Tlk. Lerong Ilir, Kec. Samarinda Ulu",
+    "rating": "4.1",
+    "jumlah_review": "1.103",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.5012369,
+      "longitude": 117.134015
+    },
+    "url": "https://www.google.com/maps/place/Teluk+Lerong+Garden./data=!4m7!3m6!1s0x2df67f07608e7c49:0x2665bc998cfea4ca!8m2!3d-0.5012369!4d117.134015!16s%2Fg%2F11b75g0cy4!19sChIJSXyOYAd_9i0RyqT-jJm8ZSY?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqlXeRAEzEuskvsCEH2E0zFsqoTMdbfdAwItEX8KWQW3kjiB03VB4czlvwfiKeEau7c3_jU7ZJz4raQAcFwh2HF4zU8TD1WXsMsLJUmHY6xh88UyD08VZP0EaoNsrfLxkfKMvvT=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqlXeRAEzEuskvsCEH2E0zFsqoTMdbfdAwItEX8KWQW3kjiB03VB4czlvwfiKeEau7c3_jU7ZJz4raQAcFwh2HF4zU8TD1WXsMsLJUmHY6xh88UyD08VZP0EaoNsrfLxkfKMvvT=w397-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrTFTIJEfrcMfPUGwfo-8tdOSFtCNPean7E0YOFDBRcZ1tggO7sGHw50kWhW3URmLro8Oi4dQo5kX4lASBVNN0jznAl9rU5jD1OCJJxLGbJpLmlomrVlc2y1N4Th0kNgj98r-_7=w224-h397-k-no"
+    ],
+    "kategori": [
+      "pantai",
+      "taman"
+    ]
+  },
+  {
+    "nama": "Bukit Bangkirai",
+    "alamat": "Karya Merdeka, Kec. Samboja",
+    "rating": "4.5",
+    "jumlah_review": "1.007",
+    "deskripsi": "Bukit Bangkirai adalah kawasan wisata alam yang dikelola PT Inhutani I Unit I Balikpapan. Kawasan wisata ini terletak di Kecamatan Samboja, Kabupaten Kutai Kartanegara, Kalimantan Timur. Bukit Bangkirai dapat ditempuh melalui perjalanan darat selama 1,5 jam dari Kota Balikpapan.\nWisata ini menawarkan pesona hutan hujan tropis yang masih alami, yang dilengkapi dengan sarana dan prasarana wisata seperti restoran, lamin untuk pertemuan, kolam renang, serta cottage maupun jungle cabin. Di kawasan in...",
+    "koordinat": {
+      "latitude": -1.0252487,
+      "longitude": 116.8649419
+    },
+    "url": "https://www.google.com/maps/place/Bukit+Bangkirai/data=!4m7!3m6!1s0x2df6b43dd14fa82f:0x910d89815a4d33f3!8m2!3d-1.0252487!4d116.8649419!16s%2Fg%2F120knfvm!19sChIJL6hP0T209i0R8zNNWoGJDZE?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipMsH3EXfK94FgTC0GfKlFw98NNCk-uhrZvjPN5y=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipMsH3EXfK94FgTC0GfKlFw98NNCk-uhrZvjPN5y=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipMsH3EXfK94FgTC0GfKlFw98NNCk-uhrZvjPN5y=w529-h298-k-no"
+    ],
+    "kategori": [
+      "gunung",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Pantai Melawai Kecamatan Balikpapan Kota",
+    "alamat": "Jl. Pelabuhan Semayang, Prapatan",
+    "rating": "4.5",
+    "jumlah_review": "13.017",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -1.2787925,
+      "longitude": 116.8100665
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Melawai+Kecamatan+Balikpapan+Kota/data=!4m7!3m6!1s0x2df1475b5204db5d:0xbd89f03e103910b3!8m2!3d-1.2787925!4d116.8100665!16s%2Fg%2F11b6hvcq94!19sChIJXdsEUltH8S0RsxA5ED7wib0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrvoVyBiXwpAftKGqFyax9WaDbCZAF7KY40l7fsQ4Em2BHMpdIxs1oavYjE8oZi91YNPNLqHNkxFj2Juz10AFv5NxhE7IkB3KiwORYSuevAEiFZkggeJH2-3C-9AfbHnlDAaws=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrvoVyBiXwpAftKGqFyax9WaDbCZAF7KY40l7fsQ4Em2BHMpdIxs1oavYjE8oZi91YNPNLqHNkxFj2Juz10AFv5NxhE7IkB3KiwORYSuevAEiFZkggeJH2-3C-9AfbHnlDAaws=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrvoVyBiXwpAftKGqFyax9WaDbCZAF7KY40l7fsQ4Em2BHMpdIxs1oavYjE8oZi91YNPNLqHNkxFj2Juz10AFv5NxhE7IkB3KiwORYSuevAEiFZkggeJH2-3C-9AfbHnlDAaws=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Wisata Batu Dinding",
+    "alamat": "Bukit Merdeka, Kec. Samboja",
+    "rating": "4.7",
+    "jumlah_review": "82",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.9239045,
+      "longitude": 116.974042
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Batu+Dinding/data=!4m7!3m6!1s0x2df6bac885b2012d:0x155aeb28a071c5db!8m2!3d-0.9239045!4d116.974042!16s%2Fg%2F11fzb0tb85!19sChIJLQGyhci69i0R28VxoCjrWhU?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqthDZUP50nxu9ikPYKAt3fNVJ-93pAadx-ZbI2jR1fV0CL8IB77DhoE0v7f51kXjrMLurwc6cUZLo0Va44MKTU6yVeBTOyR6w7YxaR45xywInwoM3rju8TVb0vNs_WCwrKW2tu=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqthDZUP50nxu9ikPYKAt3fNVJ-93pAadx-ZbI2jR1fV0CL8IB77DhoE0v7f51kXjrMLurwc6cUZLo0Va44MKTU6yVeBTOyR6w7YxaR45xywInwoM3rju8TVb0vNs_WCwrKW2tu=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqthDZUP50nxu9ikPYKAt3fNVJ-93pAadx-ZbI2jR1fV0CL8IB77DhoE0v7f51kXjrMLurwc6cUZLo0Va44MKTU6yVeBTOyR6w7YxaR45xywInwoM3rju8TVb0vNs_WCwrKW2tu=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Ekowisata Mangrove Kampung Baru, Penajam",
+    "alamat": "Kp. Baru, Penajam, Kalimantan Timur",
+    "rating": "4.0",
+    "jumlah_review": "196",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -1.3633572,
+      "longitude": 116.7562339
+    },
+    "url": "https://www.google.com/maps/place/Ekowisata+Mangrove+Kampung+Baru,+Penajam/data=!4m7!3m6!1s0x2df1157be62d4a25:0x288fb22237e0534f!8m2!3d-1.3633572!4d116.7562339!16s%2Fg%2F11c31869sm!19sChIJJUot5nsV8S0RT1PgNyKyjyg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nocvdZmfqBiy-PiEVGfODvVT7ErtjPKqbii8KC6W7QxFwVo4ZdqjorZd_9QZrveKaW10tcHtcyTSJU4lj0ShGZhl8eFC-PNGfEeCrhCCx5-E3bywEoJJEsEDNcVr1aWNZr8rOrctA=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nocvdZmfqBiy-PiEVGfODvVT7ErtjPKqbii8KC6W7QxFwVo4ZdqjorZd_9QZrveKaW10tcHtcyTSJU4lj0ShGZhl8eFC-PNGfEeCrhCCx5-E3bywEoJJEsEDNcVr1aWNZr8rOrctA=w408-h543-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nocvdZmfqBiy-PiEVGfODvVT7ErtjPKqbii8KC6W7QxFwVo4ZdqjorZd_9QZrveKaW10tcHtcyTSJU4lj0ShGZhl8eFC-PNGfEeCrhCCx5-E3bywEoJJEsEDNcVr1aWNZr8rOrctA=w224-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Teluk Sulaiman",
+    "alamat": "Jalan, Labuan Cermin, Biduk Biduk, East Kalimantan",
+    "rating": "4.6",
+    "jumlah_review": "453",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 1.160709,
+      "longitude": 118.7608843
+    },
+    "url": "https://www.google.com/maps/place/Teluk+Sulaiman/data=!4m7!3m6!1s0x327353d38b9147a3:0x93095da7b9be3fb0!8m2!3d1.160709!4d118.7608843!16s%2Fg%2F11c1nk4_15!19sChIJo0eRi9NTczIRsD--uaddCZM?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nojpELk5CZYpT4BxOSU2mze73pNwraVvSgSHeZFLj4LpXFDA_z9bcTkj6CzKiEuS1NP5wkd54yMXTmLsE97-OR4htt5VvWj-4hdyuUq3fFMy3crG6JBFPx4nnqPITdtV6_vLYh2=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nojpELk5CZYpT4BxOSU2mze73pNwraVvSgSHeZFLj4LpXFDA_z9bcTkj6CzKiEuS1NP5wkd54yMXTmLsE97-OR4htt5VvWj-4hdyuUq3fFMy3crG6JBFPx4nnqPITdtV6_vLYh2=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nojpELk5CZYpT4BxOSU2mze73pNwraVvSgSHeZFLj4LpXFDA_z9bcTkj6CzKiEuS1NP5wkd54yMXTmLsE97-OR4htt5VvWj-4hdyuUq3fFMy3crG6JBFPx4nnqPITdtV6_vLYh2=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Barrel Beach",
+    "alamat": "Tlk. Pemedas, Kec. Samboja",
+    "rating": "4.4",
+    "jumlah_review": "77",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.9995048,
+      "longitude": 117.1362692
+    },
+    "url": "https://www.google.com/maps/place/Barrel+Beach/data=!4m7!3m6!1s0x2df6a9f4f75fe10b:0x728e2bd4d82cfd7f!8m2!3d-0.9995048!4d117.1362692!16s%2Fg%2F11s0d5hksd!19sChIJC-Ff9_Sp9i0Rf_0s2NQrjnI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipNvG6Op1X1-INiZ5MSXL1hvegA-p5lzMV9d-S8A=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNvG6Op1X1-INiZ5MSXL1hvegA-p5lzMV9d-S8A=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNvG6Op1X1-INiZ5MSXL1hvegA-p5lzMV9d-S8A=w224-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Ladaya Tenggarong",
+    "alamat": "Mangkurawang, Kec. Tenggarong",
+    "rating": "4.4",
+    "jumlah_review": "3.843",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.3912659,
+      "longitude": 116.9780274
+    },
+    "url": "https://www.google.com/maps/place/Ladaya+Tenggarong/data=!4m7!3m6!1s0x2df66fbce31b02a9:0xe190ca1803f4f133!8m2!3d-0.3912659!4d116.9780274!16s%2Fg%2F11jlkw1rd3!19sChIJqQIb47xv9i0RM_H0AxjKkOE?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrmOhsJqh3rSZJP4H4ZlAb_FODweXLMPfg7loY8E2sMkqehNktuEOfDERdRMaOJ9QUis551HlVoyifZXglvSElpmP7Ai28_fqEfbQELR-b_Nbr3PWFnHm_ZK579cpql1-2K6zVtMg=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrmOhsJqh3rSZJP4H4ZlAb_FODweXLMPfg7loY8E2sMkqehNktuEOfDERdRMaOJ9QUis551HlVoyifZXglvSElpmP7Ai28_fqEfbQELR-b_Nbr3PWFnHm_ZK579cpql1-2K6zVtMg=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrmOhsJqh3rSZJP4H4ZlAb_FODweXLMPfg7loY8E2sMkqehNktuEOfDERdRMaOJ9QUis551HlVoyifZXglvSElpmP7Ai28_fqEfbQELR-b_Nbr3PWFnHm_ZK579cpql1-2K6zVtMg=w529-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Mahakam Lampion Garden",
+    "alamat": "Karang Asam Ilir, Kec. Sungai Kunjang",
+    "rating": "4.4",
+    "jumlah_review": "5.249",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.5065446,
+      "longitude": 117.1196193
+    },
+    "url": "https://www.google.com/maps/place/Mahakam+Lampion+Garden/data=!4m7!3m6!1s0x2df67e515caedd69:0x16d76b50635d8490!8m2!3d-0.5065446!4d117.1196193!16s%2Fg%2F11b7kc6z28!19sChIJad2uXFF-9i0RkIRdY1Br1xY?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noCIg8NueEYXiIKfJD8JDXro7s5r_JF0xnmNDAGUw4OpnV5sT4HIr6XUTzkog_yWBGIYjHYayvlYUx9eJ2FVCm0hIpmpU1O0RaRTy7cJYc_9zDEowTxn8jbHpZfBrVYYGbo7qEU=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noCIg8NueEYXiIKfJD8JDXro7s5r_JF0xnmNDAGUw4OpnV5sT4HIr6XUTzkog_yWBGIYjHYayvlYUx9eJ2FVCm0hIpmpU1O0RaRTy7cJYc_9zDEowTxn8jbHpZfBrVYYGbo7qEU=w397-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4norLUNKYL3wZ5oTiB_eHoPFY_PVAOkbW_ZcoLSx4tFBWoGAtvc30JEDICdQ-1bz-lMnU9bnL8Hpx6Pf7q5fVdUJpLztS9P3klRsflcM8-xbxHBHJOuRmGlMVqnYxMegfrLTILyCCpfhfg6M=w224-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Jahetan layar",
+    "alamat": "Jl. Jahitan Layar, Kutai Lama, Kec. Anggana",
+    "rating": "4.4",
+    "jumlah_review": "96",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.5690922,
+      "longitude": 117.3182299
+    },
+    "url": "https://www.google.com/maps/place/Jahetan+layar/data=!4m7!3m6!1s0x2df42da5203eb6d7:0xf08f0b7bd5887c2!8m2!3d-0.5690922!4d117.3182299!16s%2Fg%2F11t58nc3n6!19sChIJ17Y-IKUt9C0RwodYvbfwCA8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqtFdDtTNzi___jbvQUZDBZvdQJ5rzNdR0-_G2dvEAles5TmQDH2ivxbQC-cO7vFjxpVvC5kayfcXQFfgcFBqKm4xf4U10bDtK515d0NZ36cf2Z_6w4qr_vUHCI1DNhv1EmvQRPow=w86-h152-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqtFdDtTNzi___jbvQUZDBZvdQJ5rzNdR0-_G2dvEAles5TmQDH2ivxbQC-cO7vFjxpVvC5kayfcXQFfgcFBqKm4xf4U10bDtK515d0NZ36cf2Z_6w4qr_vUHCI1DNhv1EmvQRPow=w408-h725-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqtFdDtTNzi___jbvQUZDBZvdQJ5rzNdR0-_G2dvEAles5TmQDH2ivxbQC-cO7vFjxpVvC5kayfcXQFfgcFBqKm4xf4U10bDtK515d0NZ36cf2Z_6w4qr_vUHCI1DNhv1EmvQRPow=w224-h398-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Wisata Tanjung Gading",
+    "alamat": "Karang Joang, Kec. Balikpapan Utara, Kalimantan Timur",
+    "rating": "4.5",
+    "jumlah_review": "138",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -1.1686988,
+      "longitude": 116.9044858
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Tanjung+Gading/data=!4m7!3m6!1s0x2df14f3feee69523:0x5dd31bede9811a35!8m2!3d-1.1686988!4d116.9044858!16s%2Fg%2F11v9jyc79y!19sChIJI5Xm7j9P8S0RNRqB6e0b010?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqP-AsZzGAuBTx7aRggmQJtv2lqHXUD0c4Dd0z_Xy3Hkn11JU9E7IfaKwoyyKAFjspIdrsWJ-3sT9_RrwJJbFI2lB2HkQuU14CQEK1MXx6RF_256WulHgTTBFFSkbXfB6xXg0X5=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqP-AsZzGAuBTx7aRggmQJtv2lqHXUD0c4Dd0z_Xy3Hkn11JU9E7IfaKwoyyKAFjspIdrsWJ-3sT9_RrwJJbFI2lB2HkQuU14CQEK1MXx6RF_256WulHgTTBFFSkbXfB6xXg0X5=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqP-AsZzGAuBTx7aRggmQJtv2lqHXUD0c4Dd0z_Xy3Hkn11JU9E7IfaKwoyyKAFjspIdrsWJ-3sT9_RrwJJbFI2lB2HkQuU14CQEK1MXx6RF_256WulHgTTBFFSkbXfB6xXg0X5=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pantai Istana Amal Penajam",
+    "alamat": "Tlk Jalan PU lama, Penajam",
+    "rating": "4.4",
+    "jumlah_review": "1.341",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -1.2715376,
+      "longitude": 116.7656118
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Istana+Amal+Penajam/data=!4m7!3m6!1s0x2df1399ac5d84c93:0x1860b4088127146!8m2!3d-1.2715376!4d116.7656118!16s%2Fg%2F11j6qzqxsf!19sChIJk0zYxZo58S0RRnESiEALhgE?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq80cOJI2f0SgLjgqYCJyUmeTcr4V5trAdB5J88LCdrVATgg_h2YwF89gsDOug4quE0zeKoBzfpPnKbasVR2nlXuSYLRgfu8bZFRZHRtZDhsOitPMkOSZWXr5m_QRmc4a96Ihfs=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq80cOJI2f0SgLjgqYCJyUmeTcr4V5trAdB5J88LCdrVATgg_h2YwF89gsDOug4quE0zeKoBzfpPnKbasVR2nlXuSYLRgfu8bZFRZHRtZDhsOitPMkOSZWXr5m_QRmc4a96Ihfs=w397-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noofiunp4KQba35feGP87KsREBynlvdQsESEtdc0n0V4sghnb3VOLFOZQV_NDWWg75h4P2KrWnKzdPC6xjBxIe0AcxCMHRly9ovhMY94v72K2fNTT1QbskUha1DEBPa0OoaXzbJyKchjVnD=w224-h398-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Taman Tepian Mahakam",
+    "alamat": "Jl. Gajah Mada, Bugis",
+    "rating": "4.4",
+    "jumlah_review": "1.347",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.5021589,
+      "longitude": 117.1418363
+    },
+    "url": "https://www.google.com/maps/place/Taman+Tepian+Mahakam/data=!4m7!3m6!1s0x2df67fa77038d89b:0xb7345c350072aca1!8m2!3d-0.5021589!4d117.1418363!16s%2Fg%2F11c5x7nztt!19sChIJm9g4cKd_9i0RoaxyADVcNLc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npUoMSPlKd2NHngaYDQWZNGnF2BgUdTB1dFAJJjsuR2u7SQ7JZTFx70eVdg0GfGOWlOe4_yPtuxEj1OCmuuTYf8_K13P-obtA8EpIdeU6RvOAns-Q4YibHUtPh6LIcQhvA9Oc8=w408-h271-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npUoMSPlKd2NHngaYDQWZNGnF2BgUdTB1dFAJJjsuR2u7SQ7JZTFx70eVdg0GfGOWlOe4_yPtuxEj1OCmuuTYf8_K13P-obtA8EpIdeU6RvOAns-Q4YibHUtPh6LIcQhvA9Oc8=w447-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np4JYkQPm2Ic7YU49fQd7AHJERNPvQ7HT0y8cM3SIKo7OmogYrbd7JX7AN8GxvNebNw5WUdgQFxAasbyM85KFNeX6_DkfDy5QTSnXQCepXZsXOMoVe0r8YjNCBhB_hSJp87n6HJ=w224-h398-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Hutan Lindung Sungai Wain",
+    "alamat": "Karang Joang, Kec. Balikpapan Utara",
+    "rating": "4.7",
+    "jumlah_review": "336",
+    "deskripsi": "Hutan Lindung Sungai Wain atau disingkat HLSW merupaka salah satu objek wisata alam yang berada di Jalan Soekarno-Hatta Kota Balikpapan Provinsi Kalimantan Timur. Secara greografis terletak di 116º 47’ – 116º 55’ Bujur Timur dan 01º 02’ – 01º 10’ Lintang Selatan. HLSW adalah perpaduan objek wisata Hutan dan Sungai. Hutan itu sendiri terdiri dari hutan primer (hutan asli) dan hutan sekunder (hutan buatan) sebagai hutan pengganti yang terbakar pada tahun 1997/1998.",
+    "koordinat": {
+      "latitude": -1.1452551,
+      "longitude": 116.8397156
+    },
+    "url": "https://www.google.com/maps/place/Hutan+Lindung+Sungai+Wain/data=!4m7!3m6!1s0x2df14a2c3a41846b:0x8fbf08ad5ecba082!8m2!3d-1.1452551!4d116.8397156!16s%2Fg%2F11b7nvh6m7!19sChIJa4RBOixK8S0RgqDLXq0Iv48?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no9moQyytAN7U5SL0Z8mKa9MtTS_6k3CwZ-tWa47_13_3RmmT0tR4FaOeo0_hAa3kCX3HuSoiiSZi0Q6MLcmm2Q6i5VZiJ5Ia0yTLxjsrcCoDrJSr2kio0hRiYPW7-w6ij16v-sqA=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no9moQyytAN7U5SL0Z8mKa9MtTS_6k3CwZ-tWa47_13_3RmmT0tR4FaOeo0_hAa3kCX3HuSoiiSZi0Q6MLcmm2Q6i5VZiJ5Ia0yTLxjsrcCoDrJSr2kio0hRiYPW7-w6ij16v-sqA=w530-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqGh6kLB4R9g2luwEJQ05_TecK1kPzxPoKtOE9yTwzrMz-eL5dTDyLrw0BF3umCHw3x5eXkpCEYJc2xDJ84oLy2r22ecJFzUljnLmMYjHbWxaIb6vymFLdqGjPqCxx1glUrgC4=w224-h298-k-no-pi-0-ya356-ro-0-fo100"
+    ],
+    "kategori": [
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "LANGIT TIMUR",
+    "alamat": "Wisata Langit Timur, Loa Ulung, Kec. Tenggarong Seberang",
+    "rating": "4.6",
+    "jumlah_review": "76",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.3604604,
+      "longitude": 117.0156632
+    },
+    "url": "https://www.google.com/maps/place/LANGIT+TIMUR/data=!4m7!3m6!1s0x2df671f88342b729:0xe7e402df81d012a5!8m2!3d-0.3604604!4d117.0156632!16s%2Fg%2F11s_zl43d_!19sChIJKbdCg_hx9i0RpRLQgd8C5Oc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nogKBUpGcG-EFBZV5TXPqu2buhgWH96ggzV2GkaoXVL3TImhcAbZ_E1kzMq8v-0vZsGKb4FUOWF8XaSi3Kt14fIBXgOzdPyLyACwsgo4nqh86BlMCiHLdAoT6_8_Dwt60JSBweEMQ=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nogKBUpGcG-EFBZV5TXPqu2buhgWH96ggzV2GkaoXVL3TImhcAbZ_E1kzMq8v-0vZsGKb4FUOWF8XaSi3Kt14fIBXgOzdPyLyACwsgo4nqh86BlMCiHLdAoT6_8_Dwt60JSBweEMQ=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nogKBUpGcG-EFBZV5TXPqu2buhgWH96ggzV2GkaoXVL3TImhcAbZ_E1kzMq8v-0vZsGKb4FUOWF8XaSi3Kt14fIBXgOzdPyLyACwsgo4nqh86BlMCiHLdAoT6_8_Dwt60JSBweEMQ=w224-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Desa Wisata Pela",
+    "alamat": "Liang Ulu",
+    "rating": "4.7",
+    "jumlah_review": "93",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.2408157,
+      "longitude": 116.5407646
+    },
+    "url": "https://www.google.com/maps/place/Desa+Wisata+Pela/data=!4m7!3m6!1s0x2df6378abcd88c61:0xa8c1e1e38ecabffa!8m2!3d-0.2408157!4d116.5407646!16s%2Fg%2F11l99sw_2f!19sChIJYYzYvIo39i0R-r_KjuPhwag?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrZR4RsP1lI4dsv3A4pPFvWcZ9UW5bRMg7UT39UoDdYvsav2P1XhT9quhXqWvTFsShPOHpbCGzPyZKUyI4L3U5W8eX73o1Ww7h6dmMswzqMwCC8rYhTFP5Z1wYnc_2ZnR21grBpFQ=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrZR4RsP1lI4dsv3A4pPFvWcZ9UW5bRMg7UT39UoDdYvsav2P1XhT9quhXqWvTFsShPOHpbCGzPyZKUyI4L3U5W8eX73o1Ww7h6dmMswzqMwCC8rYhTFP5Z1wYnc_2ZnR21grBpFQ=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrZR4RsP1lI4dsv3A4pPFvWcZ9UW5bRMg7UT39UoDdYvsav2P1XhT9quhXqWvTFsShPOHpbCGzPyZKUyI4L3U5W8eX73o1Ww7h6dmMswzqMwCC8rYhTFP5Z1wYnc_2ZnR21grBpFQ=w529-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Air Terjun Kandua Raya",
+    "alamat": "Kedang Ipil",
+    "rating": "4.4",
+    "jumlah_review": "74",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.4180739,
+      "longitude": 116.6306579
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Kandua+Raya/data=!4m7!3m6!1s0x2df65a8fffffffff:0xcf6a97c6190a721f!8m2!3d-0.4180739!4d116.6306579!16s%2Fg%2F11cssw0g2p!19sChIJ_____49a9i0RH3IKGcaXas8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr92DijvILoat85vOv-4gknNSSYwmq_aH3ns2Hw4xGE2PgysERhs9XkCion49Dln3zhQBWzcWDbaqvUSJjCaWbBIOXNXzxvU4EKmIvGj7jKY0d2rj6p1M9QF4ybgiXBqYrb5xMb=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr92DijvILoat85vOv-4gknNSSYwmq_aH3ns2Hw4xGE2PgysERhs9XkCion49Dln3zhQBWzcWDbaqvUSJjCaWbBIOXNXzxvU4EKmIvGj7jKY0d2rj6p1M9QF4ybgiXBqYrb5xMb=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr92DijvILoat85vOv-4gknNSSYwmq_aH3ns2Hw4xGE2PgysERhs9XkCion49Dln3zhQBWzcWDbaqvUSJjCaWbBIOXNXzxvU4EKmIvGj7jKY0d2rj6p1M9QF4ybgiXBqYrb5xMb=w447-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Pantai Indah Teluk Kaba Kaltim Indonesia",
+    "alamat": "Sangkima Lama, Kec. Sangatta Sel.",
+    "rating": "4.2",
+    "jumlah_review": "41",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.3160878,
+      "longitude": 117.5236486
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Indah+Teluk+Kaba+Kaltim+Indonesia/data=!4m7!3m6!1s0x320a3e8b1d2df7db:0x6de8e7cc8ac412a0!8m2!3d0.3160878!4d117.5236486!16s%2Fg%2F11bwrshbmc!19sChIJ2_ctHYs-CjIRoBLEiszn6G0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrc7F1mstD6lhgOnagmsoTf-ooDXXdHaD_IO16LtHdXjoM4HcfWrxMdvFxILZsNRFkefhQiua8c3YFDhEnWGGpDR7858UjeGjsCHTONN9lvyklQrCQvr23uLYFxLc41-CMu_-Co=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrc7F1mstD6lhgOnagmsoTf-ooDXXdHaD_IO16LtHdXjoM4HcfWrxMdvFxILZsNRFkefhQiua8c3YFDhEnWGGpDR7858UjeGjsCHTONN9lvyklQrCQvr23uLYFxLc41-CMu_-Co=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrc7F1mstD6lhgOnagmsoTf-ooDXXdHaD_IO16LtHdXjoM4HcfWrxMdvFxILZsNRFkefhQiua8c3YFDhEnWGGpDR7858UjeGjsCHTONN9lvyklQrCQvr23uLYFxLc41-CMu_-Co=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Mangrove Centre Graha Indah",
+    "alamat": "Graha Indah, PGRI, Kec. Balikpapan Utara",
+    "rating": "4.5",
+    "jumlah_review": "1.257",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -1.1939455,
+      "longitude": 116.8451096
+    },
+    "url": "https://www.google.com/maps/place/Mangrove+Centre+Graha+Indah/data=!4m7!3m6!1s0x2df148f7f1221a2b:0xdfc02d03a677cec!8m2!3d-1.1939455!4d116.8451096!16s%2Fg%2F11c3pcrwpd!19sChIJKxoi8fdI8S0R7HxnOtAC_A0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npydJViBKXxzg_4AH3N15Nk78YKY_HhX-8SYQjV9RrPCcNEHsivVs3meeaccCe2crxsvsmOY432SBSMk_IvuGYUnWuD_atkO4BBh9xziZIKeRUtEy8ltDIBA0dg58XGTsqIxYuwNg=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npydJViBKXxzg_4AH3N15Nk78YKY_HhX-8SYQjV9RrPCcNEHsivVs3meeaccCe2crxsvsmOY432SBSMk_IvuGYUnWuD_atkO4BBh9xziZIKeRUtEy8ltDIBA0dg58XGTsqIxYuwNg=w397-h298-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipP5Fjz7Dql2eNGWVxMnzpXYj9rfyzOFyqEKy1k8=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Google Maps tidak dapat terhubung ke Internet",
+    "alamat": "N/A",
+    "rating": "N/A",
+    "jumlah_review": "N/A",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -1.2798078,
+      "longitude": 116.8219289
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Monpera/data=!4m7!3m6!1s0x2df147378e8bf761:0x1611058c17e8c0c9!8m2!3d-1.2798078!4d116.8219289!16s%2Fg%2F1hm2ykrzg!19sChIJYfeLjjdH8S0RycDoF4wFERY?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Wisata pantai teluk lingga sangatta",
+    "alamat": "Tlk. Lingga, Kec. Sangatta Utara",
+    "rating": "4.1",
+    "jumlah_review": "95",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 0.5047591,
+      "longitude": 117.6205399
+    },
+    "url": "https://www.google.com/maps/place/Wisata+pantai+teluk+lingga+sangatta/data=!4m7!3m6!1s0x320a4b4ca078fd61:0x50b4cd3d943bf60e!8m2!3d0.5047591!4d117.6205399!16s%2Fg%2F11ty7ckbfc!19sChIJYf14oExLCjIRDvY7lD3NtFA?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nru5Q8_kEC9hE2Q171SO2bBBht0gyWrB2gNZGU8JXUFrDbgUMXUwB0yqbcVRgNfDyPbiZgJ1BpIVMWqcG69_R24to94OrQeBJHGSqc6nK_BTkKTTM1RSbpTcSMZxHUll48vhSRNww=w86-h152-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nru5Q8_kEC9hE2Q171SO2bBBht0gyWrB2gNZGU8JXUFrDbgUMXUwB0yqbcVRgNfDyPbiZgJ1BpIVMWqcG69_R24to94OrQeBJHGSqc6nK_BTkKTTM1RSbpTcSMZxHUll48vhSRNww=w408-h724-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nru5Q8_kEC9hE2Q171SO2bBBht0gyWrB2gNZGU8JXUFrDbgUMXUwB0yqbcVRgNfDyPbiZgJ1BpIVMWqcG69_R24to94OrQeBJHGSqc6nK_BTkKTTM1RSbpTcSMZxHUll48vhSRNww=w224-h397-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Wisata Lumbung Padi",
+    "alamat": "Jl. Usaha Tani, Bukit Raya, Kec. Samboja",
+    "rating": "4.6",
+    "jumlah_review": "58",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.984558,
+      "longitude": 117.065754
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Lumbung+Padi/data=!4m7!3m6!1s0x2df6af5086329593:0xf81404c117edc1a0!8m2!3d-0.984558!4d117.065754!16s%2Fg%2F11krytf19q!19sChIJk5UyhlCv9i0RoMHtF8EEFPg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq7b8LXXwdeUmSlfkXl6FRPCEoUO7bakOS7S2LcC33gWm5mQFOF18Xv38Ce7Ivu4LNyWHmU3Hm70ubAHwcUY6AlgiPPVsItAT80X58oebFvohGzvF0wlHt0qV2APQ-l9vXgA0ft=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq7b8LXXwdeUmSlfkXl6FRPCEoUO7bakOS7S2LcC33gWm5mQFOF18Xv38Ce7Ivu4LNyWHmU3Hm70ubAHwcUY6AlgiPPVsItAT80X58oebFvohGzvF0wlHt0qV2APQ-l9vXgA0ft=w408-h307-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq7b8LXXwdeUmSlfkXl6FRPCEoUO7bakOS7S2LcC33gWm5mQFOF18Xv38Ce7Ivu4LNyWHmU3Hm70ubAHwcUY6AlgiPPVsItAT80X58oebFvohGzvF0wlHt0qV2APQ-l9vXgA0ft=w395-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pantai Biru Kersik",
+    "alamat": "Jl. Pantai Biru, Kersik, Kec. Marang Kayu",
+    "rating": "4.1",
+    "jumlah_review": "784",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.0622383,
+      "longitude": 117.4903116
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Biru+Kersik/data=!4m7!3m6!1s0x2df5f479e62b71d7:0x6e7b202e80bb50e1!8m2!3d-0.0622383!4d117.4903116!16s%2Fg%2F11btvb75pm!19sChIJ13Er5nn09S0R4VC7gC4ge24?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noanxt8YYBvaEBE4Vt-UgsViyarIcJ7KHHwcpOQ90Bdr9C8BUeCKQn2_knxWeevrf5h12Y_4yGVlYGlO_T_1sRggx60bIUEl61VvS8Ow8uU15ruyy4VMJj50EHQf0wFtZFPmcbt=w86-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noanxt8YYBvaEBE4Vt-UgsViyarIcJ7KHHwcpOQ90Bdr9C8BUeCKQn2_knxWeevrf5h12Y_4yGVlYGlO_T_1sRggx60bIUEl61VvS8Ow8uU15ruyy4VMJj50EHQf0wFtZFPmcbt=w408-h408-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noanxt8YYBvaEBE4Vt-UgsViyarIcJ7KHHwcpOQ90Bdr9C8BUeCKQn2_knxWeevrf5h12Y_4yGVlYGlO_T_1sRggx60bIUEl61VvS8Ow8uU15ruyy4VMJj50EHQf0wFtZFPmcbt=w298-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "TAKA GARDEN",
+    "alamat": "Jln, Jone, Tanah Grogot",
+    "rating": "4.7",
+    "jumlah_review": "126",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -1.866035,
+      "longitude": 116.20317
+    },
+    "url": "https://www.google.com/maps/place/TAKA+GARDEN/data=!4m7!3m6!1s0x2df04748428eddab:0x805268faf155b110!8m2!3d-1.866035!4d116.20317!16s%2Fg%2F11rgn8v66j!19sChIJq92OQkhH8C0RELFV8fpoUoA?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrey4z-lLx3kcdisbYrtjaQVo0NgMg3yfuuCrFMIRkC5x90au_IEBVsoKkwWMuJ_Va2fKFNAXbBYU3i5wixibmupGE1p6ApPM_jdG94xj0nzqO24EWPUEoIVBlrRy3pIZxjwQhgmg=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrey4z-lLx3kcdisbYrtjaQVo0NgMg3yfuuCrFMIRkC5x90au_IEBVsoKkwWMuJ_Va2fKFNAXbBYU3i5wixibmupGE1p6ApPM_jdG94xj0nzqO24EWPUEoIVBlrRy3pIZxjwQhgmg=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrey4z-lLx3kcdisbYrtjaQVo0NgMg3yfuuCrFMIRkC5x90au_IEBVsoKkwWMuJ_Va2fKFNAXbBYU3i5wixibmupGE1p6ApPM_jdG94xj0nzqO24EWPUEoIVBlrRy3pIZxjwQhgmg=w224-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Objek Wisata DANUM LAYONG",
+    "alamat": "Long Kali, Kec. Long Kali",
+    "rating": "3.5",
+    "jumlah_review": "23",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -1.5346804,
+      "longitude": 116.3095733
+    },
+    "url": "https://www.google.com/maps/place/Objek+Wisata+DANUM+LAYONG/data=!4m7!3m6!1s0x2df0fb76facd1c43:0xe39b391e7627702b!8m2!3d-1.5346804!4d116.3095733!16s%2Fg%2F11dxl9_yy9!19sChIJQxzN-nb78C0RK3Andh45m-M?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np2BGeHFdkwiLWB_z3iULv120eK760tXt9Gi53Vh6Z8mvoyV8cQkHYWgDyFihpRfuSlSNsHUgUYZ9vnqv9Ix5DYiY5_wCuOXgpn2ozBMoHSt6qxs9o-B-SEiQecpmkjMnOjuQmy_Q=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np2BGeHFdkwiLWB_z3iULv120eK760tXt9Gi53Vh6Z8mvoyV8cQkHYWgDyFihpRfuSlSNsHUgUYZ9vnqv9Ix5DYiY5_wCuOXgpn2ozBMoHSt6qxs9o-B-SEiQecpmkjMnOjuQmy_Q=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqBamZGgNk7X_El7hn0iJRDzntRNYsTBttykcrLuWLRGYSBtiH8LlfTHjp6yNEtzlpEvTJLIxYtkFxYIbSckB5TMW7DdqXUw5gMuvsp3I0cUYQjqL5DS_GnJVDK8XCah2PEu8MYqw=w360-h480-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pulau Gusung Sanggalau",
+    "alamat": "Unnamed Road, Kec. Pulau Derawan",
+    "rating": "4.6",
+    "jumlah_review": "49",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": 2.2999486,
+      "longitude": 118.2426658
+    },
+    "url": "https://www.google.com/maps/place/Pulau+Gusung+Sanggalau/data=!4m7!3m6!1s0x3212994030b1c913:0x331a93944ebaaa09!8m2!3d2.2999486!4d118.2426658!16s%2Fg%2F11mvgyf0fz!19sChIJE8mxMECZEjIRCaq6TpSTGjM?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr8gNKhDerTost19dU899cub0Txdt9ZYPe-aqPcIDjg0zlAhfY0ev-8hx4jrolhqpNE2h1hG9-NtRTUyrCnHfpkO4v_si6-jOLr2jTX42zffM2i7PsFJ4kLw4J-e84DTTLsjuns=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr8gNKhDerTost19dU899cub0Txdt9ZYPe-aqPcIDjg0zlAhfY0ev-8hx4jrolhqpNE2h1hG9-NtRTUyrCnHfpkO4v_si6-jOLr2jTX42zffM2i7PsFJ4kLw4J-e84DTTLsjuns=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr8gNKhDerTost19dU899cub0Txdt9ZYPe-aqPcIDjg0zlAhfY0ev-8hx4jrolhqpNE2h1hG9-NtRTUyrCnHfpkO4v_si6-jOLr2jTX42zffM2i7PsFJ4kLw4J-e84DTTLsjuns=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pulau"
+    ]
+  },
+  {
+    "nama": "Air Terjun Berambai",
+    "alamat": "Sempaja Utara, Kec. Samarinda Utara",
+    "rating": "4.2",
+    "jumlah_review": "277",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.3332921,
+      "longitude": 117.1935533
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Berambai/data=!4m7!3m6!1s0x2df5df4b7068b015:0x27232e3c9906117f!8m2!3d-0.3332921!4d117.1935533!16s%2Fg%2F11b7ztr3pr!19sChIJFbBocEvf9S0RfxEGmTwuIyc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZRReSJQJP7Kws8b3tUnVc-FYExsyBp-dJUM78LXslgRv_17xiiW4Cn-5dLgvJR-nEsArk_za0mOp8D1-tMOdCS4gF7cdAbp8ygaQnr-B2X7p7402uFq7DI8hCkf18IvKDa0FOLQ=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZRReSJQJP7Kws8b3tUnVc-FYExsyBp-dJUM78LXslgRv_17xiiW4Cn-5dLgvJR-nEsArk_za0mOp8D1-tMOdCS4gF7cdAbp8ygaQnr-B2X7p7402uFq7DI8hCkf18IvKDa0FOLQ=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZRReSJQJP7Kws8b3tUnVc-FYExsyBp-dJUM78LXslgRv_17xiiW4Cn-5dLgvJR-nEsArk_za0mOp8D1-tMOdCS4gF7cdAbp8ygaQnr-B2X7p7402uFq7DI8hCkf18IvKDa0FOLQ=w396-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Wisata tebing lonceng",
+    "alamat": "Gunung pemancar RCTI, Jl. Dwikora, gunung RCTI, Kec. Samarinda Seberang",
+    "rating": "4.4",
+    "jumlah_review": "297",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -0.5345642,
+      "longitude": 117.1485106
+    },
+    "url": "https://www.google.com/maps/place/Wisata+tebing+lonceng/data=!4m7!3m6!1s0x2df67f903394186d:0xc52a1a192e9072d!8m2!3d-0.5345642!4d117.1485106!16s%2Fg%2F11ftl2d8bl!19sChIJbRiUM5B_9i0RLQfpkqGhUgw?authuser=0&hl=id&rclk=1",
+    "provinsi": "Kalimantan Timur",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqHvfPbt8ygrt91q7z3wF-lrDPESaFdbLAHOoEtBauNqaglTDF_uLxMmqWJRBtcYxSOseejwrswlowri8MaFAtl9ZHKQGfwyzuAOTBq-6KYUQ1SMTagN5sDqVVxIkhvx1KVirGX=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqHvfPbt8ygrt91q7z3wF-lrDPESaFdbLAHOoEtBauNqaglTDF_uLxMmqWJRBtcYxSOseejwrswlowri8MaFAtl9ZHKQGfwyzuAOTBq-6KYUQ1SMTagN5sDqVVxIkhvx1KVirGX=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqHvfPbt8ygrt91q7z3wF-lrDPESaFdbLAHOoEtBauNqaglTDF_uLxMmqWJRBtcYxSOseejwrswlowri8MaFAtl9ZHKQGfwyzuAOTBq-6KYUQ1SMTagN5sDqVVxIkhvx1KVirGX=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  }
+]
