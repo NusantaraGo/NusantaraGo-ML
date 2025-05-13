@@ -1,0 +1,754 @@
+[
+  {
+    "nama": "Taman Menteng",
+    "alamat": "Jl. HOS. Cokroaminoto, Menteng, Kec. Menteng",
+    "rating": "4.5",
+    "jumlah_review": "20.726",
+    "deskripsi": "Taman Menteng adalah sebuah taman yang berlokasi di kawasan Menteng, Jakarta Pusat. Taman ini dulunya ditempati oleh Stadion Menteng.\nTaman ini berdiri di atas lahan seluas 2,9 hektar, dan memiliki koleksi 30 spesies tanaman yang berbeda. Taman Menteng juga memiliki beragam fasilitas pendukung seperti taman bermain untuk anak-anak serta lapangan futsal dan basket. Uniknya, di taman ini terdapat pula 44 sumur resapan untuk membantu penyerapan air hujan ke dalam tanah.",
+    "koordinat": {
+      "latitude": -6.1964087,
+      "longitude": 106.8293106
+    },
+    "url": "https://www.google.com/maps/place/Taman+Menteng/data=!4m7!3m6!1s0x2e69f422b00ee429:0xa28d5c5a0efbe12e!8m2!3d-6.1964087!4d106.8293106!16s%2Fg%2F11byz6zj8g!19sChIJKeQOsCL0aS4RLuH7DlpcjaI?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noeknewOZ4CTdDph9fj_s1U-zl5fvVC7g4IjuwPbcIodpSjp9szHfZfpZgvAbJD3CuiY0RjYufova3CNrrYdvKBzlIs5mrpfL-Vzt2CSV4U-rYpoMvyGAdpCrcBJaGe83GvFHRc=w128-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noeknewOZ4CTdDph9fj_s1U-zl5fvVC7g4IjuwPbcIodpSjp9szHfZfpZgvAbJD3CuiY0RjYufova3CNrrYdvKBzlIs5mrpfL-Vzt2CSV4U-rYpoMvyGAdpCrcBJaGe83GvFHRc=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noeknewOZ4CTdDph9fj_s1U-zl5fvVC7g4IjuwPbcIodpSjp9szHfZfpZgvAbJD3CuiY0RjYufova3CNrrYdvKBzlIs5mrpfL-Vzt2CSV4U-rYpoMvyGAdpCrcBJaGe83GvFHRc=w446-h298-k-no"
+    ],
+    "kategori": [
+      "taman",
+      "lapangan",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Taman Ayodia - Barito",
+    "alamat": "Kramat Pela, Kec. Kby. Baru",
+    "rating": "4.5",
+    "jumlah_review": "11.079",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.2453376,
+      "longitude": 106.7945996
+    },
+    "url": "https://www.google.com/maps/place/Taman+Ayodia+-+Barito/data=!4m7!3m6!1s0x2e69f16ccbbd35b9:0x25629aaf4a5042b!8m2!3d-6.2453376!4d106.7945996!16s%2Fg%2F11byz6zj8b!19sChIJuTW9y2zxaS4RKwSl9KopVgI?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npej7B3b5957dtx_MIhWD9mvSKxQxDRBGnJmHGm2r-XVozPcjGRNFNLO1QC8JTtim3m6t8at3XvxG5mfUZ86Vc7dkMtl9TkQH_o_3-LeSk4rv_ifQh-wTlU6OQzUP_x56y4ceLHAA=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npej7B3b5957dtx_MIhWD9mvSKxQxDRBGnJmHGm2r-XVozPcjGRNFNLO1QC8JTtim3m6t8at3XvxG5mfUZ86Vc7dkMtl9TkQH_o_3-LeSk4rv_ifQh-wTlU6OQzUP_x56y4ceLHAA=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npej7B3b5957dtx_MIhWD9mvSKxQxDRBGnJmHGm2r-XVozPcjGRNFNLO1QC8JTtim3m6t8at3XvxG5mfUZ86Vc7dkMtl9TkQH_o_3-LeSk4rv_ifQh-wTlU6OQzUP_x56y4ceLHAA=w529-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Jakarta Bird Land",
+    "alamat": "Ancol, Kec. Pademangan, Jkt Utara",
+    "rating": "4.7",
+    "jumlah_review": "635",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.12576,
+      "longitude": 106.8434791
+    },
+    "url": "https://www.google.com/maps/place/Jakarta+Bird+Land/data=!4m7!3m6!1s0x2e6a1f82a1321b0b:0x568665f610cdffda!8m2!3d-6.12576!4d106.8434791!16s%2Fg%2F11jygcs8mf!19sChIJCxsyoYIfai4R2v_NEPZlhlY?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqhCFmiXyods7eWjW1LO5nv2i0XpvOT3dWepUy6dUS1ZyridWAXK5q7kzMB0GGMKrrcTsxvmIDuBNlBZvP7P9ZDbwLiSLvVSWmts8wVS-JInUmVagkl6Owzdic2zlnNat_RtLs=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqhCFmiXyods7eWjW1LO5nv2i0XpvOT3dWepUy6dUS1ZyridWAXK5q7kzMB0GGMKrrcTsxvmIDuBNlBZvP7P9ZDbwLiSLvVSWmts8wVS-JInUmVagkl6Owzdic2zlnNat_RtLs=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqhCFmiXyods7eWjW1LO5nv2i0XpvOT3dWepUy6dUS1ZyridWAXK5q7kzMB0GGMKrrcTsxvmIDuBNlBZvP7P9ZDbwLiSLvVSWmts8wVS-JInUmVagkl6Owzdic2zlnNat_RtLs=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Taman Kodok Menteng",
+    "alamat": "Taman kodok, Menteng, Kec. Menteng",
+    "rating": "4.5",
+    "jumlah_review": "997",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.1974418,
+      "longitude": 106.8298288
+    },
+    "url": "https://www.google.com/maps/place/Taman+Kodok+Menteng/data=!4m7!3m6!1s0x2e69f417f716ed57:0xd42d9f2844930994!8m2!3d-6.1974418!4d106.8298288!16s%2Fg%2F11cjhzxddf!19sChIJV-0W9xf0aS4RlAmTRCifLdQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npDmbp6wNWTEhPYtRosIAAIv4M7I0VjKjUQ9sTY94RP7OQmzjhyzKeLBnW5nH04S9jov3z051w7aXqkIXDfq6tii-FpsQqEs8pKME2TWrr3NqUBf9QSC8sEHoGqdgxS9Cxq_QnLyw=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npDmbp6wNWTEhPYtRosIAAIv4M7I0VjKjUQ9sTY94RP7OQmzjhyzKeLBnW5nH04S9jov3z051w7aXqkIXDfq6tii-FpsQqEs8pKME2TWrr3NqUBf9QSC8sEHoGqdgxS9Cxq_QnLyw=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npDmbp6wNWTEhPYtRosIAAIv4M7I0VjKjUQ9sTY94RP7OQmzjhyzKeLBnW5nH04S9jov3z051w7aXqkIXDfq6tii-FpsQqEs8pKME2TWrr3NqUBf9QSC8sEHoGqdgxS9Cxq_QnLyw=w224-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Kawasan Wisata Kota Tua Jakarta",
+    "alamat": "Pinangsia, Kec. Taman Sari",
+    "rating": "4.6",
+    "jumlah_review": "23.502",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.1350687,
+      "longitude": 106.8136795
+    },
+    "url": "https://www.google.com/maps/place/Kawasan+Wisata+Kota+Tua+Jakarta/data=!4m7!3m6!1s0x2e69ec2a940017ed:0xdfce12d4a0938133!8m2!3d-6.1350687!4d106.8136795!16s%2Fg%2F11d_v9mf_f!19sChIJ7RcAlCrsaS4RM4GToNQSzt8?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipNP7zR5pM9iGgJ3f1nHHzm5YjPn3rRqEinw4Mtl=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNP7zR5pM9iGgJ3f1nHHzm5YjPn3rRqEinw4Mtl=w425-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNP7zR5pM9iGgJ3f1nHHzm5YjPn3rRqEinw4Mtl=w528-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Faunaland Ancol",
+    "alamat": "Ecovention Building - Ecopark, Jl. Lodan Raya, Ancol, Kec. Pademangan, Jkt Utara",
+    "rating": "4.5",
+    "jumlah_review": "3.777",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.1243125,
+      "longitude": 106.8358125
+    },
+    "url": "https://www.google.com/maps/place/Faunaland+Ancol/data=!4m7!3m6!1s0x2e6a1e19a0ac5539:0x5a612616c1438e94!8m2!3d-6.1243125!4d106.8358125!16s%2Fg%2F11clggsdl5!19sChIJOVWsoBkeai4RlI5DwRYmYVo?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nobhCJFft5Gan4KQkEuEht4Pv6wk5DrFL7qxs8HMryVnYYMEFb-wF9fXPuDR7Sh-gkFCcW2PZ-IgnbwbEJAvCJrh6g41Ipk0tb7tv5SQT2qm4LSpz54Hn7mjRCtfMioM_nXThIB=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nobhCJFft5Gan4KQkEuEht4Pv6wk5DrFL7qxs8HMryVnYYMEFb-wF9fXPuDR7Sh-gkFCcW2PZ-IgnbwbEJAvCJrh6g41Ipk0tb7tv5SQT2qm4LSpz54Hn7mjRCtfMioM_nXThIB=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nobhCJFft5Gan4KQkEuEht4Pv6wk5DrFL7qxs8HMryVnYYMEFb-wF9fXPuDR7Sh-gkFCcW2PZ-IgnbwbEJAvCJrh6g41Ipk0tb7tv5SQT2qm4LSpz54Hn7mjRCtfMioM_nXThIB=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pasar Seni",
+    "alamat": "Taman Impian Jaya, Ancol, Kec. Pademangan, Jkt Utara",
+    "rating": "4.4",
+    "jumlah_review": "5.354",
+    "deskripsi": "Pasar Seni adalah sebuah pasar di Kuala Lumpur, Malaysia. Pasar Seni terletak di Jalan Tun Tan Cheng Lock dan bagian khusus pejalan kaki di Jalan Hang Kasturi, beberapa menit dari Jalan Petaling. Pasar ini didirikan pada tahun 1888 dan awalnya digunakan sebagai pasar basah, sementara bangunan bergaya Art Deco yang ada pada saat ini merupakan bangunan yang selesai pada tahun 1937. Tempat ini telah diklasifikasikan sebagai Situs Warisan oleh Badan Warisan Malaysia dan sekarang menjadi markah tanah...",
+    "koordinat": {
+      "latitude": -6.1264924,
+      "longitude": 106.8389517
+    },
+    "url": "https://www.google.com/maps/place/Pasar+Seni/data=!4m7!3m6!1s0x2e6a1e184ec2b8f3:0x8fd2a44632896350!8m2!3d-6.1264924!4d106.8389517!16s%2Fg%2F11f4v4yjc0!19sChIJ87jCThgeai4RUGOJMkak0o8?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np2Mo9Vy2xpFNwDYxk8Hcuf_XWYkAmocF7ohDmFyDRXeIn0byxmLJCYPhto3H3Fo6UtvUVEVwHSKv1vxPSjT_sOKxt_zUGtjAZrzzbcjHf4F0_PasVK8JmUETVLpOxhaqSddCzw=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np2Mo9Vy2xpFNwDYxk8Hcuf_XWYkAmocF7ohDmFyDRXeIn0byxmLJCYPhto3H3Fo6UtvUVEVwHSKv1vxPSjT_sOKxt_zUGtjAZrzzbcjHf4F0_PasVK8JmUETVLpOxhaqSddCzw=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np2Mo9Vy2xpFNwDYxk8Hcuf_XWYkAmocF7ohDmFyDRXeIn0byxmLJCYPhto3H3Fo6UtvUVEVwHSKv1vxPSjT_sOKxt_zUGtjAZrzzbcjHf4F0_PasVK8JmUETVLpOxhaqSddCzw=w224-h298-k-no"
+    ],
+    "kategori": [
+      "situs_sejarah",
+      "pasar"
+    ]
+  },
+  {
+    "nama": "Taman Tabebuya",
+    "alamat": "Ciganjur, Kec. Jagakarsa",
+    "rating": "4.5",
+    "jumlah_review": "3.772",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.327801,
+      "longitude": 106.809861
+    },
+    "url": "https://www.google.com/maps/place/Taman+Tabebuya/data=!4m7!3m6!1s0x2e69ee70e17029f3:0xb02b26059ecf31a!8m2!3d-6.327801!4d106.809861!16s%2Fg%2F1q5bkk6vf!19sChIJ8ylw4XDuaS4RGvPsWWCyAgs?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqxoK0Y284odbz3HQKogNHJpiqvy7FCDiMO_eT72FPQxeei46WUU5OMuzizzVvHAfjRxRSLa3FWzhRZvDdSxtAleccOKb8rdbxUREs7_s2sJO3pC2b2QxlZX0HMUDCsHGYEru82=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqxoK0Y284odbz3HQKogNHJpiqvy7FCDiMO_eT72FPQxeei46WUU5OMuzizzVvHAfjRxRSLa3FWzhRZvDdSxtAleccOKb8rdbxUREs7_s2sJO3pC2b2QxlZX0HMUDCsHGYEru82=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqxoK0Y284odbz3HQKogNHJpiqvy7FCDiMO_eT72FPQxeei46WUU5OMuzizzVvHAfjRxRSLa3FWzhRZvDdSxtAleccOKb8rdbxUREs7_s2sJO3pC2b2QxlZX0HMUDCsHGYEru82=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Gedung Cipta Niaga Kota Tua",
+    "alamat": "Pinangsia, Kec. Taman Sari",
+    "rating": "4.4",
+    "jumlah_review": "95",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.1345167,
+      "longitude": 106.811949
+    },
+    "url": "https://www.google.com/maps/place/Gedung+Cipta+Niaga+Kota+Tua/data=!4m7!3m6!1s0x2e6a1dff34cd07b5:0xc07de1805bc12fc2!8m2!3d-6.1345167!4d106.811949!16s%2Fg%2F11c37nck5w!19sChIJtQfNNP8dai4Rwi_BW4DhfcA?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no2wExkMDR5mnSYj2fgjuQBeys9XIFZ3imRaEo_Jqn_Y7SW3qMO2XDaX1V8GwRg3AWWeOAy4hGhoDx2LN7wp5oLAG9IX7c2JF4VdJrreGl80bd8KKbH21_DWBAxkdtTlqHopY7t=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no2wExkMDR5mnSYj2fgjuQBeys9XIFZ3imRaEo_Jqn_Y7SW3qMO2XDaX1V8GwRg3AWWeOAy4hGhoDx2LN7wp5oLAG9IX7c2JF4VdJrreGl80bd8KKbH21_DWBAxkdtTlqHopY7t=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no2wExkMDR5mnSYj2fgjuQBeys9XIFZ3imRaEo_Jqn_Y7SW3qMO2XDaX1V8GwRg3AWWeOAy4hGhoDx2LN7wp5oLAG9IX7c2JF4VdJrreGl80bd8KKbH21_DWBAxkdtTlqHopY7t=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Dunia Fantasi",
+    "alamat": "Ancol, Kec. Pademangan, Jkt Utara",
+    "rating": "4.6",
+    "jumlah_review": "77.034",
+    "deskripsi": "Dunia Fantasi (disingkat Dufan) adalah sebuah Taman hiburan yang terletak di kawasan Taman Impian Ancol,Jakarta Utara, Indonesia yang diresmikan dan dibuka untuk umum pada tanggal 29 Agustus 1985.",
+    "koordinat": {
+      "latitude": -6.1253124,
+      "longitude": 106.8335377
+    },
+    "url": "https://www.google.com/maps/place/Dunia+Fantasi/data=!4m7!3m6!1s0x2e6a1e1a80420c57:0x275b93253d2232e3!8m2!3d-6.1253124!4d106.8335377!16s%2Fm%2F0b65fpr!19sChIJVwxCgBoeai4R4zIiPSWTWyc?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq3xMF9Gvc8Y-aVOYc7kPrJRv_RX2zJ9e3tq1TEUYAHmp6mIZjkU9la_Wzs4GkiuPVKGXGok3aBj0xASXlaBn9f19RM3m-xvlSstlQqnpkgkIwTAVhdrj5ZyHBO6QUX27HBVIv6=w128-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq3xMF9Gvc8Y-aVOYc7kPrJRv_RX2zJ9e3tq1TEUYAHmp6mIZjkU9la_Wzs4GkiuPVKGXGok3aBj0xASXlaBn9f19RM3m-xvlSstlQqnpkgkIwTAVhdrj5ZyHBO6QUX27HBVIv6=w408-h273-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq3xMF9Gvc8Y-aVOYc7kPrJRv_RX2zJ9e3tq1TEUYAHmp6mIZjkU9la_Wzs4GkiuPVKGXGok3aBj0xASXlaBn9f19RM3m-xvlSstlQqnpkgkIwTAVhdrj5ZyHBO6QUX27HBVIv6=w444-h298-k-no"
+    ],
+    "kategori": [
+      "taman",
+      "taman_rekreasi"
+    ]
+  },
+  {
+    "nama": "Taman Waduk Pluit",
+    "alamat": "Pluit, Kec. Penjaringan, Jkt Utara",
+    "rating": "4.4",
+    "jumlah_review": "9.322",
+    "deskripsi": "Taman Waduk Pluit adalah taman yang terletak di Waduk Pluit, Penjaringan, Jakarta Utara. Luas taman ini adalah 10 hektare. Waduk ini memiliki fasilitas alat senam, lapangan basket, lintasan lari laun, teater, toilet, dan lapangan futsal.\n\n\n== Referensi ==",
+    "koordinat": {
+      "latitude": -6.1137292,
+      "longitude": 106.7950497
+    },
+    "url": "https://www.google.com/maps/place/Taman+Waduk+Pluit/data=!4m7!3m6!1s0x2e6a1dc06cff36a7:0xc94812c8a867e479!8m2!3d-6.1137292!4d106.7950497!16s%2Fg%2F11bzsh2ltd!19sChIJpzb_bMAdai4ReeRnqMgSSMk?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrKSgVV3_5u3ouKd0dH90AVNw4i4oEBKsPGZa4bbjR43Fr9ZS5ai7uDW32nsd0nx_WSuO6Pq0ErSX5mfesRlIKV18X1EhO8f3dJOyYsG5Xg3WqDjRebeeCmMwpC4KMhwRNNrzY=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrKSgVV3_5u3ouKd0dH90AVNw4i4oEBKsPGZa4bbjR43Fr9ZS5ai7uDW32nsd0nx_WSuO6Pq0ErSX5mfesRlIKV18X1EhO8f3dJOyYsG5Xg3WqDjRebeeCmMwpC4KMhwRNNrzY=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrKSgVV3_5u3ouKd0dH90AVNw4i4oEBKsPGZa4bbjR43Fr9ZS5ai7uDW32nsd0nx_WSuO6Pq0ErSX5mfesRlIKV18X1EhO8f3dJOyYsG5Xg3WqDjRebeeCmMwpC4KMhwRNNrzY=w397-h298-k-no"
+    ],
+    "kategori": [
+      "danau",
+      "taman",
+      "lapangan"
+    ]
+  },
+  {
+    "nama": "Taman Tangkuban Perahu",
+    "alamat": "Guntur, Kecamatan Setiabudi",
+    "rating": "4.5",
+    "jumlah_review": "4.475",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.2076521,
+      "longitude": 106.8352437
+    },
+    "url": "https://www.google.com/maps/place/Taman+Tangkuban+Perahu/data=!4m7!3m6!1s0x2e69f40e096d5be3:0x10014e518362e4dd!8m2!3d-6.2076521!4d106.8352437!16s%2Fg%2F11b7xsf2hd!19sChIJ41ttCQ70aS4R3eRig1FOARA?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqEW8IEa8XGhtfkn4CVilN_4ptnTBktmt6j8wOrregSLtO6r5M8ejBFVZDimpAE91UORY5UXcvEJPD7PRuZiTVSAn9p5Suw-i0peteh8F4jmxT3rOnRqE3dms2qI4dgi0vker48fQ=w86-h152-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqEW8IEa8XGhtfkn4CVilN_4ptnTBktmt6j8wOrregSLtO6r5M8ejBFVZDimpAE91UORY5UXcvEJPD7PRuZiTVSAn9p5Suw-i0peteh8F4jmxT3rOnRqE3dms2qI4dgi0vker48fQ=w408-h725-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqEW8IEa8XGhtfkn4CVilN_4ptnTBktmt6j8wOrregSLtO6r5M8ejBFVZDimpAE91UORY5UXcvEJPD7PRuZiTVSAn9p5Suw-i0peteh8F4jmxT3rOnRqE3dms2qI4dgi0vker48fQ=w224-h398-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Taman Suropati",
+    "alamat": "Menteng, Kec. Menteng",
+    "rating": "4.6",
+    "jumlah_review": "21.656",
+    "deskripsi": "Taman Suropati (awalnya bernama Burgemeester Bisschopplein) adalah nama sebuah taman di Jakarta. Pada awalnya nama taman ini diambil dari nama wali kota Batavia pertama, G.J. Bisshop (1916–1920). Taman ini merupakan pusat kawasan Menteng, berada tepat di antara pertemuan tiga jalan utama, yaitu Menteng Boulevard (Jalan Teuku Umar), Orange Boulevard (Jalan Diponegoro), dan Nassau Boulevard (Jalan Imam Bonjol). Lapangan yang kini disebut sebagai Taman Suropati ini sejak tahun 1920 sudah menggantik...",
+    "koordinat": {
+      "latitude": -6.199387,
+      "longitude": 106.8326333
+    },
+    "url": "https://www.google.com/maps/place/Taman+Suropati/data=!4m7!3m6!1s0x2e69f416e4052ef9:0x8b3359cdbfba5a81!8m2!3d-6.199387!4d106.8326333!16s%2Fg%2F120z1syk!19sChIJ-S4F5Bb0aS4RgVq6v81ZM4s?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nphrxSmQyY1JB2tLnqfHfwMI1ebXf8PHvTi0F5S4B21jLPFevBpeJpHYmps7EAJZGZCd-pCFJCD8MpI2eL5zxxIBGPAfh4PFT853USik3INi09JyB5iwnlnxP0x3AIjbbBdla_Y=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nphrxSmQyY1JB2tLnqfHfwMI1ebXf8PHvTi0F5S4B21jLPFevBpeJpHYmps7EAJZGZCd-pCFJCD8MpI2eL5zxxIBGPAfh4PFT853USik3INi09JyB5iwnlnxP0x3AIjbbBdla_Y=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nphrxSmQyY1JB2tLnqfHfwMI1ebXf8PHvTi0F5S4B21jLPFevBpeJpHYmps7EAJZGZCd-pCFJCD8MpI2eL5zxxIBGPAfh4PFT853USik3INi09JyB5iwnlnxP0x3AIjbbBdla_Y=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman",
+      "lapangan"
+    ]
+  },
+  {
+    "nama": "Taman Anggrek Ragunan",
+    "alamat": "Jl. Harsono, Ragunan, Ps. Minggu",
+    "rating": "4.7",
+    "jumlah_review": "4.761",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.3112113,
+      "longitude": 106.8217018
+    },
+    "url": "https://www.google.com/maps/place/Taman+Anggrek+Ragunan/data=!4m7!3m6!1s0x2e69edfc7abd128d:0x4b91b44fa1ce0b83!8m2!3d-6.3112113!4d106.8217018!16s%2Fg%2F11b7fhc8r7!19sChIJjRK9evztaS4RgwvOoU-0kUs?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrvCg8KhcoLdmu5zfj2NH27mpnp81P8EzfhEjl-W8mtpa9i4pjB8qsTezKKp_n2srAIOBwTdD5QCz_qXeMOO5FHeACpDklfvejNJcNg9o_RmQ8FLHD0LzfuNknBoGkW2NMQD8CEEw=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrvCg8KhcoLdmu5zfj2NH27mpnp81P8EzfhEjl-W8mtpa9i4pjB8qsTezKKp_n2srAIOBwTdD5QCz_qXeMOO5FHeACpDklfvejNJcNg9o_RmQ8FLHD0LzfuNknBoGkW2NMQD8CEEw=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrvCg8KhcoLdmu5zfj2NH27mpnp81P8EzfhEjl-W8mtpa9i4pjB8qsTezKKp_n2srAIOBwTdD5QCz_qXeMOO5FHeACpDklfvejNJcNg9o_RmQ8FLHD0LzfuNknBoGkW2NMQD8CEEw=w529-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "HOLEO Golf & Museum",
+    "alamat": "Cideng, Kecamatan Gambir",
+    "rating": "4.9",
+    "jumlah_review": "1.622",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.1783645,
+      "longitude": 106.8105113
+    },
+    "url": "https://www.google.com/maps/place/HOLEO+Golf+%26+Museum/data=!4m7!3m6!1s0x2e69f70376e28fbf:0xa3b119a4703565b1!8m2!3d-6.1783645!4d106.8105113!16s%2Fg%2F11t5_y7lfc!19sChIJv4_idgP3aS4RsWU1cKQZsaM?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nomnxIiMRdtEZWipuF0W7Zp13n382brjRBjVAyXoWHHUYvQ0xEt1lVml4ZCQ1YnLAaYVep1Z2llV9wXhHrT-IsNqhs4bfasnAgJsF91BSDfVUDVxWoLomoo_xk2ayY1zoORDQAu=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nomnxIiMRdtEZWipuF0W7Zp13n382brjRBjVAyXoWHHUYvQ0xEt1lVml4ZCQ1YnLAaYVep1Z2llV9wXhHrT-IsNqhs4bfasnAgJsF91BSDfVUDVxWoLomoo_xk2ayY1zoORDQAu=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nomnxIiMRdtEZWipuF0W7Zp13n382brjRBjVAyXoWHHUYvQ0xEt1lVml4ZCQ1YnLAaYVep1Z2llV9wXhHrT-IsNqhs4bfasnAgJsF91BSDfVUDVxWoLomoo_xk2ayY1zoORDQAu=w224-h298-k-no"
+    ],
+    "kategori": [
+      "museum"
+    ]
+  },
+  {
+    "nama": "Taman Spathodea",
+    "alamat": "Jagakarsa near taman spatodhea",
+    "rating": "4.6",
+    "jumlah_review": "5.589",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.3226133,
+      "longitude": 106.8241871
+    },
+    "url": "https://www.google.com/maps/place/Taman+Spathodea/data=!4m7!3m6!1s0x2e69eddc25029361:0x6f4dbaa2a1b356ac!8m2!3d-6.3226133!4d106.8241871!16s%2Fg%2F1yg58n64m!19sChIJYZMCJdztaS4RrFazoaK6TW8?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrcw_sgJjMGEkmfkoT6ctocROLVASm4qaBQWSainxme3iGGkmwpAYkStMj_El9x9z5dX6ePLKZnaJtahrlTVeuiDKUL5jQWhZ3lBP5Zo0rBm53pHFZZLaDzov00OTwqofkGrqIoWQ=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrcw_sgJjMGEkmfkoT6ctocROLVASm4qaBQWSainxme3iGGkmwpAYkStMj_El9x9z5dX6ePLKZnaJtahrlTVeuiDKUL5jQWhZ3lBP5Zo0rBm53pHFZZLaDzov00OTwqofkGrqIoWQ=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrcw_sgJjMGEkmfkoT6ctocROLVASm4qaBQWSainxme3iGGkmwpAYkStMj_El9x9z5dX6ePLKZnaJtahrlTVeuiDKUL5jQWhZ3lBP5Zo0rBm53pHFZZLaDzov00OTwqofkGrqIoWQ=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "San Antonio Beach PIK 2",
+    "alamat": "Kamal Muara, Jkt Utara",
+    "rating": "4.7",
+    "jumlah_review": "4.925",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.093495,
+      "longitude": 106.7395843
+    },
+    "url": "https://www.google.com/maps/place/San+Antonio+Beach+PIK+2/data=!4m7!3m6!1s0x2e6a1d73d08f9575:0x1f4d6991f44640d2!8m2!3d-6.093495!4d106.7395843!16s%2Fg%2F11mndklk5j!19sChIJdZWP0HMdai4R0kBG9JFpTR8?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrozdPy_2H0jlBnyFHgYGW_pANY83R9oR6IKFU-E1JqQ16gxOa6LXFYlWjxL-QRFzfkkLct5-wYqkPwKzAdp9MQD9w-1HIu9Fi39UklgRRjZ_BXf_IzxybRHcE3SfAXczxq4XHK=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrozdPy_2H0jlBnyFHgYGW_pANY83R9oR6IKFU-E1JqQ16gxOa6LXFYlWjxL-QRFzfkkLct5-wYqkPwKzAdp9MQD9w-1HIu9Fi39UklgRRjZ_BXf_IzxybRHcE3SfAXczxq4XHK=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrozdPy_2H0jlBnyFHgYGW_pANY83R9oR6IKFU-E1JqQ16gxOa6LXFYlWjxL-QRFzfkkLct5-wYqkPwKzAdp9MQD9w-1HIu9Fi39UklgRRjZ_BXf_IzxybRHcE3SfAXczxq4XHK=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Taman Joging 1 Kelapa Gading",
+    "alamat": "Kelapa Gading, Klp. Gading Tim., Kec. Klp. Gading, Jkt Utara",
+    "rating": "4.5",
+    "jumlah_review": "4.475",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.1600242,
+      "longitude": 106.90388
+    },
+    "url": "https://www.google.com/maps/place/Taman+Joging+1+Kelapa+Gading/data=!4m7!3m6!1s0x2e69f53110bbed6d:0x861324b092c60b9!8m2!3d-6.1600242!4d106.90388!16s%2Fg%2F11b700vm5k!19sChIJbe27EDH1aS4RuWAsCUsyYQg?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrpAVd9q0Q2HVDEtjGU7f2KskFHrj47esBHVhLpIizO5LYzy9v1qQpq_01x5dyV9BryYjdBICko6krim6xdw9wAGZmV8tjS4YDofx7KoEGyw_Qhgk_Xiprg2UXFVBrLIUUdfZ-ilA=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrpAVd9q0Q2HVDEtjGU7f2KskFHrj47esBHVhLpIizO5LYzy9v1qQpq_01x5dyV9BryYjdBICko6krim6xdw9wAGZmV8tjS4YDofx7KoEGyw_Qhgk_Xiprg2UXFVBrLIUUdfZ-ilA=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrpAVd9q0Q2HVDEtjGU7f2KskFHrj47esBHVhLpIizO5LYzy9v1qQpq_01x5dyV9BryYjdBICko6krim6xdw9wAGZmV8tjS4YDofx7KoEGyw_Qhgk_Xiprg2UXFVBrLIUUdfZ-ilA=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Taman Akuarium Air Tawar TMII",
+    "alamat": "Jl. Taman Mini Indonesia Indah No.Raya, Ceger, Kec. Cipayung",
+    "rating": "4.5",
+    "jumlah_review": "3.369",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.3057291,
+      "longitude": 106.8948934
+    },
+    "url": "https://www.google.com/maps/place/Taman+Akuarium+Air+Tawar+TMII/data=!4m7!3m6!1s0x2e69ed5bde31edff:0xaeb9e1ea2a91f0ff!8m2!3d-6.3057291!4d106.8948934!16s%2Fg%2F1tk0szzs!19sChIJ_-0x3lvtaS4R__CRKurhua4?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npzjUV7QN72UWZhxMhBhWLmdirp9NIsWu2tp4t9wzVmezaXdPr-pF2zZgGqkajqvFFjQ1bF78dmREcrwxrM1U660oZhdHCPMc_qyEqn--hPojQI3QpjMrnvxL80BAY5r8Ccovg=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npzjUV7QN72UWZhxMhBhWLmdirp9NIsWu2tp4t9wzVmezaXdPr-pF2zZgGqkajqvFFjQ1bF78dmREcrwxrM1U660oZhdHCPMc_qyEqn--hPojQI3QpjMrnvxL80BAY5r8Ccovg=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npzjUV7QN72UWZhxMhBhWLmdirp9NIsWu2tp4t9wzVmezaXdPr-pF2zZgGqkajqvFFjQ1bF78dmREcrwxrM1U660oZhdHCPMc_qyEqn--hPojQI3QpjMrnvxL80BAY5r8Ccovg=w529-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Tribeca Park",
+    "alamat": "Tj. Duren Sel., Kec. Grogol petamburan",
+    "rating": "4.7",
+    "jumlah_review": "8.394",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.1772515,
+      "longitude": 106.7904697
+    },
+    "url": "https://www.google.com/maps/place/Tribeca+Park/data=!4m7!3m6!1s0x2e69f65f7b0f0739:0xf771f6dc512bd1a1!8m2!3d-6.1772515!4d106.7904697!16s%2Fg%2F11cs17j29b!19sChIJOQcPe1_2aS4RodErUdz2cfc?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqP3_nX5ZVIuZuT3iascEGl6M-ZxSNxUylnBpcg5ESe0cBCSlKJw1v3KtzxQpSyroUaw4mfifrhVGmBuP7uLM-Tuh5Don09KZ6ejmqs6M_n2sv8F-g1RmrNT_IA4D-GJdZrXAqmVw=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqP3_nX5ZVIuZuT3iascEGl6M-ZxSNxUylnBpcg5ESe0cBCSlKJw1v3KtzxQpSyroUaw4mfifrhVGmBuP7uLM-Tuh5Don09KZ6ejmqs6M_n2sv8F-g1RmrNT_IA4D-GJdZrXAqmVw=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqP3_nX5ZVIuZuT3iascEGl6M-ZxSNxUylnBpcg5ESe0cBCSlKJw1v3KtzxQpSyroUaw4mfifrhVGmBuP7uLM-Tuh5Don09KZ6ejmqs6M_n2sv8F-g1RmrNT_IA4D-GJdZrXAqmVw=w529-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Kampoeng Gallery",
+    "alamat": "Kby. Lama Utara, Kec. Kby. Lama",
+    "rating": "4.6",
+    "jumlah_review": "1.211",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.2378611,
+      "longitude": 106.7827223
+    },
+    "url": "https://www.google.com/maps/place/Kampoeng+Gallery/data=!4m7!3m6!1s0x2e69f13d4a529c39:0x487b00143c6e808d!8m2!3d-6.2378611!4d106.7827223!16s%2Fg%2F11cjqtkc5n!19sChIJOZxSSj3xaS4RjYBuPBQAe0g?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npEz2PH1gZ8JL-XMc03SU-rdLyRNyF4jE1SYy46JfXdXBMW3I1TsJiZ8Q0zPrhljkYiBn0pcRkoaB2X-iW2AO4bJ6vIbOA16F39ojsbY4ryAYMw_ZQVcU6z6TBqqczmEAe2i_2l=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npEz2PH1gZ8JL-XMc03SU-rdLyRNyF4jE1SYy46JfXdXBMW3I1TsJiZ8Q0zPrhljkYiBn0pcRkoaB2X-iW2AO4bJ6vIbOA16F39ojsbY4ryAYMw_ZQVcU6z6TBqqczmEAe2i_2l=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npEz2PH1gZ8JL-XMc03SU-rdLyRNyF4jE1SYy46JfXdXBMW3I1TsJiZ8Q0zPrhljkYiBn0pcRkoaB2X-iW2AO4bJ6vIbOA16F39ojsbY4ryAYMw_ZQVcU6z6TBqqczmEAe2i_2l=w224-h298-k-no"
+    ],
+    "kategori": [
+      "museum"
+    ]
+  },
+  {
+    "nama": "Taman Situ Lembang",
+    "alamat": "Menteng, Kec. Menteng",
+    "rating": "4.6",
+    "jumlah_review": "6.565",
+    "deskripsi": "Taman Situ Lembang adalah sebuah taman kota yang terletak di pusat Jakarta. Situ berarti danau yang payau, sedangkan Lembang adalah nama jalan yang berada di dekat taman tersebut.\nTaman ini merupakan salah satu taman tertua di Jakarta dan memiliki danau kecil yang airnya berasal dari sumber air alam. Di taman ini terletak fasilitas arena pemancingan, trek lari, dan arena permainan anak. Taman Situ Lembang dikelilingi oleh rumah-rumah di kawasan elite Menteng",
+    "koordinat": {
+      "latitude": -6.1973783,
+      "longitude": 106.8343448
+    },
+    "url": "https://www.google.com/maps/place/Taman+Situ+Lembang/data=!4m7!3m6!1s0x514107ef6417075:0xdf97f027bb9bcd42!8m2!3d-6.1973783!4d106.8343448!16s%2Fg%2F11bzq3fvt7!19sChIJdXBB9n4QFAURQs2buyfwl98?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npfrCZogAcvfLzMJ3VDcg0cUtiYzNkzxS66HIMqR-zyNAgB4Keb8JQxyvwxHLBGlIqCcjr4xe7Rh7RQ83pasQPmuXCg-_Gepa3o4bUHll2irc-1KW_53w4EqRSdObAS8qht6dU=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npfrCZogAcvfLzMJ3VDcg0cUtiYzNkzxS66HIMqR-zyNAgB4Keb8JQxyvwxHLBGlIqCcjr4xe7Rh7RQ83pasQPmuXCg-_Gepa3o4bUHll2irc-1KW_53w4EqRSdObAS8qht6dU=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npfrCZogAcvfLzMJ3VDcg0cUtiYzNkzxS66HIMqR-zyNAgB4Keb8JQxyvwxHLBGlIqCcjr4xe7Rh7RQ83pasQPmuXCg-_Gepa3o4bUHll2irc-1KW_53w4EqRSdObAS8qht6dU=w397-h298-k-no"
+    ],
+    "kategori": [
+      "danau",
+      "taman",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Taman Fatahillah",
+    "alamat": "Pinangsia, Kec. Taman Sari",
+    "rating": "4.6",
+    "jumlah_review": "28.042",
+    "deskripsi": "Taman Fatahillah (sebelumnya bernama Stadhuisplein) adalah sebuah lapangan yang berada di kawasan pusat Kota Tua Jakarta. Di tempat ini berdiri beberapa bangunan tua seperti bekas Balai Kota Jakarta (sekarang Museum Fatahillah), Museum Wayang, Kantor Pos Kota, dan bekas gedung Pengadilan Tinggi Batavia (sekarang Museum Seni Rupa dan Keramik). Tempat ini dinamakan Fatahillah, seorang tokoh yang berhasil merebut Sunda Kelapa dari tangan Portugis.",
+    "koordinat": {
+      "latitude": -6.134669,
+      "longitude": 106.8132041
+    },
+    "url": "https://www.google.com/maps/place/Taman+Fatahillah/data=!4m7!3m6!1s0x2e6a1dff3f8f5fed:0xf2536e698fceab32!8m2!3d-6.134669!4d106.8132041!16s%2Fg%2F11bvvyzv1l!19sChIJ7V-PP_8dai4RMqvOj2luU_I?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noK1OIOsGvrJZtUuPiYSrYv58ftUBBzdQY0iosy3-ccOj2aEw8efibcXl64u6hCBfVt4w86ebbo6rIAA93iZ8v_p2mzBI8HQxvXRwn-UYQVsvYwfnTyh3upTkvB5N9J1mweG8Fi_A=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noK1OIOsGvrJZtUuPiYSrYv58ftUBBzdQY0iosy3-ccOj2aEw8efibcXl64u6hCBfVt4w86ebbo6rIAA93iZ8v_p2mzBI8HQxvXRwn-UYQVsvYwfnTyh3upTkvB5N9J1mweG8Fi_A=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noK1OIOsGvrJZtUuPiYSrYv58ftUBBzdQY0iosy3-ccOj2aEw8efibcXl64u6hCBfVt4w86ebbo6rIAA93iZ8v_p2mzBI8HQxvXRwn-UYQVsvYwfnTyh3upTkvB5N9J1mweG8Fi_A=w397-h298-k-no"
+    ],
+    "kategori": [
+      "gunung",
+      "taman",
+      "museum",
+      "lapangan"
+    ]
+  },
+  {
+    "nama": "Kawasan Ekowisata Mangrove PIK",
+    "alamat": "Kapuk Muara, Kec. Penjaringan, Jkt Utara",
+    "rating": "4.3",
+    "jumlah_review": "4.657",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.1220799,
+      "longitude": 106.7609549
+    },
+    "url": "https://www.google.com/maps/place/Kawasan+Ekowisata+Mangrove+PIK/data=!4m7!3m6!1s0x2e6a1d6c3b1175b5:0xae9945ee4ad2bb9f!8m2!3d-6.1220799!4d106.7609549!16s%2Fg%2F11cn7n6_bm!19sChIJtXURO2wdai4Rn7vSSu5Fma4?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqpFnBQLSRmBMFeW4FO2-cntUW86b8boyGgb--hwXnSHG0tjZ3cPc-dmzC9Qz_OeL1gUJaVc8KpqER2yFVbtaY6JBlv3hEX_ao39stFq0vVG9pCqd-WK721H2OJU51zSucrygY=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqpFnBQLSRmBMFeW4FO2-cntUW86b8boyGgb--hwXnSHG0tjZ3cPc-dmzC9Qz_OeL1gUJaVc8KpqER2yFVbtaY6JBlv3hEX_ao39stFq0vVG9pCqd-WK721H2OJU51zSucrygY=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqpFnBQLSRmBMFeW4FO2-cntUW86b8boyGgb--hwXnSHG0tjZ3cPc-dmzC9Qz_OeL1gUJaVc8KpqER2yFVbtaY6JBlv3hEX_ao39stFq0vVG9pCqd-WK721H2OJU51zSucrygY=w224-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Taman Mataram Jakarta",
+    "alamat": "Selong, Kec. Kby. Baru",
+    "rating": "4.6",
+    "jumlah_review": "3.468",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.2328196,
+      "longitude": 106.7995376
+    },
+    "url": "https://www.google.com/maps/place/Taman+Mataram+Jakarta/data=!4m7!3m6!1s0x2e69f146b787a2c1:0xd04ecd93726c3e77!8m2!3d-6.2328196!4d106.7995376!16s%2Fg%2F11b7q6zxk0!19sChIJwaKHt0bxaS4Rdz5scpPNTtA?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqAGWxP8qbESzu74yhyDx-C52GluCt3D9BqdDmJ632KASZlvwMohPrvkyLqgTXbX_rPetzq_-xfxTT6HEhdKDCvOIIaDgoHVfc2BAyCE_G89JnbGEH149t0Y9p9Xgu85XrHRkab=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqAGWxP8qbESzu74yhyDx-C52GluCt3D9BqdDmJ632KASZlvwMohPrvkyLqgTXbX_rPetzq_-xfxTT6HEhdKDCvOIIaDgoHVfc2BAyCE_G89JnbGEH149t0Y9p9Xgu85XrHRkab=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqAGWxP8qbESzu74yhyDx-C52GluCt3D9BqdDmJ632KASZlvwMohPrvkyLqgTXbX_rPetzq_-xfxTT6HEhdKDCvOIIaDgoHVfc2BAyCE_G89JnbGEH149t0Y9p9Xgu85XrHRkab=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Taman Impian Jaya Ancol",
+    "alamat": "Ancol, Kec. Pademangan, Jkt Utara",
+    "rating": "4.5",
+    "jumlah_review": "45.562",
+    "deskripsi": "Taman Impian Jaya Ancol adalah sebuah taman hiburan di Jakarta Utara, Indonesia. Taman ini dioperasikan oleh PT Pembangunan Jaya Ancol Tbk. lewat anak perusahaannya PT Taman Impian Jaya Ancol, yang pada gilirannya merupakan bagian dari grup Pembangunan Jaya. Taman tersebut menempati luas 552 hektare (5.520.000 m2) di wilayah Ancol, Pademangan, Jakarta Utara.",
+    "koordinat": {
+      "latitude": -6.1252747,
+      "longitude": 106.8335569
+    },
+    "url": "https://www.google.com/maps/place/Taman+Impian+Jaya+Ancol/data=!4m7!3m6!1s0x2e69f47477efd771:0x85206a9cc2c15358!8m2!3d-6.1252747!4d106.8335569!16zL20vMDg5OWR6!19sChIJcdfvd3T0aS4RWFPBwpxqIIU?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZyEkC_WPtzNDSyrvmhAtlbQOoQ9MXwprPldezErQHXE3NDOg5dT4lC7Cc6-L6IUQ0tdjKl07RKriLUCd1iewpylV34VJ7uCClaX7q4fbVB-BoSeLRR0CPd9aMFw6LOiSNXqEVSA=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZyEkC_WPtzNDSyrvmhAtlbQOoQ9MXwprPldezErQHXE3NDOg5dT4lC7Cc6-L6IUQ0tdjKl07RKriLUCd1iewpylV34VJ7uCClaX7q4fbVB-BoSeLRR0CPd9aMFw6LOiSNXqEVSA=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZyEkC_WPtzNDSyrvmhAtlbQOoQ9MXwprPldezErQHXE3NDOg5dT4lC7Cc6-L6IUQ0tdjKl07RKriLUCd1iewpylV34VJ7uCClaX7q4fbVB-BoSeLRR0CPd9aMFw6LOiSNXqEVSA=w447-h298-k-no"
+    ],
+    "kategori": [
+      "taman",
+      "taman_rekreasi"
+    ]
+  },
+  {
+    "nama": "Hutan Kota Srengseng",
+    "alamat": "Jl. H. Kelik, Srengseng, Kec. Kembangan",
+    "rating": "4.4",
+    "jumlah_review": "9.656",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.2106945,
+      "longitude": 106.7643954
+    },
+    "url": "https://www.google.com/maps/place/Hutan+Kota+Srengseng/data=!4m7!3m6!1s0x2e69f72f3706b613:0x11aab933dc9527ac!8m2!3d-6.2106945!4d106.7643954!16s%2Fg%2F1hm6ll8n5!19sChIJE7YGNy_3aS4RrCeV3DO5qhE?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrGBtbrxU43DFXPnREVPTh9rJwQHVPTMafHFhdRN94XJUsgDFiM3S-EHFcuQMxpJuFJJh0CRWj_F4XBNo31oDekpuBlGgrPFncEsG_rG4y_LDs3yofr4x-gZWzvsUmCFg8pob-5-g=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrGBtbrxU43DFXPnREVPTh9rJwQHVPTMafHFhdRN94XJUsgDFiM3S-EHFcuQMxpJuFJJh0CRWj_F4XBNo31oDekpuBlGgrPFncEsG_rG4y_LDs3yofr4x-gZWzvsUmCFg8pob-5-g=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrGBtbrxU43DFXPnREVPTh9rJwQHVPTMafHFhdRN94XJUsgDFiM3S-EHFcuQMxpJuFJJh0CRWj_F4XBNo31oDekpuBlGgrPFncEsG_rG4y_LDs3yofr4x-gZWzvsUmCFg8pob-5-g=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "TAMAN ANGGREK INDONESIA PERMAI",
+    "alamat": "Taman Mini Indonesia Indah, Pinang Ranti, Kec. Cipayung",
+    "rating": "4.5",
+    "jumlah_review": "1.522",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.2927091,
+      "longitude": 106.8819179
+    },
+    "url": "https://www.google.com/maps/place/TAMAN+ANGGREK+INDONESIA+PERMAI/data=!4m7!3m6!1s0x2e69f29c110abcb7:0x843ca9830fbed85a!8m2!3d-6.2927091!4d106.8819179!16s%2Fg%2F1tf0sxzg!19sChIJt7wKEZzyaS4RWti-D4OpPIQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npLzb4bvk54J-HWVXVp0XcWRb381PHwkYT3XxsqLsVs88a5OQ8NfpWQNNCEUKkOCQJXlXpcrXfpyfhYGgtG1F27PkmKkAXGBI-4dGdLvkETuLJJn0Q9l3w2OrivHUqLWozNg1EqKQ=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npLzb4bvk54J-HWVXVp0XcWRb381PHwkYT3XxsqLsVs88a5OQ8NfpWQNNCEUKkOCQJXlXpcrXfpyfhYGgtG1F27PkmKkAXGBI-4dGdLvkETuLJJn0Q9l3w2OrivHUqLWozNg1EqKQ=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npLzb4bvk54J-HWVXVp0XcWRb381PHwkYT3XxsqLsVs88a5OQ8NfpWQNNCEUKkOCQJXlXpcrXfpyfhYGgtG1F27PkmKkAXGBI-4dGdLvkETuLJJn0Q9l3w2OrivHUqLWozNg1EqKQ=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Taman Wisata Alam Mangrove Angke Kapuk",
+    "alamat": "Jl. Mualim Teko Jl. Pantai Indah Kapuk, Kamal Muara, Kec. Penjaringan, Jkt Utara",
+    "rating": "4.3",
+    "jumlah_review": "16.074",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.1065501,
+      "longitude": 106.7369294
+    },
+    "url": "https://www.google.com/maps/place/Taman+Wisata+Alam+Mangrove+Angke+Kapuk/data=!4m10!3m9!1s0x2e6a1d2589502ba3:0xc39c90629ab16290!5m2!4m1!1i2!8m2!3d-6.1065501!4d106.7369294!16s%2Fg%2F1pzpnxtjc!19sChIJoytQiSUdai4RkGKxmmKQnMM?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npu6-LtAAtTcEqOwncTZhwJ8pNv_boJQbwzWgTG0ZvNpgXAnOEavCdZJkmZW8S0bnNLjU9PVG4Ec1rSROgvT_VAKmrFaTZd7Gb3g0kz6BWmq8DgL2vVrKMCO_FFeP0oM0ERaA4d=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npu6-LtAAtTcEqOwncTZhwJ8pNv_boJQbwzWgTG0ZvNpgXAnOEavCdZJkmZW8S0bnNLjU9PVG4Ec1rSROgvT_VAKmrFaTZd7Gb3g0kz6BWmq8DgL2vVrKMCO_FFeP0oM0ERaA4d=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npu6-LtAAtTcEqOwncTZhwJ8pNv_boJQbwzWgTG0ZvNpgXAnOEavCdZJkmZW8S0bnNLjU9PVG4Ec1rSROgvT_VAKmrFaTZd7Gb3g0kz6BWmq8DgL2vVrKMCO_FFeP0oM0ERaA4d=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Taman Pandang Istana",
+    "alamat": "Jalan Silang Monas Barat Laut, Gambir, Gambir, Kecamatan Gambir",
+    "rating": "4.5",
+    "jumlah_review": "2.484",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.1721641,
+      "longitude": 106.8233829
+    },
+    "url": "https://www.google.com/maps/place/Taman+Pandang+Istana/data=!4m7!3m6!1s0x2e69f5d4058a4bbf:0xdf7aecafd6f46e32!8m2!3d-6.1721641!4d106.8233829!16s%2Fg%2F11cp5ddmg8!19sChIJv0uKBdT1aS4RMm701q_set8?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noexX-fWNKYBjuVovy3jv5Rsbi5cXD115jhVjTdEyFXLky5pzsaaZL8dL1OnuGIBDONGsEvwhpkYTYktC4e_yHoYJyH8qmjhi8h-u3yvuUT7DvLx0hhIENZLn3D0DP9RK8OxPQD=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noexX-fWNKYBjuVovy3jv5Rsbi5cXD115jhVjTdEyFXLky5pzsaaZL8dL1OnuGIBDONGsEvwhpkYTYktC4e_yHoYJyH8qmjhi8h-u3yvuUT7DvLx0hhIENZLn3D0DP9RK8OxPQD=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noexX-fWNKYBjuVovy3jv5Rsbi5cXD115jhVjTdEyFXLky5pzsaaZL8dL1OnuGIBDONGsEvwhpkYTYktC4e_yHoYJyH8qmjhi8h-u3yvuUT7DvLx0hhIENZLn3D0DP9RK8OxPQD=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Taman Agro Wisata Cilangkap Jakarta",
+    "alamat": "Cilangkap, Kec. Cipayung",
+    "rating": "4.3",
+    "jumlah_review": "1.263",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.3422608,
+      "longitude": 106.9000233
+    },
+    "url": "https://www.google.com/maps/place/Taman+Agro+Wisata+Cilangkap+Jakarta/data=!4m7!3m6!1s0x2e69ecd777995d99:0xb192c7fabc8d9932!8m2!3d-6.3422608!4d106.9000233!16s%2Fg%2F11d_z8my2_!19sChIJmV2Zd9fsaS4RMpmNvPrHkrE?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqM5BYD5v7FxUWbWcC_yJA6k8oI78azOphscd8kvlTHSrieaKZpXKkzENXbkFCDtoJgEQXodJOhT3nApbP99Vkw5a7lzHXP1gLbxTPJ4cDpCj_yifO92fIDDNGcKFugvDW4_lSHBg=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqM5BYD5v7FxUWbWcC_yJA6k8oI78azOphscd8kvlTHSrieaKZpXKkzENXbkFCDtoJgEQXodJOhT3nApbP99Vkw5a7lzHXP1gLbxTPJ4cDpCj_yifO92fIDDNGcKFugvDW4_lSHBg=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqM5BYD5v7FxUWbWcC_yJA6k8oI78azOphscd8kvlTHSrieaKZpXKkzENXbkFCDtoJgEQXodJOhT3nApbP99Vkw5a7lzHXP1gLbxTPJ4cDpCj_yifO92fIDDNGcKFugvDW4_lSHBg=w224-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Taman Mini Indonesia Indah",
+    "alamat": "Jl. Taman Mini Indonesia Indah, Ceger, Kec. Cipayung",
+    "rating": "4.6",
+    "jumlah_review": "167.669",
+    "deskripsi": "Taman Mini Indonesia Indah (disingkat TMII; sebelumnya Taman Mini \"Indonesia Indah\" dengan tanda kutip) merupakan suatu taman hiburan bertemakan kebudayaan Indonesia, Sains, Astronomi, dan Teknologi di Jakarta Timur, DKI Jakarta, yang memiliki area seluas kurang lebih 147 hektare atau 1,47 kilometer persegi. Taman ini merupakan rangkuman kebudayaan bangsa Indonesia, yang mencakup berbagai aspek kehidupan sehari-hari masyarakat 26 provinsi Indonesia (pada tahun 1975) yang ditampilkan dalam anjung...",
+    "koordinat": {
+      "latitude": -6.3020386,
+      "longitude": 106.8898924
+    },
+    "url": "https://www.google.com/maps/place/Taman+Mini+Indonesia+Indah/data=!4m7!3m6!1s0x2e69ed50d076a261:0x73127b9ecf2da0c!8m2!3d-6.3020386!4d106.8898924!16zL20vMDhiaHFr!19sChIJYaJ20FDtaS4RDNry7LknMQc?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrctXYRYiSt_iD98ySvFw-qK8qsATH8ojuvWwfWKCVCvIcLFpnTMVXauDyOy9Nwfp7I2DXfLPjmqqDBeHFo4MqYuOVznhEUEgZvPC5c71zvyCX8TSia9_-5LOr7u0KtgNaRs9D5=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrctXYRYiSt_iD98ySvFw-qK8qsATH8ojuvWwfWKCVCvIcLFpnTMVXauDyOy9Nwfp7I2DXfLPjmqqDBeHFo4MqYuOVznhEUEgZvPC5c71zvyCX8TSia9_-5LOr7u0KtgNaRs9D5=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrctXYRYiSt_iD98ySvFw-qK8qsATH8ojuvWwfWKCVCvIcLFpnTMVXauDyOy9Nwfp7I2DXfLPjmqqDBeHFo4MqYuOVznhEUEgZvPC5c71zvyCX8TSia9_-5LOr7u0KtgNaRs9D5=w224-h298-k-no"
+    ],
+    "kategori": [
+      "taman",
+      "taman_rekreasi",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Pusat Wisata Kuliner JTS keMAYORAn",
+    "alamat": "Gn. Sahari Sel., Kec. Kemayoran",
+    "rating": "4.5",
+    "jumlah_review": "315",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.1601493,
+      "longitude": 106.85002
+    },
+    "url": "https://www.google.com/maps/place/Pusat+Wisata+Kuliner+JTS+keMAYORAn/data=!4m7!3m6!1s0x2e69f5facf02400d:0x3256708f605dc4e2!8m2!3d-6.1601493!4d106.85002!16s%2Fg%2F11hz2l6dm8!19sChIJDUACz_r1aS4R4sRdYI9wVjI?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipO7hdYwxQjwmAJbI7n0d69R5D04PfqQmGBKmyt6=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipO7hdYwxQjwmAJbI7n0d69R5D04PfqQmGBKmyt6=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipO7hdYwxQjwmAJbI7n0d69R5D04PfqQmGBKmyt6=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Taman Ria Rio Jakarta",
+    "alamat": "Kayu Putih, Pulo Gadung, Kayu Putih, Kec. Pulo Gadung",
+    "rating": "4.4",
+    "jumlah_review": "2.058",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.170877,
+      "longitude": 106.87779
+    },
+    "url": "https://www.google.com/maps/place/Taman+Ria+Rio+Jakarta/data=!4m7!3m6!1s0x2e69f51cbefd708b:0x7240d3e983345aad!8m2!3d-6.170877!4d106.87779!16s%2Fg%2F11bzypshqf!19sChIJi3D9vhz1aS4RrVo0g-nTQHI?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noAMzfupHqabZ8jlhsbibkfghAdqmxDpYO25-9QcKw1eyo7KyDPewL2M7TX9qMSAYhL1z4e-ChsWQEji4p812PiqIeuIhhaC27404PTOfkaFFKhMJkDO6ruYY1THc9HRStH4dLu=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noAMzfupHqabZ8jlhsbibkfghAdqmxDpYO25-9QcKw1eyo7KyDPewL2M7TX9qMSAYhL1z4e-ChsWQEji4p812PiqIeuIhhaC27404PTOfkaFFKhMJkDO6ruYY1THc9HRStH4dLu=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noAMzfupHqabZ8jlhsbibkfghAdqmxDpYO25-9QcKw1eyo7KyDPewL2M7TX9qMSAYhL1z4e-ChsWQEji4p812PiqIeuIhhaC27404PTOfkaFFKhMJkDO6ruYY1THc9HRStH4dLu=w529-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Museum Sejarah Jakarta",
+    "alamat": "Pinangsia, Kec. Taman Sari",
+    "rating": "4.6",
+    "jumlah_review": "22.559",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.1352,
+      "longitude": 106.8133
+    },
+    "url": "https://www.google.com/maps/place/Museum+Sejarah+Jakarta/data=!4m7!3m6!1s0x2e6a1dff4292a57d:0x12f0032d678c0745!8m2!3d-6.1352!4d106.8133!16s%2Fm%2F05b1p21!19sChIJfaWSQv8dai4RRQeMZy0D8BI?authuser=0&hl=id&rclk=1",
+    "provinsi": "DKI jakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nonXJ5m2f2Cs0XQDoTMgQ7Znxf4jXSzzwgz6wwSZDCZTAPpbFK4rfaHPaO0qMXDdDcqftaW8s0jn2aOURE07DECHEeJwbi6uT4oRyYCXkRlaWcQ5de2CeVKrrLASxn7hVTUeLYEEA=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nonXJ5m2f2Cs0XQDoTMgQ7Znxf4jXSzzwgz6wwSZDCZTAPpbFK4rfaHPaO0qMXDdDcqftaW8s0jn2aOURE07DECHEeJwbi6uT4oRyYCXkRlaWcQ5de2CeVKrrLASxn7hVTUeLYEEA=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nonXJ5m2f2Cs0XQDoTMgQ7Znxf4jXSzzwgz6wwSZDCZTAPpbFK4rfaHPaO0qMXDdDcqftaW8s0jn2aOURE07DECHEeJwbi6uT4oRyYCXkRlaWcQ5de2CeVKrrLASxn7hVTUeLYEEA=w397-h298-k-no"
+    ],
+    "kategori": [
+      "museum",
+      "situs_sejarah"
+    ]
+  }
+]
