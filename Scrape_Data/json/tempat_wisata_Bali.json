@@ -1,0 +1,745 @@
+[
+  {
+    "nama": "Desa Coklat Bali",
+    "alamat": "Tua, Kec. Marga",
+    "rating": "4.5",
+    "jumlah_review": "253",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.4199375,
+      "longitude": 115.1786875
+    },
+    "url": "https://www.google.com/maps/place/Desa+Coklat+Bali/data=!4m7!3m6!1s0x2dd2256ae41b984b:0x5cc0de6fda8e697e!8m2!3d-8.4199375!4d115.1786875!16s%2Fg%2F11mmpz9xj_!19sChIJS5gb5Gol0i0RfmmO2m_ewFw?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nphBEJ8cSRCFZ-P_S27tJWUrST74I-n4AsHrwNzF4xNI4rCi6MW5OAaOiHWftIwBY6d2wMR8106_-Q9zlTey15r1N1YmeAwK9pIBlczWkyax7P1KLIqciiBaN4Ai6dD0v2j3PyX=w86-h152-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nphBEJ8cSRCFZ-P_S27tJWUrST74I-n4AsHrwNzF4xNI4rCi6MW5OAaOiHWftIwBY6d2wMR8106_-Q9zlTey15r1N1YmeAwK9pIBlczWkyax7P1KLIqciiBaN4Ai6dD0v2j3PyX=w408-h723-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nphBEJ8cSRCFZ-P_S27tJWUrST74I-n4AsHrwNzF4xNI4rCi6MW5OAaOiHWftIwBY6d2wMR8106_-Q9zlTey15r1N1YmeAwK9pIBlczWkyax7P1KLIqciiBaN4Ai6dD0v2j3PyX=w224-h397-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Patung Satria Gatot Kaca",
+    "alamat": "Tuban, Kec. Kuta",
+    "rating": "4.6",
+    "jumlah_review": "4.153",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.7443882,
+      "longitude": 115.1788673
+    },
+    "url": "https://www.google.com/maps/place/Patung+Satria+Gatot+Kaca/data=!4m7!3m6!1s0x2dd2440f8fee4add:0xc8da53e970262159!8m2!3d-8.7443882!4d115.1788673!16s%2Fg%2F11btvb72pd!19sChIJ3Urujw9E0i0RWSEmcOlT2sg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZnGSgNqfQRzA_Yj9IGq73l8BEZqCPmoYguQjMg3wbVqEJEqoeGvZ3T5Mwu7QPHk-lpcqSY699rQhrCd3OXX7FtX8URc1CC9q3xR5XlpZva38yS27SZIffDaJpVTD6zSiBetMP=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZnGSgNqfQRzA_Yj9IGq73l8BEZqCPmoYguQjMg3wbVqEJEqoeGvZ3T5Mwu7QPHk-lpcqSY699rQhrCd3OXX7FtX8URc1CC9q3xR5XlpZva38yS27SZIffDaJpVTD6zSiBetMP=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZnGSgNqfQRzA_Yj9IGq73l8BEZqCPmoYguQjMg3wbVqEJEqoeGvZ3T5Mwu7QPHk-lpcqSY699rQhrCd3OXX7FtX8URc1CC9q3xR5XlpZva38yS27SZIffDaJpVTD6zSiBetMP=w529-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Secret Garden Village",
+    "alamat": "Mekarsari, Baturiti, Mekarsari, Tabanan, Mekarsari, Kec. Baturiti",
+    "rating": "4.6",
+    "jumlah_review": "5.288",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.3726305,
+      "longitude": 115.1933824
+    },
+    "url": "https://www.google.com/maps/place/Secret+Garden+Village/data=!4m7!3m6!1s0x2dd2212ba32a0087:0xabd3c3b7c8f647ef!8m2!3d-8.3726305!4d115.1933824!16s%2Fg%2F11cjhzdxpb!19sChIJhwAqoysh0i0R70f2yLfD06s?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipPCN2gdqFw0K4cNKaTxnfsFOW6YHiomoD38ctB2=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPCN2gdqFw0K4cNKaTxnfsFOW6YHiomoD38ctB2=w408-h305-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipMZp9uHse7r2bkhqKbL6Hpj5lubeK6mN0EZRd35=w156-h114-p-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "DELUANG SARI Penangkaran Penyu Bali Tanjung Benoa",
+    "alamat": "Tj. Benoa, Kec. Kuta Sel., Bali",
+    "rating": "4.0",
+    "jumlah_review": "5.677",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.762476,
+      "longitude": 115.2165938
+    },
+    "url": "https://www.google.com/maps/place/DELUANG+SARI+Penangkaran+Penyu+Bali+Tanjung+Benoa/data=!4m7!3m6!1s0x2dd243a32e668d47:0x3d52bd86b73ff3de!8m2!3d-8.762476!4d115.2165938!16s%2Fg%2F11b8ymr4hv!19sChIJR41mLqND0i0R3vM_t4a9Uj0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr80kthazUNM3Y9r2Rkmd-3ttzi3hASBdtyJecO11kfNUTYWx53aRdcDoEx-6duJ8hfHBW4vaOO0u-eBTSx8RSaUqfwDtcGDWXj48FieaJfXBvcvk2UNdIExkP8jIBeuZZj0m0=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr80kthazUNM3Y9r2Rkmd-3ttzi3hASBdtyJecO11kfNUTYWx53aRdcDoEx-6duJ8hfHBW4vaOO0u-eBTSx8RSaUqfwDtcGDWXj48FieaJfXBvcvk2UNdIExkP8jIBeuZZj0m0=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr80kthazUNM3Y9r2Rkmd-3ttzi3hASBdtyJecO11kfNUTYWx53aRdcDoEx-6duJ8hfHBW4vaOO0u-eBTSx8RSaUqfwDtcGDWXj48FieaJfXBvcvk2UNdIExkP8jIBeuZZj0m0=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "BaliHiddenCanyon.com",
+    "alamat": "Jl. Sahadewa, Banjar Wangbung, Guwang, Kec. Sukawati",
+    "rating": "4.6",
+    "jumlah_review": "2.967",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.609527,
+      "longitude": 115.2890415
+    },
+    "url": "https://www.google.com/maps/place/BaliHiddenCanyon.com/data=!4m7!3m6!1s0x2dd2157e9462182d:0x6e3602576c543e7b!8m2!3d-8.609527!4d115.2890415!16s%2Fg%2F11bwgwfhjx!19sChIJLRhilH4V0i0Rez5UbFcCNm4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipN1s4MEjLHasuAMYUriyoR-HeW6aE5B9WITVgFh=w153-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipN1s4MEjLHasuAMYUriyoR-HeW6aE5B9WITVgFh=w427-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipN1s4MEjLHasuAMYUriyoR-HeW6aE5B9WITVgFh=w531-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Puncak Wanagiri",
+    "alamat": "Jl. Raya Wanagiri, Pancasari, Kec. Sukasada",
+    "rating": "4.6",
+    "jumlah_review": "2.032",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.2371393,
+      "longitude": 115.1417792
+    },
+    "url": "https://www.google.com/maps/place/Puncak+Wanagiri/data=!4m7!3m6!1s0x2dd18ed8a6eae203:0x17c266f89cc81be!8m2!3d-8.2371393!4d115.1417792!16s%2Fg%2F11c75wc8j_!19sChIJA-LqptiO0S0RvoHMiW8mfAE?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noiVxTIgbVKzyY5G2YqOgqJ3KKotJz_nijs7YAJ6Nt9bWEcI6dj5iTN36lkqTP1bX_ZRQpPYpxfAK40NtaCTSVXhFlhvy6KunMmkfreMZuKn-U9AvxSK2_Kv87rhPwJUQkAxv0=w86-h107-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noiVxTIgbVKzyY5G2YqOgqJ3KKotJz_nijs7YAJ6Nt9bWEcI6dj5iTN36lkqTP1bX_ZRQpPYpxfAK40NtaCTSVXhFlhvy6KunMmkfreMZuKn-U9AvxSK2_Kv87rhPwJUQkAxv0=w408-h510-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noiVxTIgbVKzyY5G2YqOgqJ3KKotJz_nijs7YAJ6Nt9bWEcI6dj5iTN36lkqTP1bX_ZRQpPYpxfAK40NtaCTSVXhFlhvy6KunMmkfreMZuKn-U9AvxSK2_Kv87rhPwJUQkAxv0=w238-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Pura Taman Ayun ᬧᬸᬭ ᬢᬫᬦ᭄ ᬅᬬᬸᬦ᭄᭟",
+    "alamat": "Mengwi, Kec. Mengwi",
+    "rating": "4.6",
+    "jumlah_review": "9.034",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.5418425,
+      "longitude": 115.1724843
+    },
+    "url": "https://www.google.com/maps/place/Pura+Taman+Ayun+%E1%AC%A7%E1%AC%B8%E1%AC%AD+%E1%AC%A2%E1%AC%AB%E1%AC%A6%E1%AD%84+%E1%AC%85%E1%AC%AC%E1%AC%B8%E1%AC%A6%E1%AD%84%E1%AD%9F/data=!4m7!3m6!1s0x2dd23b90db7a4001:0xaf262ff28fc4caed!8m2!3d-8.5418425!4d115.1724843!16s%2Fg%2F120t3s20!19sChIJAUB625A70i0R7crEj_IvJq8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noxmzdgx04u3b9nshDMSW3ryca3FOusDbWSZw03HDpvcnEtSoTVaBOPluKU_3dZKntTk0LGqU3qyYjUlE6opuE2moFoWVrYvAKfealkclHNXSd6Y6nPBtHd43qDG94nN9t4eWbj4Q=w89-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noxmzdgx04u3b9nshDMSW3ryca3FOusDbWSZw03HDpvcnEtSoTVaBOPluKU_3dZKntTk0LGqU3qyYjUlE6opuE2moFoWVrYvAKfealkclHNXSd6Y6nPBtHd43qDG94nN9t4eWbj4Q=w408-h392-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noxmzdgx04u3b9nshDMSW3ryca3FOusDbWSZw03HDpvcnEtSoTVaBOPluKU_3dZKntTk0LGqU3qyYjUlE6opuE2moFoWVrYvAKfealkclHNXSd6Y6nPBtHd43qDG94nN9t4eWbj4Q=w309-h298-k-no"
+    ],
+    "kategori": [
+      "taman",
+      "candi"
+    ]
+  },
+  {
+    "nama": "Pura Geger Beach",
+    "alamat": "Benoa, Kec. Kuta Sel., Bali",
+    "rating": "4.7",
+    "jumlah_review": "1.281",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.819863,
+      "longitude": 115.223829
+    },
+    "url": "https://www.google.com/maps/place/Pura+Geger+Beach/data=!4m7!3m6!1s0x2dd25ccfdf2bbe1f:0x27ad3d7e47072359!8m2!3d-8.819863!4d115.223829!16s%2Fg%2F11cm_pt96n!19sChIJH74r389c0i0RWSMHR349rSc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no3VHjheivmWL35_FGNCsCEJg3nMx4DElDWAQeGd4A8pEn0KzxTgiSXreBHwtq-DLj7kTS1be1rrYV8Qb5ZHtVUyKdkPcH9Km8AxqnwUBsnacrFX4BtXfRUPWFuE51V45XNMrQf=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no3VHjheivmWL35_FGNCsCEJg3nMx4DElDWAQeGd4A8pEn0KzxTgiSXreBHwtq-DLj7kTS1be1rrYV8Qb5ZHtVUyKdkPcH9Km8AxqnwUBsnacrFX4BtXfRUPWFuE51V45XNMrQf=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no3VHjheivmWL35_FGNCsCEJg3nMx4DElDWAQeGd4A8pEn0KzxTgiSXreBHwtq-DLj7kTS1be1rrYV8Qb5ZHtVUyKdkPcH9Km8AxqnwUBsnacrFX4BtXfRUPWFuE51V45XNMrQf=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pantai",
+      "candi"
+    ]
+  },
+  {
+    "nama": "Pantai Biaung",
+    "alamat": "Jalan Gumitir, Kesiman Kertalangu, Kec. Denpasar Tim., Bali",
+    "rating": "4.6",
+    "jumlah_review": "185",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.6528433,
+      "longitude": 115.2702633
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Biaung/data=!4m7!3m6!1s0x2dd2419ecb58a1dd:0x6b4144cc9c1da36f!8m2!3d-8.6528433!4d115.2702633!16s%2Fg%2F11snqg6krr!19sChIJ3aFYy55B0i0Rb6MdnMxEQWs?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npubdyz-miLN6I-3u6FkDSlB1ejtsMQpUu5XPf4sT0JIyZHBtV5MGf9u6fdVc0YUnbeKzbbaiLt1xPFetO5rp5EANe3nbyFPZHdPjDDe5ETHEeY96zXzC-9OX44arl_GAZEkcVG=w86-h152-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npubdyz-miLN6I-3u6FkDSlB1ejtsMQpUu5XPf4sT0JIyZHBtV5MGf9u6fdVc0YUnbeKzbbaiLt1xPFetO5rp5EANe3nbyFPZHdPjDDe5ETHEeY96zXzC-9OX44arl_GAZEkcVG=w408-h724-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npubdyz-miLN6I-3u6FkDSlB1ejtsMQpUu5XPf4sT0JIyZHBtV5MGf9u6fdVc0YUnbeKzbbaiLt1xPFetO5rp5EANe3nbyFPZHdPjDDe5ETHEeY96zXzC-9OX44arl_GAZEkcVG=w224-h397-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Upside Down World Bali",
+    "alamat": "Pemogan, Denpasar Selatan",
+    "rating": "4.2",
+    "jumlah_review": "3.985",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.716711,
+      "longitude": 115.2052612
+    },
+    "url": "https://www.google.com/maps/place/Upside+Down+World+Bali/data=!4m7!3m6!1s0x2dd2414421ee552f:0xb23009c36c511835!8m2!3d-8.716711!4d115.2052612!16s%2Fg%2F11cl_3yx00!19sChIJL1XuIURB0i0RNRhRbMMJMLI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipPZhRSX52xCUBHl-rghkFg7PZ5W3K7AJq00f_0V=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPZhRSX52xCUBHl-rghkFg7PZ5W3K7AJq00f_0V=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPZhRSX52xCUBHl-rghkFg7PZ5W3K7AJq00f_0V=w447-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Banyumala Waterfall",
+    "alamat": "Wanagiri, Kec. Sukasada",
+    "rating": "4.8",
+    "jumlah_review": "4.547",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.2171873,
+      "longitude": 115.1016811
+    },
+    "url": "https://www.google.com/maps/place/Banyumala+Waterfall/data=!4m7!3m6!1s0x2dd18f9d7a04e875:0x4eccd9e08e4d2397!8m2!3d-8.2171873!4d115.1016811!16s%2Fg%2F11f3jy7mcg!19sChIJdegEep2P0S0RlyNNjuDZzE4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrZAUOVPL05esCo_Q3HaV3bokClLFbQMj342nLpk9vt-Y57ZDJQ7URoTEVsyZprrUdaK5y2kkP6IYiFOCpYKlTyMr0ggzyPjd70Ph0Osiek6AkBvrwWkOIP5pq_t8rNA7VJHkDN=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrZAUOVPL05esCo_Q3HaV3bokClLFbQMj342nLpk9vt-Y57ZDJQ7URoTEVsyZprrUdaK5y2kkP6IYiFOCpYKlTyMr0ggzyPjd70Ph0Osiek6AkBvrwWkOIP5pq_t8rNA7VJHkDN=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrZAUOVPL05esCo_Q3HaV3bokClLFbQMj342nLpk9vt-Y57ZDJQ7URoTEVsyZprrUdaK5y2kkP6IYiFOCpYKlTyMr0ggzyPjd70Ph0Osiek6AkBvrwWkOIP5pq_t8rNA7VJHkDN=w224-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Objek Wisata Kerta Gosa",
+    "alamat": "Semarapura Kelod, Kec. Klungkung",
+    "rating": "4.5",
+    "jumlah_review": "3.352",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.5357626,
+      "longitude": 115.4035934
+    },
+    "url": "https://www.google.com/maps/place/Objek+Wisata+Kerta+Gosa/data=!4m7!3m6!1s0x2dd211154c6b51d9:0xd32fe6608e383c8!8m2!3d-8.5357626!4d115.4035934!16s%2Fm%2F0273h5v!19sChIJ2VFrTBUR0i0RyIPjCGb-Mg0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no7E41t9rpz5KgX-JCfoQO-fQdajmRZy7PnBTq-d9xZyrem5BD-DdqKPRG99Qdb7_F6i04wEKVpRb8zDCEHBcA2VSzXtCFwkIl1YklMsbJ8vC-TB4bulZPcfsICiqSXPudkQdL_VA=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no7E41t9rpz5KgX-JCfoQO-fQdajmRZy7PnBTq-d9xZyrem5BD-DdqKPRG99Qdb7_F6i04wEKVpRb8zDCEHBcA2VSzXtCFwkIl1YklMsbJ8vC-TB4bulZPcfsICiqSXPudkQdL_VA=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no7E41t9rpz5KgX-JCfoQO-fQdajmRZy7PnBTq-d9xZyrem5BD-DdqKPRG99Qdb7_F6i04wEKVpRb8zDCEHBcA2VSzXtCFwkIl1YklMsbJ8vC-TB4bulZPcfsICiqSXPudkQdL_VA=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Wisata Edukasi Subak Teba Majalangu",
+    "alamat": "Kesiman Kertalangu, Kec. Denpasar Tim.",
+    "rating": "4.7",
+    "jumlah_review": "415",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.6433169,
+      "longitude": 115.2599448
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Edukasi+Subak+Teba+Majalangu/data=!4m7!3m6!1s0x2dd23f6a7ca8b091:0xf1237a69016d7763!8m2!3d-8.6433169!4d115.2599448!16s%2Fg%2F11pb1srv55!19sChIJkbCofGo_0i0RY3dtAWl6I_E?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noNZ7MlJC2VpEROJ1gtXHRAVzsJWAO8mKhry0plPNmHPVsog7BHci3d2bWuBdoYKYaDmkM7L6VKYEnd4Da7eJfYbRii01IWr2EfW-JViiLnusskWKtg7RBDa8PBJHlXRvzxgutr=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noNZ7MlJC2VpEROJ1gtXHRAVzsJWAO8mKhry0plPNmHPVsog7BHci3d2bWuBdoYKYaDmkM7L6VKYEnd4Da7eJfYbRii01IWr2EfW-JViiLnusskWKtg7RBDa8PBJHlXRvzxgutr=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noNZ7MlJC2VpEROJ1gtXHRAVzsJWAO8mKhry0plPNmHPVsog7BHci3d2bWuBdoYKYaDmkM7L6VKYEnd4Da7eJfYbRii01IWr2EfW-JViiLnusskWKtg7RBDa8PBJHlXRvzxgutr=w224-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Kawasan Pariwisata Nusa Dua",
+    "alamat": "Kawasan BTDC Area, Jl. Nusa Dua, Benoa, Kec. Kuta Sel.",
+    "rating": "4.6",
+    "jumlah_review": "199",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.8034419,
+      "longitude": 115.2282787
+    },
+    "url": "https://www.google.com/maps/place/Kawasan+Pariwisata+Nusa+Dua/data=!4m7!3m6!1s0x2dd243263a0bffe3:0xfdba1c4c1a12a3b3!8m2!3d-8.8034419!4d115.2282787!16s%2Fg%2F1v2f2t5r!19sChIJ4_8LOiZD0i0Rs6MSGkwcuv0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipONXtNe-2KtcN8M8kL1TPnyPRpzl9TaYRQXFOjO=w153-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipONXtNe-2KtcN8M8kL1TPnyPRpzl9TaYRQXFOjO=w427-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipONXtNe-2KtcN8M8kL1TPnyPRpzl9TaYRQXFOjO=w530-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Big Garden Corner",
+    "alamat": "Sanur, Jl. Bypass Ngurah Rai, Kesiman, Denpasar Selatan",
+    "rating": "4.3",
+    "jumlah_review": "6.197",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.6568602,
+      "longitude": 115.253657
+    },
+    "url": "https://www.google.com/maps/place/Big+Garden+Corner/data=!4m7!3m6!1s0x2dd24071d99200c3:0x6b8b5fe4aa9162c0!8m2!3d-8.6568602!4d115.253657!16s%2Fg%2F11c0pyr1_h!19sChIJwwCS2XFA0i0RwGKRquRfi2s?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq813tNzIuEhqCenlI7QRWsCob1V7DC4BcW52skUTpa6UPW3F8MicJ_R1P8UvpusTBAqhbtvDMhUunexfBpuB0B5vEvqpuRAjH0YU88ymKCOvrDNun7acJ9dhgWHrCcBrNyrB8=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq813tNzIuEhqCenlI7QRWsCob1V7DC4BcW52skUTpa6UPW3F8MicJ_R1P8UvpusTBAqhbtvDMhUunexfBpuB0B5vEvqpuRAjH0YU88ymKCOvrDNun7acJ9dhgWHrCcBrNyrB8=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq813tNzIuEhqCenlI7QRWsCob1V7DC4BcW52skUTpa6UPW3F8MicJ_R1P8UvpusTBAqhbtvDMhUunexfBpuB0B5vEvqpuRAjH0YU88ymKCOvrDNun7acJ9dhgWHrCcBrNyrB8=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Alas Kedaton",
+    "alamat": "Kukuh, Kec. Marga, Bali",
+    "rating": "4.2",
+    "jumlah_review": "2.518",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.5275338,
+      "longitude": 115.1543901
+    },
+    "url": "https://www.google.com/maps/place/Alas+Kedaton/data=!4m7!3m6!1s0x2dd23b164d2a8bb3:0x118812004a86244b!8m2!3d-8.5275338!4d115.1543901!16s%2Fg%2F1ptx26t72!19sChIJs4sqTRY70i0RSySGSgASiBE?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrvPwaiHS2r7TEcMtflIGva-VQKtaQwv5q2fGY_tDdGyQtJMXCGYR372dLbGO3XHO99oeKDnBLpbh3CqIdo0OERAqd6HPWhvlhmKfGksNCnaQfoNX0Q8pEu3S0QKJj_uLDMwRoWBg=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrvPwaiHS2r7TEcMtflIGva-VQKtaQwv5q2fGY_tDdGyQtJMXCGYR372dLbGO3XHO99oeKDnBLpbh3CqIdo0OERAqd6HPWhvlhmKfGksNCnaQfoNX0Q8pEu3S0QKJj_uLDMwRoWBg=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrvPwaiHS2r7TEcMtflIGva-VQKtaQwv5q2fGY_tDdGyQtJMXCGYR372dLbGO3XHO99oeKDnBLpbh3CqIdo0OERAqd6HPWhvlhmKfGksNCnaQfoNX0Q8pEu3S0QKJj_uLDMwRoWBg=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Waterblow",
+    "alamat": "Benoa, Kec. Kuta Sel.",
+    "rating": "4.4",
+    "jumlah_review": "9.482",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.8038567,
+      "longitude": 115.2398639
+    },
+    "url": "https://www.google.com/maps/place/Waterblow/data=!4m7!3m6!1s0x2dd242d64fdf1499:0x693ff9065fcd1f44!8m2!3d-8.8038567!4d115.2398639!16s%2Fg%2F11b66sm7gm!19sChIJmRTfT9ZC0i0RRB_NXwb5P2k?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npftLqUeVVSOjg872Cv1mH0_emqds5aZIsGsJEYmg7Cr3SC6-8CTd_mSS9Mnf5jsgArf4D5L-lLY4OZ7WlQd-22Rrpmeg4GEEQwNB8Oc7Nvxnv9QsYUq9TtTuCT6GPSdstTF2v5=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npftLqUeVVSOjg872Cv1mH0_emqds5aZIsGsJEYmg7Cr3SC6-8CTd_mSS9Mnf5jsgArf4D5L-lLY4OZ7WlQd-22Rrpmeg4GEEQwNB8Oc7Nvxnv9QsYUq9TtTuCT6GPSdstTF2v5=w408-h305-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npftLqUeVVSOjg872Cv1mH0_emqds5aZIsGsJEYmg7Cr3SC6-8CTd_mSS9Mnf5jsgArf4D5L-lLY4OZ7WlQd-22Rrpmeg4GEEQwNB8Oc7Nvxnv9QsYUq9TtTuCT6GPSdstTF2v5=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Desa Wisata Penglipuran",
+    "alamat": "Jl. Penglipuran, Kubu, Kec. Bangli",
+    "rating": "4.8",
+    "jumlah_review": "26.805",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.4225039,
+      "longitude": 115.3597531
+    },
+    "url": "https://www.google.com/maps/place/Desa+Wisata+Penglipuran/data=!4m7!3m6!1s0x2dd2196eace4f4a9:0x3319169adf0c3419!8m2!3d-8.4225039!4d115.3597531!16s%2Fg%2F11g6htx9w5!19sChIJqfTkrG4Z0i0RGTQM35oWGTM?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipPOdPRF8lNTE1TW_1jLYFFbGvV6_Cfhiylia9bN=w153-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPOdPRF8lNTE1TW_1jLYFFbGvV6_Cfhiylia9bN=w427-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPOdPRF8lNTE1TW_1jLYFFbGvV6_Cfhiylia9bN=w530-h298-k-no"
+    ],
+    "kategori": [
+      "candi"
+    ]
+  },
+  {
+    "nama": "Taman Mumbul Sangeh",
+    "alamat": "Sangeh, Kec. Abiansemal",
+    "rating": "4.6",
+    "jumlah_review": "2.605",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.483959,
+      "longitude": 115.2122881
+    },
+    "url": "https://www.google.com/maps/place/Taman+Mumbul+Sangeh/data=!4m7!3m6!1s0x2dd2234a0ec16b41:0x6ca84c78904c852d!8m2!3d-8.483959!4d115.2122881!16s%2Fg%2F11b728qrhs!19sChIJQWvBDkoj0i0RLYVMkHhMqGw?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqJjcKYlCRaq-_hFa9OJ_hqbXSMlRPYLBe2UBQRT8_e8JJGYdVZ3ZTa7kPYJJcbhbBEcLfwxEydoBNVrR8Mip3_53dv4IWrdge4cwCquWzPLLyevado092geYBpml-RaGCk9kqx=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqJjcKYlCRaq-_hFa9OJ_hqbXSMlRPYLBe2UBQRT8_e8JJGYdVZ3ZTa7kPYJJcbhbBEcLfwxEydoBNVrR8Mip3_53dv4IWrdge4cwCquWzPLLyevado092geYBpml-RaGCk9kqx=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqJjcKYlCRaq-_hFa9OJ_hqbXSMlRPYLBe2UBQRT8_e8JJGYdVZ3ZTa7kPYJJcbhbBEcLfwxEydoBNVrR8Mip3_53dv4IWrdge4cwCquWzPLLyevado092geYBpml-RaGCk9kqx=w529-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Sangeh Monkey Forest",
+    "alamat": "Jl. Brahmana, Sangeh, Kec. Abiansemal",
+    "rating": "4.6",
+    "jumlah_review": "7.538",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.4817743,
+      "longitude": 115.2067391
+    },
+    "url": "https://www.google.com/maps/place/Sangeh+Monkey+Forest/data=!4m7!3m6!1s0x2dd223492c21e6a3:0xb715386c995db0c2!8m2!3d-8.4817743!4d115.2067391!16s%2Fg%2F11b774ztbj!19sChIJo-YhLEkj0i0RwrBdmWw4Fbc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipN58VNCxijodMP2lqtP2Le2IN5k97EPyKJrpGKP=w153-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipN58VNCxijodMP2lqtP2Le2IN5k97EPyKJrpGKP=w427-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipN58VNCxijodMP2lqtP2Le2IN5k97EPyKJrpGKP=w530-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Tegallalang Rice Terrace",
+    "alamat": "Jl. Raya Tegallalang, Tegallalang, Kec. Tegallalang",
+    "rating": "4.4",
+    "jumlah_review": "47.730",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.4317112,
+      "longitude": 115.279303
+    },
+    "url": "https://www.google.com/maps/place/Tegallalang+Rice+Terrace/data=!4m7!3m6!1s0x2dd2220b23f900e3:0x8d1a8969386c04ed!8m2!3d-8.4317112!4d115.279303!16s%2Fm%2F0kcf42x!19sChIJ4wD5Iwsi0i0R7QRsOGmJGo0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr8akhEy_vKrrmE67pA_p7P9ScxStBYuO7F5dnvoz4mRMVhMTH2YG5Rw0cEDAS6tM8mzEeAku0u3-irq-6focbX6pfBAW3zmijlHRQk7LNhoOQQDBhzLMw8giiXNBck2FPSJoLE=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr8akhEy_vKrrmE67pA_p7P9ScxStBYuO7F5dnvoz4mRMVhMTH2YG5Rw0cEDAS6tM8mzEeAku0u3-irq-6focbX6pfBAW3zmijlHRQk7LNhoOQQDBhzLMw8giiXNBck2FPSJoLE=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr8akhEy_vKrrmE67pA_p7P9ScxStBYuO7F5dnvoz4mRMVhMTH2YG5Rw0cEDAS6tM8mzEeAku0u3-irq-6focbX6pfBAW3zmijlHRQk7LNhoOQQDBhzLMw8giiXNBck2FPSJoLE=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Obyek Wisata Bedugul",
+    "alamat": "Batunya, Buleleng",
+    "rating": "4.7",
+    "jumlah_review": "1.173",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.2840649,
+      "longitude": 115.1716726
+    },
+    "url": "https://www.google.com/maps/place/Obyek+Wisata+Bedugul/data=!4m7!3m6!1s0x2dd189715a929dcb:0x80d8c409911b09c2!8m2!3d-8.2840649!4d115.1716726!16s%2Fg%2F11bytnb4s2!19sChIJy52SWnGJ0S0RwgkbkQnE2IA?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipP0zL4PpvaKkNCuGoG1LMihzoD3lsBafPCS_ktZ=w153-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipP0zL4PpvaKkNCuGoG1LMihzoD3lsBafPCS_ktZ=w427-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipP0zL4PpvaKkNCuGoG1LMihzoD3lsBafPCS_ktZ=w531-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Mandala Suci Wenara Wana",
+    "alamat": "Jl. Monkey Forest, Ubud, Kecamatan Ubud",
+    "rating": "4.5",
+    "jumlah_review": "51.215",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.5193727,
+      "longitude": 115.2606299
+    },
+    "url": "https://www.google.com/maps/place/Mandala+Suci+Wenara+Wana/data=!4m7!3m6!1s0x2dd23d43f6189b67:0xb6ec43164befc356!8m2!3d-8.5193727!4d115.2606299!16s%2Fm%2F03wc0td!19sChIJZ5sY9kM90i0RVsPvSxZD7LY?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq3f6IkZyFR06Nm9zueXYfuAk3vre6T-ZZSIjj8Q8EdcHT_4vEXhr7kS_BTpCSYZJp0Ny0SpdzB8-zyF-Nr0cIk33TQYwmrIkV8CFzR24jO3VO1T19z0YaLaMAxrMwShvJ9HJiS=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq3f6IkZyFR06Nm9zueXYfuAk3vre6T-ZZSIjj8Q8EdcHT_4vEXhr7kS_BTpCSYZJp0Ny0SpdzB8-zyF-Nr0cIk33TQYwmrIkV8CFzR24jO3VO1T19z0YaLaMAxrMwShvJ9HJiS=w408-h305-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq3f6IkZyFR06Nm9zueXYfuAk3vre6T-ZZSIjj8Q8EdcHT_4vEXhr7kS_BTpCSYZJp0Ny0SpdzB8-zyF-Nr0cIk33TQYwmrIkV8CFzR24jO3VO1T19z0YaLaMAxrMwShvJ9HJiS=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Tanah Lot",
+    "alamat": "Beraban, Kec. Kediri",
+    "rating": "4.7",
+    "jumlah_review": "97.528",
+    "deskripsi": "Pura Tanah Lot (aksara Bali: ᬧᬸᬭᬢᬦᬄᬮᭀᬢ᭄) adalah salah satu Pura (Tempat Ibadah Umat Hindu) yang sangat disucikan di Bali, Indonesia. Nama Tanah Lot berasal dari kata \"tanah\" yang artinya tanah atau pulau dan \"lot\" atau lod yang artinya laut. Sehingga nama Tanah Lot dapat diartikan sebagai sebuah tanah atau pulau yang terletak di laut. Di sini ada dua Pura yang terletak di atas batu besar. Satu terletak di atas bongkahan batu dan satunya terletak di atas tebing mirip dengan Pura Uluwatu. Pura Tan...",
+    "koordinat": {
+      "latitude": -8.621213,
+      "longitude": 115.086807
+    },
+    "url": "https://www.google.com/maps/place/Tanah+Lot/data=!4m7!3m6!1s0x2dd237824f71deab:0xcaabe270f7e34d69!8m2!3d-8.621213!4d115.086807!16zL20vMGJ2NGRo!19sChIJq95xT4I30i0RaU3j93Diq8o?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqkybIYos1jq6FjHFR1PH1_e-yu7bU-mqbYJ7ZEx86KnhBIpxfhRnf0p3Y3B2TNUgs7WfwfzzZ5vjvNgVZA2Dxk2avN1-VK419uDbEGtGEOjB7g8NLiOItbgi2ZSfEUTfw3Mnjo=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqkybIYos1jq6FjHFR1PH1_e-yu7bU-mqbYJ7ZEx86KnhBIpxfhRnf0p3Y3B2TNUgs7WfwfzzZ5vjvNgVZA2Dxk2avN1-VK419uDbEGtGEOjB7g8NLiOItbgi2ZSfEUTfw3Mnjo=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqkybIYos1jq6FjHFR1PH1_e-yu7bU-mqbYJ7ZEx86KnhBIpxfhRnf0p3Y3B2TNUgs7WfwfzzZ5vjvNgVZA2Dxk2avN1-VK419uDbEGtGEOjB7g8NLiOItbgi2ZSfEUTfw3Mnjo=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai",
+      "candi",
+      "pulau"
+    ]
+  },
+  {
+    "nama": "Tukad Bindu Park",
+    "alamat": "Jl. Turi, Kesiman, Kec. Denpasar Tim.",
+    "rating": "4.5",
+    "jumlah_review": "1.105",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.6437911,
+      "longitude": 115.2358125
+    },
+    "url": "https://www.google.com/maps/place/Tukad+Bindu+Park/data=!4m7!3m6!1s0x2dd23f789bdb40bb:0xc8f454047cb4a78!8m2!3d-8.6437911!4d115.2358125!16s%2Fg%2F11c6r1t8p0!19sChIJu0Dbm3g_0i0ReErLR0BFjww?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nodAE9kVSuiJcmi2KZjWeS9SCbKmbOQ2-CiYkttp4eRHuv9mSIveiiuIdIzx6a_UuYAwH-K_DXkm7Hn5-jYYTQ5XYPVkCP-brAaqQpMjEu_aXyUAkgmLHt4pb4ehBT2LGwvJVaW=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nodAE9kVSuiJcmi2KZjWeS9SCbKmbOQ2-CiYkttp4eRHuv9mSIveiiuIdIzx6a_UuYAwH-K_DXkm7Hn5-jYYTQ5XYPVkCP-brAaqQpMjEu_aXyUAkgmLHt4pb4ehBT2LGwvJVaW=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nodAE9kVSuiJcmi2KZjWeS9SCbKmbOQ2-CiYkttp4eRHuv9mSIveiiuIdIzx6a_UuYAwH-K_DXkm7Hn5-jYYTQ5XYPVkCP-brAaqQpMjEu_aXyUAkgmLHt4pb4ehBT2LGwvJVaW=w397-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Campuhan Ridge Walk",
+    "alamat": "Kelusa, Kec. Payangan, Bali",
+    "rating": "4.3",
+    "jumlah_review": "15.691",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.5035806,
+      "longitude": 115.2547579
+    },
+    "url": "https://www.google.com/maps/place/Campuhan+Ridge+Walk/data=!4m7!3m6!1s0x2dd23d6bcaf473f5:0x7c13fd74aa1bc49f!8m2!3d-8.5035806!4d115.2547579!16s%2Fg%2F11bv_dhkhx!19sChIJ9XP0yms90i0Rn8QbqnT9E3w?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npji6qIk6mPBYzVyS9MMku9IZvo7YlhqQTDAv6wYdc95aw-bHhs9pYMmOj_OEbx4M7iHLN32a2lbwSmxsb8d9MShVppv3IUaP0KJGVUxaD49PH9ti-ZcjAtiYf6cBUtN5NphX4=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npji6qIk6mPBYzVyS9MMku9IZvo7YlhqQTDAv6wYdc95aw-bHhs9pYMmOj_OEbx4M7iHLN32a2lbwSmxsb8d9MShVppv3IUaP0KJGVUxaD49PH9ti-ZcjAtiYf6cBUtN5NphX4=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npji6qIk6mPBYzVyS9MMku9IZvo7YlhqQTDAv6wYdc95aw-bHhs9pYMmOj_OEbx4M7iHLN32a2lbwSmxsb8d9MShVppv3IUaP0KJGVUxaD49PH9ti-ZcjAtiYf6cBUtN5NphX4=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Elephant Cave (Goa Gajah)",
+    "alamat": "Pejeng Kawan, Kec. Tampaksiring",
+    "rating": "4.3",
+    "jumlah_review": "594",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.5227894,
+      "longitude": 115.2877017
+    },
+    "url": "https://www.google.com/maps/place/Elephant+Cave+%28Goa+Gajah%29/data=!4m7!3m6!1s0x2dd217d576ed6b39:0x8b9f4adb661e3ca8!8m2!3d-8.5227894!4d115.2877017!16s%2Fg%2F11cp5s93kp!19sChIJOWvtdtUX0i0RqDweZttKn4s?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noKN90evfDvvOt0-a497Ax2SztyBYyg08dwZVRYKAA8vYhXluT06vljgkrLIS6Z3zIkp8molbisa9irXWTRIVX_xfSygOfaW3IIWCZKCu-FOhia2g0I-WeyOABBwwpOOgEvwDXiwDoF4SLr=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noKN90evfDvvOt0-a497Ax2SztyBYyg08dwZVRYKAA8vYhXluT06vljgkrLIS6Z3zIkp8molbisa9irXWTRIVX_xfSygOfaW3IIWCZKCu-FOhia2g0I-WeyOABBwwpOOgEvwDXiwDoF4SLr=w408-h305-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noKN90evfDvvOt0-a497Ax2SztyBYyg08dwZVRYKAA8vYhXluT06vljgkrLIS6Z3zIkp8molbisa9irXWTRIVX_xfSygOfaW3IIWCZKCu-FOhia2g0I-WeyOABBwwpOOgEvwDXiwDoF4SLr=w397-h298-k-no"
+    ],
+    "kategori": [
+      "goa"
+    ]
+  },
+  {
+    "nama": "Pura Ulun Danu Beratan Bedugul",
+    "alamat": "Danau Beratan, Candikuning, Baturiti",
+    "rating": "4.6",
+    "jumlah_review": "45.864",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.2751807,
+      "longitude": 115.1668234
+    },
+    "url": "https://www.google.com/maps/place/Pura+Ulun+Danu+Beratan+Bedugul/data=!4m7!3m6!1s0x2dd1896c9fac0857:0x18246568e4db1b53!8m2!3d-8.2751807!4d115.1668234!16s%2Fm%2F05zyg1h!19sChIJVwisn2yJ0S0RUxvb5GhlJBg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np4hnpEnvykanr0d_-AC8JKVc5toHS1EMhIVJg0fgurmnC6QVKc063Fe354kfv-j6hPyvnzy8QhJZy_CP0MY7Bnty_6-20b0eSMR5n2eWYAcRBMJeHsHADESb4FUc-cQxsPIm0=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np4hnpEnvykanr0d_-AC8JKVc5toHS1EMhIVJg0fgurmnC6QVKc063Fe354kfv-j6hPyvnzy8QhJZy_CP0MY7Bnty_6-20b0eSMR5n2eWYAcRBMJeHsHADESb4FUc-cQxsPIm0=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np4hnpEnvykanr0d_-AC8JKVc5toHS1EMhIVJg0fgurmnC6QVKc063Fe354kfv-j6hPyvnzy8QhJZy_CP0MY7Bnty_6-20b0eSMR5n2eWYAcRBMJeHsHADESb4FUc-cQxsPIm0=w224-h298-k-no"
+    ],
+    "kategori": [
+      "candi"
+    ]
+  },
+  {
+    "nama": "Ubud Palace",
+    "alamat": "Ubud, Kecamatan Ubud",
+    "rating": "4.3",
+    "jumlah_review": "15.291",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.5065977,
+      "longitude": 115.2625884
+    },
+    "url": "https://www.google.com/maps/place/Ubud+Palace/data=!4m7!3m6!1s0x2dd23d6af37eb24b:0x4bcdf69a281c3f32!8m2!3d-8.5065977!4d115.2625884!16s%2Fm%2F012nzpgj!19sChIJS7J-82o90i0RMj8cKJr2zUs?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqdJ19QsDRfbLe1XuT75Bb9ObZX-_fju7QXrFUVG5M2-qBOIHas5Qx55_Ff5Qv5PvgEdvpJxVkWYnwMZAlwZ8b9INHOyBMp0Y3Xe_ggnueIwmsPXOWmrkQMbOrkG1cvR8A_0HVU2Q=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqdJ19QsDRfbLe1XuT75Bb9ObZX-_fju7QXrFUVG5M2-qBOIHas5Qx55_Ff5Qv5PvgEdvpJxVkWYnwMZAlwZ8b9INHOyBMp0Y3Xe_ggnueIwmsPXOWmrkQMbOrkG1cvR8A_0HVU2Q=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqdJ19QsDRfbLe1XuT75Bb9ObZX-_fju7QXrFUVG5M2-qBOIHas5Qx55_Ff5Qv5PvgEdvpJxVkWYnwMZAlwZ8b9INHOyBMp0Y3Xe_ggnueIwmsPXOWmrkQMbOrkG1cvR8A_0HVU2Q=w447-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Kebun Raya Eka Karya Bali",
+    "alamat": "Jl. Kebun Raya, Candikuning, Kec. Baturiti",
+    "rating": "4.6",
+    "jumlah_review": "16.875",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.2761215,
+      "longitude": 115.1542029
+    },
+    "url": "https://www.google.com/maps/place/Kebun+Raya+Eka+Karya+Bali/data=!4m7!3m6!1s0x2dd1890c3c22210d:0x894393636ac67dc5!8m2!3d-8.2761215!4d115.1542029!16s%2Fm%2F0ll4kxl!19sChIJDSEiPAyJ0S0RxX3GamOTQ4k?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipMEyKpCszCWgVi0Z7_HrGEgP7c7gsuwPwSMSHgJ=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipMEyKpCszCWgVi0Z7_HrGEgP7c7gsuwPwSMSHgJ=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipMEyKpCszCWgVi0Z7_HrGEgP7c7gsuwPwSMSHgJ=w529-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Objek Wisata Sangeh",
+    "alamat": "Jl. Brahmana, Sangeh, Kec. Abiansemal",
+    "rating": "4.6",
+    "jumlah_review": "158",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.4815663,
+      "longitude": 115.2065458
+    },
+    "url": "https://www.google.com/maps/place/Objek+Wisata+Sangeh/data=!4m7!3m6!1s0x2dd223479e94fb0f:0x5274752bd0620946!8m2!3d-8.4815663!4d115.2065458!16s%2Fg%2F1pzpxsp3l!19sChIJD_uUnkcj0i0RRgli0Ct1dFI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipM5ez7GGpOFk4REB5SXHx9PlmrnRIRYXktMwNk=w86-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipM5ez7GGpOFk4REB5SXHx9PlmrnRIRYXktMwNk=w408-h408-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipM5ez7GGpOFk4REB5SXHx9PlmrnRIRYXktMwNk=w298-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Air Terjun Leke Leke",
+    "alamat": "Kerobokan, Jl. Swadaya, Mekarsari, Kec. Baturiti",
+    "rating": "4.5",
+    "jumlah_review": "2.808",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.3666011,
+      "longitude": 115.1978215
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Leke+Leke/data=!4m7!3m6!1s0x2dd220d6da4ff65d:0x7b898588ca3ea351!8m2!3d-8.3666011!4d115.1978215!16s%2Fg%2F11g8xgmsnk!19sChIJXfZP2tYg0i0RUaM-yoiFiXs?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npzvS5OX9LF_W7A4yWpO0uRYQ_goJvuyuhbRRXb8e3DYBaNUDENukKrgE4-Ds9VlTD7E8K0LTz1d_-uTLbxS-BpzitIbeLmlqHqRh5g7HWvYq81zuO33d3XzhET-6p1fErRS6k3=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npzvS5OX9LF_W7A4yWpO0uRYQ_goJvuyuhbRRXb8e3DYBaNUDENukKrgE4-Ds9VlTD7E8K0LTz1d_-uTLbxS-BpzitIbeLmlqHqRh5g7HWvYq81zuO33d3XzhET-6p1fErRS6k3=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npzvS5OX9LF_W7A4yWpO0uRYQ_goJvuyuhbRRXb8e3DYBaNUDENukKrgE4-Ds9VlTD7E8K0LTz1d_-uTLbxS-BpzitIbeLmlqHqRh5g7HWvYq81zuO33d3XzhET-6p1fErRS6k3=w224-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Monumen Bajra Sandhi",
+    "alamat": "Panjer, Denpasar Selatan",
+    "rating": "4.6",
+    "jumlah_review": "15.163",
+    "deskripsi": "Monumen Bajra Sandhi (Aksara Bali: ᬫᭀᬦᬸᬫᬾᬦ᭄ᬩᬚ᭄ᬭᬲᬦ᭄​ᬟᬶ᭟​) merupakan monumen perjuangan rakyat Bali yang terletak di Kelurahan Panjer, Kota Denpasar, Bali. Dibangun di tanah seluas 13,8 hektare dengan luas gedung 4.900 m2. Monumen ini berada di sebelah selatan Kantor Gubernur Bali dan sebelah tenggara Kantor DPRD Bali, selain itu ada beberapa lapangan yaitu Niti Mandala di sebelah barat dan Puputan Renon di sebelah utara.",
+    "koordinat": {
+      "latitude": -8.6717348,
+      "longitude": 115.233902
+    },
+    "url": "https://www.google.com/maps/place/Monumen+Bajra+Sandhi/data=!4m7!3m6!1s0x2dd240f5b0baad2f:0xf67150ab4e009a2c!8m2!3d-8.6717348!4d115.233902!16s%2Fm%2F0n45qhz!19sChIJL626sPVA0i0RLJoATqtQcfY?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noKrHTbkQkXHuUiL8j713AooBAOahIZ7TiY92Bw1r-qAJ9ObNZVng8tcbT4_8dMEHFJXU0Sa2U5iFajmZRxngzOUf6MHH48fHaNFS6d4btDGyxxduKZP0-Mv6_TacYnFBuSVf364A=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noKrHTbkQkXHuUiL8j713AooBAOahIZ7TiY92Bw1r-qAJ9ObNZVng8tcbT4_8dMEHFJXU0Sa2U5iFajmZRxngzOUf6MHH48fHaNFS6d4btDGyxxduKZP0-Mv6_TacYnFBuSVf364A=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noKrHTbkQkXHuUiL8j713AooBAOahIZ7TiY92Bw1r-qAJ9ObNZVng8tcbT4_8dMEHFJXU0Sa2U5iFajmZRxngzOUf6MHH48fHaNFS6d4btDGyxxduKZP0-Mv6_TacYnFBuSVf364A=w397-h298-k-no"
+    ],
+    "kategori": [
+      "situs_sejarah",
+      "lapangan",
+      "pasar"
+    ]
+  },
+  {
+    "nama": "Wisata Bali Barat",
+    "alamat": "Banjar Dinas Batu Ampar, Pejarakan, Kec. Gerokgak",
+    "rating": "4.4",
+    "jumlah_review": "35",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -8.1321195,
+      "longitude": 114.5785034
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Bali+Barat/data=!4m7!3m6!1s0x2dd16bd4de33edf9:0xb9ba130a5c8e6a71!8m2!3d-8.1321195!4d114.5785034!16s%2Fg%2F11bw7d5c4t!19sChIJ-e0z3tRr0S0RcWqOXAoTurk?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipPBEVkQ_g_S87ML56IQQeop0KwIw3mrWcQppnzo=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPBEVkQ_g_S87ML56IQQeop0KwIw3mrWcQppnzo=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPBEVkQ_g_S87ML56IQQeop0KwIw3mrWcQppnzo=w529-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Tirta Gangga",
+    "alamat": "Jalan Raya Abang Desa Adat Jl. Raya Tirta Gangga, Ababi, Kec. Abang",
+    "rating": "4.6",
+    "jumlah_review": "20.511",
+    "deskripsi": "Tirta Gangga adalah bekas istana kerajaan yang terletak di bagian timur Pulau Bali, Indonesia, sekitar 5 kilometer dari Karangasem, dekat Gunung Agung. Taman ini terkenal karena istana airnya, yang dimiliki oleh Kerajaan Karangasem.",
+    "koordinat": {
+      "latitude": -8.4123473,
+      "longitude": 115.5872919
+    },
+    "url": "https://www.google.com/maps/place/Tirta+Gangga/data=!4m7!3m6!1s0x2dd24736f4379ad1:0x65af03b0d108a7d1!8m2!3d-8.4123473!4d115.5872919!16s%2Fm%2F09rv951!19sChIJ0Zo39DZH0i0R0acI0bADr2U?authuser=0&hl=id&rclk=1",
+    "provinsi": "Bali",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqMzKJSpfWWBAL1TOPY-iMQupomo5aToAKWZBgI771N9o4qbJ5YM4czeltVsQldqY0IKc9p1pmKf8uj6WOax_Th6MX9jvpuJBqG9Pq12_Q48r1vpYqwf16jZjTJMmFZYbXllcHDxw=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqMzKJSpfWWBAL1TOPY-iMQupomo5aToAKWZBgI771N9o4qbJ5YM4czeltVsQldqY0IKc9p1pmKf8uj6WOax_Th6MX9jvpuJBqG9Pq12_Q48r1vpYqwf16jZjTJMmFZYbXllcHDxw=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqMzKJSpfWWBAL1TOPY-iMQupomo5aToAKWZBgI771N9o4qbJ5YM4czeltVsQldqY0IKc9p1pmKf8uj6WOax_Th6MX9jvpuJBqG9Pq12_Q48r1vpYqwf16jZjTJMmFZYbXllcHDxw=w397-h298-k-no"
+    ],
+    "kategori": [
+      "gunung",
+      "taman",
+      "pulau"
+    ]
+  }
+]
