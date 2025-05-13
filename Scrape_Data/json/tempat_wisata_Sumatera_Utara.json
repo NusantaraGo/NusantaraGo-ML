@@ -4,7 +4,7 @@
     "alamat": "Sei Naga Lawan, Kec. Perbaungan, Sumatera Utara",
     "rating": "4.2",
     "jumlah_review": "879",
-    "deskripsi": "N/A",
+    "deskripsi": "Pantai Mangrove adalah sebuah tempat wisata yang terletak di Desa Sei Naga Lawan, Kecamatan Perbaungan, Kabupaten Langkat, Sumatera Utara. Tempat ini menjadi daya tarik karena keindahan alamnya yang memiliki mangrove yang indah dan bersejarah.",
     "koordinat": {
       "latitude": 3.5908402,
       "longitude": 99.0930098
@@ -25,7 +25,7 @@
     "alamat": "Jl. Utama Dusun II, Denai Lama, Kec. Pantai Labu",
     "rating": "4.6",
     "jumlah_review": "149",
-    "deskripsi": "N/A",
+    "deskripsi": "Wisata Kampong Lama adalah sebuah tempat wisata yang terletak di Desa Denai Lama, Kecamatan Pantai Labu, Kabupaten Langkat, Sumatera Utara. Tempat ini menjadi daya tarik karena keindahan alamnya yang memiliki kampong tradisional yang indah dan bersejarah.",
     "koordinat": {
       "latitude": 3.6382111,
       "longitude": 98.9227636
@@ -46,7 +46,7 @@
     "alamat": "Naga Mariah, Kec. Pamatang Silima Huta",
     "rating": "4.5",
     "jumlah_review": "541",
-    "deskripsi": "N/A",
+    "deskripsi": "Bukit Sipisopiso adalah sebuah bukit yang terletak di Desa Tongging, Kecamatan Merek, Kabupaten Karo, Sumatera Utara, tidak jauh dari Danau Toba. Bukit ini terkenal karena pemandangannya yang sangat indah dan strategis untuk menikmati panorama Danau Toba secara keseluruhan.",
     "koordinat": {
       "latitude": 2.9238045,
       "longitude": 98.5355528
@@ -89,7 +89,7 @@
     "alamat": "Negri Gugung, Kec. Sibolangit",
     "rating": "4.3",
     "jumlah_review": "80",
-    "deskripsi": "N/A",
+    "deskripsi": "Wisata Dua Rasa adalah sebuah tempat wisata yang terletak di Desa Negri Gugung, Kecamatan Sibolangit, Kabupaten Karo, Sumatera Utara. Tempat ini menjadi daya tarik karena keindahan alamnya yang memiliki dua rasa air yang berbeda, yaitu air yang berwarna putih dan air yang berwarna hitam.",
     "koordinat": {
       "latitude": 3.240426,
       "longitude": 98.602889
@@ -110,7 +110,7 @@
     "alamat": "Jl. Imam Bonjol, J A T I, Kec. Medan Maimun",
     "rating": "4.4",
     "jumlah_review": "4.432",
-    "deskripsi": "N/A",
+    "deskripsi": "Taman Ahmad Yani Medan adalah sebuah taman yang terletak di Jalan Imam Bonjol, Jalan A T I, Kecamatan Medan Maimun, Kota Medan, Sumatera Utara. Taman ini merupakan taman yang populer di Kota Medan dan sering dikunjungi oleh wisatawan lokal maupun wisatawan asing.",
     "koordinat": {
       "latitude": 3.5764231,
       "longitude": 98.6766434
@@ -153,7 +153,7 @@
     "alamat": "Jl. Barusjahe, Dolat Rayat, Kec. Dolat Rayat",
     "rating": "4.4",
     "jumlah_review": "3.932",
-    "deskripsi": "N/A",
+    "deskripsi": "Taman Alam Lumbini Berastagi adalah sebuah taman yang terletak di Jl. Barusjahe, Dolat Rayat, Kec. Dolat Rayat, Kabupaten Karo, Sumatera Utara. Taman ini merupakan taman yang populer di Kota Berastagi dan sering dikunjungi oleh wisatawan lokal maupun wisatawan asing.",
     "koordinat": {
       "latitude": 3.1966948,
       "longitude": 98.5409105
@@ -175,7 +175,7 @@
     "alamat": "Sitanggor, Kec. Muara",
     "rating": "4.7",
     "jumlah_review": "1.311",
-    "deskripsi": "N/A",
+    "deskripsi": "Puncak Huta Ginjang adalah sebuah puncak yang terletak di Desa Sitanggor, Kecamatan Muara, Kabupaten Langkat, Sumatera Utara. Puncak ini terkenal karena pemandangannya yang indah dan strategis untuk menikmati panorama Sumatera Utara secara keseluruhan.",
     "koordinat": {
       "latitude": 2.3148412,
       "longitude": 98.9710016
@@ -196,7 +196,7 @@
     "alamat": "Ps. Enam Kuala Namu, Kec. Beringin",
     "rating": "4.5",
     "jumlah_review": "28",
-    "deskripsi": "N/A",
+    "deskripsi": "Wisata Pondok Tengah adalah sebuah tempat wisata yang terletak di Desa Ps. Enam Kuala Namu, Kecamatan Beringin, Kabupaten Langkat, Sumatera Utara. Tempat ini menjadi daya tarik karena keindahan alamnya yang memiliki pondok tradisional yang indah dan bersejarah.",
     "koordinat": {
       "latitude": 3.6378387,
       "longitude": 98.8682886
@@ -217,7 +217,7 @@
     "alamat": "Jati Kesuma, Kec. Namorambe",
     "rating": "4.2",
     "jumlah_review": "1.210",
-    "deskripsi": "N/A",
+    "deskripsi": "T.GARDEN Little Bali in Medan adalah sebuah taman yang terletak di Jati Kesuma, Kecamatan Namorambe, Kota Medan, Sumatera Utara. Taman ini merupakan taman yang populer di Kota Medan dan sering dikunjungi oleh wisatawan lokal maupun wisatawan asing.",
     "koordinat": {
       "latitude": 3.4677126,
       "longitude": 98.6319521
@@ -238,7 +238,7 @@
     "alamat": "Adin Tengah, Kec. Salapian",
     "rating": "4.2",
     "jumlah_review": "156",
-    "deskripsi": "N/A",
+    "deskripsi": "THE YO'S HILL.. Kampung Wisata adalah sebuah tempat wisata yang terletak di Adin Tengah, Kecamatan Salapian, Kabupaten Langkat, Sumatera Utara. Tempat ini menjadi daya tarik karena keindahan alamnya yang memiliki kampung tradisional yang indah dan bersejarah.",
     "koordinat": {
       "latitude": 3.3218892,
       "longitude": 98.3731059
@@ -259,7 +259,7 @@
     "alamat": "Kesawan, Kec. Medan Bar.",
     "rating": "4.6",
     "jumlah_review": "3.276",
-    "deskripsi": "N/A",
+    "deskripsi": "Tjong A Fie Mansion adalah sebuah bangunan yang terletak di Kecamatan Medan Barat, Kota Medan, Sumatera Utara. Bangunan ini merupakan bangunan yang populer di Kota Medan dan sering dikunjungi oleh wisatawan lokal maupun wisatawan asing.",
     "koordinat": {
       "latitude": 3.5853631,
       "longitude": 98.6802302
@@ -304,7 +304,7 @@
     "alamat": "Martelu, Kec. Sibolangit",
     "rating": "4.5",
     "jumlah_review": "2.956",
-    "deskripsi": "N/A",
+    "deskripsi": "Air Terjun Sikulikap adalah sebuah air terjun yang terletak di Desa Martelu, Kecamatan Sibolangit, Kabupaten Karo, Sumatera Utara. Air terjun ini terkenal karena keindahan alamnya yang memiliki air terjun yang indah dan bersejarah.",
     "koordinat": {
       "latitude": 3.2454292,
       "longitude": 98.5339921
@@ -325,7 +325,7 @@
     "alamat": "Limau Manis, Kec. Tj. Morawa",
     "rating": "4.6",
     "jumlah_review": "988",
-    "deskripsi": "N/A",
+    "deskripsi": "Wisata bunga di Sumatera Utara menawarkan pengalaman yang beragam, mulai dari hamparan bunga yang luas di dataran tinggi hingga taman-taman bunga yang dirawat dengan indah.",
     "koordinat": {
       "latitude": 3.5324287,
       "longitude": 98.7635956
@@ -346,7 +346,7 @@
     "alamat": "Unnamed Road, Sionggang Utara, Kec. Lumban Julu, Toba",
     "rating": "4.5",
     "jumlah_review": "458",
-    "deskripsi": "N/A",
+    "deskripsi": "Wisata Bukit Gibeon adalah sebuah tempat wisata yang terletak di Unnamed Road, Sionggang Utara, Kec. Lumban Julu, Kabupaten Toba, Sumatera Utara. Tempat ini menjadi daya tarik karena keindahan alamnya yang memiliki bukit yang indah dan bersejarah.",
     "koordinat": {
       "latitude": 2.5908281,
       "longitude": 98.9978528
@@ -367,7 +367,7 @@
     "alamat": "Batu Katak, Kec, Jl. Utama, Lau Damak, Kec. Bohorok",
     "rating": "4.2",
     "jumlah_review": "363",
-    "deskripsi": "N/A",
+    "deskripsi": "Wisata Batu Katak adalah sebuah tempat wisata yang terletak di Batu Katak, Kec. Jl. Utama, Lau Damak, Kec. Bohorok, Kabupaten Langkat, Sumatera Utara. Tempat ini menjadi daya tarik karena keindahan alamnya yang memiliki batu yang indah dan bersejarah.",
     "koordinat": {
       "latitude": 3.4460233,
       "longitude": 98.1484236
@@ -388,7 +388,7 @@
     "alamat": "Kwala Indah, Kec. Sei Suka",
     "rating": "3.9",
     "jumlah_review": "1.152",
-    "deskripsi": "N/A",
+    "deskripsi": "Wisata Alam Datuk adalah sebuah tempat wisata yang terletak di Kwala Indah, Kec. Sei Suka, Kabupaten Langkat, Sumatera Utara. Tempat ini menjadi daya tarik karena keindahan alamnya yang memiliki datuk yang indah dan bersejarah.",
     "koordinat": {
       "latitude": 3.3472581,
       "longitude": 99.4804726
@@ -409,7 +409,7 @@
     "alamat": "Rumah liang, Batu pinuh, Kec. Sinembah Tj. Muda Hulu",
     "rating": "4.7",
     "jumlah_review": "81",
-    "deskripsi": "N/A",
+    "deskripsi": "Lau Mentar Canyon adalah sebuah sungai cantik yang terletak di Desa Rumah Liang, Kecamatan Sinembah Tanjung Muda Hulu, Kabupaten Deli Serdang, Sumatera Utara. Tempat ini sering disebut sebagai Grand Canyon-nya Deli Serdang.",
     "koordinat": {
       "latitude": 3.1723744,
       "longitude": 98.6539105
@@ -453,7 +453,7 @@
     "alamat": "Jl. Pendidikan, Deli Tua Bar., Kec. Deli Tua",
     "rating": "4.2",
     "jumlah_review": "3.733",
-    "deskripsi": "N/A",
+    "deskripsi": "The Le Hu Garden adalah sebuah taman yang terletak di Jl. Pendidikan, Deli Tua Bar., Kec. Deli Tua, Kabupaten Deli Serdang, Sumatera Utara. Taman ini merupakan taman yang populer di Kota Deli Serdang dan sering dikunjungi oleh wisatawan lokal maupun wisatawan asing.",
     "koordinat": {
       "latitude": 3.4801574,
       "longitude": 98.6946467
@@ -474,7 +474,7 @@
     "alamat": "Motung, Kec. Ajibata, Toba, Sumatera Utara",
     "rating": "4.6",
     "jumlah_review": "607",
-    "deskripsi": "N/A",
+    "deskripsi": "Bukit Senyum adalah sebuah bukit yang terletak di Motung, Kec. Ajibata, Kabupaten Toba, Sumatera Utara. Bukit ini terkenal karena pemandangannya yang indah dan strategis untuk menikmati panorama Sumatera Utara secara keseluruhan.",
     "koordinat": {
       "latitude": 2.6357725,
       "longitude": 98.9210627
@@ -495,7 +495,7 @@
     "alamat": "Jl. P.Naga, Denai Lama, Kec. Pantai Labu",
     "rating": "4.4",
     "jumlah_review": "383",
-    "deskripsi": "N/A",
+    "deskripsi": "Agrowisata Paloh Naga adalah sebuah agrowisata yang terletak di Jl. P.Naga, Denai Lama, Kec. Pantai Labu, Kabupaten Langkat, Sumatera Utara. Agrowisata ini menjadi daya tarik karena keindahan alamnya yang memiliki agrowisata yang indah dan bersejarah.",
     "koordinat": {
       "latitude": 3.6307657,
       "longitude": 98.9343861
@@ -516,7 +516,7 @@
     "alamat": "Jl. Simarjarunjung, Butu Bayu Pane Raja, Kec. Dolok Pardamean",
     "rating": "4.3",
     "jumlah_review": "7.214",
-    "deskripsi": "N/A",
+    "deskripsi": "Bukit Indah Simarjarunjung adalah sebuah bukit yang terletak di Jl. Simarjarunjung, Butu Bayu Pane Raja, Kec. Dolok Pardamean, Kabupaten Langkat, Sumatera Utara. Bukit ini terkenal karena pemandangannya yang indah dan strategis untuk menikmati panorama Sumatera Utara secara keseluruhan.",
     "koordinat": {
       "latitude": 2.8133027,
       "longitude": 98.7812646
@@ -537,7 +537,7 @@
     "alamat": "Turpuk Sihotang, Kec. Harian",
     "rating": "4.6",
     "jumlah_review": "2.879",
-    "deskripsi": "N/A",
+    "deskripsi": "Bukit Sibeabea adalah sebuah bukit yang terletak di Turpuk Sihotang, Kec. Harian, Kabupaten Langkat, Sumatera Utara. Bukit ini terkenal karena pemandangannya yang indah dan strategis untuk menikmati panorama Sumatera Utara secara keseluruhan.",
     "koordinat": {
       "latitude": 2.5506701,
       "longitude": 98.6735887
@@ -579,7 +579,7 @@
     "alamat": "Sibolangit, Kec. Sibolangit",
     "rating": "4.5",
     "jumlah_review": "485",
-    "deskripsi": "N/A",
+    "deskripsi": "Taman Wisata Alam Sibolangit adalah sebuah taman yang terletak di Sibolangit, Kec. Sibolangit, Kabupaten Langkat, Sumatera Utara. Taman ini merupakan taman yang populer di Kota Langkat dan sering dikunjungi oleh wisatawan lokal maupun wisatawan asing.",
     "koordinat": {
       "latitude": 3.3300425,
       "longitude": 98.5809194
@@ -601,7 +601,7 @@
     "alamat": "Dolok Marawa, Kec. Silau Kahean",
     "rating": "3.7",
     "jumlah_review": "493",
-    "deskripsi": "N/A",
+    "deskripsi": "Kawah Putih Dolok Tinggi Raja adalah sebuah kawah yang terletak di Dolok Marawa, Kec. Silau Kahean, Kabupaten Langkat, Sumatera Utara. Kawah ini terkenal karena keindahan alamnya yang memiliki kawah yang indah dan bersejarah.",
     "koordinat": {
       "latitude": 3.1496525,
       "longitude": 98.7866167
@@ -622,7 +622,7 @@
     "alamat": "Jl. Johar Raya Gg. Tanah Wakaf Dusun VI, Pematang Johar, Kec. Labuhan Deli",
     "rating": "4.3",
     "jumlah_review": "1.216",
-    "deskripsi": "N/A",
+    "deskripsi": "Wisata Sawah Pematang Johar adalah sebuah wisata yang terletak di Jl. Johar Raya Gg. Tanah Wakaf Dusun VI, Pematang Johar, Kec. Labuhan Deli, Kabupaten Langkat, Sumatera Utara. Wisata ini menjadi daya tarik karena keindahan alamnya yang memiliki sawah yang indah dan bersejarah.",
     "koordinat": {
       "latitude": 3.6951374,
       "longitude": 98.7178291
@@ -643,7 +643,7 @@
     "alamat": "Tambunen, Kec. Sibolangit, Sumatera Utara",
     "rating": "4.5",
     "jumlah_review": "140",
-    "deskripsi": "N/A",
+    "deskripsi": "Wisata Alam Peken Tebu adalah sebuah wisata yang terletak di Tambunen, Kec. Sibolangit, Kabupaten Langkat, Sumatera Utara. Wisata ini menjadi daya tarik karena keindahan alamnya yang memiliki peken tebu yang indah dan bersejarah.",
     "koordinat": {
       "latitude": 3.3258156,
       "longitude": 98.5648111
@@ -664,7 +664,7 @@
     "alamat": "Petisah Hulu, Kec. Medan Baru",
     "rating": "4.6",
     "jumlah_review": "2.855",
-    "deskripsi": "N/A",
+    "deskripsi": "Rahmat International Wildlife Museum & Gallery adalah sebuah museum yang terletak di Petisah Hulu, Kec. Medan Baru, Kota Medan, Sumatera Utara. Museum ini menjadi daya tarik karena keindahan alamnya yang memiliki museum yang indah dan bersejarah.",
     "koordinat": {
       "latitude": 3.5792189,
       "longitude": 98.6674906
@@ -685,7 +685,7 @@
     "alamat": "Jl. Sibola Hotang, Sibola Hotangsas, Kec. Balige, Toba",
     "rating": "4.4",
     "jumlah_review": "634",
-    "deskripsi": "N/A",
+    "deskripsi": "Pasir Putih Lumban Bulbul adalah sebuah tempat wisata yang terletak di Jl. Sibola Hotang, Sibola Hotangsas, Kec. Balige, Kabupaten Toba, Sumatera Utara. Tempat ini menjadi daya tarik karena keindahan alamnya yang memiliki pasir putih yang indah dan bersejarah.",
     "koordinat": {
       "latitude": 2.3482048,
       "longitude": 99.0753156
@@ -729,7 +729,7 @@
     "alamat": "Penungkiren, Kec. Sinembah Tj. Muda Hilir",
     "rating": "4.3",
     "jumlah_review": "1.128",
-    "deskripsi": "N/A",
+    "deskripsi": "Cave And Hot Springs Goa Ergendang Deli serdang Sumatra utara Indonesia adalah sebuah gua yang terletak di Penungkiren, Kec. Sinembah Tj. Muda Hilir, Kabupaten Deli Serdang, Sumatera Utara. Gua ini menjadi daya tarik karena keindahan alamnya yang memiliki gua yang indah dan bersejarah.",
     "koordinat": {
       "latitude": 3.3014371,
       "longitude": 98.6497559
