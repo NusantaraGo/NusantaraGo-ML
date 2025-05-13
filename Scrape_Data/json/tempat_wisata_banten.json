@@ -1,0 +1,743 @@
+[
+  {
+    "nama": "Cagar Alam Pulau Dua/ Burung",
+    "alamat": "Sawah Luhur, Kec. Kasemen",
+    "rating": "4.3",
+    "jumlah_review": "87",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.0170531,
+      "longitude": 106.1940723
+    },
+    "url": "https://www.google.com/maps/place/Cagar+Alam+Pulau+Dua%2F+Burung/data=!4m7!3m6!1s0x2e41f2f204c62857:0x65ae039c54004b81!8m2!3d-6.0170531!4d106.1940723!16s%2Fg%2F11c3ssdzn3!19sChIJVyjGBPLyQS4RgUsAVJwDrmU?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqcHjvl1Kq0QMRCmFrK19PrnceTskPRYFCUTgpTPlEYubDzXMzG0PIiaCcRODyVUzlIs6D-SgCyQUtkdjvYc_pAxtgr5902U9SDqFwBzk2ObFXc3slerWyW_gmYrZW4Jyil3oqqhw=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqcHjvl1Kq0QMRCmFrK19PrnceTskPRYFCUTgpTPlEYubDzXMzG0PIiaCcRODyVUzlIs6D-SgCyQUtkdjvYc_pAxtgr5902U9SDqFwBzk2ObFXc3slerWyW_gmYrZW4Jyil3oqqhw=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqcHjvl1Kq0QMRCmFrK19PrnceTskPRYFCUTgpTPlEYubDzXMzG0PIiaCcRODyVUzlIs6D-SgCyQUtkdjvYc_pAxtgr5902U9SDqFwBzk2ObFXc3slerWyW_gmYrZW4Jyil3oqqhw=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pulau",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Pantai Citarate",
+    "alamat": "Unnamed Road, Cireundeu, Kec. Cilograng",
+    "rating": "4.5",
+    "jumlah_review": "192",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.9887253,
+      "longitude": 106.3820157
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Citarate/data=!4m7!3m6!1s0x2e429adb517baabf:0x6c49f98be938b7a0!8m2!3d-6.9887253!4d106.3820157!16s%2Fg%2F11hbnx_vdl!19sChIJv6p7UduaQi4RoLc46Yv5SWw?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npu0-GQxecJC4HopZjQrZqOi1SQPIBmb-yZjLbYlieTm31JQIc7yeKb6zWjIPMCOva2CsaPhS_bIpfv-WtV7N7OH-j85zo6GFEXjX1Voezs0SFUygb0dR8E7_TmwLBZe8LoWcGz=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npu0-GQxecJC4HopZjQrZqOi1SQPIBmb-yZjLbYlieTm31JQIc7yeKb6zWjIPMCOva2CsaPhS_bIpfv-WtV7N7OH-j85zo6GFEXjX1Voezs0SFUygb0dR8E7_TmwLBZe8LoWcGz=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npu0-GQxecJC4HopZjQrZqOi1SQPIBmb-yZjLbYlieTm31JQIc7yeKb6zWjIPMCOva2CsaPhS_bIpfv-WtV7N7OH-j85zo6GFEXjX1Voezs0SFUygb0dR8E7_TmwLBZe8LoWcGz=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pantai Karang Taraje",
+    "alamat": "Sawarna, Kec. Bayah",
+    "rating": "4.6",
+    "jumlah_review": "1.094",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.9907843,
+      "longitude": 106.3262475
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Karang+Taraje/data=!4m7!3m6!1s0x2e4290141ba1cf59:0xb1edaf09255ac35c!8m2!3d-6.9907843!4d106.3262475!16s%2Fg%2F11b7v_616l!19sChIJWc-hGxSQQi4RXMNaJQmv7bE?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np3vgyEkfJEE-LBW72y7Ei-q2l0ElwNAa265QbUnNcb9LabobZD1NyNg1YdbiGDS7aiuo_Q7hu9DzHXYO-r0EGTpcttkouAeTUqhOZAGrMIFJzMiyRPfK1i0QpHqUhk0-apJPInug=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np3vgyEkfJEE-LBW72y7Ei-q2l0ElwNAa265QbUnNcb9LabobZD1NyNg1YdbiGDS7aiuo_Q7hu9DzHXYO-r0EGTpcttkouAeTUqhOZAGrMIFJzMiyRPfK1i0QpHqUhk0-apJPInug=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np3vgyEkfJEE-LBW72y7Ei-q2l0ElwNAa265QbUnNcb9LabobZD1NyNg1YdbiGDS7aiuo_Q7hu9DzHXYO-r0EGTpcttkouAeTUqhOZAGrMIFJzMiyRPfK1i0QpHqUhk0-apJPInug=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Wisata Kampung Marengo Baduy Luar",
+    "alamat": "Kanekes, Kec. Leuwidamar",
+    "rating": "4.7",
+    "jumlah_review": "951",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.6078819,
+      "longitude": 106.2224494
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Kampung+Marengo+Baduy+Luar/data=!4m7!3m6!1s0x2e42691f0ca8c471:0xc7dce717ca9ffcd1!8m2!3d-6.6078819!4d106.2224494!16s%2Fg%2F11f0l3sdj3!19sChIJccSoDB9pQi4R0fyfyhfn3Mc?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipP6YAAMLRZTFU35rp5Ndz4gxw0vLnpErQNS6irK=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipP6YAAMLRZTFU35rp5Ndz4gxw0vLnpErQNS6irK=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipP6YAAMLRZTFU35rp5Ndz4gxw0vLnpErQNS6irK=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pantai Mambruk",
+    "alamat": "Cikoneng, Kec. Anyar",
+    "rating": "4.5",
+    "jumlah_review": "190",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.0722778,
+      "longitude": 105.8829324
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Mambruk/data=!4m7!3m6!1s0x2e41840f5b67ffbd:0x34cb03ae613d17e2!8m2!3d-6.0722778!4d105.8829324!16s%2Fg%2F11c4blrxvt!19sChIJvf9nWw-EQS4R4hc9Ya4DyzQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrp9XE4Yo6MUGR8b19vtSOvYputMPBjp21hcw0f-mWJd2gvL6TrYuFnhYj3YtIrZNq8l1L_WLiqE6OTNJCViea16WlZKTouoZyD63roMTrDZ0CHNn581r-KBg51sxmYVMrh_5ZF=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrp9XE4Yo6MUGR8b19vtSOvYputMPBjp21hcw0f-mWJd2gvL6TrYuFnhYj3YtIrZNq8l1L_WLiqE6OTNJCViea16WlZKTouoZyD63roMTrDZ0CHNn581r-KBg51sxmYVMrh_5ZF=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrp9XE4Yo6MUGR8b19vtSOvYputMPBjp21hcw0f-mWJd2gvL6TrYuFnhYj3YtIrZNq8l1L_WLiqE6OTNJCViea16WlZKTouoZyD63roMTrDZ0CHNn581r-KBg51sxmYVMrh_5ZF=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Istana Taman Cadas",
+    "alamat": "Batukuda, Kec. Mancak",
+    "rating": "4.0",
+    "jumlah_review": "326",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.0448517,
+      "longitude": 106.0203386
+    },
+    "url": "https://www.google.com/maps/place/Istana+Taman+Cadas/data=!4m7!3m6!1s0x2e418f8ee7438b5f:0xf0d020728f05cb13!8m2!3d-6.0448517!4d106.0203386!16s%2Fg%2F11h24q2qlh!19sChIJX4tD546PQS4RE8sFj3Ig0PA?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrMlsH_SbN6Qw14QuVGkFpQUlonCHJfHMWP5tQL8C6AOgLiQtwm3iK1nbTGAAhmbeGyhxhI6OHQ7ZYgkS41nNy5KqM3eOJf8b6OI_E1JXdMyWOealox60Yf6qMAQWwCK_5lhVmT=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrMlsH_SbN6Qw14QuVGkFpQUlonCHJfHMWP5tQL8C6AOgLiQtwm3iK1nbTGAAhmbeGyhxhI6OHQ7ZYgkS41nNy5KqM3eOJf8b6OI_E1JXdMyWOealox60Yf6qMAQWwCK_5lhVmT=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrMlsH_SbN6Qw14QuVGkFpQUlonCHJfHMWP5tQL8C6AOgLiQtwm3iK1nbTGAAhmbeGyhxhI6OHQ7ZYgkS41nNy5KqM3eOJf8b6OI_E1JXdMyWOealox60Yf6qMAQWwCK_5lhVmT=w529-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Gua Maria Bukit Kanada",
+    "alamat": "Jatimulya, Kec. Rangkasbitung",
+    "rating": "4.8",
+    "jumlah_review": "858",
+    "deskripsi": "Gua Maria Bukit Kanada adalah sebuah gua Maria terletak di Narimbang Dalam, Jatimulya, Rangkasbitung, Lebak, Banten. Gua tersebut dibangun pada tahun 1988 atas inisiatif umat Katolik Paroki Rangkasbitung dengan bantuan dari Kongregasi Suster-suster Fransiskan Sukabumi. Nama \"Bukit Kanada\" merupakan singkatan dari \"Bunda Kita Kampung Narimbang Dalam\".",
+    "koordinat": {
+      "latitude": -6.3511531,
+      "longitude": 106.2701486
+    },
+    "url": "https://www.google.com/maps/place/Gua+Maria+Bukit+Kanada/data=!4m7!3m6!1s0x2e4210dc8e04bf55:0x69d814476934b51e!8m2!3d-6.3511531!4d106.2701486!16s%2Fg%2F11b6dpmnf1!19sChIJVb8EjtwQQi4RHrU0aUcU2Gk?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqFP5AJLj68-XpJmvMn2kNh8fWGlj384GLyplfCu8XqEeniAdMBTZ4ny2L4t9TzNzwuc5Md8re2ezEZwSpOEkzUhlesG-AYJHVokpooZC82nERHdUQN7sQCQUK0njtMSO8RQ4I=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqFP5AJLj68-XpJmvMn2kNh8fWGlj384GLyplfCu8XqEeniAdMBTZ4ny2L4t9TzNzwuc5Md8re2ezEZwSpOEkzUhlesG-AYJHVokpooZC82nERHdUQN7sQCQUK0njtMSO8RQ4I=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqFP5AJLj68-XpJmvMn2kNh8fWGlj384GLyplfCu8XqEeniAdMBTZ4ny2L4t9TzNzwuc5Md8re2ezEZwSpOEkzUhlesG-AYJHVokpooZC82nERHdUQN7sQCQUK0njtMSO8RQ4I=w397-h298-k-no"
+    ],
+    "kategori": [
+      "gunung",
+      "goa",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Curug Betung",
+    "alamat": "Kubang Baros, Kec. Cinangka",
+    "rating": "3.7",
+    "jumlah_review": "22",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.1768936,
+      "longitude": 105.9113976
+    },
+    "url": "https://www.google.com/maps/place/Curug+Betung/data=!4m7!3m6!1s0x2e4229c52ffd7e91:0x81e04036e902b5f9!8m2!3d-6.1768936!4d105.9113976!16s%2Fg%2F11c26rl2g4!19sChIJkX79L8UpQi4R-bUC6TZA4IE?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq5YWDzQSSZUBTy8v17ux4nZnRuc67Ujf9-GngaS_tqJAX_VK4WKR7-XUU19dM6h-_qjrTYtDBwsffw846JwTnvA0AOMTONk-Oe0Dgm8M9wh-4uOfHll1Lk4ZZM2j73JcmTKg=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq5YWDzQSSZUBTy8v17ux4nZnRuc67Ujf9-GngaS_tqJAX_VK4WKR7-XUU19dM6h-_qjrTYtDBwsffw846JwTnvA0AOMTONk-Oe0Dgm8M9wh-4uOfHll1Lk4ZZM2j73JcmTKg=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq5YWDzQSSZUBTy8v17ux4nZnRuc67Ujf9-GngaS_tqJAX_VK4WKR7-XUU19dM6h-_qjrTYtDBwsffw846JwTnvA0AOMTONk-Oe0Dgm8M9wh-4uOfHll1Lk4ZZM2j73JcmTKg=w397-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "WISATA ALAM KAMPOENG 165",
+    "alamat": "Kampung Bedeng, Kadubeureum, Kec. Padarincang",
+    "rating": "4.6",
+    "jumlah_review": "51",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.2338913,
+      "longitude": 105.9477429
+    },
+    "url": "https://www.google.com/maps/place/WISATA+ALAM+KAMPOENG+165/data=!4m7!3m6!1s0x2e4229dc3ad21abf:0xa9ad55a185224415!8m2!3d-6.2338913!4d105.9477429!16s%2Fg%2F11lf15n4r7!19sChIJvxrSOtwpQi4RFUQihaFVrak?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np4sCAKx6rttANeX3xn-yhCQvGbWls7ldFVVx2VBADk8Y3JO4WB6NFLl2vehktwSxAsV7LCddN_dOXvh4STN9quAhSV1HAPAHZzVckBcqrL0Ts6c853o_HgqaRDjXCcTjnDWJ8_=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np4sCAKx6rttANeX3xn-yhCQvGbWls7ldFVVx2VBADk8Y3JO4WB6NFLl2vehktwSxAsV7LCddN_dOXvh4STN9quAhSV1HAPAHZzVckBcqrL0Ts6c853o_HgqaRDjXCcTjnDWJ8_=w425-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np4sCAKx6rttANeX3xn-yhCQvGbWls7ldFVVx2VBADk8Y3JO4WB6NFLl2vehktwSxAsV7LCddN_dOXvh4STN9quAhSV1HAPAHZzVckBcqrL0Ts6c853o_HgqaRDjXCcTjnDWJ8_=w528-h298-k-no"
+    ],
+    "kategori": [
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Kawah Gunung Karang",
+    "alamat": "Saninten, Kec. Kaduhejo",
+    "rating": "4.5",
+    "jumlah_review": "84",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.2802481,
+      "longitude": 106.0538891
+    },
+    "url": "https://www.google.com/maps/place/Kawah+Gunung+Karang/data=!4m7!3m6!1s0x2e42247ce02e7025:0x363368ad5c109b3a!8m2!3d-6.2802481!4d106.0538891!16s%2Fg%2F11dxf0qsq9!19sChIJJXAu4HwkQi4ROpsQXK1oMzY?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipM5qDcokcekm3_DESWggmPJvwIqaP7OfhUN5RiT=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipM5qDcokcekm3_DESWggmPJvwIqaP7OfhUN5RiT=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipM5qDcokcekm3_DESWggmPJvwIqaP7OfhUN5RiT=w224-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Pantai Tanjung Kait",
+    "alamat": "Jl. Raya Tanjung Kait, Tj. Anom, Kec. Mauk",
+    "rating": "4.0",
+    "jumlah_review": "2.364",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.0123941,
+      "longitude": 106.5369247
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Tanjung+Kait/data=!4m7!3m6!1s0x2e41fdc1fe10c80d:0x7859fd3b8b8865e0!8m2!3d-6.0123941!4d106.5369247!16s%2Fg%2F11c32gtzgc!19sChIJDcgQ_sH9QS4R4GWIizv9WXg?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqrrEvSxrdZFKBiFGImhVmJbLSTZOMr1mQf94Z2Vb1BXDoRZnPL4kABjeMV9gQHUunpkyrpECnHHbDyddlP3HZ2VrfOrcrdPGVH6OZmDnWl3EAvise1BA5L6s4chxr0rR-ziX3M=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqrrEvSxrdZFKBiFGImhVmJbLSTZOMr1mQf94Z2Vb1BXDoRZnPL4kABjeMV9gQHUunpkyrpECnHHbDyddlP3HZ2VrfOrcrdPGVH6OZmDnWl3EAvise1BA5L6s4chxr0rR-ziX3M=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqrrEvSxrdZFKBiFGImhVmJbLSTZOMr1mQf94Z2Vb1BXDoRZnPL4kABjeMV9gQHUunpkyrpECnHHbDyddlP3HZ2VrfOrcrdPGVH6OZmDnWl3EAvise1BA5L6s4chxr0rR-ziX3M=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Istana Pasir Cilegon",
+    "alamat": "Lebakdenok, Kec. Citangkil",
+    "rating": "4.1",
+    "jumlah_review": "349",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.0378967,
+      "longitude": 106.0213196
+    },
+    "url": "https://www.google.com/maps/place/Istana+Pasir+Cilegon/data=!4m7!3m6!1s0x2e418f83e22d3beb:0x8f62de18f063d3dd!8m2!3d-6.0378967!4d106.0213196!16s%2Fg%2F11gj7k1nt9!19sChIJ6zst4oOPQS4R3dNj8BjeYo8?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no0HrtE9ESE6vZeYtV7GsEq2DQ9darNJanBYFUSrKlsQfk1SH_uECTTZhtTJYfJtMKyfK7L_VdKvXiGhhr0gcKg_CXzAFB6OK2po-Y_Y7F8iSDsdcUFvcAS703mOoc6sh8f4_Fz=w113-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no0HrtE9ESE6vZeYtV7GsEq2DQ9darNJanBYFUSrKlsQfk1SH_uECTTZhtTJYfJtMKyfK7L_VdKvXiGhhr0gcKg_CXzAFB6OK2po-Y_Y7F8iSDsdcUFvcAS703mOoc6sh8f4_Fz=w408-h307-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no0HrtE9ESE6vZeYtV7GsEq2DQ9darNJanBYFUSrKlsQfk1SH_uECTTZhtTJYfJtMKyfK7L_VdKvXiGhhr0gcKg_CXzAFB6OK2po-Y_Y7F8iSDsdcUFvcAS703mOoc6sh8f4_Fz=w394-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Gunung Pinang",
+    "alamat": "Pejaten, Kec. Kramatwatu",
+    "rating": "4.1",
+    "jumlah_review": "1.305",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.0573455,
+      "longitude": 106.1011519
+    },
+    "url": "https://www.google.com/maps/place/Gunung+Pinang/data=!4m7!3m6!1s0x2e418c67bb0e0e9f:0x790b1cf200e89979!8m2!3d-6.0573455!4d106.1011519!16s%2Fg%2F11c2p_gs59!19sChIJnw4Ou2eMQS4ReZnoAPIcC3k?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noiZQS6v46gRYAeq_eLdvflBINE7GrRhqBoYPFSNlT7_fngei8m0XuzWYVa7advN1bliWtZsYvsb5Fr_SQ6xZ2N7fDUXtFeCMIZ48cR3SfkH73RnF6mCNqUCdMcoFgPJLqYAC9t8A=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noiZQS6v46gRYAeq_eLdvflBINE7GrRhqBoYPFSNlT7_fngei8m0XuzWYVa7advN1bliWtZsYvsb5Fr_SQ6xZ2N7fDUXtFeCMIZ48cR3SfkH73RnF6mCNqUCdMcoFgPJLqYAC9t8A=w425-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noiZQS6v46gRYAeq_eLdvflBINE7GrRhqBoYPFSNlT7_fngei8m0XuzWYVa7advN1bliWtZsYvsb5Fr_SQ6xZ2N7fDUXtFeCMIZ48cR3SfkH73RnF6mCNqUCdMcoFgPJLqYAC9t8A=w528-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Benteng Surosowan",
+    "alamat": "Banten, Kec. Kasemen",
+    "rating": "4.5",
+    "jumlah_review": "1.916",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.0382005,
+      "longitude": 106.1557351
+    },
+    "url": "https://www.google.com/maps/place/Benteng+Surosowan/data=!4m7!3m6!1s0x2e418cd48e5b96f1:0x1f95f58a295f6b82!8m2!3d-6.0382005!4d106.1557351!16s%2Fg%2F11b7j4__2c!19sChIJ8ZZbjtSMQS4RgmtfKYr1lR8?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npy60xEsxhHgaHjZS_VgptOcIU1Hcvnl3WFTdoB6mboYClTtSQZo1s4XWmc39miZ33bPpyy_9SPYHRIz8p91p4TLVO8NC_Qkf2nrwnzszx5coWu5QCi5h8RHXY33RI3_8yTpl6x=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npy60xEsxhHgaHjZS_VgptOcIU1Hcvnl3WFTdoB6mboYClTtSQZo1s4XWmc39miZ33bPpyy_9SPYHRIz8p91p4TLVO8NC_Qkf2nrwnzszx5coWu5QCi5h8RHXY33RI3_8yTpl6x=w408-h305-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npy60xEsxhHgaHjZS_VgptOcIU1Hcvnl3WFTdoB6mboYClTtSQZo1s4XWmc39miZ33bPpyy_9SPYHRIz8p91p4TLVO8NC_Qkf2nrwnzszx5coWu5QCi5h8RHXY33RI3_8yTpl6x=w398-h298-k-no"
+    ],
+    "kategori": [
+      "benteng"
+    ]
+  },
+  {
+    "nama": "Curug Cigumawang",
+    "alamat": "Bugel, Kec. Padarincang",
+    "rating": "4.3",
+    "jumlah_review": "530",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.2334938,
+      "longitude": 105.9506507
+    },
+    "url": "https://www.google.com/maps/place/Curug+Cigumawang/data=!4m7!3m6!1s0x2e4228f29198324d:0x37770d35d4e64414!8m2!3d-6.2334938!4d105.9506507!16s%2Fg%2F11cr_sy26r!19sChIJTTKYkfIoQi4RFETm1DUNdzc?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrYXCbCRv3B-UTGHIQ4dScyy9kA2s1iEmT14vtgyO5AjdTKY4mqrQh5W7vsze2Z7MGnocQdPObl0uG1A42aVaG0v5801Mgv5v2lvyvYjJIjeFcuuXRVbSg3kCFZbL8to32fkQe9tg=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrYXCbCRv3B-UTGHIQ4dScyy9kA2s1iEmT14vtgyO5AjdTKY4mqrQh5W7vsze2Z7MGnocQdPObl0uG1A42aVaG0v5801Mgv5v2lvyvYjJIjeFcuuXRVbSg3kCFZbL8to32fkQe9tg=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrYXCbCRv3B-UTGHIQ4dScyy9kA2s1iEmT14vtgyO5AjdTKY4mqrQh5W7vsze2Z7MGnocQdPObl0uG1A42aVaG0v5801Mgv5v2lvyvYjJIjeFcuuXRVbSg3kCFZbL8to32fkQe9tg=w397-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Negeri Di Atas Awan Citorek",
+    "alamat": "Cipanas - Wr. Banten, Citorek Kidul, Kec. Cibeber",
+    "rating": "4.7",
+    "jumlah_review": "3.370",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.7420294,
+      "longitude": 106.3320079
+    },
+    "url": "https://www.google.com/maps/place/Negeri+Di+Atas+Awan+Citorek/data=!4m7!3m6!1s0x2e4263a09d711fdf:0xe093ba9fbabb425d!8m2!3d-6.7420294!4d106.3320079!16s%2Fg%2F11hdy42nfb!19sChIJ3x9xnaBjQi4RXUK7up-6k-A?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipO_I4YPVR7j1AXPy1cH3WB-cuppWo6fZ1ApmcD8=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipO_I4YPVR7j1AXPy1cH3WB-cuppWo6fZ1ApmcD8=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipO_I4YPVR7j1AXPy1cH3WB-cuppWo6fZ1ApmcD8=w447-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Wisata Gunung Karang",
+    "alamat": "Pasirpeuteuy, Kec. Cadasari",
+    "rating": "4.5",
+    "jumlah_review": "167",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.2651323,
+      "longitude": 106.0777707
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Gunung+Karang/data=!4m7!3m6!1s0x2e4223821208298f:0xc79482ec2317283b!8m2!3d-6.2651323!4d106.0777707!16s%2Fg%2F11f76750mp!19sChIJjykIEoIjQi4ROygXI-yClMc?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqXke-azrJvWgW7b47NlGdWSsbQL8NDHtgGDGbsqnt53YOH3jazwlgnuuaAMpieE-R2JeZ4pnrLQ52JeiWp9BvciIpMsaWSqF5hcLtX1pmKb63JnZGioZ2LB698FYf3yYDVGXlX=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqXke-azrJvWgW7b47NlGdWSsbQL8NDHtgGDGbsqnt53YOH3jazwlgnuuaAMpieE-R2JeZ4pnrLQ52JeiWp9BvciIpMsaWSqF5hcLtX1pmKb63JnZGioZ2LB698FYf3yYDVGXlX=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqXke-azrJvWgW7b47NlGdWSsbQL8NDHtgGDGbsqnt53YOH3jazwlgnuuaAMpieE-R2JeZ4pnrLQ52JeiWp9BvciIpMsaWSqF5hcLtX1pmKb63JnZGioZ2LB698FYf3yYDVGXlX=w397-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Bukit Curahem Shorea Forest",
+    "alamat": "Jl. Raya Gn. Kencana, Sukanegara, Kec. Gunungkencana",
+    "rating": "4.3",
+    "jumlah_review": "146",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.5484165,
+      "longitude": 106.0671065
+    },
+    "url": "https://www.google.com/maps/place/Bukit+Curahem+Shorea+Forest/data=!4m7!3m6!1s0x2e4241622a3e5151:0x49a05ba106d9b91e!8m2!3d-6.5484165!4d106.0671065!16s%2Fg%2F11h9535c4q!19sChIJUVE-KmJBQi4RHrnZBqFboEk?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nokveCYaSwBQ0Q9PHIeYqdByt1UL_Jo3PSPm5JA2Gj3F9Ezl1e76d-9KDC-9DOrrWK2bzxsp6FKE3HDNGRjFVaKe7JBeKMkHpFeRB_BINIy6IN1jnT-qIaOdPm5DXQKHOuTteM92A=w118-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nokveCYaSwBQ0Q9PHIeYqdByt1UL_Jo3PSPm5JA2Gj3F9Ezl1e76d-9KDC-9DOrrWK2bzxsp6FKE3HDNGRjFVaKe7JBeKMkHpFeRB_BINIy6IN1jnT-qIaOdPm5DXQKHOuTteM92A=w408-h295-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nokveCYaSwBQ0Q9PHIeYqdByt1UL_Jo3PSPm5JA2Gj3F9Ezl1e76d-9KDC-9DOrrWK2bzxsp6FKE3HDNGRjFVaKe7JBeKMkHpFeRB_BINIy6IN1jnT-qIaOdPm5DXQKHOuTteM92A=w411-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Bendung Pamarayan",
+    "alamat": "Panyabrangan, Kec. Cikeusal",
+    "rating": "4.3",
+    "jumlah_review": "2.179",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.2601594,
+      "longitude": 106.2843083
+    },
+    "url": "https://www.google.com/maps/place/Bendung+Pamarayan/data=!4m7!3m6!1s0x2e421bbc6360b543:0x5f898a9ea2f23fef!8m2!3d-6.2601594!4d106.2843083!16s%2Fg%2F11cmsd_kws!19sChIJQ7VgY7wbQi4R7z_yop6KiV8?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np5-hrfQe7zyUiqcQldxC7GJ968FzZ-Q0D67ufW498lTuO2ydby7JS8x2twjn9x2M2ySoxXcRvT7mEnCFITwwoAWpV3b-RHlwY77z2xxvb9GMWsimF4VBny5xLBOtcm1ktpX4tf=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np5-hrfQe7zyUiqcQldxC7GJ968FzZ-Q0D67ufW498lTuO2ydby7JS8x2twjn9x2M2ySoxXcRvT7mEnCFITwwoAWpV3b-RHlwY77z2xxvb9GMWsimF4VBny5xLBOtcm1ktpX4tf=w425-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np5-hrfQe7zyUiqcQldxC7GJ968FzZ-Q0D67ufW498lTuO2ydby7JS8x2twjn9x2M2ySoxXcRvT7mEnCFITwwoAWpV3b-RHlwY77z2xxvb9GMWsimF4VBny5xLBOtcm1ktpX4tf=w528-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Makam Ki Mas Jong Dan Agus Ju Sempu Banten Girang",
+    "alamat": "Cipare, Serang, Kec. Serang",
+    "rating": "4.6",
+    "jumlah_review": "542",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.1312548,
+      "longitude": 106.1588666
+    },
+    "url": "https://www.google.com/maps/place/Makam+Ki+Mas+Jong+Dan+Agus+Ju+Sempu+Banten+Girang/data=!4m7!3m6!1s0x2e41f534a61a5843:0x6f7fafeef8633746!8m2!3d-6.1312548!4d106.1588666!16s%2Fg%2F121_5138!19sChIJQ1gapjT1QS4RRjdj-O6vf28?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noP8_AmhmEdS8kbtC5NIsPprZIY0feZ7gi3gNN_CW4pEbKPHKFd5W8SuCiIey3zJuReIiDylr57PpvpLOpT7AkieZ9xj1JFuAxnqrVLJlI9bHJqrXM1PhBdSxauZpUXtS-oPQ=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noP8_AmhmEdS8kbtC5NIsPprZIY0feZ7gi3gNN_CW4pEbKPHKFd5W8SuCiIey3zJuReIiDylr57PpvpLOpT7AkieZ9xj1JFuAxnqrVLJlI9bHJqrXM1PhBdSxauZpUXtS-oPQ=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noP8_AmhmEdS8kbtC5NIsPprZIY0feZ7gi3gNN_CW4pEbKPHKFd5W8SuCiIey3zJuReIiDylr57PpvpLOpT7AkieZ9xj1JFuAxnqrVLJlI9bHJqrXM1PhBdSxauZpUXtS-oPQ=w529-h298-k-no"
+    ],
+    "kategori": [
+      "makam"
+    ]
+  },
+  {
+    "nama": "Taman Hutan Raya (Tahura) Banten",
+    "alamat": "Sukarame, Kec. Carita",
+    "rating": "4.3",
+    "jumlah_review": "293",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.2921387,
+      "longitude": 105.841278
+    },
+    "url": "https://www.google.com/maps/place/Taman+Hutan+Raya+%28Tahura%29+Banten/data=!4m7!3m6!1s0x2e422db2512dd547:0xbb7f2991871ca400!8m2!3d-6.2921387!4d105.841278!16s%2Fg%2F11g5_bd91g!19sChIJR9UtUbItQi4RAKQch5Epf7s?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrMWVMrGR5rsrlqpiHJsnfKhW5vcc9xFAAnhZ5drx-q04ohUNejmgBbvN_5wvGH4Oc2bZi3GuNJ4xeRbycvnrh_AsH0dCQ-vDrI5-KKjYJSgFx-dDGL44Aj0zAR4HBRwNLefdCa=w86-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrMWVMrGR5rsrlqpiHJsnfKhW5vcc9xFAAnhZ5drx-q04ohUNejmgBbvN_5wvGH4Oc2bZi3GuNJ4xeRbycvnrh_AsH0dCQ-vDrI5-KKjYJSgFx-dDGL44Aj0zAR4HBRwNLefdCa=w408-h408-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrMWVMrGR5rsrlqpiHJsnfKhW5vcc9xFAAnhZ5drx-q04ohUNejmgBbvN_5wvGH4Oc2bZi3GuNJ4xeRbycvnrh_AsH0dCQ-vDrI5-KKjYJSgFx-dDGL44Aj0zAR4HBRwNLefdCa=w298-h298-k-no"
+    ],
+    "kategori": [
+      "taman",
+      "taman_hutan"
+    ]
+  },
+  {
+    "nama": "OBJEK WISATA CURUG SAWER CIKEMBANG",
+    "alamat": "Unnamed Road, Bandulu, Kec. Anyar",
+    "rating": "4.4",
+    "jumlah_review": "15",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.113413,
+      "longitude": 105.905868
+    },
+    "url": "https://www.google.com/maps/place/OBJEK+WISATA+CURUG+SAWER+CIKEMBANG/data=!4m7!3m6!1s0x2e4187c25ec5426b:0xbdaa82867ac79259!8m2!3d-6.113413!4d105.905868!16s%2Fg%2F11mx1yqyl5!19sChIJa0LFXsKHQS4RWZLHeoaCqr0?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqmej74zDpyO1KapPvvkdIajogY3Aq_B4PKjg4d2fj1V_jmr_lFdqNeLtr7mWmdWl0ErxiaXhA8GXNf95IsqPHUF7iEAoROtRl_ZSOTB58SQBQZanZJFxKOIZ2Vyp8H5GqJvb5NJw=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqmej74zDpyO1KapPvvkdIajogY3Aq_B4PKjg4d2fj1V_jmr_lFdqNeLtr7mWmdWl0ErxiaXhA8GXNf95IsqPHUF7iEAoROtRl_ZSOTB58SQBQZanZJFxKOIZ2Vyp8H5GqJvb5NJw=w408-h545-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqmej74zDpyO1KapPvvkdIajogY3Aq_B4PKjg4d2fj1V_jmr_lFdqNeLtr7mWmdWl0ErxiaXhA8GXNf95IsqPHUF7iEAoROtRl_ZSOTB58SQBQZanZJFxKOIZ2Vyp8H5GqJvb5NJw=w224-h299-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Benteng Speelwijk",
+    "alamat": "Kampung Pamarican, Banten, Kec. Kasemen",
+    "rating": "4.6",
+    "jumlah_review": "2.149",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.0312364,
+      "longitude": 106.1506923
+    },
+    "url": "https://www.google.com/maps/place/Benteng+Speelwijk/data=!4m7!3m6!1s0x2e41f2d7aaaaaaab:0x5a81cda382ccf67f!8m2!3d-6.0312364!4d106.1506923!16s%2Fg%2F1pzrfjkph!19sChIJq6qqqtfyQS4Rf_bMgqPNgVo?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npK69M47H2D63oc12n595rr_u20OBOFo78pNsxorrPEYQgt-cmT4NL-52nZnxL7WwXX9Rz3AQ5C65-JmU9vzszlBmE0i0MHRm9Rzb1aNJsCMNRunzZ7rKtmT8YE9R-3IOdmCqGYMg=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npK69M47H2D63oc12n595rr_u20OBOFo78pNsxorrPEYQgt-cmT4NL-52nZnxL7WwXX9Rz3AQ5C65-JmU9vzszlBmE0i0MHRm9Rzb1aNJsCMNRunzZ7rKtmT8YE9R-3IOdmCqGYMg=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npK69M47H2D63oc12n595rr_u20OBOFo78pNsxorrPEYQgt-cmT4NL-52nZnxL7WwXX9Rz3AQ5C65-JmU9vzszlBmE0i0MHRm9Rzb1aNJsCMNRunzZ7rKtmT8YE9R-3IOdmCqGYMg=w397-h298-k-no"
+    ],
+    "kategori": [
+      "benteng"
+    ]
+  },
+  {
+    "nama": "Pantai Sambolo 1 Anyer Serang Banten",
+    "alamat": "Jl. Raya Anyer-Sirih, Bandulu, Kec. Anyar",
+    "rating": "4.3",
+    "jumlah_review": "2.272",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.0986643,
+      "longitude": 105.8820584
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Sambolo+1+Anyer+Serang+Banten/data=!4m7!3m6!1s0x2e4187cd74737d09:0x1849584366f5e8d1!8m2!3d-6.0986643!4d105.8820584!16s%2Fg%2F11gh9q8rz5!19sChIJCX1zdM2HQS4R0ej1ZkNYSRg?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipMOKA4eG0goG2vvxxC5i5EAeP7Nue0chCtIsK9-=w113-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipMOKA4eG0goG2vvxxC5i5EAeP7Nue0chCtIsK9-=w408-h308-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipMOKA4eG0goG2vvxxC5i5EAeP7Nue0chCtIsK9-=w393-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Taman Wisata MBS",
+    "alamat": "Jl. Kemanisan, Kemanisan, Kec. Curug",
+    "rating": "4.6",
+    "jumlah_review": "3.668",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.1927155,
+      "longitude": 106.1529054
+    },
+    "url": "https://www.google.com/maps/place/Taman+Wisata+MBS/data=!4m7!3m6!1s0x2e4221d88fa4e4ad:0x4c7f4c6119d26087!8m2!3d-6.1927155!4d106.1529054!16s%2Fg%2F11l3s75gwb!19sChIJreSkj9ghQi4Rh2DSGWFMf0w?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipNzh0MQy4w1V9n5cBZUlsK-xj6AUFYfuIbs6tUn=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNzh0MQy4w1V9n5cBZUlsK-xj6AUFYfuIbs6tUn=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNzh0MQy4w1V9n5cBZUlsK-xj6AUFYfuIbs6tUn=w529-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Pantai Paku",
+    "alamat": "Paku, Paku Raya Kuala Behe, Kec. Anyar",
+    "rating": "4.2",
+    "jumlah_review": "743",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.0478214,
+      "longitude": 105.921592
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Paku/data=!4m7!3m6!1s0x2e4184533e70a145:0x1df6d50529a0ba31!8m2!3d-6.0478214!4d105.921592!16s%2Fg%2F11c3v6yq3m!19sChIJRaFwPlOEQS4RMbqgKQXV9h0?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZGW6Yl9nlUIuX2ZA1CeI1gCQHC0aTKfySVDTPm0a2uhmP-t2u8AszRjGU5XqECTNyaaECuTY1kdDqjh2rvxGqtNbuvSQEpv5FIfDcJK2QnY-hsrtHUhNg_jnp2PvctIPiZo-D=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZGW6Yl9nlUIuX2ZA1CeI1gCQHC0aTKfySVDTPm0a2uhmP-t2u8AszRjGU5XqECTNyaaECuTY1kdDqjh2rvxGqtNbuvSQEpv5FIfDcJK2QnY-hsrtHUhNg_jnp2PvctIPiZo-D=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrJFttSp9D0aiaNASc4B14ky9tIaYvxVncVc_zdlrZ3LN0eRY7u8JgS2eGnLb_i_dxmxO5SJ9Tw-4bScvJCs9BPSCsinXl5joUBtehAiQZJ3QRnDFMdkHYsgqO_22f5w9gyU4Rz=w224-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pantai Gopek Karangantu",
+    "alamat": "Jl. Pelelangan Ikan Karangantu, Banten, Kec. Kasemen",
+    "rating": "4.4",
+    "jumlah_review": "3.845",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.0255765,
+      "longitude": 106.1655155
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Gopek+Karangantu/data=!4m7!3m6!1s0x2e41f2d1a26b88b5:0xcadf06c747393b!8m2!3d-6.0255765!4d106.1655155!16s%2Fg%2F11ddyk1mv6!19sChIJtYhrotHyQS4ROzlHxwbfygA?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nooS2wdm-MwU_8KuXf50VE1A4lb1AS0LzEJeAwMew-YhQLO-Xinus0ZyWxkSAypu6M8dF7j1FsSf4wIUc4sLhTtU4Y0YEsHPczB_qeG9EwVOxe0BD3MNI_d5PdEClZi1H2ubQvKkA=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nooS2wdm-MwU_8KuXf50VE1A4lb1AS0LzEJeAwMew-YhQLO-Xinus0ZyWxkSAypu6M8dF7j1FsSf4wIUc4sLhTtU4Y0YEsHPczB_qeG9EwVOxe0BD3MNI_d5PdEClZi1H2ubQvKkA=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nooS2wdm-MwU_8KuXf50VE1A4lb1AS0LzEJeAwMew-YhQLO-Xinus0ZyWxkSAypu6M8dF7j1FsSf4wIUc4sLhTtU4Y0YEsHPczB_qeG9EwVOxe0BD3MNI_d5PdEClZi1H2ubQvKkA=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Danau Tasikardi",
+    "alamat": "Jl. Banten Lama, Margasana, Kec. Kramatwatu",
+    "rating": "4.0",
+    "jumlah_review": "1.000",
+    "deskripsi": "Danau Tasikardi adalah suatu danau buatan di Desa Margasana, Kecamatan Kramatwatu, Kota Serang, Provinsi Banten. Letaknya sekitar 10 km dari pusat kota Serang. Namanya berasal dari bahasa Sunda Kuno yang berarti \"danau buatan\". Luasnya 5 hektare dan bagian dasarnya dilapisi ubin batu bata.\nDanau Tasikardi dibuat pada masa pemerintahan Panembahan Maulana Yusuf (bertahta 1570-1580 M), sultan Banten kedua dan merupakan tempat peristirahatan sultan dan keluarganya. Peranannya ganda, yaitu menampung ...",
+    "koordinat": {
+      "latitude": -6.0526576,
+      "longitude": 106.1421943
+    },
+    "url": "https://www.google.com/maps/place/Danau+Tasikardi/data=!4m7!3m6!1s0x2e418c8d22ad4d63:0xe5977e414f52b412!8m2!3d-6.0526576!4d106.1421943!16s%2Fg%2F11cjh_w5nq!19sChIJY02tIo2MQS4RErRST0F-l-U?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npFJaNrfVtfNQZ9MIGaO5NhBpSbcNOcf_fLiXsCnXas3DYniAxbTWXeee6VAzLKF4xFSv790jpV7dmxtLd_JC7fZ5JjILhVCrsIuM4Etoq1KGEAp0QtfqH2EQNF4MqyqulWLlV3=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npFJaNrfVtfNQZ9MIGaO5NhBpSbcNOcf_fLiXsCnXas3DYniAxbTWXeee6VAzLKF4xFSv790jpV7dmxtLd_JC7fZ5JjILhVCrsIuM4Etoq1KGEAp0QtfqH2EQNF4MqyqulWLlV3=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npFJaNrfVtfNQZ9MIGaO5NhBpSbcNOcf_fLiXsCnXas3DYniAxbTWXeee6VAzLKF4xFSv790jpV7dmxtLd_JC7fZ5JjILhVCrsIuM4Etoq1KGEAp0QtfqH2EQNF4MqyqulWLlV3=w397-h298-k-no"
+    ],
+    "kategori": [
+      "danau"
+    ]
+  },
+  {
+    "nama": "Taman Wisata Batu Gede Sayar",
+    "alamat": "Sayar, Kec. Taktakan",
+    "rating": "4.4",
+    "jumlah_review": "369",
+    "deskripsi": "Taman Wisata Batu Gede Sayar merupakan objek wisata bukit yang terletak di Kampung Batu Gede, Kelurahan Sayar, Kecamatan Taktakan, Kota Serang. Taman ini berada di ketinggian sekitar 150 mdpl dan berjarak lebih kurang 7 km dari pusat kota. Bukit batu yang berada di sana dijadikan objek wisata oleh masyarakat sekitar karena memiliki daya tarik berupa singkapan batuan alami dan panorama perbukitan hijau.",
+    "koordinat": {
+      "latitude": -6.1440021,
+      "longitude": 106.1040064
+    },
+    "url": "https://www.google.com/maps/place/Taman+Wisata+Batu+Gede+Sayar/data=!4m7!3m6!1s0x2e418a647b89b7b1:0xe0101172d2968e85!8m2!3d-6.1440021!4d106.1040064!16s%2Fg%2F11g6j6kr87!19sChIJsbeJe2SKQS4RhY6W0nIREOA?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npeGGm35pgq16tu9eknf8nEBswJwE1O0wHsdiWWmDOYHusMndx51aJebPpHLFnlhItAKFPgPgNO6sc9r81NFN1EDaqXWClaQLD5h34AJ3t5zq99kpYfpURLg_bm-KFmxGNFb_eydw=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npeGGm35pgq16tu9eknf8nEBswJwE1O0wHsdiWWmDOYHusMndx51aJebPpHLFnlhItAKFPgPgNO6sc9r81NFN1EDaqXWClaQLD5h34AJ3t5zq99kpYfpURLg_bm-KFmxGNFb_eydw=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npeGGm35pgq16tu9eknf8nEBswJwE1O0wHsdiWWmDOYHusMndx51aJebPpHLFnlhItAKFPgPgNO6sc9r81NFN1EDaqXWClaQLD5h34AJ3t5zq99kpYfpURLg_bm-KFmxGNFb_eydw=w397-h298-k-no"
+    ],
+    "kategori": [
+      "gunung",
+      "taman",
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Pulau Cangkir",
+    "alamat": "Jl. Kronjo Tangerang, Kronjo, Kec. Kronjo",
+    "rating": "4.1",
+    "jumlah_review": "1.170",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.0314381,
+      "longitude": 106.4410407
+    },
+    "url": "https://www.google.com/maps/place/Pulau+Cangkir/data=!4m7!3m6!1s0x2e41fc7f4e6e1c0d:0x7565c334d1bd62a5!8m2!3d-6.0314381!4d106.4410407!16s%2Fg%2F11ggvvsdkv!19sChIJDRxuTn_8QS4RpWK90TTDZXU?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np4zbglDVWP6c4jfKVKg-AzW-bIBFStlh9AqfQZGr6ueaXorTJiZjMh24gyOgs624NnAtGR4tPV8Yl2D0AAeJ6uYfbVcCFgqmVvrEbUlVqmjdMjh3V1RBdaZa4sBX50nijNtsxV=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np4zbglDVWP6c4jfKVKg-AzW-bIBFStlh9AqfQZGr6ueaXorTJiZjMh24gyOgs624NnAtGR4tPV8Yl2D0AAeJ6uYfbVcCFgqmVvrEbUlVqmjdMjh3V1RBdaZa4sBX50nijNtsxV=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np4zbglDVWP6c4jfKVKg-AzW-bIBFStlh9AqfQZGr6ueaXorTJiZjMh24gyOgs624NnAtGR4tPV8Yl2D0AAeJ6uYfbVcCFgqmVvrEbUlVqmjdMjh3V1RBdaZa4sBX50nijNtsxV=w224-h298-k-no"
+    ],
+    "kategori": [
+      "pulau"
+    ]
+  },
+  {
+    "nama": "Air Panas Alam Batu Kancah Wisata Terapi Kesehatan Alami",
+    "alamat": "Cipanas, Kec. Cipanas",
+    "rating": "4.6",
+    "jumlah_review": "154",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.5487473,
+      "longitude": 106.3987275
+    },
+    "url": "https://www.google.com/maps/place/Air+Panas+Alam+Batu+Kancah+Wisata+Terapi+Kesehatan+Alami/data=!4m7!3m6!1s0x2e427320a0f9211d:0xf25358ee8607b1e4!8m2!3d-6.5487473!4d106.3987275!16s%2Fg%2F11j8zszwx8!19sChIJHSH5oCBzQi4R5LEHhu5YU_I?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nprBwlnz05G4LJgzeGnt9JWh7y90aE5MqOnXHeSKdFAw6yCtLYZnMss8TMjDpl0dgyPWglu_V3nWDTIlEty1m5Bg4cyjYssq8fu40QLFCHMGGs1Q3bjcw8VqjE7RJwqnoRAQR0=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nprBwlnz05G4LJgzeGnt9JWh7y90aE5MqOnXHeSKdFAw6yCtLYZnMss8TMjDpl0dgyPWglu_V3nWDTIlEty1m5Bg4cyjYssq8fu40QLFCHMGGs1Q3bjcw8VqjE7RJwqnoRAQR0=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nprBwlnz05G4LJgzeGnt9JWh7y90aE5MqOnXHeSKdFAw6yCtLYZnMss8TMjDpl0dgyPWglu_V3nWDTIlEty1m5Bg4cyjYssq8fu40QLFCHMGGs1Q3bjcw8VqjE7RJwqnoRAQR0=w529-h298-k-no"
+    ],
+    "kategori": [
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Wisata anyer",
+    "alamat": "Karang Suraga, Kec. Anyar, Banten",
+    "rating": "4.3",
+    "jumlah_review": "13",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.1626893,
+      "longitude": 105.8536737
+    },
+    "url": "https://www.google.com/maps/place/Wisata+anyer/data=!4m7!3m6!1s0x2e418117115f8e6f:0x8b10973cbb87d736!8m2!3d-6.1626893!4d105.8536737!16s%2Fg%2F11shfcmc2n!19sChIJb45fEReBQS4RNteHuzyXEIs?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqcsJF2TAbBustHXu0SMM0YqOdEm11_q4fyKRaAd7o8O1G0nRO1V8CjrtBUfOE_gLlCY-RH9A-maHt2xDPoFHhe5iRnFVQpXNp7e7rFuvFIk5IM-PqzfOerODEN-e136ur-oJQ7=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqcsJF2TAbBustHXu0SMM0YqOdEm11_q4fyKRaAd7o8O1G0nRO1V8CjrtBUfOE_gLlCY-RH9A-maHt2xDPoFHhe5iRnFVQpXNp7e7rFuvFIk5IM-PqzfOerODEN-e136ur-oJQ7=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqcsJF2TAbBustHXu0SMM0YqOdEm11_q4fyKRaAd7o8O1G0nRO1V8CjrtBUfOE_gLlCY-RH9A-maHt2xDPoFHhe5iRnFVQpXNp7e7rFuvFIk5IM-PqzfOerODEN-e136ur-oJQ7=w224-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Hutan Kayu Putih Kragilan",
+    "alamat": "Tegalmaja, Kec. Kragilan",
+    "rating": "3.4",
+    "jumlah_review": "103",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.1305384,
+      "longitude": 106.2774964
+    },
+    "url": "https://www.google.com/maps/place/Hutan+Kayu+Putih+Kragilan/data=!4m7!3m6!1s0x2e41f64046220265:0xe0bf82ef0ed21350!8m2!3d-6.1305384!4d106.2774964!16s%2Fg%2F11c6rt3fpk!19sChIJZQIiRkD2QS4RUBPSDu-Cv-A?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq-sh-hIuNFxr-4ao-fMB-ZdRqH3OcVafPBaA_eUxQ2ueklpd1rsZXHVAt_AenhiPQ978aSyYi3dXeJfRdiy3ga-mvdHy2m2Nv1ygkGip5Vs1l3n7pVDqxkTwIYt5QgLjVcCP4=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq-sh-hIuNFxr-4ao-fMB-ZdRqH3OcVafPBaA_eUxQ2ueklpd1rsZXHVAt_AenhiPQ978aSyYi3dXeJfRdiy3ga-mvdHy2m2Nv1ygkGip5Vs1l3n7pVDqxkTwIYt5QgLjVcCP4=w408-h271-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq-sh-hIuNFxr-4ao-fMB-ZdRqH3OcVafPBaA_eUxQ2ueklpd1rsZXHVAt_AenhiPQ978aSyYi3dXeJfRdiy3ga-mvdHy2m2Nv1ygkGip5Vs1l3n7pVDqxkTwIYt5QgLjVcCP4=w447-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Curug Leuwi Gumi",
+    "alamat": "Kp. Bungur, Cibojong, Kec. Padarincang, Banten",
+    "rating": "4.5",
+    "jumlah_review": "44",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.243463,
+      "longitude": 105.9011684
+    },
+    "url": "https://www.google.com/maps/place/Curug+Leuwi+Gumi/data=!4m7!3m6!1s0x2e4229f1e9e9f52f:0x642b1862c91835e3!8m2!3d-6.243463!4d105.9011684!16s%2Fg%2F11p08r8km2!19sChIJL_Xp6fEpQi4R4zUYyWIYK2Q?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrG-0a6Z4aFmOHI9rsYVej6ohox6hjI6w7z02N8w8zxAOBws7__9o-nqhNZE990ysMhpErcpQjArlvM6x43vqsQnvJa8oZ7SFnpmvobtX2YaQa_aFjJbaVLfxFBxcn3Iom_744W=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrG-0a6Z4aFmOHI9rsYVej6ohox6hjI6w7z02N8w8zxAOBws7__9o-nqhNZE990ysMhpErcpQjArlvM6x43vqsQnvJa8oZ7SFnpmvobtX2YaQa_aFjJbaVLfxFBxcn3Iom_744W=w425-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrG-0a6Z4aFmOHI9rsYVej6ohox6hjI6w7z02N8w8zxAOBws7__9o-nqhNZE990ysMhpErcpQjArlvM6x43vqsQnvJa8oZ7SFnpmvobtX2YaQa_aFjJbaVLfxFBxcn3Iom_744W=w528-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Pantai Kelapa Warna - Panyaungan",
+    "alamat": "Jl. Nasional III",
+    "rating": "4.5",
+    "jumlah_review": "872",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -6.902486,
+      "longitude": 106.1482488
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Kelapa+Warna+-+Panyaungan/data=!4m7!3m6!1s0x2e42f334e5284ca7:0xfdeae9e006798feb!8m2!3d-6.902486!4d106.1482488!16s%2Fg%2F11hybw31j7!19sChIJp0wo5TTzQi4R6495BuDp6v0?authuser=0&hl=id&rclk=1",
+    "provinsi": "banten",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noXPLvGRE1KO3dKOrZFsujiw95ygCXjrpSfcyOgCLb55SYVBRTaR7868YNSwbMX5ubn_r0KQIiW_ltfHDyL59z8fdVbRN6HVaB9QNHhqmxGhOW1GGkQiTfWULDBvdJz62hblIBT=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noXPLvGRE1KO3dKOrZFsujiw95ygCXjrpSfcyOgCLb55SYVBRTaR7868YNSwbMX5ubn_r0KQIiW_ltfHDyL59z8fdVbRN6HVaB9QNHhqmxGhOW1GGkQiTfWULDBvdJz62hblIBT=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noXPLvGRE1KO3dKOrZFsujiw95ygCXjrpSfcyOgCLb55SYVBRTaR7868YNSwbMX5ubn_r0KQIiW_ltfHDyL59z8fdVbRN6HVaB9QNHhqmxGhOW1GGkQiTfWULDBvdJz62hblIBT=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  }
+]
