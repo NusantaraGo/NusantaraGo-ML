@@ -1,0 +1,738 @@
+[
+  {
+    "nama": "Wisata Alam Lembah Tottong",
+    "alamat": "Kunyi, Kec. Anreapi, Sulawesi Barat",
+    "rating": "4.3",
+    "jumlah_review": "13",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.3710114,
+      "longitude": 119.3743854
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Alam+Lembah+Tottong/data=!4m7!3m6!1s0x2d94870043d41ff9:0x47b9941fd9a9d91!8m2!3d-3.3710114!4d119.3743854!16s%2Fg%2F11vyqnbk_0!19sChIJ-R_UQwCHlC0RkZ2a_UGZewQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npL-anh7tGlEucQCpXKp9GX2ufYuzKUGCr_d9gesSRuVcWeWOuyuzcVRjrR6zLj6664FF6YvyYaffhF5uGjrEsOCSTRrMNE5YjlmlM4pw-Qtn8B9AaR5jJ4nrsb3OfStdKA-0i5xw=w408-h307-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npL-anh7tGlEucQCpXKp9GX2ufYuzKUGCr_d9gesSRuVcWeWOuyuzcVRjrR6zLj6664FF6YvyYaffhF5uGjrEsOCSTRrMNE5YjlmlM4pw-Qtn8B9AaR5jJ4nrsb3OfStdKA-0i5xw=w396-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrwOlM1vW87uqbodecukHw6wB36X6q8KLwFcn8LGlUMukJYGOdPlTm36BRY-RLcu9AOEUgWLKbUrr_niM2-Dq_VQaMsPv5r_vgOXiOUm_y8AaXWHixbfFe64AJVL-N72QrFFG1CZpJHSKlr=w224-h398-k-no"
+    ],
+    "kategori": [
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "BUKIT ANUGERAH BULO",
+    "alamat": "Bulo, Kec. Bulo",
+    "rating": "4.9",
+    "jumlah_review": "14",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.2171625,
+      "longitude": 119.1693087
+    },
+    "url": "https://www.google.com/maps/place/BUKIT+ANUGERAH+BULO/data=!4m7!3m6!1s0x2d9363ddf9bd1b85:0x72f3a8bf9bfa13ec!8m2!3d-3.2171625!4d119.1693087!16s%2Fg%2F11lgq9zl9q!19sChIJhRu9-d1jky0R7BP6m7-o83I?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npF5WmENIrqSDq7vIMvj6mXxLsvVVaO5IZ_PRL5N9DI5yiCdItPLjjCX7hiRghFgE3G7pwD6aqP0Oth4_sbBTUaojkifDlLtl6hjqlzr2lQMs5E0i0POH3uigabm23g-HY5rAnELw=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npF5WmENIrqSDq7vIMvj6mXxLsvVVaO5IZ_PRL5N9DI5yiCdItPLjjCX7hiRghFgE3G7pwD6aqP0Oth4_sbBTUaojkifDlLtl6hjqlzr2lQMs5E0i0POH3uigabm23g-HY5rAnELw=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npF5WmENIrqSDq7vIMvj6mXxLsvVVaO5IZ_PRL5N9DI5yiCdItPLjjCX7hiRghFgE3G7pwD6aqP0Oth4_sbBTUaojkifDlLtl6hjqlzr2lQMs5E0i0POH3uigabm23g-HY5rAnELw=w397-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Pantai Wisata Kambunong",
+    "alamat": "Kambunong, Kec. Karossa",
+    "rating": "4.6",
+    "jumlah_review": "10",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -1.9557092,
+      "longitude": 119.3136359
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Wisata+Kambunong/data=!4m7!3m6!1s0x2d8d714a9346b563:0x25729707a4e766b8!8m2!3d-1.9557092!4d119.3136359!16s%2Fg%2F11txphc9w5!19sChIJY7VGk0pxjS0RuGbnpAeXciU?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq5EnSx5-RihWeu1Pa_vttebaQyI7BR1xwJ-pvsBvbuJ6dgmc9sJBkSXbI8sIQPndpGW0oCsBxskS6QEyuYsn9o0_tar_KUSBdwHilD1H3XXeUNJ6BqBGd4M3ilxilE9yh838MU7g=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq5EnSx5-RihWeu1Pa_vttebaQyI7BR1xwJ-pvsBvbuJ6dgmc9sJBkSXbI8sIQPndpGW0oCsBxskS6QEyuYsn9o0_tar_KUSBdwHilD1H3XXeUNJ6BqBGd4M3ilxilE9yh838MU7g=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq5EnSx5-RihWeu1Pa_vttebaQyI7BR1xwJ-pvsBvbuJ6dgmc9sJBkSXbI8sIQPndpGW0oCsBxskS6QEyuYsn9o0_tar_KUSBdwHilD1H3XXeUNJ6BqBGd4M3ilxilE9yh838MU7g=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pantai Barane Majene",
+    "alamat": "Baurung, Kec. Banggae Tim., Sulawesi Barat",
+    "rating": "4.0",
+    "jumlah_review": "307",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.546272,
+      "longitude": 118.996506
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Barane+Majene/data=!4m7!3m6!1s0x2d94bf75ac3b9aa5:0x5260bfccd7cd02cc!8m2!3d-3.546272!4d118.996506!16s%2Fg%2F11b6p0691k!19sChIJpZo7rHW_lC0RzALN18y_YFI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrzYvwzYk6BSdl73KwOY7iy3j9aqvK7ryRDaB1hvC9TIbKCOTECzYn1PxEHt2nOPwzw-6pYeV7ab68P8QAoe5v6TrbFiJ2kWT287x-YGrZXdIFRLS8sk3786MPlpn1aEcdn1nYF=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrzYvwzYk6BSdl73KwOY7iy3j9aqvK7ryRDaB1hvC9TIbKCOTECzYn1PxEHt2nOPwzw-6pYeV7ab68P8QAoe5v6TrbFiJ2kWT287x-YGrZXdIFRLS8sk3786MPlpn1aEcdn1nYF=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrzYvwzYk6BSdl73KwOY7iy3j9aqvK7ryRDaB1hvC9TIbKCOTECzYn1PxEHt2nOPwzw-6pYeV7ab68P8QAoe5v6TrbFiJ2kWT287x-YGrZXdIFRLS8sk3786MPlpn1aEcdn1nYF=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Wisata Pulau Karampuang",
+    "alamat": "Karampuang, Kec. Mamuju",
+    "rating": "4.5",
+    "jumlah_review": "65",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.6237297,
+      "longitude": 118.8943129
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Pulau+Karampuang/data=!4m7!3m6!1s0x2d92db1d5afcf4e1:0x5c640fe8ea9d9b53!8m2!3d-2.6237297!4d118.8943129!16s%2Fg%2F11j4mb9t1t!19sChIJ4fT8Wh3bki0RU5ud6ugPZFw?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np5LGEN-zAESV4I6eQ1Z4bY42mIMMG6Ra6aVTmNTmJPxUCzgKoNNWlzu3I2Qx6EJsWxCCplA-vG1ZKnlNWniYUTkwlbmb4BfuW7DWGxXOJwSXWF_mJjquQ_6ORwaSWJc_nHSiK7=w86-h152-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np5LGEN-zAESV4I6eQ1Z4bY42mIMMG6Ra6aVTmNTmJPxUCzgKoNNWlzu3I2Qx6EJsWxCCplA-vG1ZKnlNWniYUTkwlbmb4BfuW7DWGxXOJwSXWF_mJjquQ_6ORwaSWJc_nHSiK7=w408-h725-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np5LGEN-zAESV4I6eQ1Z4bY42mIMMG6Ra6aVTmNTmJPxUCzgKoNNWlzu3I2Qx6EJsWxCCplA-vG1ZKnlNWniYUTkwlbmb4BfuW7DWGxXOJwSXWF_mJjquQ_6ORwaSWJc_nHSiK7=w224-h398-k-no"
+    ],
+    "kategori": [
+      "pulau"
+    ]
+  },
+  {
+    "nama": "Taman dan Pantai Bahari Polewali",
+    "alamat": "Mammi, Kec. Binuang, Sulawesi Barat",
+    "rating": "4.3",
+    "jumlah_review": "1.215",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.4392793,
+      "longitude": 119.3495065
+    },
+    "url": "https://www.google.com/maps/place/Taman+dan+Pantai+Bahari+Polewali/data=!4m7!3m6!1s0x2d9488e0920fc239:0x9566d4da58d013b2!8m2!3d-3.4392793!4d119.3495065!16s%2Fg%2F11b7hjzs8_!19sChIJOcIPkuCIlC0RshPQWNrUZpU?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nreRYCu2stUzTTKoQkjFKkO38FnXiG6TtnZqTrjjd3whLv1Y1HYJNB_M7anCRlI700dGRdhIUKn88zU9XlMQbX4WfswM9SCz1dTLlXx4iuhi7nVxhPgUvr0f7oBf3CluYkykaFIpA=w147-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nreRYCu2stUzTTKoQkjFKkO38FnXiG6TtnZqTrjjd3whLv1Y1HYJNB_M7anCRlI700dGRdhIUKn88zU9XlMQbX4WfswM9SCz1dTLlXx4iuhi7nVxhPgUvr0f7oBf3CluYkykaFIpA=w411-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nreRYCu2stUzTTKoQkjFKkO38FnXiG6TtnZqTrjjd3whLv1Y1HYJNB_M7anCRlI700dGRdhIUKn88zU9XlMQbX4WfswM9SCz1dTLlXx4iuhi7nVxhPgUvr0f7oBf3CluYkykaFIpA=w511-h298-k-no"
+    ],
+    "kategori": [
+      "pantai",
+      "taman"
+    ]
+  },
+  {
+    "nama": "Tanjung Ngalo Mamuju",
+    "alamat": "Dungkait, Selat, Sulawesi Selatan",
+    "rating": "4.4",
+    "jumlah_review": "92",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.8666905,
+      "longitude": 118.7693474
+    },
+    "url": "https://www.google.com/maps/place/Tanjung+Ngalo+Mamuju/data=!4m7!3m6!1s0x2d9331f70a940d95:0x540e408443d754ff!8m2!3d-2.8666905!4d118.7693474!16s%2Fg%2F11gf0qcmtd!19sChIJlQ2UCvcxky0R_1TXQ4RADlQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npgSPYeDDyCCrq2HQTRS9s6XE0FDTCsD1AWZN08K9_zqSBycIn4akAT0YjCnJy2GY9xxGLD-xqel-E7ZRo2qi_O-isNjdXQLiiTNpr2wIK6djU2-Y1xlZAHcY9TqTj-kuIwDgcU=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npgSPYeDDyCCrq2HQTRS9s6XE0FDTCsD1AWZN08K9_zqSBycIn4akAT0YjCnJy2GY9xxGLD-xqel-E7ZRo2qi_O-isNjdXQLiiTNpr2wIK6djU2-Y1xlZAHcY9TqTj-kuIwDgcU=w397-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noupl667_tg2KYqCP8HwXYJCziMwnq6UIZ9naEnJXkO5ehbXWqu2jgPRfdvB_IBW-T-Gk6Mh3OE3X3buRtSYdCJbqgh8Auxzrc9mnF-b4oQhXc-lXLAv5PZHFxrHgbeYl2jlGY=w529-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pantai Lombang Lombang",
+    "alamat": "Sinyonyoi, Kec. Kalukku",
+    "rating": "4.1",
+    "jumlah_review": "287",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.5722242,
+      "longitude": 119.0335866
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Lombang+Lombang/data=!4m7!3m6!1s0x2d92dd4d92ad9e21:0x3570568dfcbf5092!8m2!3d-2.5722242!4d119.0335866!16s%2Fg%2F11bw46t781!19sChIJIZ6tkk3dki0RklC__I1WcDU?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrM1OKbihfTcD2_JSHwqLUBklTqb0qZswacd8V0RWsdNuIk-AWYgjB-jA343FOrQitMYInbjOnCo9w3teMRSiz0JnRlGv8vqdB5WCnapa57x9GQmlIu2jlnP9TfXPFD278KeDis=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrM1OKbihfTcD2_JSHwqLUBklTqb0qZswacd8V0RWsdNuIk-AWYgjB-jA343FOrQitMYInbjOnCo9w3teMRSiz0JnRlGv8vqdB5WCnapa57x9GQmlIu2jlnP9TfXPFD278KeDis=w397-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrYcV_b6lSL-sCIiwEYRz01wLbEYsYRqE6RsVTipY9t2hWyEMpHo-CNkM-VC1fpK3NGlHgvHI4bu5oiztmpjc5BIhtmqjza7Qgc2Vo-icrLlf-ndJnARIz13YqhiiRcYfw0g_UJzJ43jZvs=w239-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pantai Wisata Labuang",
+    "alamat": "Laliko, Kec. Campalagian, Sulawesi Barat",
+    "rating": "4.6",
+    "jumlah_review": "47",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.5152358,
+      "longitude": 119.1119761
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Wisata+Labuang/data=!4m7!3m6!1s0x2d9495b01756014b:0xac4976155d9e6a16!8m2!3d-3.5152358!4d119.1119761!16s%2Fg%2F11f7663_78!19sChIJSwFWF7CVlC0RFmqeXRV2Saw?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no4QBFX0ldrkRgzZ7cOJZwpw4z_WEd7mD0QyNDA0pHm37vnOCQfIXXQIcaXe2M-FBgYtq0su95WXpgk3eTwlUXQS6NS7DAb7GRm1I-0UvLGycjBp0_dTD3Ee6JsGiGRek7J4a7m=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no4QBFX0ldrkRgzZ7cOJZwpw4z_WEd7mD0QyNDA0pHm37vnOCQfIXXQIcaXe2M-FBgYtq0su95WXpgk3eTwlUXQS6NS7DAb7GRm1I-0UvLGycjBp0_dTD3Ee6JsGiGRek7J4a7m=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no4QBFX0ldrkRgzZ7cOJZwpw4z_WEd7mD0QyNDA0pHm37vnOCQfIXXQIcaXe2M-FBgYtq0su95WXpgk3eTwlUXQS6NS7DAb7GRm1I-0UvLGycjBp0_dTD3Ee6JsGiGRek7J4a7m=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Wisata Cekong",
+    "alamat": "Tanete, Kec. Anggeraja",
+    "rating": "4.5",
+    "jumlah_review": "115",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.4248672,
+      "longitude": 119.7988865
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Cekong/data=!4m7!3m6!1s0x2d9412d7bd26dfd1:0x85fd332a36eb5422!8m2!3d-3.4248672!4d119.7988865!16s%2Fg%2F11c1q70zvw!19sChIJ0d8mvdcSlC0RIlTrNioz_YU?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noudL88zGhk91mBhk3OjSr0K0SH2w6Bx3BzFFBikuK001RisSeLfy8lxLgLtABYb3666GTvsxq0mbDopXwpJt2N_XSWgHeRxRrtAC7AoRRL1MLN9-VCmb-U5WBWFvgC-bacmvNx=w129-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noudL88zGhk91mBhk3OjSr0K0SH2w6Bx3BzFFBikuK001RisSeLfy8lxLgLtABYb3666GTvsxq0mbDopXwpJt2N_XSWgHeRxRrtAC7AoRRL1MLN9-VCmb-U5WBWFvgC-bacmvNx=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noudL88zGhk91mBhk3OjSr0K0SH2w6Bx3BzFFBikuK001RisSeLfy8lxLgLtABYb3666GTvsxq0mbDopXwpJt2N_XSWgHeRxRrtAC7AoRRL1MLN9-VCmb-U5WBWFvgC-bacmvNx=w447-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Anjungan Pantai Manakarra",
+    "alamat": "Strait, Jl. Yos Sudarso, Binanga, Kec. Mamuju",
+    "rating": "4.4",
+    "jumlah_review": "2.255",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.6703963,
+      "longitude": 118.889166
+    },
+    "url": "https://www.google.com/maps/place/Anjungan+Pantai+Manakarra/data=!4m7!3m6!1s0x2d92d9b0da6a308d:0xbfe8b1a7d47cac19!8m2!3d-2.6703963!4d118.889166!16s%2Fg%2F11b8_pxwys!19sChIJjTBq2rDZki0RGax81Kex6L8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqAyR3oMsih__7T4chvMV5z8XFso4LBdScKAfMK_9H7vD_4gsy6x5VBVuzQbZMEIQqVp7Pv3v_8z0pcxbMh1MPEowSRDvsubXWW5Ctm73oxmQ5U1fxJQvXHzZanByVoErBlUMPS=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqAyR3oMsih__7T4chvMV5z8XFso4LBdScKAfMK_9H7vD_4gsy6x5VBVuzQbZMEIQqVp7Pv3v_8z0pcxbMh1MPEowSRDvsubXWW5Ctm73oxmQ5U1fxJQvXHzZanByVoErBlUMPS=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqAyR3oMsih__7T4chvMV5z8XFso4LBdScKAfMK_9H7vD_4gsy6x5VBVuzQbZMEIQqVp7Pv3v_8z0pcxbMh1MPEowSRDvsubXWW5Ctm73oxmQ5U1fxJQvXHzZanByVoErBlUMPS=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Limbong Sitodo",
+    "alamat": "Jl. Poros Pokko Kunyi, Kunyi, Kec. Anreapi",
+    "rating": "3.7",
+    "jumlah_review": "25",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.3768895,
+      "longitude": 119.3669543
+    },
+    "url": "https://www.google.com/maps/place/Limbong+Sitodo/data=!4m7!3m6!1s0x2d948652344ad2e5:0x5565072069691d62!8m2!3d-3.3768895!4d119.3669543!16s%2Fg%2F11ckvwcr02!19sChIJ5dJKNFKGlC0RYh1paSAHZVU?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npcVhdQcZ-X7RoEMSFOd4PbMm5oLyJ0r_oMHzm32OsrlQHbMthbBOh7Y7Gm51WEqdFiUTOS6VswuRbrbRYMORkSNi5d-P3GYdgwPTTl9l9oYn_fXZjMsQJ6HcVjze3rhYGl02eF=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no0xzz2cRbkIeDMQpB3XtccGrNQ_afLaN40Ow0C9dY0MCDEp7QBGigV-KkFUMg6vdJnv51-Pso91FEYTYAqZQAYCmLc4r2774CcImMBDlQtK8POf4pBA3TuCdh_8MsuzyrdWq7n=w397-h298-k-no",
+      "https://lh3.googleusercontent.com/a-/ALV-UjVxKROie6qoW7FLPv0ljOcK_-2OwHfj2Wh_CxfIldM78xrSW5AD=w36-h36-p-rp-mo-ba3-br100"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Rangas Beach",
+    "alamat": "Jl. Abdul Malik Pattana Endeng, Rangas, Kec. Simboro Dan Kepulauan",
+    "rating": "4.5",
+    "jumlah_review": "102",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.6595075,
+      "longitude": 118.8497894
+    },
+    "url": "https://www.google.com/maps/place/Rangas+Beach/data=!4m7!3m6!1s0x2d92d7e0452148c5:0xaea2216e64dcadd1!8m2!3d-2.6595075!4d118.8497894!16s%2Fg%2F11q83pyp1t!19sChIJxUghReDXki0R0a3cZG4hoq4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrbjodIAqstKq_ZgckT8h_SEY_aSWJIKs5tg8MXRPx7qAF_wlHUJJ7vfBpJ9bIK765XJyO7rGea2JIeyEnoiUVL8TeQ7MSQX0UFTpLo_PnRTB-Y6uW4Ip9k4RzO7oSGUxtgWlY=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrbjodIAqstKq_ZgckT8h_SEY_aSWJIKs5tg8MXRPx7qAF_wlHUJJ7vfBpJ9bIK765XJyO7rGea2JIeyEnoiUVL8TeQ7MSQX0UFTpLo_PnRTB-Y6uW4Ip9k4RzO7oSGUxtgWlY=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrbjodIAqstKq_ZgckT8h_SEY_aSWJIKs5tg8MXRPx7qAF_wlHUJJ7vfBpJ9bIK765XJyO7rGea2JIeyEnoiUVL8TeQ7MSQX0UFTpLo_PnRTB-Y6uW4Ip9k4RzO7oSGUxtgWlY=w396-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Air Terjun Lewaja",
+    "alamat": "Lewaja, Kec. Enrekang",
+    "rating": "4.0",
+    "jumlah_review": "54",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.5845239,
+      "longitude": 119.8096177
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Lewaja/data=!4m7!3m6!1s0x2d943f69569fed9b:0xfd2123ce9e5f4281!8m2!3d-3.5845239!4d119.8096177!16s%2Fg%2F11b7tr2336!19sChIJm-2fVmk_lC0RgUJfns4jIf0?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrC7zYfahSSioLqjRaDrdWfjBBTlkQbuO7mjmCz2CsjaWQ4uYnUSvKNnAmzZHu30_HdVxFxtfkRIFvruG3f5QDadyMCI0TMs-cADaHh_cM-ttPF0Tj3Vyb5kOzZWcXfr8Zpv4w=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrC7zYfahSSioLqjRaDrdWfjBBTlkQbuO7mjmCz2CsjaWQ4uYnUSvKNnAmzZHu30_HdVxFxtfkRIFvruG3f5QDadyMCI0TMs-cADaHh_cM-ttPF0Tj3Vyb5kOzZWcXfr8Zpv4w=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrC7zYfahSSioLqjRaDrdWfjBBTlkQbuO7mjmCz2CsjaWQ4uYnUSvKNnAmzZHu30_HdVxFxtfkRIFvruG3f5QDadyMCI0TMs-cADaHh_cM-ttPF0Tj3Vyb5kOzZWcXfr8Zpv4w=w397-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "AIR TERJUN LIMBONG KAMANDANG",
+    "alamat": "Kurrak, Kec. Tapango",
+    "rating": "4.0",
+    "jumlah_review": "54",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.2863709,
+      "longitude": 119.3056521
+    },
+    "url": "https://www.google.com/maps/place/AIR+TERJUN+LIMBONG+KAMANDANG/data=!4m7!3m6!1s0x2d94823ee9236ad5:0x6556e83c7119a79d!8m2!3d-3.2863709!4d119.3056521!16s%2Fg%2F11f03n00y6!19sChIJ1Woj6T6ClC0RnacZcTzoVmU?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq-ykC0rShYUFBzByoNFNgz9XnLR5QcKA_E_Rj97oiRj4mxXH84E0h8JpP-ZXUUOEfXCagcLc-e7OrLVfkmK8jlGqPouUnF6nZWwkC209cntHvyQ0BQ6dODmsPLDwZfJHpWKbDfkA=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq-ykC0rShYUFBzByoNFNgz9XnLR5QcKA_E_Rj97oiRj4mxXH84E0h8JpP-ZXUUOEfXCagcLc-e7OrLVfkmK8jlGqPouUnF6nZWwkC209cntHvyQ0BQ6dODmsPLDwZfJHpWKbDfkA=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq-ykC0rShYUFBzByoNFNgz9XnLR5QcKA_E_Rj97oiRj4mxXH84E0h8JpP-ZXUUOEfXCagcLc-e7OrLVfkmK8jlGqPouUnF6nZWwkC209cntHvyQ0BQ6dODmsPLDwZfJHpWKbDfkA=w529-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Pantai Malauwa",
+    "alamat": "Tapandullu, Kec. Simboro Dan Kepulauan, Sulawesi Barat",
+    "rating": "4.4",
+    "jumlah_review": "112",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.6722154,
+      "longitude": 118.790386
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Malauwa/data=!4m7!3m6!1s0x2d92d709cd9a14a5:0xe25699c7dcc7826b!8m2!3d-2.6722154!4d118.790386!16s%2Fg%2F11sz3qk0t4!19sChIJpRSazQnXki0Ra4LH3MeZVuI?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npzJ4cF2CKDnDx561RRMnybNnS3ZDKcTGdmNzvFpDgVkXTqrxHIsH-FzFeaRk1_mAZNGajOmh-52485C4zZUii_44u7JIysn0zwbP57GTkrM8zAgjRv44FJFZZjbYH-bI6cF24l=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npzJ4cF2CKDnDx561RRMnybNnS3ZDKcTGdmNzvFpDgVkXTqrxHIsH-FzFeaRk1_mAZNGajOmh-52485C4zZUii_44u7JIysn0zwbP57GTkrM8zAgjRv44FJFZZjbYH-bI6cF24l=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npzJ4cF2CKDnDx561RRMnybNnS3ZDKcTGdmNzvFpDgVkXTqrxHIsH-FzFeaRk1_mAZNGajOmh-52485C4zZUii_44u7JIysn0zwbP57GTkrM8zAgjRv44FJFZZjbYH-bI6cF24l=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Kelapa Tujuh",
+    "alamat": "Rimuku, Kec. Mamuju",
+    "rating": "4.4",
+    "jumlah_review": "106",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.6951068,
+      "longitude": 118.901354
+    },
+    "url": "https://www.google.com/maps/place/Kelapa+Tujuh/data=!4m7!3m6!1s0x2d92d860bef7c927:0x9edb8fd9015ef401!8m2!3d-2.6951068!4d118.901354!16s%2Fg%2F11ckv54sl1!19sChIJJ8n3vmDYki0RAfReAdmP254?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noXPvkzFldBLj3266DORtMN2WC-0ut8sQvGc9bhJAvZqA6day1K1Ut_pfC6TYl4c1HxWAwZN-JfU8Fx-HIZftpwSlV26LrJBEGLvB5Jc-USNRR0QT8VEGTyFGgjY1CzDs8lyRBwiA=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noXPvkzFldBLj3266DORtMN2WC-0ut8sQvGc9bhJAvZqA6day1K1Ut_pfC6TYl4c1HxWAwZN-JfU8Fx-HIZftpwSlV26LrJBEGLvB5Jc-USNRR0QT8VEGTyFGgjY1CzDs8lyRBwiA=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nojdC9lTTduQDl4ObSATuf6y5xQpAfXibg74fM5kkw6WFch4znQGDH7zxl5NhmVrLbLtunhMMTSrirsm1CfURzPXEdrD1c5Hbw_zq8xpfO2CnIPcah2vptZ0Np_JAf9Envvm4IapQ=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Negeri Diatas Awan Buntu Liarra",
+    "alamat": "Parondobulawan, Kec. Tanduk Kalua",
+    "rating": "4.6",
+    "jumlah_review": "40",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.0028491,
+      "longitude": 119.2869161
+    },
+    "url": "https://www.google.com/maps/place/Negeri+Diatas+Awan+Buntu+Liarra/data=!4m7!3m6!1s0x2d937318f955f9a1:0x7e225fae55fe611b!8m2!3d-3.0028491!4d119.2869161!16s%2Fg%2F11fzf7thd8!19sChIJoflV-Rhzky0RG2H-Va5fIn4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np5M8-Le0dusB51sFRaNyiPUA5g686t0OLMNOcE3sydwMbwt2YhuVO_DiN7LcQqrfk8ECLRyXKlqh44r9_fX-fuXtUgwpIpnrrdeq3fVu-57SO-Ys4JeWHNh_qc7SClNF0fsIuS=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np5M8-Le0dusB51sFRaNyiPUA5g686t0OLMNOcE3sydwMbwt2YhuVO_DiN7LcQqrfk8ECLRyXKlqh44r9_fX-fuXtUgwpIpnrrdeq3fVu-57SO-Ys4JeWHNh_qc7SClNF0fsIuS=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np5M8-Le0dusB51sFRaNyiPUA5g686t0OLMNOcE3sydwMbwt2YhuVO_DiN7LcQqrfk8ECLRyXKlqh44r9_fX-fuXtUgwpIpnrrdeq3fVu-57SO-Ys4JeWHNh_qc7SClNF0fsIuS=w529-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Air Terjun Tammasapi",
+    "alamat": "Mamunyu, Kec. Mamuju",
+    "rating": "4.3",
+    "jumlah_review": "106",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.7041408,
+      "longitude": 118.921493
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Tammasapi/data=!4m7!3m6!1s0x2d92d89a6636dd77:0x5faa258833ea5dfa!8m2!3d-2.7041408!4d118.921493!16s%2Fg%2F11dx92s0s2!19sChIJd902ZprYki0R-l3qM4glql8?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrhTloSUItTl6rq17GyBOU9dvOO-10J4zEfQITORLffH2PUgv0_RzV3asb8GE8IjNQKNt9QTlWu1DEj3x9r4gz7NUTXTKu9R-p_bKU9ys41Zkfjc8K_gzG1eQJXctHz5PyZfIyp=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrhTloSUItTl6rq17GyBOU9dvOO-10J4zEfQITORLffH2PUgv0_RzV3asb8GE8IjNQKNt9QTlWu1DEj3x9r4gz7NUTXTKu9R-p_bKU9ys41Zkfjc8K_gzG1eQJXctHz5PyZfIyp=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrhTloSUItTl6rq17GyBOU9dvOO-10J4zEfQITORLffH2PUgv0_RzV3asb8GE8IjNQKNt9QTlWu1DEj3x9r4gz7NUTXTKu9R-p_bKU9ys41Zkfjc8K_gzG1eQJXctHz5PyZfIyp=w224-h298-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Pantai Tumbu",
+    "alamat": "Tumbu, Kec. Topoyo",
+    "rating": "4.5",
+    "jumlah_review": "90",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.0166196,
+      "longitude": 119.2215951
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Tumbu/data=!4m7!3m6!1s0x2d8d65506612950d:0xc7bab496b1082503!8m2!3d-2.0166196!4d119.2215951!16s%2Fg%2F11c20c6xx8!19sChIJDZUSZlBljS0RAyUIsZa0usc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqiPdgOPTLLvHwcpBhQVaAyGsPifdduJk1obXsSpaWBenqDfGL46PYYORmqjvMdyMNpAUCi0jYjjMLDWX0GqnWkX2QQ1dM1tIpfp_lYXT47yC6TXgEMkhtiOWWPQa2QxDiNs1D0=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqiPdgOPTLLvHwcpBhQVaAyGsPifdduJk1obXsSpaWBenqDfGL46PYYORmqjvMdyMNpAUCi0jYjjMLDWX0GqnWkX2QQ1dM1tIpfp_lYXT47yC6TXgEMkhtiOWWPQa2QxDiNs1D0=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqiPdgOPTLLvHwcpBhQVaAyGsPifdduJk1obXsSpaWBenqDfGL46PYYORmqjvMdyMNpAUCi0jYjjMLDWX0GqnWkX2QQ1dM1tIpfp_lYXT47yC6TXgEMkhtiOWWPQa2QxDiNs1D0=w396-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Air Terjun Indo Rannuang",
+    "alamat": "Jl. Indoranuang, Kunyi, Kec. Anreapi",
+    "rating": "4.9",
+    "jumlah_review": "22",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.3511631,
+      "longitude": 119.3967559
+    },
+    "url": "https://www.google.com/maps/place/Air+Terjun+Indo+Rannuang/data=!4m7!3m6!1s0x2d94873d7c087ab7:0x5783923a21674642!8m2!3d-3.3511631!4d119.3967559!16s%2Fg%2F11c1t5h61v!19sChIJt3oIfD2HlC0RQkZnITqSg1c?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noqxNibE4YlpmEnQTCgi94cDVZCBTzI2kMhIRptzwZaHVoFWK6orMamwUOX-rIobTQ6bTUlWYUWUYArLegBt03OFHUQXYYLdmay05kDHEicGV7XSmRmU8z7NfZYuZdjHJJULXvm=w86-h118-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noqxNibE4YlpmEnQTCgi94cDVZCBTzI2kMhIRptzwZaHVoFWK6orMamwUOX-rIobTQ6bTUlWYUWUYArLegBt03OFHUQXYYLdmay05kDHEicGV7XSmRmU8z7NfZYuZdjHJJULXvm=w408-h560-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noqxNibE4YlpmEnQTCgi94cDVZCBTzI2kMhIRptzwZaHVoFWK6orMamwUOX-rIobTQ6bTUlWYUWUYArLegBt03OFHUQXYYLdmay05kDHEicGV7XSmRmU8z7NfZYuZdjHJJULXvm=w224-h307-k-no"
+    ],
+    "kategori": [
+      "air_terjun"
+    ]
+  },
+  {
+    "nama": "Wisata Alam Kalibiru Kanang",
+    "alamat": "Jl. Penanian, Batetangnga, Kec. Binuang",
+    "rating": "4.4",
+    "jumlah_review": "56",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.4159146,
+      "longitude": 119.4030746
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Alam+Kalibiru+Kanang/data=!4m7!3m6!1s0x2d94895f8ef5cc2d:0xbe22b1ada85115d!8m2!3d-3.4159146!4d119.4030746!16s%2Fg%2F11h2gsc8zv!19sChIJLcz1jl-JlC0RXRGF2hor4gs?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npVdPUkkx6tilsZ3SEglB7we_dJVYUC9r3Nx8zn3n7UajDFimQCMA2rLgtiHzXrJ_F4mGr7cOTve0Ayv3YzH3c0id1bO6bgGOE4-aQy9wXd4k83GKytjjT2FVZNsKkFfB3ohmh9=w86-h115-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npVdPUkkx6tilsZ3SEglB7we_dJVYUC9r3Nx8zn3n7UajDFimQCMA2rLgtiHzXrJ_F4mGr7cOTve0Ayv3YzH3c0id1bO6bgGOE4-aQy9wXd4k83GKytjjT2FVZNsKkFfB3ohmh9=w408-h550-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npVdPUkkx6tilsZ3SEglB7we_dJVYUC9r3Nx8zn3n7UajDFimQCMA2rLgtiHzXrJ_F4mGr7cOTve0Ayv3YzH3c0id1bO6bgGOE4-aQy9wXd4k83GKytjjT2FVZNsKkFfB3ohmh9=w224-h302-k-no"
+    ],
+    "kategori": [
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Pantai palippis",
+    "alamat": "Bala, Kec. Balanipa",
+    "rating": "4.2",
+    "jumlah_review": "200",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.5106073,
+      "longitude": 119.0976082
+    },
+    "url": "https://www.google.com/maps/place/Pantai+palippis/data=!4m7!3m6!1s0x2d94944dcd861f5f:0x5778f8e01f58bbb7!8m2!3d-3.5106073!4d119.0976082!16s%2Fg%2F11c55jj4q8!19sChIJXx-GzU2UlC0Rt7tYH-D4eFc?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqyBd641xroYC230lB2U_8AYWCNIMKtEedeye2pIzClwGiui_6Y0jXfFZeypMSGfuxu6BE7rUumLY8MFUlpLhCb1HVKcnvYPxtuH5abqyyWA62MPNNK0EYqJ4vQu5ctTJZV1eGf=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqyBd641xroYC230lB2U_8AYWCNIMKtEedeye2pIzClwGiui_6Y0jXfFZeypMSGfuxu6BE7rUumLY8MFUlpLhCb1HVKcnvYPxtuH5abqyyWA62MPNNK0EYqJ4vQu5ctTJZV1eGf=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqyBd641xroYC230lB2U_8AYWCNIMKtEedeye2pIzClwGiui_6Y0jXfFZeypMSGfuxu6BE7rUumLY8MFUlpLhCb1HVKcnvYPxtuH5abqyyWA62MPNNK0EYqJ4vQu5ctTJZV1eGf=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pulau Pasir Putih",
+    "alamat": "Tonyamang, Kec. Binuang",
+    "rating": "4.3",
+    "jumlah_review": "146",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.4890836,
+      "longitude": 119.3893223
+    },
+    "url": "https://www.google.com/maps/place/Pulau+Pasir+Putih/data=!4m7!3m6!1s0x2d948bdb4808e0b7:0xa882d2b13c84b6ec!8m2!3d-3.4890836!4d119.3893223!16s%2Fg%2F11cjk4b94y!19sChIJt-AISNuLlC0R7LaEPLHSgqg?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr4tKoDxCly0iCAB4hLM7-1mUF7wLpyZqRC5zyuwgrc84X2zusv8UPDl3BCMRPulcC1YlyBhkA6OkeFeDeaMfw7gruHVAyU0jZ6Whz16_H4YjpPIrgiFHA0SoC5GLeQhDmLSl1C=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr4tKoDxCly0iCAB4hLM7-1mUF7wLpyZqRC5zyuwgrc84X2zusv8UPDl3BCMRPulcC1YlyBhkA6OkeFeDeaMfw7gruHVAyU0jZ6Whz16_H4YjpPIrgiFHA0SoC5GLeQhDmLSl1C=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr4tKoDxCly0iCAB4hLM7-1mUF7wLpyZqRC5zyuwgrc84X2zusv8UPDl3BCMRPulcC1YlyBhkA6OkeFeDeaMfw7gruHVAyU0jZ6Whz16_H4YjpPIrgiFHA0SoC5GLeQhDmLSl1C=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pulau"
+    ]
+  },
+  {
+    "nama": "Pantai Hijau Simboro",
+    "alamat": "Kec. Simboro Dan Kepulauan, Sulawesi Barat",
+    "rating": "4.5",
+    "jumlah_review": "13",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.6704267,
+      "longitude": 118.8620459
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Hijau+Simboro/data=!4m7!3m6!1s0x2d92d900494747b1:0x399f3268ab1731da!8m2!3d-2.6704267!4d118.8620459!16s%2Fg%2F11vwflnz0k!19sChIJsUdHSQDZki0R2jEXq2gynzk?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npGeank1-JIyzClRsvZb-0X7OsICPIXuwDdgfY8bme1DiEouqODeGadaoc12_oCaAtmp5Nvvytt754BjIqexMLw23nYBtzop1x4HNr0vLUEi5gnSHPQqqZ4VSJwcQO1gF1r1y6r=w190-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npGeank1-JIyzClRsvZb-0X7OsICPIXuwDdgfY8bme1DiEouqODeGadaoc12_oCaAtmp5Nvvytt754BjIqexMLw23nYBtzop1x4HNr0vLUEi5gnSHPQqqZ4VSJwcQO1gF1r1y6r=w532-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npGeank1-JIyzClRsvZb-0X7OsICPIXuwDdgfY8bme1DiEouqODeGadaoc12_oCaAtmp5Nvvytt754BjIqexMLw23nYBtzop1x4HNr0vLUEi5gnSHPQqqZ4VSJwcQO1gF1r1y6r=w661-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Mampie",
+    "alamat": "Galeso, Kec. Wonomulyo",
+    "rating": "4.1",
+    "jumlah_review": "227",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.4541754,
+      "longitude": 119.2801668
+    },
+    "url": "https://www.google.com/maps/place/Mampie/data=!4m7!3m6!1s0x2d948e5815e81263:0x70c06be68e68d09a!8m2!3d-3.4541754!4d119.2801668!16s%2Fg%2F11b7h9gmbv!19sChIJYxLoFViOlC0RmtBojuZrwHA?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noCAcFs_7oy39sEyr5tvG9UJHEdQoyG6-kPbwMwUSl95InyhrwHv8dg5V1G1gMyAo0bnMmG5WYh5Jig_3GQ667TwdXqhlMyD59SyL2h8f7o23So6EzYIjM33RcIPDjjvTTZbphL=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noCAcFs_7oy39sEyr5tvG9UJHEdQoyG6-kPbwMwUSl95InyhrwHv8dg5V1G1gMyAo0bnMmG5WYh5Jig_3GQ667TwdXqhlMyD59SyL2h8f7o23So6EzYIjM33RcIPDjjvTTZbphL=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noCAcFs_7oy39sEyr5tvG9UJHEdQoyG6-kPbwMwUSl95InyhrwHv8dg5V1G1gMyAo0bnMmG5WYh5Jig_3GQ667TwdXqhlMyD59SyL2h8f7o23So6EzYIjM33RcIPDjjvTTZbphL=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Wisata Alam Salu Pajaan",
+    "alamat": "Batetangnga, Kec. Binuang",
+    "rating": "4.3",
+    "jumlah_review": "549",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.4160753,
+      "longitude": 119.4039903
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Alam+Salu+Pajaan/data=!4m7!3m6!1s0x2d948810e519283f:0x9c07366c620f802f!8m2!3d-3.4160753!4d119.4039903!16s%2Fg%2F11c2lr51nw!19sChIJPygZ5RCIlC0RL4APYmw2B5w?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqk8uBznQQDrHI-g1xGqoprqzQK2x0oPHfs3zk_asNvf5_6eJYlxQsrfnlKQmv_raISJrTXdwLH6v-Qtfj-yGL1NE3vX-hd5oL-a4hmEcEVZDVO2tGnp9McAqFcl3BA6JRAPr4xbA=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqk8uBznQQDrHI-g1xGqoprqzQK2x0oPHfs3zk_asNvf5_6eJYlxQsrfnlKQmv_raISJrTXdwLH6v-Qtfj-yGL1NE3vX-hd5oL-a4hmEcEVZDVO2tGnp9McAqFcl3BA6JRAPr4xbA=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqk8uBznQQDrHI-g1xGqoprqzQK2x0oPHfs3zk_asNvf5_6eJYlxQsrfnlKQmv_raISJrTXdwLH6v-Qtfj-yGL1NE3vX-hd5oL-a4hmEcEVZDVO2tGnp9McAqFcl3BA6JRAPr4xbA=w529-h298-k-no"
+    ],
+    "kategori": [
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Puncak Mamuju(Kelapa Tujuh)",
+    "alamat": "Rimuku, Kec. Mamuju",
+    "rating": "4.5",
+    "jumlah_review": "367",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.6954326,
+      "longitude": 118.9020477
+    },
+    "url": "https://www.google.com/maps/place/Puncak+Mamuju%28Kelapa+Tujuh%29/data=!4m7!3m6!1s0x2d92d85fcb1f8611:0xad82d321eec558f!8m2!3d-2.6954326!4d118.9020477!16s%2Fg%2F11cjhyf5b5!19sChIJEYYfy1_Yki0Rj1XsHjIt2Ao?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrpYZzKd8Zv4eelw7g95v0UVL6XtaFqrdKKrjzOx-sqWXfSs_YwdzV-pui_tc5ew3667i89UD52w8VvZYwSFoFHfISpzjLn6jKsl_nfw3l5lvJBb15uw_blJWQrj9mrrKi_RMyo0Q=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrpYZzKd8Zv4eelw7g95v0UVL6XtaFqrdKKrjzOx-sqWXfSs_YwdzV-pui_tc5ew3667i89UD52w8VvZYwSFoFHfISpzjLn6jKsl_nfw3l5lvJBb15uw_blJWQrj9mrrKi_RMyo0Q=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrpYZzKd8Zv4eelw7g95v0UVL6XtaFqrdKKrjzOx-sqWXfSs_YwdzV-pui_tc5ew3667i89UD52w8VvZYwSFoFHfISpzjLn6jKsl_nfw3l5lvJBb15uw_blJWQrj9mrrKi_RMyo0Q=w397-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Wisata Alam Kalibiru Kanang",
+    "alamat": "Jl. Mangondang, Batetangnga, Kec. Binuang",
+    "rating": "4.6",
+    "jumlah_review": "171",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.4147318,
+      "longitude": 119.4038471
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Alam+Kalibiru+Kanang/data=!4m7!3m6!1s0x2d9489a725601a49:0x298e3da85ef689d8!8m2!3d-3.4147318!4d119.4038471!16s%2Fg%2F11fj7tnxfk!19sChIJSRpgJaeJlC0R2In2Xqg9jik?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noDQKiBHSny9691Dpc7VsSSAixzYtj8VQUAbOUWSfCKfUN3tta0qg74oIpsR9ssfEF17F5F5iPJ0_ZKcoEULA7yU0M71LAM0XCgPa1iEW59_jIsB1xJKxqNOtQFVhmyiJu6a2UC=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noDQKiBHSny9691Dpc7VsSSAixzYtj8VQUAbOUWSfCKfUN3tta0qg74oIpsR9ssfEF17F5F5iPJ0_ZKcoEULA7yU0M71LAM0XCgPa1iEW59_jIsB1xJKxqNOtQFVhmyiJu6a2UC=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noDQKiBHSny9691Dpc7VsSSAixzYtj8VQUAbOUWSfCKfUN3tta0qg74oIpsR9ssfEF17F5F5iPJ0_ZKcoEULA7yU0M71LAM0XCgPa1iEW59_jIsB1xJKxqNOtQFVhmyiJu6a2UC=w224-h298-k-no"
+    ],
+    "kategori": [
+      "wisata_alam"
+    ]
+  },
+  {
+    "nama": "Wisata Batu Lombeng Desa Lebani",
+    "alamat": "Lebani, Kec. Tapalang Bar., Sulawesi Barat",
+    "rating": "4.6",
+    "jumlah_review": "25",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.7298095,
+      "longitude": 118.7799264
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Batu+Lombeng+Desa+Lebani/data=!4m7!3m6!1s0x2d9329f2d1ae60a1:0xda8cdf30bfcdcd8d!8m2!3d-2.7298095!4d118.7799264!16s%2Fg%2F11khrg6mcp!19sChIJoWCu0fIpky0Rjc3NvzDfjNo?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noAiA8GHPU3ydINeXIJKoEssGoQZgY2BMfnNbbCYAwQ1-o2-yzmZ5EcX9j8rh9Koh4f1-YlnMO2zMERGlxk1pUOBwTIPYoliJVjCYOmzcLFSMWTszj_1Lgfqt9AtMi57sCXWGOkuw=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noAiA8GHPU3ydINeXIJKoEssGoQZgY2BMfnNbbCYAwQ1-o2-yzmZ5EcX9j8rh9Koh4f1-YlnMO2zMERGlxk1pUOBwTIPYoliJVjCYOmzcLFSMWTszj_1Lgfqt9AtMi57sCXWGOkuw=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noAiA8GHPU3ydINeXIJKoEssGoQZgY2BMfnNbbCYAwQ1-o2-yzmZ5EcX9j8rh9Koh4f1-YlnMO2zMERGlxk1pUOBwTIPYoliJVjCYOmzcLFSMWTszj_1Lgfqt9AtMi57sCXWGOkuw=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Taraujung Pamboang",
+    "alamat": "Lalampanua, Kec. Pamboang",
+    "rating": "4.3",
+    "jumlah_review": "80",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.4831875,
+      "longitude": 118.8837969
+    },
+    "url": "https://www.google.com/maps/place/Taraujung+Pamboang/data=!4m7!3m6!1s0x2d94ba2357a77ff5:0x8d0f38a0bc5ddbf!8m2!3d-3.4831875!4d118.8837969!16s%2Fg%2F11g6nkt9xc!19sChIJ9X-nVyO6lC0Rv93FC4rz0Ag?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrsXRc9LTak2WA2fIC5MiwhzyerZX1Dm5MMpkCapoubtPuRbDRDc8Q2pkrnP9md_6fyRTgMXfinOHf4hF-uGh4bFvOpQt2I2JFu034_2_UZ6yZ0BW0-C5zSq3ObufknaGltJg0=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrsXRc9LTak2WA2fIC5MiwhzyerZX1Dm5MMpkCapoubtPuRbDRDc8Q2pkrnP9md_6fyRTgMXfinOHf4hF-uGh4bFvOpQt2I2JFu034_2_UZ6yZ0BW0-C5zSq3ObufknaGltJg0=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrsXRc9LTak2WA2fIC5MiwhzyerZX1Dm5MMpkCapoubtPuRbDRDc8Q2pkrnP9md_6fyRTgMXfinOHf4hF-uGh4bFvOpQt2I2JFu034_2_UZ6yZ0BW0-C5zSq3ObufknaGltJg0=w224-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Pantai Ponnori",
+    "alamat": "Ponnori, Temboe, Kec. Larompong Sel.",
+    "rating": "4.1",
+    "jumlah_review": "334",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -3.6287208,
+      "longitude": 120.4159773
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Ponnori/data=!4m7!3m6!1s0x2d969196f6d63d33:0x4a2e4118f6051d12!8m2!3d-3.6287208!4d120.4159773!16s%2Fg%2F11c0pzsky5!19sChIJMz3W9paRli0REh0F9hhBLko?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npdoJzz3VcHK0TQ4QtEFfvJYDnfHxFu8wbhAsvfdu95aALIEhWQUOvxchhSU2xR9tfkFBD9hfi9wWSr-ya0VmX38z2wvYySoZsN0nBpAErbtwFAHe3rPzK19Gz2q4I612Q_97m-XQ=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npdoJzz3VcHK0TQ4QtEFfvJYDnfHxFu8wbhAsvfdu95aALIEhWQUOvxchhSU2xR9tfkFBD9hfi9wWSr-ya0VmX38z2wvYySoZsN0nBpAErbtwFAHe3rPzK19Gz2q4I612Q_97m-XQ=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npdoJzz3VcHK0TQ4QtEFfvJYDnfHxFu8wbhAsvfdu95aALIEhWQUOvxchhSU2xR9tfkFBD9hfi9wWSr-ya0VmX38z2wvYySoZsN0nBpAErbtwFAHe3rPzK19Gz2q4I612Q_97m-XQ=w397-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Wisata Pantai Tapandullu",
+    "alamat": "Unnamed Road, Tapandullu, Kec. Simboro Dan Kepulauan",
+    "rating": "4.6",
+    "jumlah_review": "152",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.670964,
+      "longitude": 118.791852
+    },
+    "url": "https://www.google.com/maps/place/Wisata+Pantai+Tapandullu/data=!4m7!3m6!1s0x2d92d7b623d063dd:0xbe6fc03c5ca57c13!8m2!3d-2.670964!4d118.791852!16s%2Fg%2F11rv5jtpxm!19sChIJ3WPQI7bXki0RE3ylXDzAb74?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npg_le-yl2c0uESOauP4l4KYwF-ex4v5aYqKO7um2gOuhHJ7BGbXFN3UQ2-HOiOW5SZQzwuXCgg-UzzGppk3-w2y_0ROCiMk1-t3vuCAnf_oicCp2oFMWlawuytdV8W4zyYI_-S=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npg_le-yl2c0uESOauP4l4KYwF-ex4v5aYqKO7um2gOuhHJ7BGbXFN3UQ2-HOiOW5SZQzwuXCgg-UzzGppk3-w2y_0ROCiMk1-t3vuCAnf_oicCp2oFMWlawuytdV8W4zyYI_-S=w397-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no5_cY8dMECksciybNAyd6WeBUZiK9TcHX82bCbE70LerwUsvtoIhaA8Ladj7IwrsbPm8jio8bAAk7RFFumCXsmYsn6R0639m_18385bfq-NoBsEaGHuW-YwBH6W1CfKKzIE5ewLQ=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Pantai Babana",
+    "alamat": "Selat, Sulawesi Selatan",
+    "rating": "4.2",
+    "jumlah_review": "26",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.0916328,
+      "longitude": 119.1943106
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Babana/data=!4m7!3m6!1s0x2d8d6371829c5591:0x5eda986cb8cb7bd7!8m2!3d-2.0916328!4d119.1943106!16s%2Fg%2F11f29_frlc!19sChIJkVWcgnFjjS0R13vLuGyY2l4?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrL-UtdTIANpQyzDmf88C2YgV1jm3WxErFY1tYOC_Pti8_MSTm_x-9CE3DIaBwHT-baFrKSSzyGlwV1oQiBhKAFI2WUX4KfocngAHmwDF550LMIB7AwhPHy2_-3UZkxqZL4sxlU=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrL-UtdTIANpQyzDmf88C2YgV1jm3WxErFY1tYOC_Pti8_MSTm_x-9CE3DIaBwHT-baFrKSSzyGlwV1oQiBhKAFI2WUX4KfocngAHmwDF550LMIB7AwhPHy2_-3UZkxqZL4sxlU=w408-h545-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrL-UtdTIANpQyzDmf88C2YgV1jm3WxErFY1tYOC_Pti8_MSTm_x-9CE3DIaBwHT-baFrKSSzyGlwV1oQiBhKAFI2WUX4KfocngAHmwDF550LMIB7AwhPHy2_-3UZkxqZL4sxlU=w224-h299-k-no"
+    ],
+    "kategori": [
+      "pantai"
+    ]
+  },
+  {
+    "nama": "Batu Miana",
+    "alamat": "Unnamed Road, Tumbu, Kec. Topoyo",
+    "rating": "4.3",
+    "jumlah_review": "59",
+    "deskripsi": "N/A",
+    "koordinat": {
+      "latitude": -2.023817,
+      "longitude": 119.2148516
+    },
+    "url": "https://www.google.com/maps/place/Batu+Miana/data=!4m7!3m6!1s0x2d8d65249137460d:0xfcbdb3db254dfb35!8m2!3d-2.023817!4d119.2148516!16s%2Fg%2F11fll824r6!19sChIJDUY3kSRljS0RNftNJduzvfw?authuser=0&hl=id&rclk=1",
+    "provinsi": "Sulawesi Barat",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np32Z6WSf_nFfXP2w5IEGNiZ2OwjP3HmIFsnPXu20JxrGuOG3TccfN9w0oKvAiBjje3WBebAMO1_9DQ10MzO6JX0C_ExKKLItK2HwjxLwBucgYyHNilXDa0lezMxK7S_FcBWJ8=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np32Z6WSf_nFfXP2w5IEGNiZ2OwjP3HmIFsnPXu20JxrGuOG3TccfN9w0oKvAiBjje3WBebAMO1_9DQ10MzO6JX0C_ExKKLItK2HwjxLwBucgYyHNilXDa0lezMxK7S_FcBWJ8=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np32Z6WSf_nFfXP2w5IEGNiZ2OwjP3HmIFsnPXu20JxrGuOG3TccfN9w0oKvAiBjje3WBebAMO1_9DQ10MzO6JX0C_ExKKLItK2HwjxLwBucgYyHNilXDa0lezMxK7S_FcBWJ8=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  }
+]
