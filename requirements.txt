@@ -7,3 +7,5 @@ numpy==1.24.3
 requests>=2.32.3
 wikipedia==1.4.0
 wikipedia-api==0.8.1
+ipykernel==6.29.5
+ipython==8.36.0
