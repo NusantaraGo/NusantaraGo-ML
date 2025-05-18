@@ -1,1 +1,59 @@
+# Virtual Environment
 .venv
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.bak
+.DS_Store
+
+# Data dan model besar (opsional)
+# Uncomment jika tidak ingin menyimpan model besar di repo
+# models/*.joblib
+# models/*.pkl
+# Scrape_Data/*.csv
+# Scrape_Data/json/*.json
+
+# Log dan cache
+logs/
+*.log
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Lingkungan
+.env
+.flaskenv

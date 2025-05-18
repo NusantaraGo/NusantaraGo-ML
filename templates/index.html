@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NusantaraGo - API Rekomendasi Wisata</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        margin: 0;
+        padding: 20px;
+        max-width: 1000px;
+        margin: 0 auto;
+      }
+      h1,
+      h2,
+      h3 {
+        color: #2c3e50;
+      }
+      .container {
+        margin-top: 20px;
+      }
+      .endpoint {
+        background-color: #f9f9f9;
+        padding: 15px;
+        margin-bottom: 15px;
+        border-radius: 5px;
+        border-left: 4px solid #3498db;
+      }
+      .endpoint h3 {
+        margin-top: 0;
+      }
+      code {
+        background-color: #f1f1f1;
+        padding: 2px 4px;
+        border-radius: 3px;
+        font-family: monospace;
+      }
+      table {
+        border-collapse: collapse;
+        width: 100%;
+        margin-bottom: 15px;
+      }
+      th,
+      td {
+        text-align: left;
+        padding: 8px;
+        border-bottom: 1px solid #ddd;
+      }
+      th {
+        background-color: #f2f2f2;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>NusantaraGo - API Rekomendasi Wisata Indonesia</h1>
+    <p>
+      Selamat datang di dokumentasi API NusantaraGo. API ini menyediakan
+      berbagai endpoint untuk mendapatkan rekomendasi wisata di Indonesia.
+    </p>
+
+    <div class="container">
+      <h2>Daftar Endpoint</h2>
+
+      <div class="endpoint">
+        <h3>1. Daftar Provinsi</h3>
+        <p><code>GET /api/provinces</code></p>
+        <p>Menampilkan daftar seluruh provinsi yang tersedia.</p>
+      </div>
+
+      <div class="endpoint">
+        <h3>2. Daftar Kategori</h3>
+        <p><code>GET /api/categories</code></p>
+        <p>Menampilkan daftar seluruh kategori tempat wisata yang tersedia.</p>
+      </div>
+
+      <div class="endpoint">
+        <h3>3. Daftar Tempat Wisata</h3>
+        <p><code>GET /api/attractions</code></p>
+        <p>Menampilkan daftar tempat wisata dengan berbagai filter.</p>
+        <h4>Parameter:</h4>
+        <table>
+          <tr>
+            <th>Parameter</th>
+            <th>Deskripsi</th>
+          </tr>
+          <tr>
+            <td>category</td>
+            <td>Filter berdasarkan kategori</td>
+          </tr>
+          <tr>
+            <td>province</td>
+            <td>Filter berdasarkan provinsi</td>
+          </tr>
+          <tr>
+            <td>min_rating</td>
+            <td>Filter rating minimum</td>
+          </tr>
+          <tr>
+            <td>q</td>
+            <td>Pencarian berdasarkan nama</td>
+          </tr>
+          <tr>
+            <td>limit</td>
+            <td>Batas jumlah hasil (default: 50)</td>
+          </tr>
+        </table>
+      </div>
+
+      <div class="endpoint">
+        <h3>4. Detail Tempat Wisata</h3>
+        <p><code>GET /api/attraction/{nama}</code></p>
+        <p>Menampilkan detail tempat wisata berdasarkan nama.</p>
+      </div>
+
+      <div class="endpoint">
+        <h3>5. Rekomendasi Berbasis Konten</h3>
+        <p><code>GET /api/recommendations/content</code></p>
+        <p>
+          Mendapatkan rekomendasi tempat wisata berdasarkan kemiripan dengan
+          tempat wisata tertentu.
+        </p>
+        <h4>Parameter:</h4>
+        <table>
+          <tr>
+            <th>Parameter</th>
+            <th>Deskripsi</th>
+          </tr>
+          <tr>
+            <td>name</td>
+            <td>Nama tempat wisata yang menjadi acuan (wajib)</td>
+          </tr>
+          <tr>
+            <td>limit</td>
+            <td>Batas jumlah hasil (default: 10)</td>
+          </tr>
+        </table>
+      </div>
+
+      <div class="endpoint">
+        <h3>6. Rekomendasi Berdasarkan Popularitas</h3>
+        <p><code>GET /api/recommendations/popularity</code></p>
+        <p>Mendapatkan rekomendasi tempat wisata berdasarkan popularitas.</p>
+        <h4>Parameter:</h4>
+        <table>
+          <tr>
+            <th>Parameter</th>
+            <th>Deskripsi</th>
+          </tr>
+          <tr>
+            <td>category</td>
+            <td>Filter berdasarkan kategori</td>
+          </tr>
+          <tr>
+            <td>province</td>
+            <td>Filter berdasarkan provinsi</td>
+          </tr>
+          <tr>
+            <td>limit</td>
+            <td>Batas jumlah hasil (default: 10)</td>
+          </tr>
+        </table>
+      </div>
+
+      <div class="endpoint">
+        <h3>7. Rekomendasi Berdasarkan Lokasi</h3>
+        <p><code>GET /api/recommendations/location</code></p>
+        <p>
+          Mendapatkan rekomendasi tempat wisata berdasarkan kedekatan lokasi.
+        </p>
+        <h4>Parameter:</h4>
+        <table>
+          <tr>
+            <th>Parameter</th>
+            <th>Deskripsi</th>
+          </tr>
+          <tr>
+            <td>lat</td>
+            <td>Latitude lokasi pengguna (wajib)</td>
+          </tr>
+          <tr>
+            <td>lon</td>
+            <td>Longitude lokasi pengguna (wajib)</td>
+          </tr>
+          <tr>
+            <td>max_distance</td>
+            <td>Jarak maksimum dalam kilometer (default: 50)</td>
+          </tr>
+          <tr>
+            <td>limit</td>
+            <td>Batas jumlah hasil (default: 10)</td>
+          </tr>
+        </table>
+      </div>
+
+      <div class="endpoint">
+        <h3>8. Rekomendasi Hybrid</h3>
+        <p><code>GET /api/recommendations/hybrid</code></p>
+        <p>
+          Mendapatkan rekomendasi tempat wisata menggunakan pendekatan hybrid
+          yang menggabungkan berbagai metode rekomendasi.
+        </p>
+        <h4>Parameter:</h4>
+        <table>
+          <tr>
+            <th>Parameter</th>
+            <th>Deskripsi</th>
+          </tr>
+          <tr>
+            <td>name</td>
+            <td>Nama tempat wisata yang menjadi acuan</td>
+          </tr>
+          <tr>
+            <td>lat</td>
+            <td>Latitude lokasi pengguna</td>
+          </tr>
+          <tr>
+            <td>lon</td>
+            <td>Longitude lokasi pengguna</td>
+          </tr>
+          <tr>
+            <td>category</td>
+            <td>Filter berdasarkan kategori</td>
+          </tr>
+          <tr>
+            <td>province</td>
+            <td>Filter berdasarkan provinsi</td>
+          </tr>
+          <tr>
+            <td>max_distance</td>
+            <td>Jarak maksimum dalam kilometer (default: 50)</td>
+          </tr>
+          <tr>
+            <td>limit</td>
+            <td>Batas jumlah hasil (default: 10)</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+
+    <footer>
+      <p>&copy; 2025 NusantaraGo. Proyek Capstone DBS.</p>
+    </footer>
+  </body>
+</html>
