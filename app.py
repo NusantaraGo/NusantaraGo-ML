@@ -1,9 +1,19 @@
-"""
-Aplikasi Flask untuk sistem rekomendasi tempat wisata
-"""
-from flask import Flask, request, jsonify, render_template
-from dotenv import load_dotenv
 import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2' # Menyembunyikan pesan INFO dan WARNING TensorFlow
+
+"""
+Aplikasi Flask untuk sistem rekomendasi tempat wisata dan chatbot
+"""
+from flask import Flask, request, jsonify, render_template, redirect, url_for
+from dotenv import load_dotenv
+import sys
+from pathlib import Path
+import logging
+from logging.handlers import RotatingFileHandler
+import traceback
+
+# Tambahkan path untuk import modul
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 from src.recommender import (
     TourismRecommender, 
@@ -12,20 +22,63 @@ from src.recommender import (
     get_available_provinces,
     format_recommendation_results,
     get_attraction_details,
-    filter_attractions
+    filter_attractions,
+    calculate_popularity_score
 )
+
+# Import chatbot api blueprint
+from src.chatbot.api.chatbot_api import chatbot_bp
 
 # Load environment variables
 load_dotenv()
 
+# Konfigurasi logging
+def setup_logger():
+    """
+    Mengatur logger untuk aplikasi
+    """
+    # Buat direktori logs jika belum ada
+    os.makedirs('logs', exist_ok=True)
+    
+    # Konfigurasi logger
+    logger = logging.getLogger('nusantarago')
+    logger.setLevel(logging.INFO)
+    
+    # Format log
+    formatter = logging.Formatter(
+        '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+    )
+    
+    # Handler untuk file log (rotating file handler)
+    file_handler = RotatingFileHandler(
+        'logs/nusantarago.log',
+        maxBytes=1024 * 1024,  # 1MB
+        backupCount=5
+    )
+    file_handler.setFormatter(formatter)
+    logger.addHandler(file_handler)
+    
+    # Handler untuk console
+    console_handler = logging.StreamHandler()
+    console_handler.setFormatter(formatter)
+    logger.addHandler(console_handler)
+    
+    return logger
+
+# Inisialisasi logger
+logger = setup_logger()
+
 app = Flask(__name__)
 app.config['JSON_SORT_KEYS'] = False
 
-# Inisialisasi model
+# Register chatbot blueprint
+app.register_blueprint(chatbot_bp, url_prefix='/api/chatbot')
+
+# Inisialisasi model rekomendasi
 MODEL_PATH = os.getenv('MODEL_PATH', 'models/recommendation_model.joblib')
 DATA_PATH = os.getenv('DATA_PATH', 'Scrape_Data/tempat_wisata_indonesia.csv')
 
-# Global variables untuk menyimpan model dan data
+# Global variables untuk menyimpan model dan data rekomendasi
 recommender = None
 df = None
 categories = None
@@ -33,40 +86,104 @@ provinces = None
 
 def load_model_and_data():
     """
-    Memuat model dan data
+    Memuat model rekomendasi dan data wisata
     """
     global recommender, df, categories, provinces
-    
-    # Muat model rekomendasi
+
+    recommender = TourismRecommender()
+
+    # Coba muat model terlebih dahulu
     try:
-        recommender = TourismRecommender()
         recommender.load_model(MODEL_PATH)
-        print(f"Model berhasil dimuat dari {MODEL_PATH}")
-    except Exception as e:
-        print(f"Error saat memuat model: {str(e)}")
-        print("Model belum ada. Coba latih model terlebih dahulu dengan menjalankan train_model.py")
-        return False
-    
-    # Muat data CSV
-    try:
-        df = load_csv_data(DATA_PATH)
+        logger.info(f"Model rekomendasi berhasil dimuat dari {MODEL_PATH}")
+        
+        # Gunakan df dan df_popular dari model yang dimuat
+        df = recommender.df
+        # Pastikan df_popular juga dimuat
+        if recommender.df_popular is None:
+            logger.warning("df_popular tidak ditemukan dalam model yang dimuat. Menghitung ulang...")
+            # Jika df_popular tidak ada di model yang dimuat, hitung ulang dari df yang ada di model
+            recommender.df_popular = calculate_popularity_score(df)
+            logger.info("df_popular berhasil dihitung ulang.")
+            
         categories = get_available_categories(df)
         provinces = get_available_provinces(df)
-        print(f"Data berhasil dimuat dari {DATA_PATH}")
-        print(f"Jumlah data: {len(df)}")
-        print(f"Jumlah kategori: {len(categories)}")
-        print(f"Jumlah provinsi: {len(provinces)}")
-        return True
-    except Exception as e:
-        print(f"Error saat memuat data CSV: {str(e)}")
-        return False
+        logger.info(f"Data dari model dimuat. Jumlah data: {len(df)}")
+        return True # Berhasil memuat model dan data dari file
+
+    except FileNotFoundError:
+        logger.warning(f"File model rekomendasi tidak ditemukan di {MODEL_PATH}. Memproses data mentah dan melatih model baru...")
+        # Jika file model tidak ada, muat data mentah, proses, latih, dan simpan
+        try:
+            df_raw = load_csv_data(DATA_PATH)
+            recommender.fit(df_raw) # Melatih model juga mengisi recommender.df dan recommender.df_popular
+            recommender.save_model(MODEL_PATH)
+            
+            # Gunakan df dan df_popular dari model yang baru dilatih
+            df = recommender.df
+            categories = get_available_categories(df)
+            provinces = get_available_provinces(df)
+            logger.info(f"Model baru berhasil dilatih dan disimpan ke {MODEL_PATH}")
+            logger.info(f"Data dari pelatihan digunakan. Jumlah data: {len(df)}")
+            return True # Berhasil melatih model baru
+
+        except Exception as e_train:
+            logger.error(f"Error saat memuat data mentah atau melatih model baru: {str(e_train)}\n{traceback.format_exc()}")
+            recommender = None # Set recommender ke None jika pelatihan gagal
+            df = None
+            categories = None
+            provinces = None
+            return False # Gagal melatih model baru
+
+    except Exception as e_load:
+        logger.error(f"Error saat memuat model rekomendasi dari {MODEL_PATH}: {str(e_load)}\n{traceback.format_exc()}")
+        # Jika ada error lain saat memuat file model, coba proses data mentah sebagai fallback
+        logger.warning("Mencoba memproses data mentah sebagai fallback...")
+        try:
+            df_raw = load_csv_data(DATA_PATH)
+            recommender.fit(df_raw) # Melatih model juga mengisi recommender.df dan recommender.df_popular
+            # Tidak perlu menyimpan model jika proses fallback ini terjadi karena mungkin ada isu dengan I/O
+            
+            # Gunakan df dan df_popular dari model yang diproses fallback
+            df = recommender.df
+            categories = get_available_categories(df)
+            provinces = get_available_provinces(df)
+            logger.info(f"Data diproses ulang dari mentah sebagai fallback. Jumlah data: {len(df)}")
+            return True # Berhasil memproses data mentah sebagai fallback
+            
+        except Exception as e_fallback:
+             logger.error(f"Error saat memproses data mentah sebagai fallback: {str(e_fallback)}\n{traceback.format_exc()}")
+             recommender = None
+             df = None
+             categories = None
+             provinces = None
+             return False # Gagal total
+
+    # Ini seharusnya tidak tercapai, tapi sebagai safety net
+    logger.error("load_model_and_data mencapai akhir tanpa hasil yang jelas.")
+    return False
 
 @app.route('/')
 def index():
     """
-    Halaman utama
+    Halaman utama - Selamat datang
     """
-    return render_template('index.html', categories=categories, provinces=provinces)
+    return render_template('home.html') # Render home.html
+
+@app.route('/dokumentasi')
+def dokumentasi_api():
+    """
+    Halaman dokumentasi API
+    """
+    return render_template('dokumentasi.html') # Render dokumentasi.html
+
+@app.route('/chatbot')
+def chatbot_page():
+    """
+    Halaman chatbot
+    """
+    # Asumsikan chatbot_enabled selalu True jika IntentChatbot berhasil dimuat
+    return render_template('chatbot.html')
 
 @app.route('/api/provinces')
 def get_provinces():
@@ -87,25 +204,44 @@ def get_attractions():
     """
     Mendapatkan daftar tempat wisata dengan filter
     """
+    global df # Pastikan menggunakan df global yang sudah diproses
+
+    if df is None:
+         # Coba muat ulang data jika belum ada (misal setelah hot-reload atau error sebelumnya)
+        if not load_model_and_data():
+             return jsonify({"error": "Gagal memuat data tempat wisata."}), 500
+    
     category = request.args.get('category')
     province = request.args.get('province')
     min_rating = request.args.get('min_rating')
     if min_rating:
-        min_rating = float(min_rating)
+        try:
+            min_rating = float(min_rating)
+        except ValueError:
+            return jsonify({"error": "Nilai min_rating harus berupa angka."}), 400
+
     search_query = request.args.get('q')
-    
-    # Terapkan filter
+
+    # Terapkan filter pada df yang sudah diproses
+    # Pastikan filter_attractions bisa menangani df dengan kategori_list
     filtered_df = filter_attractions(df, category, province, min_rating, search_query=search_query)
-    
+
     # Urutkan berdasarkan rating
-    filtered_df = filtered_df.sort_values('rating', ascending=False)
-    
+    # Pastikan kolom 'rating' ada di df yang diproses
+    if 'rating' in filtered_df.columns:
+        filtered_df = filtered_df.sort_values('rating', ascending=False)
+    else:
+         # Fallback sorting jika rating tidak ada (harusnya tidak terjadi setelah preprocessing)
+         print("Peringatan: Kolom 'rating' tidak ditemukan untuk sorting di /api/attractions.")
+
+
     # Batasi jumlah hasil
     limit = request.args.get('limit', 50, type=int)
     filtered_df = filtered_df.head(limit)
-    
+
     # Format hasil
     results = []
+    # Menggunakan kolom yang sudah diproses, termasuk 'kategori_list'
     for _, row in filtered_df.iterrows():
         results.append({
             "id": int(row["id"]) if "id" in row else None,
@@ -113,48 +249,103 @@ def get_attractions():
             "provinsi": row["provinsi"],
             "rating": round(row["rating"], 1) if "rating" in row else None,
             "jumlah_review": int(row["jumlah_review"]) if "jumlah_review" in row else None,
+            # Mengambil kategori dari 'kategori_list'
             "kategori": row["kategori_list"] if "kategori_list" in row else None
         })
-    
+
     return jsonify(results)
 
 @app.route('/api/attraction/<name>')
 def get_attraction(name):
     """
-    Mendapatkan detail tempat wisata berdasarkan nama
+    Mendapatkan detail tempat wisata berdasarkan nama (pencarian fleksibel)
     """
+    global df # Pastikan menggunakan df global yang sudah diproses
+
+    if df is None:
+         # Coba muat ulang data jika belum ada
+        if not load_model_and_data():
+             return jsonify({"error": "Gagal memuat data tempat wisata."}), 500
+
+    # Gunakan fungsi pencarian detail yang lebih fleksibel
+    # Asumsikan get_attraction_details di src/recommender/__init__.py
+    # sudah diimplementasikan untuk pencarian fleksibel
     details = get_attraction_details(df, name)
-    return jsonify(details)
+
+    # Periksa jika hasil adalah error dictionary dari get_attraction_details
+    if isinstance(details, dict) and "error" in details:
+        # Log error jika bukan 'tidak ditemukan'
+        if "tidak ditemukan" not in details["error"]:
+             logger.error(f"Error dari get_attraction_details untuk '{name}': {details['error']}")
+        return jsonify({"error": details["error"]}), 404 # Kembalikan 404 jika tidak ditemukan atau error spesifik
+
+    # Format hasil sebelum dikirim
+    try:
+        formatted_details = {
+            "id": int(details["id"]) if "id" in details else None,
+            "nama": details["nama"],
+            "alamat": details["alamat"],
+            "rating": round(details["rating"], 1) if "rating" in details else None,
+            "jumlah_review": int(details["jumlah_review"]) if "jumlah_review" in details else None,
+            "deskripsi": details.get("deskripsi"), # Gunakan .get() untuk keamanan
+            "koordinat": {
+                "lat": details.get("latitude"), # Akses latitude dan longitude langsung
+                "lon": details.get("longitude")
+            },
+            "url": details.get("url"),
+            "provinsi": details.get("provinsi"),
+            # Mengambil kategori dari 'kategori_list'
+            "kategori": details["kategori_list"] if "kategori_list" in details else None,
+            "foto": details["foto"] # Asumsikan foto sudah berupa list string di df
+        }
+        return jsonify(formatted_details)
+    except Exception as e:
+        logger.error(f"Error saat memformat hasil get_attraction_details untuk '{name}': {str(e)}\n{traceback.format_exc()}")
+        return jsonify({"error": f"Terjadi kesalahan: {str(e)}"}), 500
 
 @app.route('/api/recommendations/content')
 def content_recommendations():
     """
     Mendapatkan rekomendasi berdasarkan content
     """
-    name = request.args.get('name')
-    if not name:
-        return jsonify({"error": "Parameter 'name' harus diberikan"})
-    
-    top_n = request.args.get('limit', 10, type=int)
-    
-    recommendations = recommender.content_based_recommendations(name, top_n=top_n)
-    results = format_recommendation_results(recommendations)
-    
-    return jsonify(results)
+    try:
+        name = request.args.get('name')
+        if not name:
+            logger.warning("Parameter 'name' tidak diberikan pada endpoint content_recommendations")
+            return jsonify({"error": "Parameter 'name' harus diberikan"}), 400
+        
+        top_n = request.args.get('limit', 10, type=int)
+        logger.info(f"Meminta rekomendasi content-based untuk '{name}' dengan limit {top_n}")
+        
+        recommendations = recommender.content_based_recommendations(name, top_n=top_n)
+        results = format_recommendation_results(recommendations)
+        
+        logger.info(f"Berhasil memberikan {len(results)} rekomendasi content-based untuk '{name}'")
+        return jsonify(results)
+    except Exception as e:
+        logger.error(f"Error pada endpoint content_recommendations: {str(e)}\n{traceback.format_exc()}")
+        return jsonify({"error": f"Terjadi kesalahan: {str(e)}"}), 500
 
 @app.route('/api/recommendations/popularity')
 def popularity_recommendations():
     """
     Mendapatkan rekomendasi berdasarkan popularitas
     """
-    category = request.args.get('category')
-    province = request.args.get('province')
-    top_n = request.args.get('limit', 10, type=int)
-    
-    recommendations = recommender.popularity_based_recommendations(category, province, top_n=top_n)
-    results = format_recommendation_results(recommendations)
-    
-    return jsonify(results)
+    try:
+        category = request.args.get('category')
+        province = request.args.get('province')
+        top_n = request.args.get('limit', 10, type=int)
+        
+        logger.info(f"Meminta rekomendasi popularity-based (category={category}, province={province}, limit={top_n})")
+        
+        recommendations = recommender.popularity_based_recommendations(category, province, top_n=top_n)
+        results = format_recommendation_results(recommendations)
+        
+        logger.info(f"Berhasil memberikan {len(results)} rekomendasi popularity-based")
+        return jsonify(results)
+    except Exception as e:
+        logger.error(f"Error pada endpoint popularity_recommendations: {str(e)}\n{traceback.format_exc()}")
+        return jsonify({"error": f"Terjadi kesalahan: {str(e)}"}), 500
 
 @app.route('/api/recommendations/location')
 def location_recommendations():
@@ -166,17 +357,25 @@ def location_recommendations():
         lon = request.args.get('lon', type=float)
         
         if lat is None or lon is None:
-            return jsonify({"error": "Parameter 'lat' dan 'lon' harus diberikan"})
+            logger.warning("Parameter 'lat' atau 'lon' tidak diberikan pada endpoint location_recommendations")
+            return jsonify({"error": "Parameter 'lat' dan 'lon' harus diberikan"}), 400
         
         max_distance = request.args.get('max_distance', 50, type=int)
         top_n = request.args.get('limit', 10, type=int)
         
+        logger.info(f"Meminta rekomendasi location-based untuk koordinat ({lat}, {lon}) dengan max_distance={max_distance}, limit={top_n}")
+        
         recommendations = recommender.location_based_recommendations(lat, lon, max_distance, top_n=top_n)
         results = format_recommendation_results(recommendations)
         
+        logger.info(f"Berhasil memberikan {len(results)} rekomendasi location-based")
         return jsonify(results)
+    except ValueError as ve:
+        logger.warning(f"Parameter tidak valid pada endpoint location_recommendations: {str(ve)}")
+        return jsonify({"error": str(ve)}), 400
     except Exception as e:
-        return jsonify({"error": f"Error: {str(e)}"})
+        logger.error(f"Error pada endpoint location_recommendations: {str(e)}\n{traceback.format_exc()}")
+        return jsonify({"error": f"Terjadi kesalahan: {str(e)}"}), 500
 
 @app.route('/api/recommendations/hybrid')
 def hybrid_recommendations():
@@ -185,15 +384,17 @@ def hybrid_recommendations():
     """
     try:
         name = request.args.get('name')
-        
         lat = request.args.get('lat', type=float)
         lon = request.args.get('lon', type=float)
-        
         category = request.args.get('category')
         province = request.args.get('province')
-        
         max_distance = request.args.get('max_distance', 50, type=int)
         top_n = request.args.get('limit', 10, type=int)
+        
+        logger.info(
+            f"Meminta rekomendasi hybrid (name={name}, lat={lat}, lon={lon}, "
+            f"category={category}, province={province}, max_distance={max_distance}, limit={top_n})"
+        )
         
         recommendations = recommender.hybrid_recommendations(
             name=name, 
@@ -207,17 +408,26 @@ def hybrid_recommendations():
         
         results = format_recommendation_results(recommendations)
         
+        logger.info(f"Berhasil memberikan {len(results)} rekomendasi hybrid")
         return jsonify(results)
+    except ValueError as ve:
+        logger.warning(f"Parameter tidak valid pada endpoint hybrid_recommendations: {str(ve)}")
+        return jsonify({"error": str(ve)}), 400
     except Exception as e:
-        return jsonify({"error": f"Error: {str(e)}"})
+        logger.error(f"Error pada endpoint hybrid_recommendations: {str(e)}\n{traceback.format_exc()}")
+        return jsonify({"error": f"Terjadi kesalahan: {str(e)}"}), 500
 
 if __name__ == '__main__':
-    # Muat model dan data
-    if load_model_and_data():
-        print("Aplikasi siap dijalankan!")
-        # Jalankan aplikasi
-        debug_mode = os.getenv('FLASK_DEBUG', 'False').lower() == 'true'
-        port = int(os.getenv('PORT', 5000))
-        app.run(debug=debug_mode, host='0.0.0.0', port=port)
-    else:
-        print("Gagal memuat model atau data. Aplikasi tidak dapat dijalankan.") 
+    # Muat model dan data rekomendasi
+    try:
+        if load_model_and_data():
+            logger.info("Model dan data berhasil dimuat. Aplikasi siap dijalankan!")
+            # Jalankan aplikasi
+            debug_mode = os.getenv('FLASK_DEBUG', 'True').lower() == 'true'
+            port = int(os.getenv('PORT', 5000))
+            app.run(debug=debug_mode, host='0.0.0.0', port=port)
+        else:
+            logger.error("Gagal memuat model atau data. Aplikasi tidak dapat dijalankan.")
+    except Exception as e:
+        logger.critical(f"Error fatal saat menjalankan aplikasi: {str(e)}\n{traceback.format_exc()}")
+        sys.exit(1) 

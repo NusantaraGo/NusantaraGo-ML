@@ -80,6 +80,10 @@ def format_recommendation_results(recommendations):
             "kategori": row["kategori_list"] if "kategori_list" in row else None
         }
         
+        # Tambahkan ID jika kolom 'id' ada di DataFrame
+        if 'id' in row:
+             item["id"] = int(row["id"])
+        
         # Tambahkan jarak jika ada
         if "distance" in row:
             item["jarak"] = round(row["distance"], 2)
@@ -98,18 +102,36 @@ def format_recommendation_results(recommendations):
 
 def get_attraction_details(df, name):
     """
-    Mendapatkan detail tempat wisata berdasarkan nama
+    Mendapatkan detail tempat wisata berdasarkan nama (pencarian fleksibel)
     """
     try:
-        # Cari tempat wisata dengan nama yang sama
-        attraction = df[df["nama"] == name]
-        
+        # Lakukan preprocessing pada nama input untuk pencarian fleksibel
+        processed_name = name.lower() # Konversi ke lowercase
+        processed_name = ''.join(e for e in processed_name if e.isalnum()) # Hapus non-alfanumerik
+
+        # Lakukan preprocessing pada kolom nama di DataFrame
+        # Tambahkan kolom sementara untuk pencarian
+        df['_processed_nama'] = df['nama'].str.lower()
+        df['_processed_nama'] = df['_processed_nama'].apply(lambda x: ''.join(e for e in x if e.isalnum()) if isinstance(x, str) else '')
+
+        # Cari tempat wisata dengan nama yang diproses yang sama
+        attraction = df[df["_processed_nama"] == processed_name]
+
+        # Hapus kolom sementara
+        df = df.drop(columns=['_processed_nama'])
+
         if attraction.empty:
-            return {"error": f"Tempat wisata dengan nama '{name}' tidak ditemukan."}
-        
-        # Ambil data pertama jika ada lebih dari satu
+            # Coba cari berdasarkan substring jika pencarian persis gagal
+            substring_match = df[df['nama'].str.lower().str.contains(processed_name, na=False)]
+            if not substring_match.empty:
+                 attraction = substring_match.iloc[0]
+                 print(f"Menggunakan pencarian substring untuk '{name}', ditemukan '{attraction['nama']}'")
+            else:
+                 return {"error": f"Tempat wisata dengan nama '{name}' tidak ditemukan."}
+
+        # Ambil data pertama jika ada lebih dari satu (setelah pencarian fleksibel)
         attraction = attraction.iloc[0]
-        
+
         # Format data
         details = {
             "id": int(attraction["id"]) if "id" in attraction else None,
@@ -121,7 +143,8 @@ def get_attraction_details(df, name):
             "deskripsi": attraction["deskripsi"] if not pd.isna(attraction["deskripsi"]) else None,
             "url": attraction["url"] if "url" in attraction and not pd.isna(attraction["url"]) else None,
             "foto": ast.literal_eval(attraction["foto"]) if "foto" in attraction and isinstance(attraction["foto"], str) else None,
-            "kategori": ast.literal_eval(attraction["kategori"]) if isinstance(attraction["kategori"], str) else None
+            "kategori": attraction["kategori_list"] if "kategori_list" in attraction and isinstance(attraction["kategori_list"], list) else 
+                        (ast.literal_eval(attraction["kategori"]) if "kategori" in attraction and isinstance(attraction["kategori"], str) else None)
         }
         
         # Tambahkan koordinat jika ada
@@ -143,16 +166,20 @@ def filter_attractions(df, category=None, province=None, min_rating=None, max_ra
     """
     filtered_df = df.copy()
     
-    # Filter berdasarkan kategori
+    # Filter berdasarkan kategori (case-insensitive)
     if category:
+        category_lower = category.lower()
+        # Pastikan kolom kategori_list ada dan isinya list sebelum apply filter
         if 'kategori_list' in filtered_df.columns:
-            filtered_df = filtered_df[filtered_df['kategori_list'].apply(lambda x: category in x if isinstance(x, list) else False)]
-        else:
-            filtered_df = filtered_df[filtered_df['kategori'].apply(lambda x: category in ast.literal_eval(x) if isinstance(x, str) else False)]
+            filtered_df = filtered_df[filtered_df['kategori_list'].apply(lambda x: any(cat.lower() == category_lower for cat in x) if isinstance(x, list) else False)]
+        # Jika tidak ada kategori_list, coba pakai kolom kategori mentah (fallback, case-insensitive)
+        elif 'kategori' in filtered_df.columns:
+             filtered_df = filtered_df[filtered_df['kategori'].apply(lambda x: any(cat.lower() == category_lower for cat in ast.literal_eval(x)) if isinstance(x, str) else False)]
     
-    # Filter berdasarkan provinsi
+    # Filter berdasarkan provinsi (case-insensitive)
     if province:
-        filtered_df = filtered_df[filtered_df['provinsi'] == province]
+        province_lower = province.lower()
+        filtered_df = filtered_df[filtered_df['provinsi'].str.lower() == province_lower]
     
     # Filter berdasarkan rating minimum
     if min_rating is not None:

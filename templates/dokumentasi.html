@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NusantaraGo - Dokumentasi API</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        margin: 0;
+        padding: 20px;
+        max-width: 1000px;
+        margin: 0 auto;
+      }
+      h1,
+      h2,
+      h3 {
+        color: #2c3e50;
+      }
+      .container {
+        margin-top: 20px;
+      }
+      .endpoint {
+        background-color: #f9f9f9;
+        padding: 15px;
+        margin-bottom: 15px;
+        border-radius: 5px;
+        border-left: 4px solid #3498db;
+      }
+      .endpoint h3 {
+        margin-top: 0;
+      }
+      code {
+        background-color: #f1f1f1;
+        padding: 2px 4px;
+        border-radius: 3px;
+        font-family: monospace;
+      }
+      table {
+        border-collapse: collapse;
+        width: 100%;
+        margin-bottom: 15px;
+      }
+      th,
+      td {
+        text-align: left;
+        padding: 8px;
+        border-bottom: 1px solid #ddd;
+      }
+      th {
+        background-color: #f2f2f2;
+      }
+      .method {
+        font-weight: bold;
+        margin-right: 10px;
+      }
+      .method.get {
+        color: #28a745;
+      } /* Green */
+      .method.post {
+        color: #007bff;
+      } /* Blue */
+    </style>
+  </head>
+  <body>
+    <h1>NusantaraGo - Dokumentasi API</h1>
+    <p>
+      Selamat datang di dokumentasi API NusantaraGo. API ini menyediakan
+      berbagai endpoint untuk mendapatkan rekomendasi wisata dan berinteraksi
+      dengan chatbot wisata di Indonesia.
+    </p>
+
+    <div class="container">
+      <h2>Endpoint API Rekomendasi Wisata</h2>
+      <p>Base URL: <code>/api</code></p>
+
+      <div class="endpoint">
+        <h3>Daftar Provinsi</h3>
+        <p><span class="method get">GET</span> <code>/api/provinces</code></p>
+        <p>
+          Mengambil daftar seluruh provinsi yang datanya tersedia dalam sistem.
+        </p>
+        <h4>Respons Sukses (200 OK):</h4>
+        <p>Array JSON berisi nama-nama provinsi. Contoh:</p>
+        <pre><code>["Aceh", "Sumatera Utara", ..., "Papua"]</code></pre>
+      </div>
+
+      <div class="endpoint">
+        <h3>Daftar Kategori</h3>
+        <p><span class="method get">GET</span> <code>/api/categories</code></p>
+        <p>
+          Mengambil daftar seluruh kategori tempat wisata yang tersedia dalam
+          sistem.
+        </p>
+        <h4>Respons Sukses (200 OK):</h4>
+        <p>Array JSON berisi nama-nama kategori. Contoh:</p>
+        <pre><code>["Alam", "Budaya", "Kuliner", ..., "Religi"]</code></pre>
+      </div>
+
+      <div class="endpoint">
+        <h3>Daftar Tempat Wisata</h3>
+        <p><span class="method get">GET</span> <code>/api/attractions</code></p>
+        <p>
+          Mengambil daftar tempat wisata. Dapat difilter berdasarkan berbagai
+          kriteria.
+        </p>
+        <h4>Parameter Query:</h4>
+        <table>
+          <tr>
+            <th>Parameter</th>
+            <th>Tipe</th>
+            <th>Deskripsi</th>
+            <th>Contoh</th>
+          </tr>
+          <tr>
+            <td><code>category</code></td>
+            <td>string</td>
+            <td>Filter berdasarkan nama kategori.</td>
+            <td><code>/api/attractions?category=Pantai</code></td>
+          </tr>
+          <tr>
+            <td><code>province</code></td>
+            <td>string</td>
+            <td>Filter berdasarkan nama provinsi.</td>
+            <td><code>/api/attractions?province=Bali</code></td>
+          </tr>
+          <tr>
+            <td><code>min_rating</code></td>
+            <td>float</td>
+            <td>Filter rating minimum (skala 0-5).</td>
+            <td><code>/api/attractions?min_rating=4.5</code></td>
+          </tr>
+          <tr>
+            <td><code>q</code></td>
+            <td>string</td>
+            <td>Pencarian teks bebas pada nama tempat wisata.</td>
+            <td><code>/api/attractions?q=candi</code></td>
+          </tr>
+          <tr>
+            <td><code>limit</code></td>
+            <td>integer</td>
+            <td>Maksimal jumlah hasil yang dikembalikan (default: 50).</td>
+            <td><code>/api/attractions?limit=10</code></td>
+          </tr>
+        </table>
+        <h4>Respons Sukses (200 OK):</h4>
+        <p>Array JSON berisi objek tempat wisata.</p>
+        <pre><code>[
+  {
+    "id": 123,
+    "nama": "Nama Tempat Wisata",
+    "provinsi": "Nama Provinsi",
+    "rating": 4.7,
+    "jumlah_review": 1200,
+    "kategori": ["Kategori1", "Kategori2"]
+  },
+  ...
+]</code></pre>
+      </div>
+
+      <div class="endpoint">
+        <h3>Detail Tempat Wisata</h3>
+        <p>
+          <span class="method get">GET</span>
+          <code>/api/attraction/{nama}</code>
+        </p>
+        <p>
+          Mengambil detail lengkap dari satu tempat wisata berdasarkan namanya.
+        </p>
+        <h4>Parameter Path:</h4>
+        <table>
+          <tr>
+            <th>Parameter</th>
+            <th>Tipe</th>
+            <th>Deskripsi</th>
+            <th>Contoh</th>
+          </tr>
+          <tr>
+            <td><code>nama</code></td>
+            <td>string</td>
+            <td>Nama lengkap tempat wisata (case-sensitive, URL-encoded).</td>
+            <td><code>/api/attraction/Candi%20Borobudur</code></td>
+          </tr>
+        </table>
+        <h4>Respons Sukses (200 OK):</h4>
+        <p>
+          Objek JSON berisi detail tempat wisata, termasuk deskripsi, lokasi,
+          dll.
+        </p>
+        <pre><code>{
+  "id": 123,
+  "nama": "Nama Tempat Wisata",
+  "provinsi": "Nama Provinsi",
+  "rating": 4.7,
+  "jumlah_review": 1200,
+  "kategori": ["Kategori1", "Kategori2"],
+  "deskripsi": "Deskripsi lengkap tentang tempat ini.",
+  "alamat": "Alamat lengkap.",
+  "jam_buka": "Jam operasional.",
+  "harga_tiket": "Informasi harga tiket.",
+  "koordinat": {"lat": -7.something, "lon": 110.something},
+  "sumber": "Sumber data (misal: Google Maps)"
+}</code></pre>
+        <h4>Respons Error (404 Not Found):</h4>
+        <p>Jika tempat wisata dengan nama tersebut tidak ditemukan.</p>
+        <pre><code>{
+  "error": "Attraction not found"
+}</code></pre>
+      </div>
+
+      <div class="endpoint">
+        <h3>Rekomendasi Berbasis Konten</h3>
+        <p>
+          <span class="method get">GET</span>
+          <code>/api/recommendations/content</code>
+        </p>
+        <p>
+          Mendapatkan rekomendasi tempat wisata berdasarkan kemiripan fitur
+          dengan tempat wisata yang menjadi acuan.
+        </p>
+        <h4>Parameter Query:</h4>
+        <table>
+          <tr>
+            <th>Parameter</th>
+            <th>Tipe</th>
+            <th>Deskripsi</th>
+            <th>Contoh</th>
+          </tr>
+          <tr>
+            <td><code>name</code></td>
+            <td>string</td>
+            <td>
+              Nama lengkap tempat wisata yang menjadi acuan rekomendasi (wajib).
+            </td>
+            <td>
+              <code
+                >/api/recommendations/content?name=Pantai%20Kuta%20Bali</code
+              >
+            </td>
+          </tr>
+          <tr>
+            <td><code>limit</code></td>
+            <td>integer</td>
+            <td>Maksimal jumlah rekomendasi (default: 10).</td>
+            <td>
+              <code
+                >/api/recommendations/content?name=Pantai%20Kuta%20Bali&limit=5</code
+              >
+            </td>
+          </tr>
+        </table>
+        <h4>Respons Sukses (200 OK):</h4>
+        <p>
+          Array JSON berisi objek tempat wisata yang direkomendasikan, mirip
+          dengan format pada endpoint Daftar Tempat Wisata.
+        </p>
+        <h4>Respons Error (400 Bad Request):</h4>
+        <p>Jika parameter 'name' tidak diberikan:</p>
+        <pre><code>{
+  "error": "Parameter 'name' harus diberikan"
+}</code></pre>
+        <h4>Respons Error (500 Internal Server Error):</h4>
+        <p>Jika terjadi kesalahan server:</p>
+        <pre><code>{
+  "error": "Terjadi kesalahan: [pesan error]"
+}</code></pre>
+      </div>
+
+      <div class="endpoint">
+        <h3>Rekomendasi Berdasarkan Popularitas</h3>
+        <p>
+          <span class="method get">GET</span>
+          <code>/api/recommendations/popularity</code>
+        </p>
+        <p>
+          Mendapatkan daftar tempat wisata paling populer. Dapat difilter
+          berdasarkan kategori atau provinsi.
+        </p>
+        <h4>Parameter Query:</h4>
+        <table>
+          <tr>
+            <th>Parameter</th>
+            <th>Tipe</th>
+            <th>Deskripsi</th>
+            <th>Contoh</th>
+          </tr>
+          <tr>
+            <td><code>category</code></td>
+            <td>string</td>
+            <td>Filter popularitas dalam kategori tertentu.</td>
+            <td>
+              <code>/api/recommendations/popularity?category=Gunung</code>
+            </td>
+          </tr>
+          <tr>
+            <td><code>province</code></td>
+            <td>string</td>
+            <td>Filter popularitas dalam provinsi tertentu.</td>
+            <td>
+              <code>/api/recommendations/popularity?province=Jawa%20Timur</code>
+            </td>
+          </tr>
+          <tr>
+            <td><code>limit</code></td>
+            <td>integer</td>
+            <td>Maksimal jumlah rekomendasi (default: 10).</td>
+            <td><code>/api/recommendations/popularity?limit=5</code></td>
+          </tr>
+        </table>
+        <h4>Respons Sukses (200 OK):</h4>
+        <p>
+          Array JSON berisi objek tempat wisata yang direkomendasikan, diurutkan
+          berdasarkan popularitas (misal: rating dan jumlah review).
+        </p>
+        <h4>Respons Error (500 Internal Server Error):</h4>
+        <p>Jika terjadi kesalahan server:</p>
+        <pre><code>{
+  "error": "Terjadi kesalahan: [pesan error]"
+}</code></pre>
+      </div>
+
+      <div class="endpoint">
+        <h3>Rekomendasi Berdasarkan Lokasi</h3>
+        <p>
+          <span class="method get">GET</span>
+          <code>/api/recommendations/location</code>
+        </p>
+        <p>
+          Mendapatkan rekomendasi tempat wisata berdasarkan kedekatan geografis
+          dari titik koordinat tertentu.
+        </p>
+        <h4>Parameter Query:</h4>
+        <table>
+          <tr>
+            <th>Parameter</th>
+            <th>Tipe</th>
+            <th>Deskripsi</th>
+            <th>Contoh</th>
+          </tr>
+          <tr>
+            <td><code>lat</code></td>
+            <td>float</td>
+            <td>Latitude lokasi referensi (wajib).</td>
+            <td><code>/api/recommendations/location?lat=-6.2088</code></td>
+          </tr>
+          <tr>
+            <td><code>lon</code></td>
+            <td>float</td>
+            <td>Longitude lokasi referensi (wajib).</td>
+            <td><code>/api/recommendations/location?lon=106.8456</code></td>
+          </tr>
+          <tr>
+            <td><code>max_distance</code></td>
+            <td>integer</td>
+            <td>
+              Jarak maksimum (dalam kilometer) dari titik referensi (default:
+              50).
+            </td>
+            <td>
+              <code
+                >/api/recommendations/location?lat=-6.2088&lon=106.8456&max_distance=10</code
+              >
+            </td>
+          </tr>
+          <tr>
+            <td><code>limit</code></td>
+            <td>integer</td>
+            <td>Maksimal jumlah rekomendasi (default: 10).</td>
+            <td>
+              <code
+                >/api/recommendations/location?lat=-6.2088&lon=106.8456&limit=5</code
+              >
+            </td>
+          </tr>
+        </table>
+        <h4>Respons Sukses (200 OK):</h4>
+        <p>
+          Array JSON berisi objek tempat wisata yang direkomendasikan, diurutkan
+          berdasarkan jarak terdekat.
+        </p>
+        <h4>Respons Error (400 Bad Request):</h4>
+        <p>Jika parameter 'lat' atau 'lon' tidak diberikan:</p>
+        <pre><code>{
+  "error": "Parameter 'lat' dan 'lon' harus diberikan"
+}</code></pre>
+        <p>Jika koordinat tidak valid:</p>
+        <pre><code>{
+  "error": "Latitude harus berada dalam range -90 sampai 90 derajat"
+}</code></pre>
+        <h4>Respons Error (500 Internal Server Error):</h4>
+        <p>Jika terjadi kesalahan server:</p>
+        <pre><code>{
+  "error": "Terjadi kesalahan: [pesan error]"
+}</code></pre>
+      </div>
+
+      <div class="endpoint">
+        <h3>Rekomendasi Hybrid</h3>
+        <p>
+          <span class="method get">GET</span>
+          <code>/api/recommendations/hybrid</code>
+        </p>
+        <p>
+          Mendapatkan rekomendasi tempat wisata dengan menggabungkan berbagai
+          kriteria: referensi tempat wisata, lokasi, kategori, dan provinsi.
+          Parameter bersifat opsional, API akan menggunakan kombinasi parameter
+          yang diberikan.
+        </p>
+        <h4>Parameter Query:</h4>
+        <table>
+          <tr>
+            <th>Parameter</th>
+            <th>Tipe</th>
+            <th>Deskripsi</th>
+            <th>Contoh</th>
+          </tr>
+          <tr>
+            <td><code>name</code></td>
+            <td>string</td>
+            <td>Nama lengkap tempat wisata referensi.</td>
+            <td>
+              <code>/api/recommendations/hybrid?name=Pantai%20Kuta%20Bali</code>
+            </td>
+          </tr>
+          <tr>
+            <td><code>lat</code></td>
+            <td>float</td>
+            <td>Latitude lokasi pengguna.</td>
+            <td>
+              <code>/api/recommendations/hybrid?lat=-6.2088&lon=106.8456</code>
+            </td>
+          </tr>
+          <tr>
+            <td><code>lon</code></td>
+            <td>float</td>
+            <td>Longitude lokasi pengguna.</td>
+            <td>
+              <code>/api/recommendations/hybrid?lat=-6.2088&lon=106.8456</code>
+            </td>
+          </tr>
+          <tr>
+            <td><code>category</code></td>
+            <td>string</td>
+            <td>Filter berdasarkan kategori.</td>
+            <td><code>/api/recommendations/hybrid?category=Pantai</code></td>
+          </tr>
+          <tr>
+            <td><code>province</code></td>
+            <td>string</td>
+            <td>Filter berdasarkan provinsi.</td>
+            <td><code>/api/recommendations/hybrid?province=Bali</code></td>
+          </tr>
+          <tr>
+            <td><code>max_distance</code></td>
+            <td>integer</td>
+            <td>
+              Jarak maksimum (dalam kilometer) jika menggunakan lokasi (default:
+              50).
+            </td>
+            <td>
+              <code
+                >/api/recommendations/hybrid?lat=-6.2088&lon=106.8456&max_distance=10</code
+              >
+            </td>
+          </tr>
+          <tr>
+            <td><code>limit</code></td>
+            <td>integer</td>
+            <td>Maksimal jumlah rekomendasi (default: 10).</td>
+            <td>
+              <code
+                >/api/recommendations/hybrid?lat=-6.2088&lon=106.8456&limit=5</code
+              >
+            </td>
+          </tr>
+        </table>
+        <h4>Respons Sukses (200 OK):</h4>
+        <p>Array JSON berisi objek tempat wisata yang direkomendasikan.</p>
+        <h4>Respons Error (400 Bad Request):</h4>
+        <p>Jika koordinat tidak valid:</p>
+        <pre><code>{
+  "error": "Latitude harus berada dalam range -90 sampai 90 derajat"
+}</code></pre>
+        <h4>Respons Error (500 Internal Server Error):</h4>
+        <p>Jika terjadi kesalahan server:</p>
+        <pre><code>{
+  "error": "Terjadi kesalahan: [pesan error]"
+}</code></pre>
+      </div>
+    </div>
+
+    <div class="container">
+      <h2>Endpoint API Chatbot</h2>
+      <p>Base URL: <code>/api/chatbot</code></p>
+
+      <div class="endpoint">
+        <h3>Chat dengan Chatbot</h3>
+        <p>
+          <span class="method post">POST</span> <code>/api/chatbot/chat</code>
+        </p>
+        <p>Mengirim pesan ke chatbot dan mendapatkan respons.</p>
+        <h4>Body Permintaan (JSON):</h4>
+        <pre><code>{
+  "message": "Pesan teks dari pengguna",
+  "reset": false  // Opsional, set true untuk mereset percakapan
+}</code></pre>
+        <h4>Respons Sukses (200 OK):</h4>
+        <p>Objek JSON berisi respons chatbot.</p>
+        <pre><code>{
+  "response": "Respons teks dari chatbot"
+}</code></pre>
+        <h4>Respons Error (400 Bad Request):</h4>
+        <p>Jika body permintaan tidak valid atau field 'message' hilang.</p>
+        <pre><code>{
+  "error": "Missing required field: message"
+}</code></pre>
+        <h4>Respons Error (503 Service Unavailable):</h4>
+        <p>Jika model chatbot gagal dimuat saat inisialisasi aplikasi.</p>
+        <pre><code>{
+  "error": "Chatbot model not loaded",
+  "message": "Model chatbot belum siap atau gagal dimuat."
+}</code></pre>
+      </div>
+
+      <div class="endpoint">
+        <h3>Reset Percakapan Chatbot</h3>
+        <p>
+          <span class="method post">POST</span> <code>/api/chatbot/reset</code>
+        </p>
+        <p>
+          Mereset history percakapan chatbot (jika diimplementasikan dalam
+          IntentChatbot).
+        </p>
+        <h4>Body Permintaan (tidak wajib, bisa body kosong {}):</h4>
+        <pre><code>{}</code></pre>
+        <h4>Respons Sukses (200 OK):</h4>
+        <p>Objek JSON konfirmasi reset.</p>
+        <pre><code>{
+  "message": "Conversation history reset successfully (handled by IntentChatbot if implemented)"
+}</code></pre>
+        <h4>Respons Error (503 Service Unavailable):</h4>
+        <p>Jika model chatbot gagal dimuat saat inisialisasi aplikasi.</p>
+        <pre><code>{
+  "error": "Chatbot model not loaded",
+  "message": "Model chatbot belum siap atau gagal dimuat."
+}</code></pre>
+      </div>
+
+      <div class="endpoint">
+        <h3>Dapatkan History Percakapan</h3>
+        <p>
+          <span class="method get">GET</span> <code>/api/chatbot/history</code>
+        </p>
+        <p>
+          Mengambil history percakapan saat ini (jika diimplementasikan dalam
+          IntentChatbot). Saat ini IntentChatbot sederhana tidak menyimpan
+          history, endpoint akan mengembalikan history kosong.
+        </p>
+        <h4>Parameter Query:</h4>
+        <p>Tidak ada parameter.</p>
+        <h4>Respons Sukses (200 OK):</h4>
+        <p>Objek JSON berisi history percakapan (saat ini kosong).</p>
+        <pre><code>{
+  "conversation_history": []
+}</code></pre>
+        <h4>Respons Error (503 Service Unavailable):</h4>
+        <p>Jika model chatbot gagal dimuat saat inisialisasi aplikasi.</p>
+        <pre><code>{
+  "error": "Chatbot model not loaded",
+  "message": "Model chatbot belum siap atau gagal dimuat."
+}</code></pre>
+      </div>
+    </div>
+
+    <footer>
+      <p>&copy; 2025 NusantaraGo. Proyek Capstone DBS.</p>
+    </footer>
+  </body>
+</html>
