@@ -142,41 +142,94 @@ class TourismRecommender:
         recommended_places = self.df.iloc[attraction_indices][['nama', 'provinsi', 'rating', 'jumlah_review', 'kategori_list']]
         recommended_places['similarity_score'] = [i[1] for i in sim_scores]
         
+        # Tambahkan kolom id
+        recommended_places['id'] = self.df.iloc[attraction_indices]['id']
+        
         return recommended_places
     
     def popularity_based_recommendations(self, category=None, province=None, top_n=10):
         """
         Memberikan rekomendasi berdasarkan popularitas
         """
-        if not self.model_loaded:
-            raise ValueError("Model belum dimuat, silakan muat model terlebih dahulu dengan metode load_model()")
+        if not self.model_loaded or self.df_popular is None:
+            raise ValueError("Model atau data popularitas belum dimuat. Silakan latih atau muat model terlebih dahulu.")
         
         filtered_df = self.df_popular.copy()
         
-        # Filter berdasarkan kategori jika diberikan
+        # Filter berdasarkan kategori jika diberikan (case-insensitive)
         if category:
-            filtered_df = filtered_df[filtered_df['kategori_list'].apply(lambda x: category in x)]
+            category_lower = category.lower()
+            filtered_df = filtered_df[filtered_df['kategori_list'].apply(lambda x: any(cat.lower() == category_lower for cat in x) if isinstance(x, list) else False)]
         
-        # Filter berdasarkan provinsi jika diberikan
+        # Filter berdasarkan provinsi jika diberikan (case-insensitive)
         if province:
-            filtered_df = filtered_df[filtered_df['provinsi'] == province]
+            province_lower = province.lower()
+            filtered_df = filtered_df[filtered_df['provinsi'].str.lower() == province_lower]
         
-        # Jika tidak ada hasil yang ditemukan setelah filtering
+        # --- Hitung ulang popularity_score untuk data yang difilter ---
+        # Ini memastikan kolom ada dan skor relevan untuk subset data
         if filtered_df.empty:
-            return "Tidak ada tempat wisata yang cocok dengan kriteria tersebut."
+             # Jika sudah kosong setelah filtering, tidak perlu hitung skor
+             print("Info: filtered_df is empty after initial filtering, skipping popularity score calculation.")
+             return "Tidak ada tempat wisata yang cocok dengan kriteria tersebut."
+
+        # Pastikan kolom 'rating' dan 'jumlah_review' ada untuk perhitungan
+        if 'rating' not in filtered_df.columns or 'jumlah_review' not in filtered_df.columns:
+             print("Critical Error: Rating or review columns missing in filtered data, cannot calculate popularity_score.")
+             return "Error internal: Data rating atau review hilang setelah filtering."
+
+        # Gunakan parameter C dan m dari model yang sudah dilatih dari data penuh
+        # Ini penting agar skor konsisten dengan definisi popularitas global
+        C = self.C
+        m = self.m
         
-        # Urutkan berdasarkan skor popularitas
+        # Jika m (jumlah review minimum) tidak ada di data yang difilter (kasus ekstrim data sedikit),
+        # gunakan m dari model penuh atau fallback ke 0 jika model penuh juga tidak ada m-nya.
+        if m is None:
+            m = self.df_popular['jumlah_review'].quantile(0.90) if self.df_popular is not None and 'jumlah_review' in self.df_popular.columns else 0
+
+        def weighted_rating_filtered(x, m=m, C=C):
+            v = x['jumlah_review']
+            R = x['rating']
+            # Hindari pembagian oleh nol jika m=0 dan v=0
+            if (v + m) == 0:
+                return C # Atau nilai default lain yang masuk akal
+            return (v/(v+m) * R) + (m/(v+m) * C)
+
+        # Hitung popularity score untuk data yang difilter
+        filtered_df['popularity_score'] = filtered_df.apply(weighted_rating_filtered, axis=1)
+        # --------------------------------------------------------------
+
+        # Debugging: Log info DataFrame sebelum sorting (setelah hitung ulang skor)
+        # print(f"Debug (after recalculate): DataFrame columns before sorting: {filtered_df.columns.tolist()}")
+        # print(f"Debug (after recalculate): DataFrame shape before sorting: {filtered_df.shape}")
+
+        # Sekarang kolom popularity_score pasti ada, lakukan sorting
         filtered_df = filtered_df.sort_values('popularity_score', ascending=False)
         
         # Kembalikan top_n tempat wisata yang paling populer
-        return filtered_df[['nama', 'provinsi', 'rating', 'jumlah_review', 'kategori_list', 'popularity_score']].head(top_n)
+        # Pastikan menyertakan kolom 'id'
+        return filtered_df[['id', 'nama', 'provinsi', 'rating', 'jumlah_review', 'kategori_list', 'popularity_score']].head(top_n)
     
+    def _validate_coordinates(self, lat, lon):
+        """
+        Memvalidasi koordinat latitude dan longitude
+        """
+        if lat is not None and (lat < -90 or lat > 90):
+            raise ValueError("Latitude harus berada dalam range -90 sampai 90 derajat")
+        if lon is not None and (lon < -180 or lon > 180):
+            raise ValueError("Longitude harus berada dalam range -180 sampai 180 derajat")
+        return True
+
     def location_based_recommendations(self, lat, lon, max_distance=50, top_n=10):
         """
         Memberikan rekomendasi berdasarkan lokasi geografis
         """
         if not self.model_loaded:
             raise ValueError("Model belum dimuat, silakan muat model terlebih dahulu dengan metode load_model()")
+        
+        # Validasi koordinat
+        self._validate_coordinates(lat, lon)
         
         # Hapus baris dengan koordinat nan
         filtered_df = self.df.dropna(subset=['latitude', 'longitude']).copy()
@@ -196,7 +249,8 @@ class TourismRecommender:
         filtered_df = filtered_df.sort_values('distance')
         
         # Kembalikan top_n tempat wisata terdekat
-        return filtered_df[['nama', 'provinsi', 'rating', 'jumlah_review', 'kategori_list', 'distance']].head(top_n)
+        # Pastikan menyertakan kolom 'id'
+        return filtered_df[['id', 'nama', 'provinsi', 'rating', 'jumlah_review', 'kategori_list', 'distance']].head(top_n)
     
     def hybrid_recommendations(self, name=None, lat=None, lon=None, category=None, province=None, max_distance=50, top_n=10):
         """
@@ -205,34 +259,67 @@ class TourismRecommender:
         if not self.model_loaded:
             raise ValueError("Model belum dimuat, silakan muat model terlebih dahulu dengan metode load_model()")
         
+        # Validasi koordinat jika diberikan
+        if lat is not None or lon is not None:
+            self._validate_coordinates(lat, lon)
+        
         results = pd.DataFrame()
         
         # Content-based jika nama tempat wisata diberikan
         if name:
             content_recs = self.content_based_recommendations(name, top_n=top_n*2)
             if isinstance(content_recs, str):
+                print(f"Warning: Content-based recommendation failed for '{name}': {content_recs}")
                 pass  # Jika tempat wisata tidak ditemukan
             else:
-                results = pd.concat([results, content_recs])
+                # Pastikan kolom yang diperlukan ada sebelum digabungkan
+                required_cols = ['id', 'nama', 'provinsi', 'rating', 'jumlah_review', 'kategori_list', 'similarity_score']
+                if all(col in content_recs.columns for col in required_cols):
+                    results = pd.concat([results, content_recs])
+                else:
+                    print(f"Warning: Missing required columns in content_recs: {', '.join([col for col in required_cols if col not in content_recs.columns])}")
+
         
         # Location-based jika koordinat diberikan
         if lat is not None and lon is not None:
             location_recs = self.location_based_recommendations(lat, lon, max_distance, top_n*2)
             if isinstance(location_recs, str):
-                pass  # Jika tidak ada tempat wisata dalam radius
+                 print(f"Warning: Location-based recommendation failed for ({lat}, {lon}): {location_recs}")
+                 pass  # Jika tidak ada tempat wisata dalam radius
             else:
                 # Tambahkan skor jarak yang dinormalisasi (semakin dekat semakin tinggi skor)
-                max_dist = location_recs['distance'].max() if not location_recs.empty else 1
-                location_recs['distance_score'] = 1 - (location_recs['distance'] / max_dist)
-                results = pd.concat([results, location_recs])
-        
+                if 'distance' in location_recs.columns:
+                    max_dist = location_recs['distance'].max() if not location_recs.empty else 1
+                    location_recs['distance_score'] = 1 - (location_recs['distance'] / max_dist)
+                    # Pastikan kolom yang diperlukan ada sebelum digabungkan
+                    required_cols = ['id', 'nama', 'provinsi', 'rating', 'jumlah_review', 'kategori_list', 'distance', 'distance_score']
+                    if all(col in location_recs.columns for col in required_cols):
+                         results = pd.concat([results, location_recs])
+                    else:
+                         print(f"Warning: Missing required columns in location_recs: {', '.join([col for col in required_cols if col not in location_recs.columns])}")
+                else:
+                     print("Warning: 'distance' column missing in location_recs.")
+
         # Popularity-based berdasarkan kategori dan/atau provinsi
-        popularity_recs = self.popularity_based_recommendations(category, province, top_n*2)
-        if isinstance(popularity_recs, str):
-            pass  # Jika tidak ada tempat wisata yang cocok
-        else:
-            results = pd.concat([results, popularity_recs])
+        # Panggil popularity_based_recommendations, yang sekarang sudah lebih defensif
+        popularity_recs = self.popularity_based_recommendations(category=category, province=province, top_n=top_n*2) # Kirim parameter explicitly
         
+        # popularity_based_recommendations sekarang mengembalikan string error atau DataFrame
+        if isinstance(popularity_recs, str):
+             print(f"Warning: Popularity-based recommendation failed for (cat={category}, prov={province}): {popularity_recs}")
+             # Jika ada error dari popularity_based_recommendations (misal: tidak ada data atau error internal saat hitung skor)
+             # Kita bisa memilih untuk mengabaikan komponen popularitas atau mengembalikan error keseluruhan
+             # Untuk hybrid, mari kita coba abaikan komponen ini jika gagal, tetapi log peringatan.
+             # Jangan tambahkan ke `results` jika berupa string error
+             pass 
+        else:
+            # Pastikan kolom yang diperlukan ada sebelum digabungkan (termasuk popularity_score)
+            required_cols = ['id', 'nama', 'provinsi', 'rating', 'jumlah_review', 'kategori_list', 'popularity_score']
+            if all(col in popularity_recs.columns for col in required_cols):
+                results = pd.concat([results, popularity_recs])
+            else:
+                print(f"Warning: Missing required columns in popularity_recs after getting results: {', '.join([col for col in required_cols if col not in popularity_recs.columns])}")
+
         # Jika tidak ada hasil
         if results.empty:
             return "Tidak ada rekomendasi yang sesuai dengan kriteria tersebut."
@@ -271,9 +358,10 @@ class TourismRecommender:
         results = results.sort_values('hybrid_score', ascending=False)
         
         # Pilih kolom-kolom yang ingin ditampilkan
-        display_columns = ['nama', 'provinsi', 'rating', 'jumlah_review', 'kategori_list', 'hybrid_score']
+        # Pastikan menyertakan 'id' dalam daftar kolom yang ditampilkan
+        display_columns = ['id', 'nama', 'provinsi', 'rating', 'jumlah_review', 'kategori_list', 'hybrid_score']
         if 'distance' in results.columns:
-            display_columns.insert(5, 'distance')
+            display_columns.insert(6, 'distance') # Sisipkan jarak setelah kategori_list
         
         # Kembalikan top_n rekomendasi
         return results[display_columns].head(top_n) 
