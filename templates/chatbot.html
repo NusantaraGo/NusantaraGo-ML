@@ -1,0 +1,204 @@
+{% extends "base.html" %} {% block title %}Chatbot Wisata{% endblock %} {% block
+styles %} {{ super() }}
+<style>
+  .chat-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  .chat-box {
+    height: 500px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    overflow-y: auto;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+  }
+
+  .message {
+    margin-bottom: 15px;
+    padding: 10px 15px;
+    border-radius: 15px;
+    max-width: 80%;
+    word-wrap: break-word;
+  }
+
+  .user-message {
+    background-color: #007bff;
+    color: white;
+    margin-left: auto;
+  }
+
+  .bot-message {
+    background-color: #e9ecef;
+    color: #212529;
+    margin-right: auto;
+  }
+
+  .message-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .input-container {
+    display: flex;
+    gap: 10px;
+  }
+
+  .input-container input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+
+  .input-container button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  .input-container button:hover {
+    background-color: #0056b3;
+  }
+
+  .typing-indicator {
+    display: none;
+    padding: 10px;
+    color: #666;
+    font-style: italic;
+  }
+
+  .reset-button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  .reset-button:hover {
+    background-color: #c82333;
+  }
+</style>
+{% endblock %} {% block content %}
+<div class="chat-container">
+  <h2 class="text-center mb-4">Chatbot Wisata Indonesia</h2>
+
+  <div class="chat-box" id="chatBox">
+    <div class="message bot-message">
+      Halo! Saya adalah chatbot wisata Indonesia. Saya bisa membantu Anda
+      menemukan informasi tentang destinasi wisata di Indonesia. Apa yang ingin
+      Anda ketahui?
+    </div>
+  </div>
+
+  <div class="typing-indicator" id="typingIndicator">
+    Bot sedang mengetik...
+  </div>
+
+  <div class="input-container">
+    <input
+      type="text"
+      id="userInput"
+      placeholder="Ketik pesan Anda di sini..."
+      onkeypress="handleKeyPress(event)"
+    />
+    <button onclick="sendMessage()">Kirim</button>
+  </div>
+
+  <button class="reset-button" onclick="resetChat()">Reset Percakapan</button>
+</div>
+{% endblock %} {% block scripts %} {{ super() }}
+<script>
+  const chatBox = document.getElementById("chatBox");
+  const userInput = document.getElementById("userInput");
+  const typingIndicator = document.getElementById("typingIndicator");
+
+  function addMessage(message, isUser = false) {
+    const messageDiv = document.createElement("div");
+    messageDiv.className = `message ${isUser ? "user-message" : "bot-message"}`;
+    messageDiv.textContent = message;
+    chatBox.appendChild(messageDiv);
+    chatBox.scrollTop = chatBox.scrollHeight;
+  }
+
+  function showTypingIndicator() {
+    typingIndicator.style.display = "block";
+    chatBox.scrollTop = chatBox.scrollHeight;
+  }
+
+  function hideTypingIndicator() {
+    typingIndicator.style.display = "none";
+  }
+
+  async function sendMessage() {
+    const message = userInput.value.trim();
+    if (!message) return;
+
+    // Tampilkan pesan user
+    addMessage(message, true);
+    userInput.value = "";
+
+    // Tampilkan typing indicator
+    showTypingIndicator();
+
+    try {
+      const response = await fetch("/api/chatbot/chat", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ message }),
+      });
+
+      const data = await response.json();
+
+      // Sembunyikan typing indicator
+      hideTypingIndicator();
+
+      if (data.error) {
+        addMessage("Maaf, terjadi kesalahan. Silakan coba lagi.");
+        console.error("Error:", data.error);
+      } else {
+        addMessage(data.response);
+      }
+    } catch (error) {
+      hideTypingIndicator();
+      addMessage("Maaf, terjadi kesalahan. Silakan coba lagi.");
+      console.error("Error:", error);
+    }
+  }
+
+  async function resetChat() {
+    try {
+      await fetch("/api/chatbot/reset", {
+        method: "POST",
+      });
+
+      // Clear chat box
+      chatBox.innerHTML = "";
+
+      // Add welcome message
+      addMessage(
+        "Halo! Saya adalah chatbot wisata Indonesia. Saya bisa membantu Anda menemukan informasi tentang destinasi wisata di Indonesia. Apa yang ingin Anda ketahui?"
+      );
+    } catch (error) {
+      console.error("Error resetting chat:", error);
+    }
+  }
+
+  function handleKeyPress(event) {
+    if (event.key === "Enter") {
+      sendMessage();
+    }
+  }
+</script>
+{% endblock %}
