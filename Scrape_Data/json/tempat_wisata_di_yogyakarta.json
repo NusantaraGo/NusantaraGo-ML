@@ -1,0 +1,231 @@
+[
+  {
+    "nama": "Bukit Panguk Kediwung",
+    "alamat": "Kediwung, Mangunan, Kec. Dlingo",
+    "rating": "4.5",
+    "jumlah_review": "3.585",
+    "deskripsi": "Bukit Panguk Kediwung adalah sebuah bukit yang terletak di Kediwung, Mangunan, Kec. Dlingo, Provinsi Yogyakarta. Tempat ini menawarkan keindahan bukit yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
+    "koordinat": {
+      "latitude": -7.9583695,
+      "longitude": 110.4407622
+    },
+    "url": "https://www.google.com/maps/place/Bukit+Panguk+Kediwung/data=!4m7!3m6!1s0x2e7bacb24995d023:0x95aec26c5e9774a2!8m2!3d-7.9583695!4d110.4407622!16s%2Fg%2F11c44q7bf_!19sChIJI9CVSbKsey4RonSXXmzCrpU?authuser=0&hl=id&rclk=1",
+    "provinsi": "di yogyakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipMASilcQiZeRuUkJFf-c4vDnfxt6HZRzLcD-JfM=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipMASilcQiZeRuUkJFf-c4vDnfxt6HZRzLcD-JfM=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipMASilcQiZeRuUkJFf-c4vDnfxt6HZRzLcD-JfM=w529-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Kampung Wisata Sosromenduran",
+    "alamat": "Sosromenduran, Gedong Tengen",
+    "rating": "4.1",
+    "jumlah_review": "42",
+    "deskripsi": "Kampung Wisata Sosromenduran adalah sebuah kampung yang terletak di Gedong Tengen, Kec. Kraton, Provinsi Yogyakarta. Tempat ini menawarkan keindahan kampung yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
+    "koordinat": {
+      "latitude": -7.79219,
+      "longitude": 110.362151
+    },
+    "url": "https://www.google.com/maps/place/Kampung+Wisata+Sosromenduran/data=!4m7!3m6!1s0x2e7a5826be29978d:0xe41a56956d58b8c7!8m2!3d-7.79219!4d110.362151!16s%2Fg%2F1pzs29j25!19sChIJjZcpviZYei4Rx7hYbZVWGuQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "di yogyakarta",
+    "foto": [],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Kampung Wisata Taman Sari",
+    "alamat": "Patehan, Kecamatan Kraton",
+    "rating": "4.6",
+    "jumlah_review": "42.621",
+    "deskripsi": "Kampung Wisata Taman Sari adalah sebuah kampung yang terletak di Patehan, Kec. Kraton, Provinsi Yogyakarta. Tempat ini menawarkan keindahan kampung yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
+    "koordinat": {
+      "latitude": -7.8099788,
+      "longitude": 110.3589907
+    },
+    "url": "https://www.google.com/maps/place/Kampung+Wisata+Taman+Sari/data=!4m7!3m6!1s0x2e7a5793d0c2cf2b:0x276a21f8a01cbe13!8m2!3d-7.8099788!4d110.3589907!16s%2Fm%2F0b6gg2m!19sChIJK8_C0JNXei4RE74coPghaic?authuser=0&hl=id&rclk=1",
+    "provinsi": "di yogyakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqFNZ_Lgxqh-HnbsHmti3p31M4oBJxCMNyTiRTFRfvEXE-MRk2u2wjDRFkU3Ipo1bNiOYREsG9eiGrQXeP-DMB3kfMBOcSV7WoYzEBw-RSzAAT5LqPFa70xIg5Oe--O-7Nc5eBc=w86-h114-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqFNZ_Lgxqh-HnbsHmti3p31M4oBJxCMNyTiRTFRfvEXE-MRk2u2wjDRFkU3Ipo1bNiOYREsG9eiGrQXeP-DMB3kfMBOcSV7WoYzEBw-RSzAAT5LqPFa70xIg5Oe--O-7Nc5eBc=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqFNZ_Lgxqh-HnbsHmti3p31M4oBJxCMNyTiRTFRfvEXE-MRk2u2wjDRFkU3Ipo1bNiOYREsG9eiGrQXeP-DMB3kfMBOcSV7WoYzEBw-RSzAAT5LqPFa70xIg5Oe--O-7Nc5eBc=w224-h298-k-no"
+    ],
+    "kategori": [
+      "taman"
+    ]
+  },
+  {
+    "nama": "Kawasan Wisata Malioboro",
+    "alamat": "Ngupasan, Kec. Gondomanan",
+    "rating": "4.7",
+    "jumlah_review": "5.300",
+    "deskripsi": "Kawasan Wisata Malioboro adalah sebuah kawasan wisata yang terletak di Ngupasan, Kec. Gondomanan, Provinsi Yogyakarta. Tempat ini menawarkan keindahan kawasan wisata yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
+    "koordinat": {
+      "latitude": -7.7982487,
+      "longitude": 110.3652793
+    },
+    "url": "https://www.google.com/maps/place/Kawasan+Wisata+Malioboro/data=!4m7!3m6!1s0x2e7a578819c338f1:0x72aa3ad97ecccfb6!8m2!3d-7.7982487!4d110.3652793!16s%2Fg%2F11dd_kfc0g!19sChIJ8TjDGYhXei4Rts_Mftk6qnI?authuser=0&hl=id&rclk=1",
+    "provinsi": "di yogyakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nplvAmisdYRgc3teQigm_TX9qYqh7hEw65vAGydiVPfpZTE7-BEgc3V-mOYUlLhjcpsYCzmXOZ6-TLHiUxurz1smHkadswypFLNniNj_SxiNWldgL432rG0ksa-OwddHL0ZQKnb=w86-h107-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nplvAmisdYRgc3teQigm_TX9qYqh7hEw65vAGydiVPfpZTE7-BEgc3V-mOYUlLhjcpsYCzmXOZ6-TLHiUxurz1smHkadswypFLNniNj_SxiNWldgL432rG0ksa-OwddHL0ZQKnb=w408-h509-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nplvAmisdYRgc3teQigm_TX9qYqh7hEw65vAGydiVPfpZTE7-BEgc3V-mOYUlLhjcpsYCzmXOZ6-TLHiUxurz1smHkadswypFLNniNj_SxiNWldgL432rG0ksa-OwddHL0ZQKnb=w238-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Kraton Jogja",
+    "alamat": "Panembahan, Kecamatan Kraton",
+    "rating": "4.8",
+    "jumlah_review": "785",
+    "deskripsi": "Kraton Jogja adalah sebuah kraton yang terletak di Panembahan, Kec. Kraton, Provinsi Yogyakarta. Tempat ini menawarkan keindahan kraton yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
+    "koordinat": {
+      "latitude": -7.8069587,
+      "longitude": 110.3639266
+    },
+    "url": "https://www.google.com/maps/place/Kraton+Jogja/data=!4m7!3m6!1s0x2e7a575c262d5709:0xf11a324efb8b84ec!8m2!3d-7.8069587!4d110.3639266!16s%2Fg%2F122zq88b!19sChIJCVctJlxXei4R7ISL-04yGvE?authuser=0&hl=id&rclk=1",
+    "provinsi": "di yogyakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nofJfU1VHz2foCezDTMY8njl-IkQa5PyfALpStxtm3ngDrf94trRsmSD33_P9d5BUmMAyU2kqWDCMfC1NeW3Y5m6xEdfgvZonUxeNQ-9UjDAq61IphJNrd5Xx-4I6giG4UQQJJ1fw=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nofJfU1VHz2foCezDTMY8njl-IkQa5PyfALpStxtm3ngDrf94trRsmSD33_P9d5BUmMAyU2kqWDCMfC1NeW3Y5m6xEdfgvZonUxeNQ-9UjDAq61IphJNrd5Xx-4I6giG4UQQJJ1fw=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nofJfU1VHz2foCezDTMY8njl-IkQa5PyfALpStxtm3ngDrf94trRsmSD33_P9d5BUmMAyU2kqWDCMfC1NeW3Y5m6xEdfgvZonUxeNQ-9UjDAq61IphJNrd5Xx-4I6giG4UQQJJ1fw=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Blue Lagoon Jogja",
+    "alamat": "Area Sawah, Widodomartani, Kec. Ngemplak",
+    "rating": "4.3",
+    "jumlah_review": "4.765",
+    "deskripsi": "Blue Lagoon Jogja adalah sebuah tempat wisata yang terletak di Area Sawah, Widodomartani, Kec. Ngemplak, Provinsi Yogyakarta. Tempat ini menawarkan keindahan tempat wisata yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
+    "koordinat": {
+      "latitude": -7.7028328,
+      "longitude": 110.4491103
+    },
+    "url": "https://www.google.com/maps/place/Blue+Lagoon+Jogja/data=!4m7!3m6!1s0x2e7a5c75eba9da15:0xd4d6063b3b163462!8m2!3d-7.7028328!4d110.4491103!16s%2Fg%2F11b6vhjqrb!19sChIJFdqp63Vcei4RYjQWOzsG1tQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "di yogyakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqYY5HDvBWqx42kA_oU_oO__pPSd1C5c3CAD9tpoCXpB1gNTC9TcslbpXwtuBG9x1I959nNL7gKqa04NpkfR0kaINc2zyVIBUZJOLZBPXhSYrMj2WwTe7ECvMt6FWqrL0U49ZOVFQ=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqYY5HDvBWqx42kA_oU_oO__pPSd1C5c3CAD9tpoCXpB1gNTC9TcslbpXwtuBG9x1I959nNL7gKqa04NpkfR0kaINc2zyVIBUZJOLZBPXhSYrMj2WwTe7ECvMt6FWqrL0U49ZOVFQ=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqYY5HDvBWqx42kA_oU_oO__pPSd1C5c3CAD9tpoCXpB1gNTC9TcslbpXwtuBG9x1I959nNL7gKqa04NpkfR0kaINc2zyVIBUZJOLZBPXhSYrMj2WwTe7ECvMt6FWqrL0U49ZOVFQ=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Embung Langensari",
+    "alamat": "Klitren, Kec. Gondokusuman",
+    "rating": "4.3",
+    "jumlah_review": "3.375",
+    "deskripsi": "Embung Langensari adalah sebuah embung yang terletak di Klitren, Kec. Gondokusuman, Provinsi Yogyakarta. Tempat ini menawarkan keindahan embung yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
+    "koordinat": {
+      "latitude": -7.7866148,
+      "longitude": 110.3819311
+    },
+    "url": "https://www.google.com/maps/place/Embung+Langensari/data=!4m7!3m6!1s0x2e7a59d258bc6935:0xd72d8d2e7140104a!8m2!3d-7.7866148!4d110.3819311!16s%2Fg%2F11bwkhd4d1!19sChIJNWm8WNJZei4RShBAcS6NLdc?authuser=0&hl=id&rclk=1",
+    "provinsi": "di yogyakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrmiQVgGpi4d5D1NncvJJUIgJcb8bNHoQmXeB7IXDs_Q3c9Xe6dG0SchcsxRe2X30tuDfAhjYFOTFLVTE2Hj6pWXgoXv87uogIWbKTC_bJ-0unBVsqsv7o8EsYwvIYjVZ8ULe7N=w114-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrmiQVgGpi4d5D1NncvJJUIgJcb8bNHoQmXeB7IXDs_Q3c9Xe6dG0SchcsxRe2X30tuDfAhjYFOTFLVTE2Hj6pWXgoXv87uogIWbKTC_bJ-0unBVsqsv7o8EsYwvIYjVZ8ULe7N=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrmiQVgGpi4d5D1NncvJJUIgJcb8bNHoQmXeB7IXDs_Q3c9Xe6dG0SchcsxRe2X30tuDfAhjYFOTFLVTE2Hj6pWXgoXv87uogIWbKTC_bJ-0unBVsqsv7o8EsYwvIYjVZ8ULe7N=w397-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Titik Nol Yogyakarta",
+    "alamat": "Ngupasan, Kec. Gondomanan",
+    "rating": "4.8",
+    "jumlah_review": "52.217",
+    "deskripsi": "Titik Nol Yogyakarta adalah sebuah titik nol yang terletak di Ngupasan, Kec. Gondomanan, Provinsi Yogyakarta. Tempat ini menawarkan keindahan titik nol yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
+    "koordinat": {
+      "latitude": -7.8013966,
+      "longitude": 110.3647641
+    },
+    "url": "https://www.google.com/maps/place/Titik+Nol+Yogyakarta/data=!4m7!3m6!1s0x2e7a57599a1f9397:0xebbf28ee280ce10f!8m2!3d-7.8013966!4d110.3647641!16s%2Fg%2F11h3cbh9_y!19sChIJl5MfmllXei4RD-EMKO4ov-s?authuser=0&hl=id&rclk=1",
+    "provinsi": "di yogyakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np1u2QmG9wexJEsf5cfqclAacM_zLs95hOB6ScFsXp1XGcTFg8v4gxf9KmV0iBP0tpYb8ofvsufsQkAH9_V1uIsxdgl-RxpvrnWxRYrJxdtO3oszI5VTli_ET5aA_Vyrnb1hlM=w86-h101-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np1u2QmG9wexJEsf5cfqclAacM_zLs95hOB6ScFsXp1XGcTFg8v4gxf9KmV0iBP0tpYb8ofvsufsQkAH9_V1uIsxdgl-RxpvrnWxRYrJxdtO3oszI5VTli_ET5aA_Vyrnb1hlM=w408-h479-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np1u2QmG9wexJEsf5cfqclAacM_zLs95hOB6ScFsXp1XGcTFg8v4gxf9KmV0iBP0tpYb8ofvsufsQkAH9_V1uIsxdgl-RxpvrnWxRYrJxdtO3oszI5VTli_ET5aA_Vyrnb1hlM=w253-h298-k-no"
+    ],
+    "kategori": [
+      "lainnya"
+    ]
+  },
+  {
+    "nama": "Puncak Pinus Becici",
+    "alamat": "Gunungcilik, Gn. Cilik, Muntuk, Kec. Dlingo",
+    "rating": "4.5",
+    "jumlah_review": "17.209",
+    "deskripsi": "Puncak Pinus Becici adalah sebuah puncak yang terletak di Gunungcilik, Gn. Cilik, Muntuk, Kec. Dlingo, Provinsi Yogyakarta. Tempat ini menawarkan keindahan puncak yang indah, serta berbagai aktivitas menarik bagi pengunjung.",
+    "koordinat": {
+      "latitude": -7.9020355,
+      "longitude": 110.4374627
+    },
+    "url": "https://www.google.com/maps/place/Puncak+Pinus+Becici/data=!4m7!3m6!1s0x2e7a531aaaaaaaab:0x6c28149b91ea59f4!8m2!3d-7.9020355!4d110.4374627!16s%2Fg%2F11h2g21vfv!19sChIJq6qqqhpTei4R9FnqkZsUKGw?authuser=0&hl=id&rclk=1",
+    "provinsi": "di yogyakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/p/AF1QipNs9CfHqI4FmMhb3qqL8ljviPQ5QX-5Zj-sxSOX=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNs9CfHqI4FmMhb3qqL8ljviPQ5QX-5Zj-sxSOX=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNs9CfHqI4FmMhb3qqL8ljviPQ5QX-5Zj-sxSOX=w529-h298-k-no"
+    ],
+    "kategori": [
+      "gunung"
+    ]
+  },
+  {
+    "nama": "Tebing Breksi",
+    "alamat": "Jl. Desa Lengkong, Gn. Sari, Sambirejo, Kec. Prambanan",
+    "rating": "4.5",
+    "jumlah_review": "65.554",
+    "deskripsi": "Tebing Breksi merupakan tempat wisata yang berada di wilayah Kabupaten Sleman. Lokasinya berada di sebelah selatan Candi Prambanan dan berdekatan dengan Candi Ijo serta Kompleks Keraton Boko. Lokasi Wisata Tebing Breksi tepatnya berada di Desa Sambirejo, Prambanan, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55572.",
+    "koordinat": {
+      "latitude": -7.7815714,
+      "longitude": 110.5045827
+    },
+    "url": "https://www.google.com/maps/place/Tebing+Breksi/data=!4m7!3m6!1s0x2e7a5aa458b4665b:0xa4b0fc6ad0ae38c7!8m2!3d-7.7815714!4d110.5045827!16s%2Fg%2F11fzry0lfb!19sChIJW2a0WKRaei4Rxziu0Gr8sKQ?authuser=0&hl=id&rclk=1",
+    "provinsi": "di yogyakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqMLz8V8F9bWkSDnE11r8ZijENpvr6dzUC3RUB5M26gMIIM07jOiDDmtI-sFF2pLDmhRn1n_9MPxZId3Tu7_SNyyq2Iy7Uy2spRW1ErZNqjUjNYKQq3unl1QmaCEraz-YDHhPRH=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqMLz8V8F9bWkSDnE11r8ZijENpvr6dzUC3RUB5M26gMIIM07jOiDDmtI-sFF2pLDmhRn1n_9MPxZId3Tu7_SNyyq2Iy7Uy2spRW1ErZNqjUjNYKQq3unl1QmaCEraz-YDHhPRH=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqMLz8V8F9bWkSDnE11r8ZijENpvr6dzUC3RUB5M26gMIIM07jOiDDmtI-sFF2pLDmhRn1n_9MPxZId3Tu7_SNyyq2Iy7Uy2spRW1ErZNqjUjNYKQq3unl1QmaCEraz-YDHhPRH=w529-h298-k-no"
+    ],
+    "kategori": [
+      "candi",
+      "benteng"
+    ]
+  },
+  {
+    "nama": "Pantai Gesing",
+    "alamat": "Bolang, Girikarto, Kec. Panggang",
+    "rating": "4.4",
+    "jumlah_review": "6.316",
+    "deskripsi": "Pantai Gesing merupakan salah satu pantai yang berada di Desa Girikarto, Kecamatan Panggang, Kabupaten Gunung Kidul di Daerah Istimewa Yogyakarta. Jaraknya sekitar 40 km dari pusat DIY dan berdekatan dengan pantai lainnya seperti Pantai Pundong, Gragak, Ngunggah, Kesirat, dan Wohkudu.\n\nAkses menuju pantai ini terdapat dua jalur, yaitu jalur Imogori-Panggang dan jalur Wonosari. Jalur Imogori-Panggang adalah jalur terdekat yang bisa ditempuh dengan waktu satu sampai dua jam. Walau aksesnya cukup n...",
+    "koordinat": {
+      "latitude": -8.1085778,
+      "longitude": 110.4679367
+    },
+    "url": "https://www.google.com/maps/place/Pantai+Gesing/data=!4m7!3m6!1s0x2e7baf7729055893:0xfaf1f0102bac9342!8m2!3d-8.1085778!4d110.4679367!16s%2Fg%2F1pzx97hv2!19sChIJk1gFKXevey4RQpOsKxDw8fo?authuser=0&hl=id&rclk=1",
+    "provinsi": "di yogyakarta",
+    "foto": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noRWiLrOCgbmgfX_gfUp2_0zJGah3zJ5XdIA06ejTxInNwtFxss3Ve1i59ARfzTJ-vBItdukgF10FwBIOb19iJH3aZenTPIf86y9S9dGr2s-tlhwLfKSQgwdTuQnT-0sYJMcFo3=w152-h86-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noRWiLrOCgbmgfX_gfUp2_0zJGah3zJ5XdIA06ejTxInNwtFxss3Ve1i59ARfzTJ-vBItdukgF10FwBIOb19iJH3aZenTPIf86y9S9dGr2s-tlhwLfKSQgwdTuQnT-0sYJMcFo3=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noRWiLrOCgbmgfX_gfUp2_0zJGah3zJ5XdIA06ejTxInNwtFxss3Ve1i59ARfzTJ-vBItdukgF10FwBIOb19iJH3aZenTPIf86y9S9dGr2s-tlhwLfKSQgwdTuQnT-0sYJMcFo3=w529-h298-k-no"
+    ],
+    "kategori": [
+      "pantai",
+      "gunung"
+    ]
+  }
+]
