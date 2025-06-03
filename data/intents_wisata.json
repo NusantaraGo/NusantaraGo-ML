@@ -4718,6 +4718,383 @@
             "responses": [
               "Taman Nasional Tanjung Puting, terletak di Pangkalan Bun, Kalimantan Tengah, adalah salah satu tempat terbaik di dunia untuk melihat orangutan di habitat aslinya. Taman ini memiliki hutan hujan tropis yang luas dan Sungai Sekonyer yang menjadi jalur utama untuk eksplorasi. Pengunjung dapat mengikuti tur perahu klotok untuk mengunjungi pusat rehabilitasi orangutan seperti Camp Leakey, Tanjung Harapan, dan Pondok Tanggui, tempat orangutan dirawat dan dilepasliarkan. Selain orangutan, Anda bisa melihat bekantan, burung enggang, dan flora unik seperti pohon kelapa sawit liar. Perjalanan perahu juga menawarkan pengalaman menyusuri sungai dengan pemandangan hutan yang rimbun. Untuk mencapai Tanjung Puting, terbanglah ke Bandara Iskandar di Pangkalan Bun dari Jakarta atau Surabaya, lalu lanjutkan dengan tur klotok yang biasanya sudah termasuk pemandu dan akomodasi. Disarankan untuk memesan tur jauh-jauh hari dan menghormati"
             ]
-          }
+          },
+          {
+          "tag": "wisata_aceh_sabang_pulau_weh",
+          "patterns": [
+            "Apa yang menarik dari Pulau Weh?",
+            "Di mana lokasi Pulau Weh?",
+            "Aktivitas apa saja yang bisa dilakukan di Pulau Weh?",
+            "Bagaimana cara menuju Pulau Weh dari Banda Aceh?",
+            "Apa yang membuat Pulau Weh cocok untuk diving?"
+          ],
+          "responses": [
+            "Pulau Weh, terletak di ujung barat Indonesia di Kota Sabang, Aceh, adalah surga bahari yang terkenal dengan keindahan bawah lautnya, menjadikannya salah satu destinasi diving terbaik di Indonesia. Pulau ini menawarkan spot seperti Pantai Iboih dan Rubiah Island, di mana pengunjung dapat snorkeling atau diving untuk melihat terumbu karang warna-warni, ikan tropis, dan bahkan hiu karang. Selain aktivitas air, Anda bisa mengunjungi Kilometer Nol Indonesia, titik paling barat negara, untuk berfoto atau menikmati pemandangan laut dari mercusuar. Pulau Weh juga memiliki suasana yang tenang dengan pantai-pantai seperti Sumur Tiga untuk bersantai. Untuk mencapai Pulau Weh, Anda bisa terbang ke Bandara Sultan Iskandar Muda di Banda Aceh, lalu naik feri cepat dari Pelabuhan Ulee Lheue ke Pelabuhan Balohan, Sabang, dalam waktu sekitar 45 menit–1 jam. Disarankan untuk memesan akomodasi seperti bungalow atau homestay di Iboih dan membawa peralatan snorkeling untuk pengalaman maksimal."
+          ]
+        },
+        {
+          "tag": "wisata_jawa_timur_bromo_sunrise",
+          "patterns": [
+            "Mengapa Gunung Bromo terkenal untuk sunrise?",
+            "Di mana lokasi Gunung Bromo?",
+            "Apa yang bisa dilakukan di Gunung Bromo?",
+            "Bagaimana cara menuju Gunung Bromo dari Surabaya?",
+            "Kapan waktu terbaik untuk mengunjungi Bromo?"
+          ],
+          "responses": [
+            "Gunung Bromo, terletak di Taman Nasional Bromo Tengger Semeru, Jawa Timur, adalah salah satu destinasi wisata alam paling ikonik di Indonesia, terkenal dengan pemandangan matahari terbitnya yang spektakuler dari Penanjakan Viewpoint. Wisatawan dapat melihat panorama lautan pasir, kawah Bromo yang aktif, dan gunung-gunung sekitar seperti Semeru di bawah sinar matahari pagi. Aktivitas populer termasuk jeep tour melintasi lautan pasir, mendaki ke kawah Bromo untuk melihat aktivitas vulkanik, atau menunggang kuda di padang savana. Dari Surabaya, Bromo dapat dicapai dengan berkendara sekitar 3–4 jam ke Desa Cemoro Lawang via Probolinggo, diikuti dengan jeep menuju spot sunrise. Waktu terbaik untuk berkunjung adalah musim kemarau (Mei–Oktober) untuk cuaca cerah. Kenakan pakaian hangat karena suhu bisa mencapai 5°C di pagi hari, dan sewa pemandu lokal untuk pengalaman yang lebih aman dan informatif."
+          ]
+        },
+        {
+          "tag": "wisata_yogyakarta_malioboro",
+          "patterns": [
+            "Apa yang menarik dari Jalan Malioboro?",
+            "Di mana lokasi Jalan Malioboro?",
+            "Aktivitas apa saja yang bisa dilakukan di Malioboro?",
+            "Apa yang bisa dibeli di Malioboro?",
+            "Bagaimana suasana malam di Malioboro?"
+          ],
+          "responses": [
+            "Jalan Malioboro, terletak di pusat Kota Yogyakarta, adalah jantungan budaya dan wisata belanja yang menjadi ikon Daerah Istimewa Yogyakarta. Jalan sepanjang 1 kilometer ini dipenuhi dengan pedagang kaki lima yang menjual batik, kerajinan tangan, perhiasan perak, dan suvenir khas Jogja seperti bakpia. Pengunjung dapat menikmati suasana malam yang ramai dengan pertunjukan musik jalanan, naik andong (kereta kuda), atau mencicipi kuliner lokal seperti gudeg dan angkringan di trotoar. Malioboro juga dekat dengan Keraton Yogyakarta dan Taman Sari, menambah opsi wisata budaya. Pada malam hari, lampu-lampu jalan dan keramaian menciptakan suasana yang hidup, cocok untuk berjalan-jalan santai. Dari Stasiun Tugu atau Bandara Adisutjipto, Malioboro mudah diakses dengan taksi, ojek, atau becak dalam waktu 10–20 menit. Disarankan untuk membawa tas kecil agar nyaman berjalan dan menawar harga dengan sopan saat berbelanja."
+          ]
+        },
+        {
+          "tag": "wisata_sulawesi_utara_likupang_pulau_lihaga",
+          "patterns": [
+            "Apa yang menarik dari Pulau Lihaga?",
+            "Di mana lokasi Pulau Lihaga?",
+            "Aktivitas apa yang bisa dilakukan di Pulau Lihaga?",
+            "Bagaimana cara menuju Pulau Lihaga?",
+            "Apakah Pulau Lihaga cocok untuk snorkeling?"
+          ],
+          "responses": [
+            "Pulau Lihaga, terletak di kawasan Likupang, Sulawesi Utara, adalah pulau kecil tak berpenghuni yang menawarkan pantai berpasir putih lembut dan air laut yang sangat jernih, menjadikannya destinasi ideal untuk liburan yang tenang. Pulau ini cocok untuk snorkeling dan diving karena memiliki terumbu karang yang masih alami dan kehidupan laut yang beragam, seperti ikan badut dan bintang laut. Pengunjung juga dapat bersantai di pantai, berfoto dengan latar batu karang yang indah, atau berkemah untuk menikmati malam berbintang. Untuk mencapai Pulau Lihaga, Anda bisa terbang ke Bandara Sam Ratulangi di Manado, lalu berkendara sekitar 2 jam ke Pelabuhan Serei di Likupang, diikuti dengan perjalanan perahu sekitar 30–45 menit. Karena pulau ini tidak memiliki fasilitas permanen, bawa perbekalan seperti makanan, air, dan peralatan snorkeling. Hormati lingkungan dengan tidak meninggalkan sampah untuk menjaga keindahan pulau."
+          ]
+        },
+        {
+          "tag": "wisata_kalimantan_utara_tarakan_mangrove",
+          "patterns": [
+            "Apa itu Hutan Mangrove Tarakan?",
+            "Di mana lokasi Hutan Mangrove Tarakan?",
+            "Apa yang bisa dilakukan di Hutan Mangrove Tarakan?",
+            "Mengapa Hutan Mangrove Tarakan menarik?",
+            "Bagaimana cara menuju Hutan Mangrove Tarakan?"
+          ],
+          "responses": [
+            "Hutan Mangrove Tarakan, terletak di Kota Tarakan, Kalimantan Utara, adalah kawasan konservasi mangrove yang menawarkan pengalaman wisata edukasi dan alam. Pengunjung dapat berjalan di jembatan kayu yang membentang di antara pohon-pohon mangrove, mengamati flora dan fauna seperti kepiting bakau, burung air, dan monyet bekantan yang kadang muncul. Kawasan ini juga memiliki menara pengamatan untuk melihat panorama hutan dan laut, serta spot untuk fotografi. Hutan mangrove ini menarik karena perannya dalam menjaga ekosistem pesisir dan memberikan wawasan tentang pentingnya pelestarian lingkungan. Dari pusat Kota Tarakan, hutan ini dapat dicapai dengan berkendara sekitar 15–20 menit. Jika terbang, gunakan Bandara Juwata Tarakan, lalu lanjutkan dengan taksi atau ojek. Disarankan untuk berkunjung pada pagi atau sore hari untuk menghindari panas, dan kenakan sepatu yang nyaman untuk berjalan di jembatan."
+          ]
+        },
+        {
+          "tag": "wisata_bali_kuta_beach",
+          "patterns": [
+            "Apa yang menarik dari Pantai Kuta?",
+            "Di mana lokasi Pantai Kuta?",
+            "Aktivitas apa yang bisa dilakukan di Pantai Kuta?",
+            "Mengapa Pantai Kuta begitu populer?",
+            "Bagaimana suasana malam di Pantai Kuta?"
+          ],
+          "responses": [
+            "Pantai Kuta, terletak di Kecamatan Kuta, Bali, adalah salah satu pantai paling terkenal di Indonesia, dikenal dengan pasir putihnya yang luas, ombak yang cocok untuk berselancar, dan suasana yang ramai. Pantai ini menarik ribuan wisatawan karena lokasinya yang dekat dengan pusat hiburan, dengan banyak bar, restoran, dan klub malam di sekitar Jalan Legian dan Poppies Lane. Aktivitas populer termasuk belajar selancar dengan instruktur lokal, berjemur, atau menikmati matahari terbenam yang indah. Pada malam hari, kawasan Kuta menjadi pusat kehidupan malam dengan musik live dan pesta di klub seperti Sky Garden. Dari Bandara Ngurah Rai, Pantai Kuta dapat dicapai dengan taksi atau motor dalam waktu 10–15 menit. Pengunjung disarankan untuk berhati-hati dengan barang bawaan karena ramainya area dan menggunakan tabir surya untuk melindungi kulit dari matahari tropis."
+          ]
+        },
+        {
+          "tag": "wisata_sumatra_utara_sipiso_piso_waterfall",
+          "patterns": [
+            "Apa itu Air Terjun Sipiso-piso?",
+            "Di mana lokasi Air Terjun Sipiso-piso?",
+            "Apa yang membuat Air Terjun Sipiso-piso istimewa?",
+            "Aktivitas apa yang bisa dilakukan di Sipiso-piso?",
+            "Bagaimana cara menuju Air Terjun Sipiso-piso?"
+          ],
+          "responses": [
+            "Air Terjun Sipiso-piso, terletak di Desa Tongging, Kabupaten Karo, Sumatra Utara, adalah salah satu air terjun tertinggi di Indonesia dengan ketinggian sekitar 120 meter, mengalir dari tebing curam ke arah Danau Toba. Nama ‘Sipiso-piso’ berarti ‘seperti pisau’ dalam bahasa Batak, merujuk pada aliran air yang tajam dan kuat. Pengunjung dapat menikmati pemandangan spektakuler dari dek observasi, trekking ke dasar air terjun melalui anak tangga (memakan waktu sekitar 1 jam), atau berfoto dengan latar perbukitan hijau dan danau. Air terjun ini juga dikelilingi oleh udara sejuk dan suasana pedesaan yang damai. Dari Medan, Sipiso-piso dapat dicapai dengan berkendara sekitar 3–4 jam via Berastagi. Disarankan untuk mengenakan sepatu anti-slip untuk trekking dan membawa air minum. Datanglah pagi hari untuk menghindari keramaian dan menikmati kabut tipis yang menambah keindahan pemandangan."
+          ]
+        },
+        {
+          "tag": "wisata_jawa_tengah_borobudur_sunrise",
+          "patterns": [
+            "Mengapa Borobudur terkenal untuk sunrise?",
+            "Di mana lokasi Candi Borobudur?",
+            "Apa yang bisa dilakukan di Borobudur saat sunrise?",
+            "Bagaimana cara memesan tur sunrise Borobudur?",
+            "Kapan waktu terbaik untuk mengunjungi Borobudur?"
+          ],
+          "responses": [
+            "Candi Borobudur, terletak di Magelang, Jawa Tengah, adalah candi Buddha terbesar di dunia dan situs Warisan Dunia UNESCO yang terkenal dengan pemandangan matahari terbitnya yang memukau. Dari puncak candi, pengunjung dapat melihat sinar matahari menyinari stupa-stupa dan lanskap pedesaan dengan latar Gunung Merapi. Tur sunrise, yang dimulai sekitar pukul 04.30, memungkinkan akses eksklusif ke candi sebelum jam buka reguler, memberikan pengalaman yang lebih tenang. Selain menikmati sunrise, pengunjung dapat menjelajahi relief-relief candi yang menceritakan kisah Buddha atau berfoto di antara stupa. Untuk memesan tur sunrise, hubungi Manohara Hotel atau agen wisata resmi, yang biasanya menyediakan tiket khusus. Dari Yogyakarta, Borobudur dapat dicapai dengan berkendara sekitar 1–1,5 jam. Musim kemarau (April–Oktober) adalah waktu terbaik, dan kenakan pakaian sopan serta sepatu nyaman untuk menjelajahi candi."
+          ]
+        },
+        {
+          "tag": "wisata_maluku_seram_island_ora_beach",
+          "patterns": [
+            "Apa yang menarik dari Pantai Ora?",
+            "Di mana lokasi Pantai Ora?",
+            "Aktivitas apa yang bisa dilakukan di Pantai Ora?",
+            "Bagaimana cara menuju Pantai Ora?",
+            "Apakah Pantai Ora cocok untuk snorkeling?"
+          ],
+          "responses": [
+            "Pantai Ora, terletak di Pulau Seram, Maluku, adalah destinasi pantai yang menakjubkan dengan air laut jernih, pasir putih, dan bungalow-bungalow kayu yang terapung di atas air, sering disebut sebagai ‘Maldives-nya Indonesia’. Pantai ini ideal untuk snorkeling dan diving karena memiliki terumbu karang yang masih alami dan kehidupan laut yang beragam, seperti ikan tropis dan penyu. Pengunjung juga dapat menikmati kayaking, berenang, atau sekadar bersantai di resort dengan pemandangan Teluk Sawai dan tebing karang. Untuk mencapai Pantai Ora, terbanglah ke Bandara Pattimura di Ambon, lalu lanjutkan dengan perjalanan darat dan feri ke Pelabuhan Amahai di Seram, diikuti dengan perahu ke Pantai Ora, total sekitar 6–8 jam. Akomodasi di Ora Beach Resort adalah pilihan utama, dan disarankan untuk memesan jauh-jauh hari. Jaga kebersihan pantai dengan tidak membuang sampah untuk melestarikan keindahan alamnya."
+          ]
+        },
+        {
+          "tag": "wisata_ntb_lombok_gili_trawangan",
+          "patterns": [
+            "Apa yang menarik dari Gili Trawangan?",
+            "Di mana lokasi Gili Trawangan?",
+            "Aktivitas apa yang bisa dilakukan di Gili Trawangan?",
+            "Bagaimana cara menuju Gili Trawangan dari Bali?",
+            "Apakah Gili Trawangan cocok untuk keluarga?"
+          ],
+          "responses": [
+            "Gili Trawangan, salah satu dari tiga pulau Gili di Lombok, Nusa Tenggara Barat, adalah destinasi populer yang menggabungkan keindahan pantai dengan suasana pulau yang santai namun juga memiliki sisi hiburan malam yang ramai. Pulau ini terkenal dengan pantai berpasir putih, air laut jernih, dan spot snorkeling serta diving untuk melihat penyu laut dan terumbu karang. Aktivitas lain termasuk bersepeda keliling pulau (tidak ada kendaraan bermotor), menikmati sunset di bar pantai, atau mengikuti kelas yoga. Dari Bali, Anda bisa naik fast boat dari Pelabuhan Padangbai atau Serangan ke Gili Trawangan, memakan waktu sekitar 1,5–2 jam. Meskipun cocok untuk keluarga dengan aktivitas pantai, pulau ini lebih dikenal sebagai destinasi untuk wisatawan muda karena klub malamnya. Disarankan untuk memesan akomodasi seperti villa atau hostel di muka, terutama pada musim ramai (Juni–Agustus)."
+          ]
+        },
+        {
+          "tag": "wisata_sulawesi_selatan_makassar_fort_rotterdam",
+          "patterns": [
+            "Apa itu Benteng Rotterdam di Makassar?",
+            "Di mana lokasi Benteng Rotterdam?",
+            "Apa sejarah Benteng Rotterdam?",
+            "Apa yang bisa dilihat di Benteng Rotterdam?",
+            "Bagaimana cara menuju Benteng Rotterdam?"
+          ],
+          "responses": [
+            "Benteng Rotterdam, terletak di Pantai Losari, Makassar, Sulawesi Selatan, adalah benteng bersejarah yang dibangun oleh Portugis pada abad ke-16 dan kemudian diambil alih oleh Belanda, dinamakan sesuai kota Rotterdam. Benteng ini menjadi pusat perdagangan rempah dan simbol kekuasaan kolonial di Makassar. Kini, benteng ini berfungsi sebagai museum yang menyimpan koleksi artefak seperti senjata, pakaian tradisional Bugis-Makassar, dan dokumen sejarah. Pengunjung dapat menjelajahi tembok-tembok batu yang kokoh, melihat menara pengawas, atau menikmati pemandangan laut dari dalam benteng. Dari Bandara Sultan Hasanuddin, benteng dapat dicapai dengan berkendara sekitar 30–40 menit ke pusat kota. Lokasinya yang dekat dengan Pantai Losari memungkinkan wisatawan untuk menggabungkan kunjungan dengan menikmati kuliner lokal seperti coto Makassar. Hormati situs ini dengan tidak merusak struktur dan berpakaian sopan."
+          ]
+        },
+        {
+          "tag": "wisata_jawa_barat_bandung_lembang_floating_market",
+          "patterns": [
+            "Apa itu Floating Market Lembang?",
+            "Di mana lokasi Floating Market Lembang?",
+            "Apa yang bisa dilakukan di Floating Market Lembang?",
+            "Apakah Floating Market cocok untuk keluarga?",
+            "Bagaimana cara menuju Floating Market dari Bandung?"
+          ],
+          "responses": [
+            "Floating Market Lembang, terletak di Lembang, Kabupaten Bandung Barat, Jawa Barat, adalah destinasi wisata keluarga yang unik dengan konsep pasar terapung di atas danau buatan. Pengunjung dapat membeli makanan tradisional seperti sate, bakso, atau kue-kue khas dari perahu-perahu kecil, menyerupai pasar apung tradisional. Selain kuliner, ada aktivitas seperti naik perahu, bermain di taman kelinci, atau berfoto di spot-spot Instagramable seperti taman bunga dan replika kampung Jepang. Tempat ini sangat cocok untuk keluarga karena banyaknya wahana anak dan suasana yang santai. Dari pusat Kota Bandung, Floating Market dapat dicapai dengan berkendara sekitar 30–45 menit, tergantung lalu lintas. Harga tiket masuk sekitar Rp 20.000–Rp 30.000, dengan biaya tambahan untuk wahana tertentu. Disarankan untuk datang pagi untuk menghindari keramaian dan membawa jaket karena udara Lembang bisa sejuk."
+          ]
+        },
+        {
+          "tag": "wisata_sumatra_barat_padang_pantai_air_manis",
+          "patterns": [
+            "Apa yang menarik dari Pantai Air Manis?",
+            "Di mana lokasi Pantai Air Manis?",
+            "Apa legenda Malin Kundang di Pantai Air Manis?",
+            "Aktivitas apa yang bisa dilakukan di Pantai Air Manis?",
+            "Bagaimana cara menuju Pantai Air Manis?"
+          ],
+          "responses": [
+            "Pantai Air Manis, terletak di Kota Padang, Sumatra Barat, adalah pantai yang terkenal karena legenda Malin Kundang, seorang anak durhaka yang dikutuk menjadi batu, yang konon masih terlihat sebagai formasi batu di pantai. Selain nilai budayanya, pantai ini menawarkan pemandangan laut yang indah, pasir cokelat, dan ombak yang cocok untuk berselancar pemula. Pengunjung dapat berjalan di sepanjang pantai, berfoto di batu Malin Kundang, atau menikmati kuliner lokal seperti ikan bakar di warung-warung terdekat. Pulau Pisang Kecil di dekat pantai juga bisa dikunjungi dengan perahu untuk berenang atau snorkeling. Dari pusat Kota Padang, Pantai Air Manis dapat dicapai dengan berkendara sekitar 20–30 menit. Disarankan untuk berkunjung pada sore hari untuk menikmati sunset dan membawa alas kaki yang nyaman karena beberapa area berbatu. Hormati situs budaya dengan tidak merusak formasi batu."
+          ]
+        },
+        {
+          "tag": "wisata_ntt_komodo_national_park",
+          "patterns": [
+            "Apa itu Taman Nasional Komodo?",
+            "Di mana lokasi Taman Nasional Komodo?",
+            "Apa yang bisa dilakukan di Taman Nasional Komodo?",
+            "Mengapa Taman Nasional Komodo terkenal?",
+            "Bagaimana cara menuju Taman Nasional Komodo?"
+          ],
+          "responses": [
+            "Taman Nasional Komodo, terletak di Nusa Tenggara Timur, mencakup Pulau Komodo, Rinca, Padar, dan pulau-pulau kecil lainnya, serta merupakan situs Warisan Dunia UNESCO yang terkenal sebagai habitat komodo, kadal terbesar di dunia. Selain trekking untuk melihat komodo di habitat aslinya dengan pemandu ranger, wisatawan dapat menikmati snorkeling dan diving di perairan yang kaya akan terumbu karang dan ikan tropis, seperti di Pink Beach yang memiliki pasir berwarna merah muda. Pulau Padar menawarkan pemandangan bukit yang dramatis untuk hiking dan fotografi. Untuk mencapai taman nasional, terbanglah ke Bandara Komodo di Labuan Bajo, lalu lanjutkan dengan kapal tur (liveaboard atau harian) ke pulau-pulau. Musim terbaik adalah April–Oktober untuk cuaca cerah. Disarankan untuk mengikuti tur resmi, mematuhi aturan keselamatan saat bertemu komodo, dan membawa peralatan snorkeling untuk pengalaman bawah laut yang optimal."
+          ]
+        },
+        {
+          "tag": "wisata_jawa_timur_madura_salt_pans",
+          "patterns": [
+            "Apa itu tambak garam di Madura?",
+            "Di mana lokasi tambak garam Madura?",
+            "Apa yang bisa dilihat di tambak garam Madura?",
+            "Bagaimana proses pembuatan garam di Madura?",
+            "Bagaimana cara menuju tambak garam di Madura?"
+          ],
+          "responses": [
+            "Tambak garam di Madura, terutama di daerah seperti Sumenep dan Pamekasan, Jawa Timur, adalah ladang garam tradisional yang menawarkan pemandangan unik berupa petak-petak air asin yang berkilau di bawah matahari. Pengunjung dapat melihat proses pembuatan garam secara tradisional, mulai dari pengaliran air laut ke tambak, penguapan, hingga pemanenan kristal garam oleh petani lokal. Selain wisata edukasi, tambak garam juga menjadi spot fotografi yang menarik, terutama saat matahari terbenam dengan pantulan warna-warni di air. Dari Surabaya, tambak garam dapat dicapai dengan menyeberang ke Madura melalui Jembatan Suramadu (sekitar 1–2 jam), lalu melanjutkan ke daerah seperti Desa Pinggir Papas di Sumenep. Disarankan untuk berkunjung pada musim kemarau (Juni–Oktober) saat produksi garam sedang aktif, dan kenakan topi serta sepatu nyaman karena area bisa panas dan berlumpur."
+          ]
+        },
+        {
+          "tag": "wisata_sulawesi_tenggara_kendari_bukit_teletubbies",
+          "patterns": [
+            "Apa itu Bukit Teletubbies di Kendari?",
+            "Di mana lokasi Bukit Teletubbies?",
+            "Apa yang bisa dilakukan di Bukit Teletubbies?",
+            "Mengapa dinamakan Bukit Teletubbies?",
+            "Bagaimana cara menuju Bukit Teletubbies?"
+          ],
+          "responses": [
+            "Bukit Teletubbies, terletak di Kecamatan Abeli, Kota Kendari, Sulawesi Tenggara, adalah kawasan perbukitan hijau dengan bentuk bulat-bulat yang menyerupai lanskap dalam acara televisi ‘Teletubbies’, sehingga dinamakan demikian. Bukit ini menawarkan pemandangan alam yang asri, cocok untuk piknik, berfoto, atau sekadar menikmati udara segar dengan latar Teluk Kendari. Pengunjung juga dapat berjalan-jalan di antara bukit-bukit kecil atau menikmati panorama kota dari ketinggian. Dari pusat Kota Kendari, Bukit Teletubbies dapat dicapai dengan berkendara sekitar 20–30 menit menggunakan mobil atau motor. Area ini masih alami dengan fasilitas terbatas, jadi bawa perbekalan seperti air minum dan tikar untuk piknik. Musim kemarau (Mei–Oktober) adalah waktu terbaik untuk berkunjung agar rumput tetap hijau dan tidak becek. Jaga kebersihan dengan tidak meninggalkan sampah di area bukit."
+          ]
+        },
+        {
+          "tag": "wisata_bangka_belitung_pulau_lengkuas",
+          "patterns": [
+            "Apa yang menarik dari Pulau Lengkuas?",
+            "Di mana lokasi Pulau Lengkuas?",
+            "Aktivitas apa yang bisa dilakukan di Pulau Lengkuas?",
+            "Mengapa Pulau Lengkuas terkenal?",
+            "Bagaimana cara menuju Pulau Lengkuas?"
+          ],
+          "responses": [
+            "Pulau Lengkuas, terletak di lepas pantai Belitung, Bangka Belitung, adalah pulau kecil yang terkenal dengan mercusuar tua peninggalan Belanda yang berdiri sejak 1882 dan pantai berpasir putih dengan air laut jernih. Mercusuar setinggi 50 meter ini dapat didaki untuk melihat panorama laut dan pulau-pulau sekitar, menjadikannya spot favorit untuk fotografi. Pengunjung dapat snorkeling untuk melihat terumbu karang, berenang di perairan yang tenang, atau sekadar bersantai di antara batu-batu granit raksasa. Pulau ini biasanya dikunjungi sebagai bagian dari tur island hopping dari Tanjung Pandan. Untuk mencapai Pulau Lengkuas, terbanglah ke Bandara H.A.S. Hanandjoeddin di Belitung, lalu sewa perahu dari Pantai Tanjung Kelayang, memakan waktu sekitar 30–45 menit. Bawa peralatan snorkeling dan tabir surya, serta jaga kebersihan pulau dengan tidak meninggalkan sampah."
+          ]
+        },
+        {
+          "tag": "wisata_jawa_barat_sukabumi_pelabuhan_ratu",
+          "patterns": [
+            "Apa yang menarik dari Pantai Pelabuhan Ratu?",
+            "Di mana lokasi Pantai Pelabuhan Ratu?",
+            "Aktivitas apa yang bisa dilakukan di Pelabuhan Ratu?",
+            "Apa legenda Nyai Roro Kidul di Pelabuhan Ratu?",
+            "Bagaimana cara menuju Pelabuhan Ratu dari Jakarta?"
+          ],
+          "responses": [
+            "Pantai Pelabuhan Ratu, terletak di Kabupaten Sukabumi, Jawa Barat, adalah destinasi pantai yang terkenal dengan ombaknya yang besar, cocok untuk berselancar, dan legenda mistis Nyai Roro Kidul, ratu laut selatan yang konon menghuni wilayah ini. Pantai ini memiliki pasir hitam yang kontras dengan buih ombak, serta pemandangan tebing dan laut yang dramatis. Aktivitas populer termasuk berselancar di spot seperti Cimaja, berenang di area yang aman, atau mengunjungi Karang Hawu untuk melihat formasi batu karang yang indah. Pengunjung juga bisa menikmati ikan bakar segar di warung lokal. Dari Jakarta, Pelabuhan Ratu dapat dicapai dengan berkendara sekitar 4–5 jam melalui Sukabumi. Hormati kepercayaan lokal dengan menghindari pakaian hijau (konon menarik perhatian Nyai Roro Kidul) dan berhati-hati dengan ombak yang kuat. Sore hari adalah waktu terbaik untuk menikmati sunset dan suasana pantai."
+          ]
+        },
+        {
+          "tag": "wisata_sulawesi_utara_bitung_lembeh_strait",
+          "patterns": [
+            "Apa yang menarik dari Selat Lembeh?",
+            "Di mana lokasi Selat Lembeh?",
+            "Mengapa Selat Lembeh terkenal untuk diving?",
+            "Aktivitas apa yang bisa dilakukan di Selat Lembeh?",
+            "Bagaimana cara menuju Selat Lembeh?"
+          ],
+          "responses": [
+            "Selat Lembeh, terletak di Bitung, Sulawesi Utara, adalah salah satu destinasi diving terbaik di dunia untuk muck diving, di mana penyelam dapat melihat makhluk laut kecil yang unik seperti nudibranch, frogfish, dan octopus mimic. Perairan selat ini memiliki dasar berpasir dan lumpur yang menjadi habitat biota laut langka, menjadikannya surga bagi fotografer bawah air. Selain diving, pengunjung dapat snorkeling atau mengunjungi desa-desa lokal untuk melihat kehidupan masyarakat pesisir. Untuk mencapai Selat Lembeh, terbanglah ke Bandara Sam Ratulangi di Manado, lalu berkendara sekitar 1–1,5 jam ke Bitung, diikuti dengan perjalanan singkat ke resor diving di pulau Lembeh. Banyak dive center berlisensi tersedia untuk mengatur tur, dan musim terbaik adalah April–November untuk visibilitas optimal. Bawa kamera bawah air dan ikuti panduan pemandu untuk menemukan spot terbaik tanpa merusak ekosistem."
+          ]
+        },
+        {
+          "tag": "wisata_kalimantan_barat_singkawang_cap_go_meh",
+          "patterns": [
+            "Apa itu Festival Cap Go Meh di Singkawang?",
+            "Kapan Festival Cap Go Meh diadakan?",
+            "Apa yang bisa dilihat di Festival Cap Go Meh?",
+            "Di mana lokasi Singkawang?",
+            "Bagaimana cara menuju Singkawang?"
+          ],
+          "responses": [
+            "Festival Cap Go Meh di Singkawang, Kalimantan Barat, adalah perayaan Imlek yang meriah, dianggap sebagai salah satu yang terbesar di Indonesia, menampilkan parade tatung (orang-orang yang dirasuki roh dewa), barongsai, dan naga. Festival ini biasanya diadakan 15 hari setelah Tahun Baru Imlek, sekitar akhir Januari atau Februari, menarik ribuan wisatawan dengan pertunjukan budaya Tionghoa dan atraksi spiritual seperti tusuk sate di tubuh tatung. Pengunjung dapat menikmati kuliner khas seperti choi pan, menyaksikan parade di jalan-jalan utama, atau mengunjungi kelenteng-kelenteng bersejarah. Singkawang dapat dicapai dengan terbang ke Bandara Supadio di Pontianak, lalu berkendara sekitar 3–4 jam. Jika ingin menghadiri festival, pesan akomodasi jauh-jauh hari karena hotel cepat penuh. Hormati tradisi dengan tidak mengganggu peserta parade dan berpakaian sopan saat mengunjungi kelenteng."
+          ]
+        },
+        {
+          "tag": "wisata_papua_merauke_wasur_national_park",
+          "patterns": [
+            "Apa itu Taman Nasional Wasur?",
+            "Di mana lokasi Taman Nasional Wasur?",
+            "Apa yang bisa dilakukan di Taman Nasional Wasur?",
+            "Mengapa Taman Nasional Wasur disebut Serengeti-nya Papua?",
+            "Bagaimana cara menuju Taman Nasional Wasur?"
+          ],
+          "responses": [
+            "Taman Nasional Wasur, terletak di Kabupaten Merauke, Papua, adalah kawasan konservasi yang sering disebut ‘Serengeti-nya Papua’ karena padang savananya yang luas dan keanekaragaman satwa liar seperti kanguru pohon, kasuari, dan rusa timor. Taman ini juga memiliki lahan basah yang menjadi habitat burung migran dari Australia, seperti pelikan dan bangau. Pengunjung dapat melakukan safari jeep untuk melihat satwa, mengunjungi desa-desa adat suku Marind, atau menjelajahi rawa-rawa dengan perahu tradisional. Untuk mencapai Wasur, terbanglah ke Bandara Mopah di Merauke, lalu lanjutkan dengan kendaraan sewaan atau tur berpemandu ke taman nasional, sekitar 1–2 jam perjalanan. Musim kemarau (Juni–Oktober) adalah waktu terbaik untuk berkunjung karena akses lebih mudah. Bawa pakaian nyaman, topi, dan obat anti-nyamuk, serta hormati budaya lokal dengan meminta izin sebelum memotret warga atau ritual adat."
+          ]
+        },
+        {
+          "tag": "wisata_bali_uluwatu_temple",
+          "patterns": [
+            "Apa itu Pura Luhur Uluwatu?",
+            "Di mana lokasi Pura Luhur Uluwatu?",
+            "Apa yang membuat Pura Uluwatu istimewa?",
+            "Aktivitas apa yang bisa dilakukan di Uluwatu?",
+            "Kapan waktu terbaik untuk mengunjungi Pura Uluwatu?"
+          ],
+          "responses": [
+            "Pura Luhur Uluwatu, terletak di Pecatu, Bali Selatan, adalah pura Hindu yang berdiri megah di atas tebing setinggi 70 meter menghadap Samudra Hindia, menjadikannya salah satu pura suci terpenting di Bali. Pura ini terkenal dengan pemandangan matahari terbenam yang dramatis dan pertunjukan tari Kecak yang digelar setiap sore dengan latar laut. Pengunjung dapat menjelajahi area pura, berfoto dengan latar tebing dan laut, atau mengamati monyet-monyet yang berkeliaran (hati-hati dengan barang bawaan). Dari Bandara Ngurah Rai, Uluwatu dapat dicapai dengan berkendara sekitar 45 menit–1 jam. Sore hari adalah waktu terbaik untuk menikmati sunset dan tari Kecak, tetapi datanglah lebih awal untuk menghindari keramaian. Kenakan kain sarung (tersedia untuk disewa) dan pakaian sopan sebagai bentuk penghormatan, serta ikuti aturan pura untuk menjaga kesucian tempat ini."
+          ]
+        },
+        {
+          "tag": "wisata_jawa_tengah_prambanan_temple",
+          "patterns": [
+            "Apa itu Candi Prambanan?",
+            "Di mana lokasi Candi Prambanan?",
+            "Apa sejarah Candi Prambanan?",
+            "Apa yang bisa dilihat di Candi Prambanan?",
+            "Bagaimana cara menuju Candi Prambanan?"
+          ],
+          "responses": [
+            "Candi Prambanan, terletak di perbatasan Yogyakarta dan Jawa Tengah, adalah kompleks candi Hindu terbesar di Indonesia, dibangun pada abad ke-9 oleh Dinasti Sanjaya dan didedikasikan untuk Trimurti (Brahma, Wisnu, Siwa). Candi utama, yang didedikasikan untuk Siwa, memiliki relief Ramayana yang indah dan arsitektur menjulang setinggi 47 meter. Pengunjung dapat menjelajahi candi-candi utama, mengikuti tur berpemandu untuk memahami cerita relief, atau menonton pertunjukan Sendratari Ramayana di panggung terbuka pada malam hari. Kompleks ini juga dekat dengan candi lain seperti Candi Sewu. Dari pusat Yogyakarta, Prambanan dapat dicapai dengan berkendara sekitar 30–45 menit atau menggunakan bus Trans Jogja. Harga tiket masuk sekitar Rp 50.000–Rp 75.000, dan disarankan untuk berkunjung pagi hari untuk menghindari panas. Kenakan pakaian sopan dan sepatu nyaman untuk menjelajahi area yang luas."
+          ]
+        },
+        {
+          "tag": "wisata_sumatra_utara_tongging_village",
+          "patterns": [
+            "Apa yang menarik dari Desa Tongging?",
+            "Di mana lokasi Desa Tongging?",
+            "Aktivitas apa yang bisa dilakukan di Desa Tongging?",
+            "Bagaimana pemandangan di Desa Tongging?",
+            "Bagaimana cara menuju Desa Tongging?"
+          ],
+          "responses": [
+            "Desa Tongging, terletak di tepi Danau Toba, Kabupaten Karo, Sumatra Utara, adalah desa yang menawarkan pemandangan alam yang menakjubkan dengan latar danau, perbukitan, dan Air Terjun Sipiso-piso yang terkenal. Desa ini cocok untuk wisatawan yang mencari ketenangan, dengan udara sejuk dan suasana pedesaan yang asri. Aktivitas yang bisa dilakukan termasuk trekking ke air terjun, bersepeda di sekitar desa, atau berperahu di Danau Toba untuk menikmati pemandangan. Pengunjung juga dapat berinteraksi dengan masyarakat Batak Karo dan melihat rumah adat mereka. Dari Medan, Desa Tongging dapat dicapai dengan berkendara sekitar 3–4 jam melalui Berastagi. Akomodasi berupa homestay tersedia, dan disarankan untuk membawa jaket karena suhu bisa dingin di malam hari. Hormati budaya lokal dengan meminta izin sebelum memotret warga atau rumah adat."
+          ]
+        },
+        {
+          "tag": "wisata_maluku_halmahera_tobelo",
+          "patterns": [
+            "Apa yang menarik dari Tobelo di Halmahera?",
+            "Di mana lokasi Tobelo?",
+            "Aktivitas apa yang bisa dilakukan di Tobelo?",
+            "Apa yang unik dari budaya Tobelo?",
+            "Bagaimana cara menuju Tobelo?"
+          ],
+          "responses": [
+            "Tobelo, terletak di Pulau Halmahera, Maluku Utara, adalah kota kecil yang menawarkan kombinasi wisata alam dan budaya. Destinasi seperti Pantai Kupa-Kupa dan Air Terjun Kahatola menawarkan keindahan alam dengan pasir putih dan air jernih, cocok untuk berenang atau snorkeling. Budaya Tobelo juga unik, dengan tarian tradisional Cakalele dan festival budaya yang menampilkan harmoni antaragama masyarakat setempat. Pengunjung dapat mengunjungi pasar lokal untuk membeli rempah atau ikan segar, atau menjelajahi pulau-pulau kecil di sekitar seperti Pulau Tagalaya. Untuk mencapai Tobelo, terbanglah ke Bandara Sultan Babullah di Tua dan lulu naik feri atau pesawat kecil ke Tobelo, atau gunakan penerbangan langsung ke Bandara Gamar Malamo jika tersedia. Akomodasi berupa hotel sederhana tersedia, dan musim kemarau (April–Oktober) adalah waktu terbaik. Hormati tradisi lokal dan bawa peralatan snorkeling untuk menikmati keindahan bawah laut."
+          ]
+        },
+        {
+          "tag": "wisata_ntt_sumba_waingapu",
+          "patterns": [
+            "Apa yang menarik dari Waingapu di Sumba?",
+            "Di mana lokasi Waingapu?",
+            "Aktivitas apa yang bisa dilakukan di Waingapu?",
+            "Apa yang unik dari budaya Sumba?",
+            "Bagaimana cara menuju Waingapu?"
+          ],
+          "responses": [
+            "Waingapu, kota utama di Sumba Timur, Nusa Tenggara Timur, adalah pintu masuk untuk menjelajahi keindahan alam dan budaya Pulau Sumba. Kota ini dekat dengan destinasi seperti Kampung Prailiu, yang terkenal dengan kain tenun ikat Sumba, dan Pantai Puru Kambera dengan pasir putihnya. Pengunjung dapat mengunjungi makam megalitik, menyaksikan tradisi Pasola (pertarungan kuda tradisional) jika bertepatan dengan musimnya (Februari–Maret), atau menjelajahi sawah dan bukit-bukit hijau. Budaya Sumba yang kaya terlihat dari rumah adat beratap tinggi dan upacara adat yang masih dilestarikan. Untuk mencapai Waingapu, terbanglah ke Bandara Umbu Mehang Kunda dari Bali atau Kupang, lalu lanjutkan dengan taksi atau mobil sewaan. Akomodasi berkisar dari hotel hingga homestay, dan disarankan menyewa pemandu lokal untuk memahami tradisi Sumba. Musim kemarau (Mei–Oktober) adalah waktu terbaik untuk berkunjung."
+          ]
+        },
+        {
+          "tag": "wisata_jawa_barat_bogor_taman_safari",
+          "patterns": [
+            "Apa itu Taman Safari Bogor?",
+            "Di mana lokasi Taman Safari Bogor?",
+            "Apa yang bisa dilakukan di Taman Safari Bogor?",
+            "Apakah Taman Safari cocok untuk keluarga?",
+            "Bagaimana cara menuju Taman Safari dari Jakarta?"
+          ],
+          "responses": [
+            "Taman Safari Indonesia, terletak di Cisarua, Bogor, Jawa Barat, adalah kebun binatang dan taman hiburan yang memungkinkan pengunjung untuk melihat satwa liar seperti singa, harimau, jerapah, dan gajah dari dalam mobil, mirip dengan pengalaman safari Afrika. Selain safari drive, pengunjung dapat menikmati pertunjukan satwa, wahana permainan seperti roller coaster, atau berinteraksi langsung dengan hewan jinak di Baby Zoo. Taman ini sangat cocok untuk keluarga karena menyediakan zona edukasi, waterpark, dan restoran. Dari Jakarta, Taman Safari dapat dicapai dengan berkendara sekitar 1,5–2 jam melalui Tol Jagorawi menuju Puncak. Harga tiket masuk berkisar Rp 150.000–Rp 200.000 per orang, tergantung hari. Disarankan untuk datang pagi untuk menghindari kemacetan dan antrean, serta membawa jaket karena udara bisa sejuk. Ikuti aturan keselamatan, seperti menutup jendela saat di zona satwa liar, untuk pengalaman yang aman."
+          ]
+        },
+        {
+          "tag": "wisata_sumatra_barat_lake_singkarak",
+          "patterns": [
+            "Apa yang menarik dari Danau Singkarak?",
+            "Di mana lokasi Danau Singkarak?",
+            "Aktivitas apa yang bisa dilakukan di Danau Singkarak?",
+            "Mengapa Danau Singkarak terkenal di Sumatra Barat?",
+            "Bagaimana cara menuju Danau Singkarak?"
+          ],
+          "responses": [
+            "Danau Singkarak, terletak di Kabupaten Solok dan Tanah Datar, Sumatra Barat, adalah danau terbesar kedua di Sumatra yang terkenal dengan airnya yang jernih, dikelilingi oleh perbukitan hijau dan Gunung Marapi sebagai latar. Danau ini menjadi tuan rumah event balap sepeda internasional, seperti Tour de Singkarak, dan menawarkan pemandangan yang indah untuk fotografi. Pengunjung dapat menikmati perjalanan perahu, memancing, atau bersepeda di sepanjang tepi danau sambil menikmati udara sejuk. Warung-warung lokal menyajikan ikan bilih, spesies endemik yang hanya ditemukan di danau ini. Dari Kota Padang, Danau Singkarak dapat dicapai dengan berkendara sekitar 2–2,5 jam melalui Solok. Disarankan untuk berkunjung pada pagi atau sore hari untuk pemandangan terbaik dan membawa kamera untuk mengabadikan lanskap. Jaga kebersihan danau dengan tidak membuang sampah sembarangan."
+          ]
+        },
+        {
+          "tag": "wisata_sulawesi_selatan_soppeng_silk_village",
+          "patterns": [
+            "Apa itu desa sutera di Soppeng?",
+            "Di mana lokasi desa sutera Soppeng?",
+            "Apa yang bisa dilihat di desa sutera Soppeng?",
+            "Bagaimana proses pembuatan sutera di Soppeng?",
+            "Bagaimana cara menuju desa sutera Soppeng?"
+          ],
+          "responses": [
+            "Desa sutera di Soppeng, Sulawesi Selatan, khususnya di Kecamatan Liliraja, adalah pusat produksi kain sutera tradisional Bugis yang terkenal dengan kualitas dan motifnya yang khas. Pengunjung dapat melihat proses pembuatan sutera mulai dari pemeliharaan ulat, pemintalan benang, hingga penenunan kain menggunakan alat tenun tradisional. Desa ini juga menawarkan pengalaman membeli kain sutera langsung dari pengrajin atau mengikuti workshop singkat tentang tenun. Suasana pedesaan yang asri dan keramahan warga menambah daya tarik wisata edukasi ini. Dari Makassar, desa sutera dapat dicapai dengan berkendara sekitar 4–5 jam ke Soppeng. Disarankan untuk menghubungi pemandu lokal atau dinas pariwisata untuk mengatur kunjungan, dan berkunjung pada pagi hari untuk melihat aktivitas pengrajin. Hormati proses kerja dengan tidak mengganggu dan tanyakan izin sebelum memotret."
+          ]
+        }
     ]
   }
