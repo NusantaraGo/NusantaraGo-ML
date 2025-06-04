@@ -1420,6 +1420,216 @@
             ]
           },
           {
+            "tag": "wisata_aceh_takengon_gayo_highlands",
+            "patterns": [
+                "Apa yang menarik dari Dataran Tinggi Gayo?",
+                "Di mana lokasi Dataran Tinggi Gayo di Aceh?",
+                "Aktivitas apa yang bisa dilakukan di Dataran Tinggi Gayo?",
+                "Bagaimana cara menuju Dataran Tinggi Gayo dari Banda Aceh?",
+                "Apakah Dataran Tinggi Gayo cocok untuk wisata alam?",
+                "Kapan waktu terbaik untuk mengunjungi Takengon?",
+                "Apa saja kuliner khas di Dataran Tinggi Gayo?"
+            ],
+            "responses": [
+                "Dataran Tinggi Gayo, terletak di Kabupaten Aceh Tengah dan Bener Meriah, Aceh, adalah destinasi wisata alam yang memukau dengan lanskap pegunungan, perkebunan kopi, dan udara sejuk. Danau Laut Tawar, danau terbesar di Aceh, menjadi pusat wisata dengan pemandangan air jernih dan perbukitan hijau, ideal untuk berperahu, memancing, atau piknik keluarga. Pengunjung dapat menjelajahi kebun kopi Gayo yang terkenal, belajar proses pembuatan kopi organik, atau trekking ke Air Terjun Peucari untuk menikmati panorama alam. Desa-desa lokal menawarkan pengalaman budaya Gayo, seperti tarian tradisional dan kerajinan tenun. Dari Banda Aceh, Takengon dapat dicapai dengan perjalanan darat sekitar 6–7 jam melalui jalur darat yang berkelok. Musim kemarau (Oktober–April) adalah waktu terbaik untuk cuaca cerah dan jalur trekking yang kering. Jangan lewatkan mencicipi kopi Gayo asli dan makanan khas seperti depik bakar. Bawa jaket, sepatu trekking, dan hormati lingkungan dengan tidak membuang sampah."
+            ]
+        },
+        {
+            "tag": "wisata_sumut_berastagi",
+            "patterns": [
+                "Apa yang menarik dari Berastagi?",
+                "Di mana letak Berastagi di Sumatra Utara?",
+                "Apa saja aktivitas di Berastagi?",
+                "Bagaimana cara ke Berastagi dari Medan?",
+                "Apakah Berastagi cocok untuk liburan keluarga?",
+                "Kapan waktu terbaik untuk ke Berastagi?",
+                "Apa kuliner khas Berastagi?"
+            ],
+            "responses": [
+                "Berastagi, terletak di Kabupaten Karo, Sumatra Utara, adalah kota pegunungan yang menawarkan udara sejuk dan pemandangan alam yang indah, sekitar 2 jam perjalanan dari Medan. Destinasi ini terkenal dengan Gunung Sibayak, yang cocok untuk pendakian dengan pemandangan kawah vulkanik, serta pemandian air panas alami untuk relaksasi. Pasar Buah Berastagi adalah tempat ideal untuk membeli markisa, jeruk, dan produk lokal lainnya. Pengunjung juga dapat mengunjungi Taman Alam Lumbini, replika pagoda emas yang menawarkan suasana damai, atau menjelajahi desa adat Karo untuk mempelajari budaya lokal. Dari Medan, Berastagi mudah diakses dengan mobil atau bus melalui jalur darat. Musim kemarau (Mei–Oktober) adalah waktu terbaik untuk trekking dan aktivitas luar ruangan. Cobalah kuliner lokal seperti babi panggang Karo atau mi gomak. Bawa pakaian hangat, sepatu nyaman, dan jaga kebersihan lingkungan selama kunjungan."
+            ]
+        },
+        {
+            "tag": "wisata_riau_tanjung_pinang",
+            "patterns": [
+                "Apa yang menarik dari Tanjung Pinang?",
+                "Di mana lokasi Tanjung Pinang di Kepulauan Riau?",
+                "Aktivitas apa yang bisa dilakukan di Tanjung Pinang?",
+                "Bagaimana cara menuju Tanjung Pinang dari Batam?",
+                "Apakah Tanjung Pinang cocok untuk wisata sejarah?",
+                "Kapan waktu terbaik untuk mengunjungi Tanjung Pinang?",
+                "Apa makanan khas Tanjung Pinang?"
+            ],
+            "responses": [
+                "Tanjung Pinang, ibu kota Kepulauan Riau di Pulau Bintan, adalah kota bersejarah dengan pesona budaya Melayu dan Tionghoa yang kental. Pulau Penyengat, hanya 15 menit dengan perahu dari Tanjung Pinang, adalah situs sejarah penting dengan Masjid Raya Sultan Riau dan makam pahlawan nasional Raja Ali Haji. Pengunjung dapat menjelajahi pasar tradisional di Jalan Bintan untuk berbelanja kerajinan lokal atau menikmati kuliner seperti otak-otak dan gonggong. Pantai Trikora menawarkan pemandangan laut yang indah untuk bersantai atau berenang. Dari Batam, Tanjung Pinang dapat dicapai dengan feri cepat (sekitar 1 jam). Musim kemarau (Maret–Oktober) ideal untuk cuaca cerah dan aktivitas outdoor. Jangan lewatkan festival budaya seperti Hari Penyengat untuk pengalaman autentik. Bawa topi, tabir surya, dan hormati situs sejarah dengan berpakaian sopan serta menjaga kebersihan."
+            ]
+        },
+        {
+            "tag": "wisata_sumbar_nagari_sungai_pinang",
+            "patterns": [
+                "Apa yang menarik dari Nagari Sungai Pinang?",
+                "Di mana letak Nagari Sungai Pinang di Sumatra Barat?",
+                "Aktivitas apa yang bisa dilakukan di Nagari Sungai Pinang?",
+                "Bagaimana cara menuju Nagari Sungai Pinang dari Padang?",
+                "Apakah Nagari Sungai Pinang cocok untuk wisata bahari?",
+                "Kapan waktu terbaik untuk ke Sungai Pinang?",
+                "Apa saja yang perlu dipersiapkan untuk ke Sungai Pinang?"
+            ],
+            "responses": [
+                "Nagari Sungai Pinang, terletak di Kabupaten Pesisir Selatan, Sumatra Barat, adalah desa pesisir yang menawarkan keindahan pantai dan pulau-pulau kecil di Teluk Mandeh, sering disebut sebagai ‘Raja Ampat-nya Sumbar’. Pengunjung dapat melakukan island hopping ke Pulau Sironjong, Pulau Setan, atau Pulau Cubadak, yang memiliki pantai berpasir putih dan air jernih untuk snorkeling dan diving. Aktivitas lain termasuk berkayak di laguna atau menjelajahi desa nelayan untuk melihat kehidupan lokal Minangkabau. Dari Padang, Sungai Pinang dapat dicapai dengan perjalanan darat sekitar 2–3 jam, diikuti dengan perahu ke pulau-pulau. Musim kemarau (Mei–Oktober) ideal untuk visibilitas air yang jernih. Bawa peralatan snorkeling, tabir surya, dan pakaian ganti. Hormati lingkungan laut dengan tidak merusak terumbu karang dan jaga kebersihan pulau untuk mendukung ekowisata."
+            ]
+        },
+        {
+            "tag": "wisata_jambi_sungai_penuh",
+            "patterns": [
+                "Apa yang menarik dari Sungai Penuh?",
+                "Di mana lokasi Sungai Penuh di Jambi?",
+                "Aktivitas apa yang bisa dilakukan di Sungai Penuh?",
+                "Bagaimana cara menuju Sungai Penuh dari Jambi?",
+                "Apakah Sungai Penuh cocok untuk wisata alam?",
+                "Kapan waktu terbaik untuk mengunjungi Sungai Penuh?",
+                "Apa kuliner khas Sungai Penuh?"
+            ],
+            "responses": [
+                "Sungai Penuh, kota kecil di Provinsi Jambi, adalah pintu gerbang ke Taman Nasional Kerinci Seblat, menawarkan wisata alam dan budaya yang kaya. Terletak di kaki Gunung Kerinci, kota ini memiliki pemandangan perbukitan, perkebunan teh Kayu Aro, dan air terjun seperti Telun Berasap. Pengunjung dapat mendaki Gunung Kerinci (3.805 m), tertinggi di Sumatra, atau menjelajahi desa-desa adat Kerinci untuk melihat tradisi lokal seperti tari rangguk. Danau Kaco, dengan air biru jernih, adalah spot tersembunyi untuk trekking. Dari Kota Jambi, Sungai Penuh dapat dicapai dengan perjalanan darat sekitar 8–9 jam. Musim kemarau (Mei–Oktober) ideal untuk pendakian dan trekking. Cobalah kuliner lokal seperti gulai ikan semah. Bawa jaket, sepatu trekking, dan pemandu untuk pendakian. Jaga kebersihan alam dan hormati tradisi lokal."
+            ]
+        },
+        {
+            "tag": "wisata_bengkulu_benteng_marlborough",
+            "patterns": [
+                "Apa yang menarik dari Benteng Marlborough?",
+                "Di mana lokasi Benteng Marlborough di Bengkulu?",
+                "Aktivitas apa yang bisa dilakukan di Benteng Marlborough?",
+                "Bagaimana cara menuju Benteng Marlborough dari Bengkulu?",
+                "Apakah Benteng Marlborough cocok untuk wisata sejarah?",
+                "Kapan waktu terbaik untuk mengunjungi Benteng Marlborough?",
+                "Apa saja yang perlu diketahui sebelum ke Benteng Marlborough?"
+            ],
+            "responses": [
+                "Benteng Marlborough, terletak di Kota Bengkulu, adalah benteng peninggalan Inggris abad ke-18, salah satu benteng kolonial terbesar di Asia Tenggara. Benteng ini menawarkan wawasan sejarah tentang era kolonial, dengan struktur batu yang kokoh, meriam kuno, dan museum kecil yang menyimpan artefak. Pengunjung dapat menjelajahi lorong-lorong benteng, menikmati pemandangan Pantai Tapak Paderi dari atas tembok, atau mempelajari kisah pengasingan Soekarno di Bengkulu. Lokasinya di pusat kota membuatnya mudah diakses, hanya 10 menit dari pusat Bengkulu. Musim kemarau (Mei–Oktober) ideal untuk cuaca cerah dan kenyamanan. Bawa kamera, topi, dan air minum untuk tur yang nyaman. Hormati situs sejarah dengan tidak merusak struktur dan berpakaian sopan. Jangan lewatkan kuliner lokal seperti pendap di sekitar benteng untuk melengkapi kunjungan Anda."
+            ]
+        },
+        {
+            "tag": "wisata_lampung_pahawang_island",
+            "patterns": [
+                "Apa yang menarik dari Pulau Pahawang?",
+                "Di mana letak Pulau Pahawang di Lampung?",
+                "Aktivitas apa yang bisa dilakukan di Pulau Pahawang?",
+                "Bagaimana cara menuju Pulau Pahawang dari Bandar Lampung?",
+                "Apakah Pulau Pahawang cocok untuk snorkeling?",
+                "Kapan waktu terbaik untuk ke Pulau Pahawang?",
+                "Apa yang perlu dibawa ke Pulau Pahawang?"
+            ],
+            "responses": [
+                "Pulau Pahawang, terletak di Teluk Lampung, Kabupaten Pesawaran, adalah destinasi bahari yang terkenal dengan keindahan bawah lautnya, sering disebut sebagai surga snorkeling dan diving. Pulau ini memiliki terumbu karang yang masih alami, ikan tropis, dan padang lamun yang indah, terutama di spot Nemo Garden. Pengunjung dapat melakukan island hopping ke pulau-pulau kecil seperti Pahawang Kecil, berenang, atau berkemah di tepi pantai. Desa nelayan lokal menawarkan pengalaman budaya sederhana. Dari Bandar Lampung, Pahawang dapat dicapai dengan perjalanan darat ke Pelabuhan Ketapang (1,5 jam) lalu perahu selama 30–40 menit. Musim kemarau (April–Oktober) ideal untuk visibilitas air yang jernih. Bawa peralatan snorkeling, tabir surya, pakaian ganti, dan tenda jika berkemah. Hormati ekosistem laut dengan tidak merusak karang dan jaga kebersihan pulau."
+            ]
+        },
+        {
+            "tag": "wisata_babel_bangka_parai_tenggiri",
+            "patterns": [
+                "Apa yang menarik dari Pantai Parai Tenggiri?",
+                "Di mana lokasi Pantai Parai Tenggiri di Bangka?",
+                "Aktivitas apa yang bisa dilakukan di Pantai Parai Tenggiri?",
+                "Bagaimana cara menuju Pantai Parai Tenggiri dari Pangkalpinang?",
+                "Apakah Pantai Parai Tenggiri cocok untuk keluarga?",
+                "Kapan waktu terbaik untuk mengunjungi Pantai Parai Tenggiri?",
+                "Apa kuliner khas di sekitar Pantai Parai Tenggiri?"
+            ],
+            "responses": [
+                "Pantai Parai Tenggiri, terletak di Sungailiat, Kabupaten Bangka, adalah salah satu pantai terindah di Bangka Belitung dengan pasir putih lembut, air jernih, dan batu granit yang ikonik. Pantai ini cocok untuk keluarga karena menawarkan aktivitas seperti berenang, banana boat, jet ski, atau sekadar bersantai di gazebo tepi pantai. Resort di sekitar pantai menyediakan fasilitas lengkap untuk kenyamanan. Pengunjung juga dapat menikmati seafood segar seperti kepiting saus lada hitam di restoran lokal. Dari Pangkalpinang, pantai ini berjarak sekitar 40 menit perjalanan darat. Musim kemarau (Maret–Oktober) ideal untuk cuaca cerah dan aktivitas air. Bawa pakaian renang, tabir surya, dan mainan pantai untuk anak-anak. Jaga kebersihan pantai dengan tidak membuang sampah dan hormati lingkungan untuk mendukung pariwisata berkelanjutan."
+            ]
+        },
+        {
+            "tag": "wisata_jabar_ciwidey",
+            "patterns": [
+                "Apa yang menarik dari Ciwidey?",
+                "Di mana lokasi Ciwidey di Jawa Barat?",
+                "Aktivitas apa yang bisa dilakukan di Ciwidey?",
+                "Bagaimana cara menuju Ciwidey dari Bandung?",
+                "Apakah Ciwidey cocok untuk liburan keluarga?",
+                "Kapan waktu terbaik untuk ke Ciwidey?",
+                "Apa yang perlu dipersiapkan untuk ke Ciwidey?"
+            ],
+            "responses": [
+                "Ciwidey, terletak di Kabupaten Bandung, Jawa Barat, adalah kawasan dataran tinggi yang terkenal dengan udara sejuk dan keindahan alamnya, hanya sekitar 1,5–2 jam dari Kota Bandung. Destinasi populer termasuk Kawah Putih, danau vulkanik dengan air pirus yang unik, dan Situ Patenggang, danau dengan pemandangan perkebunan teh. Pengunjung dapat berpiknik, berperahu, atau mengunjungi perkebunan stroberi untuk memetik buah segar, menjadikannya ideal untuk liburan keluarga. Glamping Lakeside menawarkan pengalaman menginap unik dengan pemandangan danau. Dari Bandung, Ciwidey mudah diakses dengan mobil pribadi atau bus wisata. Musim kemarau (Mei–Oktober) ideal untuk cuaca cerah dan jalur yang nyaman. Bawa jaket tebal, sepatu nyaman, dan kamera untuk menangkap pemandangan. Jaga kebersihan lingkungan dengan tidak membuang sampah di area wisata."
+            ]
+        },
+        {
+            "tag": "wisata_jateng_karimunjawa_menjangan",
+            "patterns": [
+                "Apa yang menarik dari Pulau Menjangan di Karimunjawa?",
+                "Di mana letak Pulau Menjangan di Jawa Tengah?",
+                "Aktivitas apa yang bisa dilakukan di Pulau Menjangan?",
+                "Bagaimana cara menuju Pulau Menjangan dari Jepara?",
+                "Apakah Pulau Menjangan cocok untuk snorkeling?",
+                "Kapan waktu terbaik untuk ke Pulau Menjangan?",
+                "Apa yang perlu dibawa ke Pulau Menjangan?"
+            ],
+            "responses": [
+                "Pulau Menjangan, bagian dari Kepulauan Karimunjawa di Jawa Tengah, adalah pulau kecil yang terkenal dengan keindahan bawah lautnya, menjadikannya spot favorit untuk snorkeling dan diving. Terumbu karang yang sehat dan ikan tropis berwarna-warni menciptakan pengalaman bahari yang tak terlupakan. Pulau ini juga memiliki penangkaran hiu, di mana pengunjung dapat berenang bersama hiu karang yang jinak. Pantai berpasir putihnya cocok untuk bersantai atau piknik. Dari Jepara, Anda bisa naik feri ke Pulau Karimunjawa (4–6 jam), lalu menyewa perahu ke Menjangan (30 menit). Musim kemarau (Mei–September) ideal untuk visibilitas air yang jernih. Bawa peralatan snorkeling, tabir surya, pakaian ganti, dan makanan ringan karena fasilitas terbatas. Hormati ekosistem laut dengan tidak menyentuh karang atau mengganggu hiu, dan jaga kebersihan pulau."
+            ]
+        },
+        {
+            "tag": "wisata_kalbar_melawi_river",
+            "patterns": [
+                "Apa yang menarik dari Sungai Melawi?",
+                "Di mana lokasi Sungai Melawi di Kalimantan Barat?",
+                "Aktivitas apa yang bisa dilakukan di Sungai Melawi?",
+                "Bagaimana cara menuju Sungai Melawi dari Pontianak?",
+                "Apakah Sungai Melawi cocok untuk wisata alam?",
+                "Kapan waktu terbaik untuk mengunjungi Sungai Melawi?",
+                "Apa yang perlu diperhatikan di Sungai Melawi?"
+            ],
+            "responses": [
+                "Sungai Melawi, mengalir melalui Kabupaten Melawi, Kalimantan Barat, adalah destinasi wisata alam yang menawarkan pengalaman menyusuri sungai dengan pemandangan hutan tropis dan desa-desa Dayak. Pengunjung dapat menyewa perahu klotok untuk river cruising, memancing, atau mengunjungi air terjun kecil di sepanjang sungai. Desa-desa seperti Nanga Pinoh menawarkan wawasan budaya Dayak, dengan rumah panjang dan kerajinan tradisional. Dari Pontianak, Sungai Melawi dapat dicapai dengan perjalanan darat sekitar 5–6 jam ke Nanga Pinoh. Musim kemarau (Mei–Oktober) ideal untuk arus sungai yang tenang dan jalur yang kering. Bawa pakaian tahan air, teropong untuk melihat satwa seperti burung enggang, dan makanan ringan. Hormati budaya Dayak dengan berpakaian sopan dan meminta izin sebelum memotret. Jaga kebersihan sungai dengan tidak membuang sampah."
+            ]
+        },
+        {
+            "tag": "wisata_kalsel_balangan_beach",
+            "patterns": [
+                "Apa yang menarik dari Pantai Balangan?",
+                "Di mana lokasi Pantai Balangan di Kalimantan Selatan?",
+                "Aktivitas apa yang bisa dilakukan di Pantai Balangan?",
+                "Bagaimana cara menuju Pantai Balangan dari Banjarmasin?",
+                "Apakah Pantai Balangan cocok untuk berselancar?",
+                "Kapan waktu terbaik untuk ke Pantai Balangan?",
+                "Apa kuliner khas di Pantai Balangan?"
+            ],
+            "responses": [
+                "Pantai Balangan, terletak di Kabupaten Balangan, Kalimantan Selatan, adalah pantai tersembunyi dengan pasir putih, ombak besar, dan suasana yang masih alami, menjadikannya favorit bagi peselancar lokal. Selain berselancar, pengunjung dapat berenang, berjemur, atau berkemah di tepi pantai sambil menikmati matahari terbenam. Hutan kecil di sekitar pantai cocok untuk trekking ringan, sementara warung lokal menyajikan ikan bakar dan soto Banjar. Dari Banjarmasin, Pantai Balangan dapat dicapai dengan perjalanan darat sekitar 2–3 jam melalui Paringin. Musim kemarau (Mei–Oktober) ideal untuk ombak yang konsisten dan cuaca cerah. Bawa papan selancar, tabir surya, tenda jika berkemah, dan air minum karena fasilitas terbatas. Jaga kebersihan pantai dengan tidak meninggalkan sampah dan hormati lingkungan untuk mendukung pelestarian."
+            ]
+        },
+        {
+            "tag": "wisata_sulteng_banggai_islands",
+            "patterns": [
+                "Apa yang menarik dari Kepulauan Banggai?",
+                "Di mana lokasi Kepulauan Banggai di Sulawesi Tengah?",
+                "Aktivitas apa yang bisa dilakukan di Kepulauan Banggai?",
+                "Bagaimana cara menuju Kepulauan Banggai dari Luwuk?",
+                "Apakah Kepulauan Banggai cocok untuk snorkeling?",
+                "Kapan waktu terbaik untuk ke Kepulauan Banggai?",
+                "Apa yang perlu dibawa ke Kepulauan Banggai?"
+            ],
+            "responses": [
+                "Kepulauan Banggai, terletak di Sulawesi Tengah, adalah gugusan pulau yang menawarkan keindahan bahari dengan air jernih dan keanekaragaman hayati yang luar biasa, termasuk ikan Banggai Cardinal yang endemik. Pulau-pulauan seperti Banggai Laut dan Pulau Peleng memiliki pantai berpasir putih dan terumbu karang yang ideal untuk snorkeling dan diving. Pengunjung dapat melakukan island hopping, mengunjungi desa nelayan, atau menikmati pemandangan laguna dan gua laut. Dari Luwuk, Kepulauan Banggai dapat dicapai dengan kapal cepat ke Banggai Laut (sekitar 2–4 jam). Musim kemarau (April–Oktober) ideal untuk visibilitas air dan perjalanan laut. Akomodasi terbatas, jadi homestay atau penginapan sederhana adalah pilihan utama. Bawa peralatan snorkeling, tabir surya, dan pakaian ganti. Hormati ekosistem laut dengan tidak menyentuh karang dan jaga kebersihan pulau."
+            ]
+        },
+        {
+            "tag": "wisata_sulsel_malino",
+            "patterns": [
+                "Apa yang menarik dari Malino?",
+                "Di mana lokasi Malino di Sulawesi Selatan?",
+                "Aktivitas apa yang bisa dilakukan di Malino?",
+                "Bagaimana cara menuju Malino dari Makassar?",
+                "Apakah Malino cocok untuk liburan keluarga?",
+                "Kapan waktu terbaik untuk mengunjungi Malino?",
+                "Apa kuliner khas Malino?"
+            ],
+            "responses": [
+                "Malino, terletak di Kecamatan Tinggimoncong, Kabupaten Gowa, Sulawesi Selatan, adalah kawasan dataran tinggi yang dikenal dengan udara sejuk, perkebunan teh, dan pemandangan pegunungan yang hijau. Destinasi populer termasuk Air Terjun Takapala, Taman Hutan Raya Sultan Hasanuddin untuk trekking, dan kebun stroberi untuk memetik buah segar. Malino juga terkenal dengan suasana tenang yang cocok untuk piknik keluarga atau berkemah. Dari Makassar, Malino dapat dicapai dengan perjalanan darat sekitar 2–3 jam. Musim kemarau (April–Oktober) ideal untuk cuaca cerah dan jalur trekking yang nyaman. Cobalah sarabba, minuman jahe khas, dan kue tradisional seperti baje. Bawa jaket, sepatu trekking, dan kamera untuk menangkap keindahan alam. Jaga kebersihan lingkungan dengan tidak membuang sampah di area wisata."
+            ]
+        },
+          {
             "tag": "kuliner_surabaya",
             "patterns": [
               "makanan khas Surabaya apa saja yang paling enak dan terkenal?",
@@ -6111,6 +6321,756 @@
             "Bukit Lawang, terletak di Kabupaten Langkat, Sumatra Utara, adalah pintu gerbang ke Taman Nasional Gunung Leuser, salah satu habitat utama orangutan Sumatra di dunia. Pengunjung dapat mengikuti trekking hutan dengan pemandu untuk melihat orangutan di alam liar, sering kali di area rehabilitasi yang dikenal sebagai Feeding Platform. Selain trekking, aktivitas lain termasuk tubing di Sungai Bohorok, mengunjungi desa lokal untuk melihat budaya Batak Karo, atau menjelajahi gua kelelawar. Bukit Lawang menawarkan suasana pedesaan dengan penginapan ramah lingkungan seperti ecolodge. Dari Medan, Bukit Lawang dapat dicapai dengan berkendara sekitar 3–5 jam. Musim kemarau (April–6 jam) adalah waktu terbaik untuk trekking. Bawa sepatu trekking, pakaian nyaman, dan repelent nyamuk, serta ikuti panduan pemandu untuk menjaga jarak aman dengan orangutan."
           ]
         },
+        {
+          "tag": "wisata_maluku_tual",
+          "patterns": [
+              "Apa yang menarik dari Tual di Maluku?",
+              "Di mana lokasi Tual di Maluku Tenggara?",
+              "Aktivitas apa yang bisa dilakukan di Tual?",
+              "Bagaimana cara menuju Tual dari Ambon?",
+              "Apakah Tual cocok untuk wisata bahari?",
+              "Kapan waktu terbaik untuk mengunjungi Tual?",
+              "Apa kuliner khas Tual yang wajib dicoba?"
+          ],
+          "responses": [
+              "Tual, ibu kota Maluku Tenggara, adalah kota pesisir yang menawarkan pesona wisata bahari dan budaya yang kaya di Kepulauan Kei. Pantai-pantai seperti Pantai Ngur Bloat di Kei Kecil memiliki pasir putih halus dan air jernih, ideal untuk snorkeling, diving, atau sekadar bersantai menikmati matahari terbenam. Gua Hawang, dengan air biru kristal, adalah spot unik untuk berenang dan fotografi. Pengunjung juga dapat menjelajahi pasar tradisional Tual untuk merasakan kehidupan lokal atau mengunjungi desa-desa adat untuk mempelajari tradisi Kei yang masih terjaga. Dari Ambon, Tual dapat dicapai dengan penerbangan ke Bandara Karel Sadsuitubun (sekitar 1,5 jam). Musim kemarau (Oktober–April) adalah waktu terbaik untuk visibilitas air yang optimal dan cuaca cerah. Cobalah kuliner lokal seperti ikan kuah asam atau emping kei. Bawa peralatan snorkeling, tabir surya, dan hormati lingkungan laut dengan tidak merusak terumbu karang."
+          ]
+      },
+      {
+          "tag": "wisata_papua_merauke",
+          "patterns": [
+              "Apa yang menarik dari Merauke?",
+              "Di mana letak Merauke di Papua?",
+              "Aktivitas apa yang bisa dilakukan di Merauke?",
+              "Bagaimana cara menuju Merauke dari Jayapura?",
+              "Apakah Merauke cocok untuk wisata alam?",
+              "Kapan waktu terbaik untuk ke Merauke?",
+              "Apa saja kuliner khas Merauke?"
+          ],
+          "responses": [
+              "Merauke, terletak di ujung timur Indonesia di Papua, adalah destinasi yang menawarkan kombinasi wisata alam, budaya, dan sejarah. Taman Nasional Wasur, sering disebut ‘Serengeti Papua’, adalah rumah bagi rusa, kanguru pohon, dan burung migran, ideal untuk safari alam atau birdwatching. Pantai Lampu Satu menawarkan pemandangan matahari terbit yang spektakuler, sementara Monumen Sabun Kole menandai titik paling timur Indonesia. Pengunjung juga dapat menjelajahi budaya suku Marind melalui tarian adat atau kerajinan lokal. Dari Jayapura, Merauke dapat dicapai dengan penerbangan domestik (sekitar 1,5 jam). Musim kemarau (Mei–Oktober) ideal untuk menjelajahi taman nasional dan pantai. Cobalah kuliner khas seperti pato asap atau sago sep. Bawa teropong, sepatu trekking, dan hormati adat lokal dengan meminta izin sebelum memotret warga atau upacara adat."
+          ]
+      },
+      {
+          "tag": "wisata_aceh_lampulo_village",
+          "patterns": [
+              "Apa yang menarik dari Desa Lampulo di Aceh?",
+              "Di mana lokasi Desa Lampulo di Banda Aceh?",
+              "Aktivitas apa yang bisa dilakukan di Desa Lampulo?",
+              "Bagaimana cara menuju Desa Lampulo dari pusat kota Banda Aceh?",
+              "Apakah Desa Lampulo cocok untuk wisata sejarah?",
+              "Kapan waktu terbaik untuk mengunjungi Desa Lampulo?",
+              "Apa yang perlu diperhatikan saat ke Lampulo?"
+          ],
+          "responses": [
+              "Desa Lampulo, terletak di Kecamatan Kuta Alam, Banda Aceh, adalah destinasi wisata sejarah yang terkenal karena kapal nelayan yang tersangkut di atap rumah akibat tsunami 2004, menjadi simbol ketangguhan warga Aceh. Situs ini, dikenal sebagai ‘Kapal di Atas Rumah’, menawarkan wawasan tentang dampak tsunami dan semangat pemulihan masyarakat. Pengunjung dapat mengunjungi museum kecil di desa, berinteraksi dengan warga untuk mendengar cerita mereka, atau menjelajahi pasar ikan lokal yang ramai. Desa ini hanya berjarak 10–15 menit dari pusat kota Banda Aceh dengan becak motor atau mobil. Musim kemarau (Oktober–April) ideal untuk cuaca nyaman. Hormati situs peringatan dengan berpakaian sopan dan tidak mengganggu privasi warga. Cobalah mie Aceh atau kopi sanger di warung lokal. Bawa kamera, topi, dan jaga kebersihan lingkungan."
+          ]
+      },
+      {
+          "tag": "wisata_sumut_silalahi_village",
+          "patterns": [
+              "Apa yang menarik dari Desa Silalahi di Sumatra Utara?",
+              "Di mana letak Desa Silalahi di sekitar Danau Toba?",
+              "Aktivitas apa yang bisa dilakukan di Desa Silalahi?",
+              "Bagaimana cara menuju Desa Silalahi dari Medan?",
+              "Apakah Desa Silalahi cocok untuk wisata budaya?",
+              "Kapan waktu terbaik untuk ke Desa Silalahi?",
+              "Apa kuliner khas di Desa Silalahi?"
+          ],
+          "responses": [
+              "Desa Silalahi, terletak di tepi Danau Toba, Kabupaten Dairi, Sumatra Utara, adalah desa Batak yang menawarkan keindahan alam dan budaya yang autentik. Desa ini memiliki pantai berpasir di tepi danau, ideal untuk berenang, berperahu, atau piknik dengan pemandangan perbukitan. Pengunjung dapat menjelajahi rumah adat Batak, mempelajari tenun ulos, atau menyaksikan tarian tradisional seperti tortor. Air Terjun Sipiso-piso, yang terdekat, menambah daya tarik wisata alam. Dari Medan, Silalahi dapat dicapai dengan perjalanan darat sekitar 3–4 jam melalui Sidikalang. Musim kemarau (Mei–Oktober) ideal untuk cuaca cerah dan jalur yang mudah dilalui. Cobalah ikan mas arsik, kuliner Batak khas. Bawa pakaian sopan untuk kunjungan budaya, sepatu nyaman untuk trekking, dan hormati tradisi lokal dengan meminta izin sebelum memotret."
+          ]
+      },
+      {
+          "tag": "wisata_riau_kampar_river",
+          "patterns": [
+              "Apa yang menarik dari Sungai Kampar?",
+              "Di mana lokasi Sungai Kampar di Riau?",
+              "Aktivitas apa yang bisa dilakukan di Sungai Kampar?",
+              "Bagaimana cara menuju Sungai Kampar dari Pekanbaru?",
+              "Apakah Sungai Kampar cocok untuk petualangan?",
+              "Kapan waktu terbaik untuk mengunjungi Sungai Kampar?",
+              "Apa yang perlu dipersiapkan untuk ke Sungai Kampar?"
+          ],
+          "responses": [
+              "Sungai Kampar, mengalir melalui Kabupaten Kampar, Riau, adalah destinasi petualangan yang terkenal dengan fenomena ‘Bono’, ombak besar yang terjadi akibat pasang surut, menarik peselancar dari seluruh dunia. Selain surfing, pengunjung dapat melakukan river rafting, memancing, atau menyusuri sungai dengan perahu untuk menikmati pemandangan hutan tropis dan desa-desa Melayu. Desa Teluk Meranti adalah titik awal populer untuk menikmati Bono. Dari Pekanbaru, Sungai Kampar dapat dicapai dengan perjalanan darat sekitar 3–4 jam ke Teluk Meranti. Musim hujan (Oktober–Maret) adalah waktu terbaik untuk ombak Bono yang besar. Bawa papan selancar, pakaian tahan air, dan pemandu lokal untuk keamanan. Cobalah gulai ikan patin khas Riau. Hormati lingkungan sungai dengan tidak membuang sampah dan ikuti aturan keselamatan selama aktivitas."
+          ]
+      },
+      {
+          "tag": "wisata_sumbar_mandeh_islands",
+          "patterns": [
+              "Apa yang menarik dari Kepulauan Mandeh?",
+              "Di mana letak Kepulauan Mandeh di Sumatra Barat?",
+              "Aktivitas apa yang bisa dilakukan di Kepulauan Mandeh?",
+              "Bagaimana cara menuju Kepulauan Mandeh dari Padang?",
+              "Apakah Kepulauan Mandeh cocok untuk snorkeling?",
+              "Kapan waktu terbaik untuk ke Mandeh?",
+              "Apa kuliner khas di sekitar Mandeh?"
+          ],
+          "responses": [
+              "Kepulauan Mandeh, terletak di Kabupaten Pesisir Selatan, Sumatra Barat, adalah gugusan pulau di Teluk Mandeh yang dijuluki ‘Raja Ampat-nya Sumbar’ karena keindahan laut dan lagunanya. Pulau-pulau seperti Cubadak, Pagang, dan Sironjong menawarkan pantai berpasir putih, air jernih, dan terumbu karang yang cocok untuk snorkeling dan diving. Pengunjung dapat melakukan island hopping, berkayak, atau bersantai di bungalow terapung. Budaya nelayan lokal menambah pesona dengan kuliner seafood segar. Dari Padang, Mandeh dapat dicapai dengan perjalanan darat ke Carocok (sekitar 2 jam) lalu perahu (30 menit). Musim kemarau (Mei–Oktober) ideal untuk visibilitas air yang jernih. Bawa peralatan snorkeling, tabir surya, dan pakaian ganti. Cobalah ikan bakar dengan sambal lado. Hormati ekosistem laut dengan tidak merusak karang dan jaga kebersihan pulau."
+          ]
+      },
+      {
+          "tag": "wisata_jambi_berbak_national_park",
+          "patterns": [
+              "Apa yang menarik dari Taman Nasional Berbak?",
+              "Di mana lokasi Taman Nasional Berbak di Jambi?",
+              "Aktivitas apa yang bisa dilakukan di Taman Nasional Berbak?",
+              "Bagaimana cara menuju Taman Nasional Berbak dari Jambi?",
+              "Apakah Berbak cocok untuk ekowisata?",
+              "Kapan waktu terbaik untuk mengunjungi Berbak?",
+              "Apa yang perlu dipersiapkan untuk ke Berbak?"
+          ],
+          "responses": [
+              "Taman Nasional Berbak, terletak di Kabupaten Tanjung Jabung Timur, Jambi, adalah salah satu lahan basah terbesar di Asia Tenggara, menawarkan ekowisata yang kaya akan keanekaragaman hayati. Taman ini adalah rumah bagi harimau Sumatra, buaya muara, dan ratusan spesies burung migran. Pengunjung dapat menyusuri Sungai Berbak dengan perahu kano, mengamati satwa liar, atau menjelajahi hutan mangrove. Desa-desa lokal seperti Air Hitam Laut memberikan wawasan budaya Melayu Jambi. Dari Kota Jambi, Berbak dapat dicapai dengan perjalanan darat ke Nipah Panjang (sekitar 4 jam) lalu perahu ke taman nasional. Musim kemarau (Mei–Oktober) ideal untuk akses yang lebih mudah. Bawa teropong, pakaian tahan air, dan pemandu lokal untuk navigasi. Cobalah tempoyak ikan patin. Hormati lingkungan dengan tidak membuang sampah dan ikuti aturan konservasi."
+          ]
+      },
+      {
+          "tag": "wisata_bengkulu_suban_hot_spring",
+          "patterns": [
+              "Apa yang menarik dari Pemandian Air Panas Suban?",
+              "Di mana lokasi Pemandian Air Panas Suban di Bengkulu?",
+              "Aktivitas apa yang bisa dilakukan di Pemandian Air Panas Suban?",
+              "Bagaimana cara menuju Pemandian Air Panas Suban dari Bengkulu?",
+              "Apakah Suban cocok untuk relaksasi?",
+              "Kapan waktu terbaik untuk ke Suban?",
+              "Apa yang perlu dibawa ke Suban?"
+          ],
+          "responses": [
+              "Pemandian Air Panas Suban, terletak di Kabupaten Rejang Lebong, Bengkulu, adalah sumber air panas alami yang dikelilingi perbukitan hijau, menawarkan tempat relaksasi yang menyegarkan. Air panasnya kaya mineral, diyakini baik untuk kesehatan kulit dan meredakan stres. Pengunjung dapat berendam di kolam alami, piknik di tepi sungai, atau trekking ringan di hutan sekitar untuk menikmati flora lokal. Dari Kota Bengkulu, Suban dapat dicapai dengan perjalanan darat sekitar 2–3 jam ke Curup. Musim kemarau (Mei–Oktober) ideal untuk cuaca nyaman dan jalur yang kering. Bawa pakaian renang, handuk, dan sandal anti-selip. Cobalah kopi robusta Bengkulu di warung lokal. Hormati lingkungan dengan tidak membuang sampah dan hindari penggunaan sabun di kolam alami untuk menjaga kebersihan."
+          ]
+      },
+      {
+          "tag": "wisata_lampung_teluk_kiluan",
+          "patterns": [
+              "Apa yang menarik dari Teluk Kiluan?",
+              "Di mana lokasi Teluk Kiluan di Lampung?",
+              "Aktivitas apa yang bisa dilakukan di Teluk Kiluan?",
+              "Bagaimana cara menuju Teluk Kiluan dari Bandar Lampung?",
+              "Apakah Teluk Kiluan cocok untuk melihat lumba-lumba?",
+              "Kapan waktu terbaik untuk ke Teluk Kiluan?",
+              "Apa kuliner khas di Teluk Kiluan?"
+          ],
+          "responses": [
+              "Teluk Kiluan, terletak di Kabupaten Tanggamus, Lampung, adalah destinasi bahari yang terkenal sebagai tempat melihat lumba-lumba liar di habitat aslinya. Pengunjung dapat menyewa perahu jukung untuk menyaksikan lumba-lumba melompat di pagi hari, snorkeling di Laguna Gayau, atau menjelajahi Pulau Kelapa yang memiliki pantai perawan. Teluk ini juga menawarkan suasana desa nelayan yang tenang, cocok untuk relaksasi. Dari Bandar Lampung, Teluk Kiluan dapat dicapai dengan perjalanan darat sekitar 3–4 jam. Musim kemarau (April–Oktober) adalah waktu terbaik untuk melihat lumba-lumba dan cuaca cerah. Cobalah ikan bakar dengan sambal tempoyak. Bawa kamera, tabir surya, dan pakaian ganti. Hormati lingkungan laut dengan tidak membuang sampah dan hindari mengganggu lumba-lumba selama tur."
+          ]
+      },
+      {
+          "tag": "wisata_babel_belitung_tanjung_kelayang",
+          "patterns": [
+              "Apa yang menarik dari Pantai Tanjung Kelayang?",
+              "Di mana lokasi Pantai Tanjung Kelayang di Belitung?",
+              "Aktivitas apa yang bisa dilakukan di Tanjung Kelayang?",
+              "Bagaimana cara menuju Tanjung Kelayang dari Tanjung Pandan?",
+              "Apakah Tanjung Kelayang cocok untuk island hopping?",
+              "Kapan waktu terbaik untuk ke Tanjung Kelayang?",
+              "Apa yang perlu dibawa ke Tanjung Kelayang?"
+          ],
+          "responses": [
+              "Pantai Tanjung Kelayang, terletak di Belitung Utara, Bangka Belitung, adalah pantai yang terkenal dengan batu granit besar dan air laut yang jernih, menjadikannya titik awal ideal untuk island hopping. Pengunjung dapat menyewa perahu untuk mengunjungi Pulau Lengkuas dengan mercusuar bersejarah, Pulau Batu Berlayar, atau Pulau Kepayang untuk snorkeling dan diving. Pantai ini juga cocok untuk berenang, berjemur, atau menikmati seafood segar di warung lokal. Dari Tanjung Pandan, Tanjung Kelayang berjarak sekitar 30 menit perjalanan darat. Musim kemarau (Maret–Oktober) ideal untuk cuaca cerah dan laut yang tenang. Bawa peralatan snorkeling, tabir surya, dan topi. Cobalah mie Belitung atau gangan ikan. Hormati lingkungan laut dengan tidak merusak karang dan jaga kebersihan pantai untuk pelestarian."
+          ]
+      },
+      {
+          "tag": "wisata_jabar_sukabumi_pelabuhan_ratu",
+          "patterns": [
+              "Apa yang menarik dari Pelabuhan Ratu?",
+              "Di mana lokasi Pelabuhan Ratu di Jawa Barat?",
+              "Aktivitas apa yang bisa dilakukan di Pelabuhan Ratu?",
+              "Bagaimana cara menuju Pelabuhan Ratu dari Jakarta?",
+              "Apakah Pelabuhan Ratu cocok untuk berselancar?",
+              "Kapan waktu terbaik untuk ke Pelabuhan Ratu?",
+              "Apa kuliner khas Pelabuhan Ratu?"
+          ],
+          "responses": [
+              "Pelabuhan Ratu, terletak di Kabupaten Sukabumi, Jawa Barat, adalah destinasi pantai yang terkenal dengan ombak besar, menjadikannya surga bagi peselancar, terutama di Pantai Cimaja. Selain berselancar, pengunjung dapat menjelajahi Pantai Karang Hawu dengan tebing dramatis, mengunjungi pemandian air panas Cisolok, atau menikmati suasana pelabuhan nelayan yang ramai. Legenda Nyai Roro Kidul menambah nilai budaya lokal. Dari Jakarta, Pelabuhan Ratu dapat dicapai dengan perjalanan darat sekitar 4–5 jam melalui Sukabumi. Musim kemarau (Mei–Oktober) ideal untuk ombak yang bagus dan cuaca cerah. Cobalah ikan bakar atau sate maranggi di warung lokal. Bawa papan selancar, tabir surya, dan sepatu nyaman untuk eksplorasi. Hormati lingkungan pantai dan hindari berenang di area berbahaya."
+          ]
+      },
+      {
+          "tag": "wisata_jateng_borobudur_sunrise",
+          "patterns": [
+              "Apa yang menarik dari sunrise di Borobudur?",
+              "Di mana lokasi Candi Borobudur di Jawa Tengah?",
+              "Aktivitas apa yang bisa dilakukan saat sunrise di Borobudur?",
+              "Bagaimana cara menuju Borobudur dari Yogyakarta?",
+              "Apakah Borobudur cocok untuk wisata budaya?",
+              "Kapan waktu terbaik untuk melihat sunrise di Borobudur?",
+              "Apa yang perlu dipersiapkan untuk sunrise di Borobudur?"
+          ],
+          "responses": [
+              "Candi Borobudur, terletak di Magelang, Jawa Tengah, adalah candi Buddha terbesar di dunia dan situs warisan UNESCO yang menawarkan pengalaman sunrise yang magis dari puncak candi. Menyaksikan matahari terbit dengan siluet stupa dan pemandangan Gunung Merapi adalah momen tak terlupakan. Pengunjung dapat mengikuti tur sunrise khusus, menjelajahi relief candi yang menceritakan kehidupan Buddha, atau mengunjungi museum di kompleks candi. Dari Yogyakarta, Borobudur berjarak sekitar 1–1,5 jam perjalanan darat. Musim kemarau (Mei–Oktober) ideal untuk langit cerah dan pemandangan sunrise yang jelas. Pesan tiket sunrise заранее karena kuota terbatas. Bawa jaket, sepatu nyaman, dan kamera. Cobalah gudeg Magelang. Hormati situs suci dengan berpakaian sopan dan tidak memanjat stupa."
+          ]
+      },
+      {
+          "tag": "wisata_kalbar_singkawang_cape",
+          "patterns": [
+              "Apa yang menarik dari Tanjung Bajau di Singkawang?",
+              "Di mana lokasi Tanjung Bajau di Kalimantan Barat?",
+              "Aktivitas apa yang bisa dilakukan di Tanjung Bajau?",
+              "Bagaimana cara menuju Tanjung Bajau dari Pontianak?",
+              "Apakah Tanjung Bajau cocok untuk liburan keluarga?",
+              "Kapan waktu terbaik untuk ke Tanjung Bajau?",
+              "Apa kuliner khas di Singkawang?"
+          ],
+          "responses": [
+              "Tanjung Bajau, terletak di Singkawang, Kalimantan Barat, adalah kawasan wisata pantai dengan pemandangan laut dan bukit yang indah, menawarkan suasana tenang untuk liburan keluarga. Pengunjung dapat menikmati pantai berpasir, berenang, atau mendaki bukit untuk panorama Teluk Singkawang. Taman rekreasi di sekitar area memiliki fasilitas seperti gazebo dan spot foto Instagramable. Budaya Tionghoa Singkawang, terlihat dari festival Cap Go Meh, menambah daya tarik. Dari Pontianak, Tanjung Bajau dapat dicapai dengan perjalanan darat sekitar 3–4 jam. Musim kemarau (April–Oktober) ideal untuk cuaca cerah. Cobalah choi pan atau bakpao khas Singkawang. Bawa tikar, tabir surya, dan mainan pantai untuk anak-anak. Jaga kebersihan lingkungan dengan tidak membuang sampah di pantai atau area bukit."
+          ]
+      },
+      {
+          "tag": "wisata_kalsel_pulau_samaringan",
+          "patterns": [
+              "Apa yang menarik dari Pulau Samaringan?",
+              "Di mana lokasi Pulau Samaringan di Kalimantan Selatan?",
+              "Aktivitas apa yang bisa dilakukan di Pulau Samaringan?",
+              "Bagaimana cara menuju Pulau Samaringan dari Banjarmasin?",
+              "Apakah Pulau Samaringan cocok untuk snorkeling?",
+              "Kapan waktu terbaik untuk ke Pulau Samaringan?",
+              "Apa yang perlu dibawa ke Pulau Samaringan?"
+          ],
+          "responses": [
+              "Pulau Samaringan, terletak di Teluk Banjarmasin, Kalimantan Selatan, adalah pulau kecil yang menawarkan keindahan pantai berpasir putih dan air laut jernih, cocok untuk liburan santai. Pulau ini ideal untuk snorkeling karena terumbu karangnya yang masih terjaga dan ikan tropis yang beragam. Pengunjung juga dapat berkemah, memancing, atau menikmati sunset di tepi pantai. Karena ukurannya yang kecil, pulau ini memberikan suasana privat dan tenang. Dari Banjarmasin, Samaringan dapat dicapai dengan perjalanan darat ke Pelabuhan Alalak (30 menit) lalu perahu selama 1–2 jam. Musim kemarau (Mei–Oktober) ideal untuk visibilitas air yang jernih. Bawa peralatan snorkeling, tenda, tabir surya, dan makanan ringan. Cobalah ikan bakar Banjar. Hormati lingkungan laut dengan tidak merusak karang dan jaga kebersihan pulau."
+          ]
+      },
+      {
+          "tag": "wisata_sulteng_saluopa_waterfall",
+          "patterns": [
+              "Apa yang menarik dari Air Terjun Saluopa?",
+              "Di mana lokasi Air Terjun Saluopa di Sulawesi Tengah?",
+              "Aktivitas apa yang bisa dilakukan di Air Terjun Saluopa?",
+              "Bagaimana cara menuju Air Terjun Saluopa dari Poso?",
+              "Apakah Air Terjun Saluopa cocok untuk trekking?",
+              "Kapan waktu terbaik untuk ke Saluopa?",
+              "Apa yang perlu dipersiapkan untuk ke Saluopa?"
+          ],
+          "responses": [
+              "Air Terjun Saluopa, terletak di Kecamatan Pamona Utara, Kabupaten Poso, Sulawesi Tengah, adalah air terjun bertingkat yang mengalir melalui 12 tingkatan batu alami, menciptakan pemandangan alam yang memukau. Dikelilingi hutan tropis, air terjun ini cocok untuk trekking ringan, berenang di kolam alami, atau fotografi. Jalur trekking yang terawat memudahkan pengunjung menikmati keindahan setiap tingkat air terjun. Dari Poso, Saluopa dapat dicapai dengan perjalanan darat sekitar 1–1,5 jam. Musim kemarau (April–Oktober) ideal untuk jalur yang kering dan air yang jernih. Bawa sepatu anti-selip, pakaian renang, dan kamera. Cobalah ikan bakar khas Poso di warung lokal. Hormati lingkungan dengan tidak membuang sampah dan hindari mengambil batu atau tanaman dari area air terjun."
+          ]
+      },
+      {
+          "tag": "wisata_sulsel_tanjung_bira",
+          "patterns": [
+              "Apa yang menarik dari Tanjung Bira?",
+              "Di mana lokasi Tanjung Bira di Sulawesi Selatan?",
+              "Aktivitas apa yang bisa dilakukan di Tanjung Bira?",
+              "Bagaimana cara menuju Tanjung Bira dari Makassar?",
+              "Apakah Tanjung Bira cocok untuk diving?",
+              "Kapan waktu terbaik untuk ke Tanjung Bira?",
+              "Apa kuliner khas Tanjung Bira?"
+          ],
+          "responses": [
+              "Tanjung Bira, terletak di Kabupaten Bulukumba, Sulawesi Selatan, adalah destinasi pantai dengan pasir putih lembut dan air laut biru jernih, menawarkan keindahan bahari yang memukau. Pantai ini terkenal untuk snorkeling dan diving, terutama di Pulau Liukang Loe yang memiliki terumbu karang kaya. Pengunjung juga dapat mengunjungi desa pembuat kapal pinisi untuk melihat kerajinan tradisional Konjo atau bersantai di tepi pantai sambil menikmati seafood. Dari Makassar, Tanjung Bira dapat dicapai dengan perjalanan darat sekitar 4–5 jam. Musim kemarau (April–Oktober) ideal untuk visibilitas air dan cuaca cerah. Cobalah pisang epe atau ikan bakar rica-rica. Bawa peralatan snorkeling, tabir surya, dan topi. Hormati lingkungan laut dengan tidak merusak karang dan jaga kebersihan pantai."
+          ]
+      },
+      {
+          "tag": "wisata_maluku_ora_beach",
+          "patterns": [
+              "Apa yang menarik dari Pantai Ora?",
+              "Di mana lokasi Pantai Ora di Maluku?",
+              "Aktivitas apa yang bisa dilakukan di Pantai Ora?",
+              "Bagaimana cara menuju Pantai Ora dari Ambon?",
+              "Apakah Pantai Ora cocok untuk snorkeling?",
+              "Kapan waktu terbaik untuk ke Pantai Ora?",
+              "Apa yang perlu dibawa ke Pantai Ora?"
+          ],
+          "responses": [
+              "Pantai Ora, terletak di Teluk Sawai, Pulau Seram, Maluku, adalah pantai tropis yang menawarkan air jernih, pasir putih, dan bungalow terapung yang ikonik, sering dibandingkan dengan Maldives. Pantai ini adalah surga untuk snorkeling dan diving karena terumbu karangnya yang masih alami dan ikan tropis yang beragam. Pengunjung dapat menyewa perahu untuk menjelajahi Teluk Sawai, mengunjungi air terjun tersembunyi, atau trekking ke hutan untuk melihat burung endemik Maluku. Dari Ambon, Pantai Ora dapat dicapai dengan feri ke Amahai (2–3 jam) lalu perjalanan darat dan perahu ke Sawai (3–4 jam). Musim kemarau (Oktober–April) ideal untuk visibilitas air. Bawa peralatan snorkeling, tabir surya, dan pakaian ganti. Cobalah ikan kuah kuning Maluku. Hormati lingkungan dengan tidak merusak karang dan jaga kebersihan pantai."
+          ]
+      },
+      {
+        "tag": "wisata_aceh_banyak_islands",
+        "patterns": [
+            "Apa yang menarik dari Kepulauan Banyak?",
+            "Di mana lokasi Kepulauan Banyak di Aceh?",
+            "Aktivitas apa yang bisa dilakukan di Kepulauan Banyak?",
+            "Bagaimana cara menuju Kepulauan Banyak dari Banda Aceh?",
+            "Apakah Kepulauan Banyak cocok untuk snorkeling?",
+            "Kapan waktu terbaik untuk mengunjungi Kepulauan Banyak?",
+            "Apa kuliner khas di Kepulauan Banyak?"
+        ],
+        "responses": [
+            "Kepulauan Banyak, terletak di Kabupaten Aceh Singkil, adalah gugusan pulau tropis yang menawarkan keindahan pantai berpasir putih, air jernih, dan terumbu karang yang kaya, sering disebut sebagai permata tersembunyi di Aceh. Pulau-pulau seperti Tailana, Balai, dan Palambak Besar ideal untuk snorkeling, diving, dan island hopping. Pengunjung dapat menyewa perahu lokal untuk menjelajahi pulau-pulau kecil, berkemah di pantai, atau menikmati sunset yang memukau. Desa nelayan lokal memberikan pengalaman budaya autentik dengan keramahan warga Aceh. Dari Banda Aceh, Anda bisa terbang ke Singkil (1 jam) lalu naik kapal cepat ke Pulau Balai (2–3 jam). Musim kemarau (Oktober–April) adalah waktu terbaik untuk laut tenang dan visibilitas air yang jernih. Cobalah ikan bakar dengan sambal colo-colo atau mie Aceh seafood. Bawa peralatan snorkeling, tabir surya, dan tenda jika ingin berkemah. Hormati lingkungan laut dengan tidak merusak karang dan jaga kebersihan pulau."
+        ]
+    },
+    {
+        "tag": "wisata_sumut_nias_sorake_beach",
+        "patterns": [
+            "Apa yang menarik dari Pantai Sorake di Nias?",
+            "Di mana lokasi Pantai Sorake di Sumatra Utara?",
+            "Aktivitas apa yang bisa dilakukan di Pantai Sorake?",
+            "Bagaimana cara menuju Pantai Sorake dari Medan?",
+            "Apakah Pantai Sorake cocok untuk berselancar?",
+            "Kapan waktu terbaik untuk ke Sorake?",
+            "Apa yang perlu diperhatikan saat ke Pantai Sorake?"
+        ],
+        "responses": [
+            "Pantai Sorake, terletak di Teluk Dalam, Pulau Nias, Sumatra Utara, adalah destinasi kelas dunia bagi peselancar karena ombaknya yang konsisten dan besar, terutama di spot ‘The Point’. Selain berselancar, pengunjung dapat menjelajahi budaya Nias melalui tradisi lompat batu, mengunjungi desa adat Bawomataluo, atau bersantai di pantai dengan pemandangan laut yang indah. Pantai ini juga memiliki laguna kecil yang aman untuk berenang. Dari Medan, Anda bisa terbang ke Bandara Binaka di Gunungsitoli (1 jam) lalu melanjutkan perjalanan darat ke Sorake (2–3 jam). Musim selancar terbaik adalah Mei–Oktober, ketika ombak mencapai ketinggian optimal. Cobalah kuliner lokal seperti babi panggang Nias atau ikan bakar. Bawa papan selancar, tabir surya, dan sepatu nyaman untuk menjelajahi desa. Hormati tradisi lokal dengan berpakaian sopan di desa adat dan jaga kebersihan pantai."
+        ]
+    },
+    {
+        "tag": "wisata_riau_siak_palace",
+        "patterns": [
+            "Apa yang menarik dari Istana Siak?",
+            "Di mana lokasi Istana Siak di Riau?",
+            "Aktivitas apa yang bisa dilakukan di Istana Siak?",
+            "Bagaimana cara menuju Istana Siak dari Pekanbaru?",
+            "Apakah Istana Siak cocok untuk wisata sejarah?",
+            "Kapan waktu terbaik untuk mengunjungi Istana Siak?",
+            "Apa kuliner khas di sekitar Istana Siak?"
+        ],
+        "responses": [
+            "Istana Siak, atau Istana Asserayah Hasyimiah, terletak di Kabupaten Siak, Riau, adalah peninggalan Kesultanan Siak Sri Indrapura yang megah, menawarkan wisata sejarah dan budaya Melayu. Istana ini memiliki arsitektur kolonial-Melayu dengan koleksi artefak seperti singgasana sultan, keramik kuno, dan alat musik tradisional. Pengunjung dapat mengikuti tur berpemandu untuk mempelajari sejarah kesultanan, berfoto di pelataran istana, atau menjelajahi Sungai Siak yang berdekatan. Dari Pekanbaru, istana dapat dicapai dengan perjalanan darat sekitar 2–3 jam. Musim kemarau (Maret–Oktober) ideal untuk cuaca nyaman dan acara budaya seperti Festival Siak Bermadah. Cobalah gulai ikan patin atau roti jala khas Melayu. Bawa kamera, topi, dan berpakaian sopan untuk menghormati situs bersejarah. Jaga kebersihan lingkungan dengan tidak membuang sampah di area istana."
+        ]
+    },
+    {
+        "tag": "wisata_sumbar_maninjau_lake",
+        "patterns": [
+            "Apa yang menarik dari Danau Maninjau?",
+            "Di mana lokasi Danau Maninjau di Sumatra Barat?",
+            "Aktivitas apa yang bisa dilakukan di Danau Maninjau?",
+            "Bagaimana cara menuju Danau Maninjau dari Padang?",
+            "Apakah Danau Maninjau cocok untuk wisata alam?",
+            "Kapan waktu terbaik untuk ke Maninjau?",
+            "Apa kuliner khas di sekitar Danau Maninjau?"
+        ],
+        "responses": [
+            "Danau Maninjau, terletak di Kabupaten Agam, Sumatra Barat, adalah danau vulkanik yang dikelilingi perbukitan hijau dan sawah, menawarkan pemandangan alam yang menakjubkan. Jalur Kelok 44 yang berkelok-kelok menuju danau adalah pengalaman berkendara yang ikonik. Pengunjung dapat bersepeda mengelilingi danau, berperahu, atau mengunjungi desa-desa Minangkabau untuk melihat rumah gadang. Air terjun seperti Lembah Anai di dekatnya menambah daya tarik wisata. Dari Padang, Maninjau dapat dicapai dengan perjalanan darat sekitar 3–4 jam melalui Bukittinggi. Musim kemarau (Mei–Oktober) ideal untuk cuaca cerah dan jalur yang kering. Cobalah palai rinuak atau rendang di warung lokal. Bawa jaket, sepatu nyaman, dan kamera untuk menangkap pemandangan. Hormati lingkungan dengan tidak membuang sampah di tepi danau."
+        ]
+    },
+    {
+        "tag": "wisata_jambi_muaro_jambi_temple",
+        "patterns": [
+            "Apa yang menarik dari Candi Muaro Jambi?",
+            "Di mana lokasi Candi Muaro Jambi di Jambi?",
+            "Aktivitas apa yang bisa dilakukan di Candi Muaro Jambi?",
+            "Bagaimana cara menuju Candi Muaro Jambi dari Jambi?",
+            "Apakah Candi Muaro Jambi cocok untuk wisata sejarah?",
+            "Kapan waktu terbaik untuk mengunjungi Candi Muaro Jambi?",
+            "Apa yang perlu diperhatikan saat ke Candi Muaro Jambi?"
+        ],
+        "responses": [
+            "Candi Muaro Jambi, terletak di Kabupaten Muaro Jambi, adalah kompleks candi Buddha terluas di Indonesia, peninggalan Kerajaan Sriwijaya dan Melayu yang kaya akan sejarah. Kompleks ini memiliki puluhan candi, seperti Candi Gumpung dan Kedaton, dikelilingi kanal kuno dan sungai. Pengunjung dapat menjelajahi situs dengan berjalan kaki atau menyewa sepeda, mengunjungi museum untuk melihat artefak, atau belajar tentang arkeologi Buddha. Dari Kota Jambi, candi dapat dicapai dengan perjalanan darat sekitar 1 jam. Musim kemarau (Mei–Oktober) ideal untuk jalur yang kering dan cuaca nyaman. Hormati situs suci dengan berpakaian sopan dan tidak memanjat candi. Cobalah tempoyak atau dodol nanas khas Jambi. Bawa topi, air minum, dan kamera untuk menikmati kunjungan."
+        ]
+    },
+    {
+        "tag": "wisata_bengkulu_rafflesia_sanctuary",
+        "patterns": [
+            "Apa yang menarik dari Suaka Rafflesia di Bengkulu?",
+            "Di mana lokasi Suaka Rafflesia di Bengkulu?",
+            "Aktivitas apa yang bisa dilakukan di Suaka Rafflesia?",
+            "Bagaimana cara menuju Suaka Rafflesia dari Bengkulu?",
+            "Apakah Suaka Rafflesia cocok untuk wisata alam?",
+            "Kapan waktu terbaik untuk melihat Rafflesia?",
+            "Apa yang perlu dipersiapkan untuk ke Suaka Rafflesia?"
+        ],
+        "responses": [
+            "Suaka Rafflesia, terletak di Taba Penanjung, Bengkulu Tengah, adalah kawasan konservasi untuk melihat Rafflesia arnoldii, bunga terbesar di dunia yang langka dan unik. Pengunjung dapat trekking melalui hutan tropis dengan pemandu untuk menemukan bunga ini, yang bisa berdiameter hingga 1 meter. Selain Rafflesia, hutan ini kaya akan flora dan fauna, cocok untuk pecinta ekowisata dan fotografi alam. Dari Kota Bengkulu, suaka dapat dicapai dengan perjalanan darat sekitar 1–1,5 jam. Waktu terbaik untuk melihat Rafflesia adalah musim hujan (Oktober–Maret), saat bunga lebih sering mekar. Bawa sepatu trekking, pakaian tahan air, dan kamera. Cobalah bagar ikan atau pendap khas Bengkulu. Hormati lingkungan dengan tidak menyentuh bunga dan ikuti jalur pemandu untuk keamanan."
+        ]
+    },
+    {
+        "tag": "wisata_lampung_krakatau_volcano",
+        "patterns": [
+            "Apa yang menarik dari Gunung Anak Krakatau?",
+            "Di mana lokasi Gunung Anak Krakatau di Lampung?",
+            "Aktivitas apa yang bisa dilakukan di Anak Krakatau?",
+            "Bagaimana cara menuju Anak Krakatau dari Bandar Lampung?",
+            "Apakah Anak Krakatau cocok untuk petualangan?",
+            "Kapan waktu terbaik untuk mengunjungi Anak Krakatau?",
+            "Apa yang perlu diperhatikan saat ke Anak Krakatau?"
+        ],
+        "responses": [
+            "Gunung Anak Krakatau, terletak di Selat Sunda, Lampung, adalah gunung berapi aktif yang muncul setelah letusan legendaris Krakatau pada 1883, menawarkan petualangan alam yang mendebarkan. Pengunjung dapat mendaki hingga ke kawah (dengan izin resmi), snorkeling di pulau-pulau sekitar seperti Pulau Sebesi, atau menikmati pemandangan vulkanik dari perahu. Tur biasanya dimulai dari Pelabuhan Canti, sekitar 3–4 jam perjalanan darat dari Bandar Lampung, diikuti perjalanan laut 2–3 jam. Musim kemarau (April–Oktober) ideal untuk laut tenang dan cuaca cerah. Selalu periksa status vulkanik sebelum berangkat dan ikuti pemandu resmi. Cobalah seruit atau pindang ikan khas Lampung. Bawa sepatu trekking, topi, dan air minum. Hormati lingkungan dengan tidak meninggalkan sampah dan patuhi aturan keselamatan."
+        ]
+    },
+    {
+        "tag": "wisata_babel_lengkuas_island",
+        "patterns": [
+            "Apa yang menarik dari Pulau Lengkuas di Belitung?",
+            "Di mana lokasi Pulau Lengkuas di Bangka Belitung?",
+            "Aktivitas apa yang bisa dilakukan di Pulau Lengkuas?",
+            "Bagaimana cara menuju Pulau Lengkuas dari Tanjung Pandan?",
+            "Apakah Pulau Lengkuas cocok untuk snorkeling?",
+            "Kapan waktu terbaik untuk ke Pulau Lengkuas?",
+            "Apa kuliner khas di sekitar Pulau Lengkuas?"
+        ],
+        "responses": [
+            "Pulau Lengkuas, bagian dari Belitung Utara, Bangka Belitung, adalah pulau kecil yang terkenal dengan mercusuar peninggalan Belanda yang ikonik, berdiri sejak 1882. Pengunjung dapat mendaki mercusuar untuk pemandangan laut 360 derajat, snorkeling di perairan jernih penuh terumbu karang, atau bersantai di pantai berpasir putih. Pulau ini adalah destinasi wajib dalam tur island hopping dari Tanjung Kelayang. Dari Tanjung Pandan, Anda bisa menyewa perahu dari Pantai Tanjung Kelayang (30 menit perjalanan darat, lalu 30–40 menit perahu). Musim kemarau (Maret–Oktober) ideal untuk laut tenang dan visibilitas air yang jernih. Cobalah gangan ikan atau sate ikan Belitung. Bawa peralatan snorkeling, tabir surya, dan air minum. Hormati lingkungan laut dengan tidak merusak karang dan jaga kebersihan pulau."
+        ]
+    },
+    {
+        "tag": "wisata_jabar_green_canyon",
+        "patterns": [
+            "Apa yang menarik dari Green Canyon di Jawa Barat?",
+            "Di mana lokasi Green Canyon di Pangandaran?",
+            "Aktivitas apa yang bisa dilakukan di Green Canyon?",
+            "Bagaimana cara menuju Green Canyon dari Bandung?",
+            "Apakah Green Canyon cocok untuk petualangan?",
+            "Kapan waktu terbaik untuk ke Green Canyon?",
+            "Apa yang perlu dipersiapkan untuk ke Green Canyon?"
+        ],
+        "responses": [
+            "Green Canyon, atau Cukang Taneuh, terletak di Pangandaran, Jawa Barat, adalah ngarai sungai dengan air hijau zamrud yang dikelilingi tebing karst, menawarkan petualangan alam yang memukau. Pengunjung dapat menyusuri sungai dengan perahu, berenang di kolam alami, atau body rafting untuk sensasi lebih ekstrem. Gua-gua kecil dan air terjun di sepanjang ngarai menambah keindahan eksplorasi. Dari Bandung, Green Canyon dapat dicapai dengan perjalanan darat sekitar 5–6 jam ke Pangandaran, lalu ke dermaga Cijulang (30 menit). Musim kemarau (Mei–Oktober) ideal untuk arus sungai yang aman dan cuaca cerah. Bawa pakaian renang, sandal anti-selip, dan dry bag. Cobalah ikan bakar Pangandaran. Hormati lingkungan dengan tidak membuang sampah dan ikuti aturan pemandu untuk keselamatan."
+        ]
+    },
+    {
+        "tag": "wisata_jateng_dieng_plateau",
+        "patterns": [
+            "Apa yang menarik dari Dataran Tinggi Dieng?",
+            "Di mana lokasi Dataran Tinggi Dieng di Jawa Tengah?",
+            "Aktivitas apa yang bisa dilakukan di Dieng?",
+            "Bagaimana cara menuju Dieng dari Semarang?",
+            "Apakah Dieng cocok untuk wisata alam?",
+            "Kapan waktu terbaik untuk mengunjungi Dieng?",
+            "Apa kuliner khas Dieng?"
+        ],
+        "responses": [
+            "Dataran Tinggi Dieng, terletak di Kabupaten Wonosobo dan Banjarnegara, Jawa Tengah, adalah kawasan vulkanik dengan pemandangan alam yang dramatis, termasuk kawah Sikidang, Telaga Warna yang berubah warna, dan kompleks Candi Dieng yang bersejarah. Pengunjung dapat trekking ke Bukit Sikunir untuk sunrise spektakuler, menjelajahi candi Hindu abad ke-8, atau menikmati udara sejuk di kebun kentang lokal. Festival budaya Dieng seperti ritual potong rambut gimbal menambah daya tarik. Dari Semarang, Dieng dapat dicapai dengan perjalanan darat sekitar 3–4 jam melalui Wonosobo. Musim kemarau (Juli–Oktober) ideal untuk cuaca cerah dan jalur trekking yang kering. Cobalah carica atau mie ongklok khas Dieng. Bawa jaket tebal, sepatu trekking, dan kamera. Jaga kebersihan lingkungan dengan tidak membuang sampah."
+        ]
+    },
+    {
+        "tag": "wisata_kalbar_kapuas_hulu",
+        "patterns": [
+            "Apa yang menarik dari Kapuas Hulu?",
+            "Di mana lokasi Kapuas Hulu di Kalimantan Barat?",
+            "Aktivitas apa yang bisa dilakukan di Kapuas Hulu?",
+            "Bagaimana cara menuju Kapuas Hulu dari Pontianak?",
+            "Apakah Kapuas Hulu cocok untuk ekowisata?",
+            "Kapan waktu terbaik untuk ke Kapuas Hulu?",
+            "Apa kuliner khas Kapuas Hulu?"
+        ],
+        "responses": [
+            "Kapuas Hulu, terletak di Kalimantan Barat, adalah kawasan perbatasan yang kaya akan hutan hujan tropis dan budaya Dayak, menawarkan pengalaman ekowisata yang autentik. Taman Nasional Betung Kerihun dan Danau Sentarum adalah rumah bagi orangutan, bekantan, dan burung enggang, cocok untuk trekking, river cruising, atau birdwatching. Pengunjung dapat menginap di rumah panjang Dayak untuk mempelajari tradisi lokal seperti tenun ikat. Dari Pontianak, Kapuas Hulu dapat dicapai dengan penerbangan ke Putussibau (1 jam) atau perjalanan darat (10–12 jam). Musim kemarau (Mei–Oktober) ideal untuk akses yang lebih mudah dan cuaca kering. Cobalah lemang atau juhu singkah khas Dayak. Bawa teropong, pakaian tahan air, dan hormati adat lokal dengan meminta izin sebelum memotret."
+        ]
+    },
+    {
+        "tag": "wisata_kalsel_meratus_mountains",
+        "patterns": [
+            "Apa yang menarik dari Pegunungan Meratus?",
+            "Di mana lokasi Pegunungan Meratus di Kalimantan Selatan?",
+            "Aktivitas apa yang bisa dilakukan di Pegunungan Meratus?",
+            "Bagaimana cara menuju Pegunungan Meratus dari Banjarmasin?",
+            "Apakah Meratus cocok untuk trekking?",
+            "Kapan waktu terbaik untuk ke Meratus?",
+            "Apa yang perlu dipersiapkan untuk ke Meratus?"
+        ],
+        "responses": [
+            "Pegunungan Meratus, membentang di Kalimantan Selatan, adalah kawasan pegunungan yang menawarkan petualangan alam dan budaya Dayak Bukit yang kaya. Pengunjung dapat trekking ke puncak seperti Gunung Besar, menjelajahi air terjun tersembunyi seperti Haratai, atau mengunjungi desa adat Loksado untuk melihat rumah balai dan jembatan rotan. Sungai Amandit cocok untuk bamboo rafting yang mendebarkan. Dari Banjarmasin, Meratus dapat dicapai dengan perjalanan darat ke Loksado (3–4 jam). Musim kemarau (Mei–Oktober) ideal untuk jalur trekking yang kering dan arus sungai yang aman. Bawa sepatu trekking, pakaian ganti, dan pemandu lokal. Cobalah ketupat kandangan atau soto Banjar. Hormati budaya lokal dengan berpakaian sopan dan jaga kebersihan lingkungan."
+        ]
+    },
+    {
+        "tag": "wisata_sulteng_togean_islands",
+        "patterns": [
+            "Apa yang menarik dari Kepulauan Togean?",
+            "Di mana lokasi Kepulauan Togean di Sulawesi Tengah?",
+            "Aktivitas apa yang bisa dilakukan di Kepulauan Togean?",
+            "Bagaimana cara menuju Kepulauan Togean dari Palu?",
+            "Apakah Togean cocok untuk diving?",
+            "Kapan waktu terbaik untuk ke Togean?",
+            "Apa kuliner khas di Kepulauan Togean?"
+        ],
+        "responses": [
+            "Kepulauan Togean, terletak di Teluk Tomini, Sulawesi Tengah, adalah surga bahari dengan pulau-pulau tropis, terumbu karang yang kaya, dan laguna jernih, menjadikannya destinasi impian untuk diving dan snorkeling. Spot seperti Una-Una dan Kadidiri menawarkan keanekaragaman laut seperti barakuda dan penyu. Pengunjung dapat mengunjungi desa Bajo untuk melihat kehidupan nelayan di rumah panggung, berkayak, atau bersantai di pantai perawan. Dari Palu, Togean dapat dicapai dengan perjalanan darat ke Ampana (8 jam) lalu kapal ke Wakai (4–6 jam). Musim kemarau (April–Oktober) ideal untuk laut tenang dan visibilitas air. Cobalah ikan bakar dengan sambal dabu-dabu. Bawa peralatan snorkeling, tabir surya, dan pakaian ganti. Hormati lingkungan laut dengan tidak merusak karang dan jaga kebersihan pulau."
+        ]
+    },
+    {
+        "tag": "wisata_sulsel_toraja",
+        "patterns": [
+            "Apa yang menarik dari Tana Toraja?",
+            "Di mana lokasi Tana Toraja di Sulawesi Selatan?",
+            "Aktivitas apa yang bisa dilakukan di Tana Toraja?",
+            "Bagaimana cara menuju Tana Toraja dari Makassar?",
+            "Apakah Tana Toraja cocok untuk wisata budaya?",
+            "Kapan waktu terbaik untuk mengunjungi Tana Toraja?",
+            "Apa kuliner khas Tana Toraja?"
+        ],
+        "responses": [
+            "Tana Toraja, terletak di Sulawesi Selatan, adalah kawasan pegunungan yang terkenal dengan budaya unik dan tradisi pemakaman yang megah, menawarkan pengalaman budaya yang mendalam. Pengunjung dapat menyaksikan upacara Rambu Solo, mengunjungi tongkonan (rumah adat), atau menjelajahi situs pemakaman seperti Londa dan Lemo dengan makam batu. Lanskap sawah dan bukit cocok untuk trekking ringan. Dari Makassar, Toraja dapat dicapai dengan perjalanan darat sekitar 8–9 jam atau penerbangan ke Bandara Pongtiku (45 menit). Musim kemarau (Mei–Oktober) ideal untuk cuaca nyaman dan acara budaya. Cobalah pa’piong atau manuk londa khas Toraja. Bawa pakaian sopan, kamera, dan hormati tradisi lokal dengan meminta izin sebelum memotret upacara."
+        ]
+    },
+    {
+        "tag": "wisata_maluku_banda_islands",
+        "patterns": [
+            "Apa yang menarik dari Kepulauan Banda?",
+            "Di mana lokasi Kepulauan Banda di Maluku?",
+            "Aktivitas apa yang bisa dilakukan di Kepulauan Banda?",
+            "Bagaimana cara menuju Kepulauan Banda dari Ambon?",
+            "Apakah Banda cocok untuk diving?",
+            "Kapan waktu terbaik untuk ke Banda?",
+            "Apa kuliner khas Kepulauan Banda?"
+        ],
+        "responses": [
+            "Kepulauan Banda, terletak di Maluku, adalah gugusan pulau vulkanik yang terkenal sebagai ‘Kepulauan Rempah’ karena sejarah perdagangan pala dan cengkeh. Pulau Neira dan Banda Besar menawarkan diving kelas dunia dengan terumbu karang dan dinding karang vertikal, serta situs sejarah seperti Benteng Belgica. Pengunjung dapat snorkeling, menjelajahi perkebunan pala, atau mendaki Gunung Api untuk pemandangan spektakuler. Dari Ambon, Banda dapat dicapai dengan penerbangan ke Bandara Bandanaira (1 jam) atau kapal Pelni (1–2 hari). Musim kemarau (Oktober–April) ideal untuk laut tenang dan visibilitas air. Cobalah ikan kuah pala atau sambal kenari. Bawa peralatan snorkeling, sepatu trekking, dan tabir surya. Hormati lingkungan laut dan situs sejarah dengan tidak merusak."
+        ]
+    },
+    {
+        "tag": "wisata_papua_lorentz_national_park",
+        "patterns": [
+            "Apa yang menarik dari Taman Nasional Lorentz?",
+            "Di mana lokasi Taman Nasional Lorentz di Papua?",
+            "Aktivitas apa yang bisa dilakukan di Taman Nasional Lorentz?",
+            "Bagaimana cara menuju Taman Nasional Lorentz dari Timika?",
+            "Apakah Lorentz cocok untuk ekowisata?",
+            "Kapan waktu terbaik untuk ke Lorentz?",
+            "Apa yang perlu dipersiapkan untuk ke Lorentz?"
+        ],
+        "responses": [
+            "Taman Nasional Lorentz, membentang di Papua, adalah situs warisan UNESCO yang mencakup ekosistem dari pantai hingga puncak bersalju Puncak Jaya (Carstensz Pyramid). Taman ini adalah rumah bagi suku Asmat, Amungme, dan fauna seperti burung cendrawasih. Pengunjung dapat trekking ke hutan hujan, menjelajahi Sungai Kao dengan perahu, atau mendaki dengan ekspedisi khusus. Dari Timika, akses ke Lorentz melalui penerbangan charter ke desa-desa terpencil atau perjalanan darat dan sungai (tergantung rute). Musim kemarau (Oktober–April) ideal untuk akses yang lebih mudah. Persiapan melibatkan pemandu resmi, izin taman nasional, dan peralatan trekking. Cobalah sagu bakar atau ikan asar. Hormati adat suku dan lingkungan dengan tidak membuang sampah serta ikuti aturan konservasi."
+        ]
+    },
+    {
+      "tag": "wisata_aceh_leupung_beach",
+      "patterns": [
+          "Apa yang menarik dari Pantai Leupung untuk keluarga?",
+          "Di mana lokasi Pantai Leupung di Aceh?",
+          "Aktivitas keluarga apa yang bisa dilakukan di Pantai Leupung?",
+          "Bagaimana cara menuju Pantai Leupung dari Banda Aceh?",
+          "Apakah Pantai Leupung aman untuk anak-anak?",
+          "Kapan waktu terbaik untuk liburan keluarga di Leupung?",
+          "Apa kuliner khas yang cocok untuk keluarga di Leupung?"
+      ],
+      "responses": [
+          "Pantai Leupung, terletak di Kecamatan Lhoknga, Aceh Besar, adalah destinasi pantai yang cocok untuk liburan keluarga karena suasananya yang tenang dan pasir putihnya yang lembut. Pantai ini memiliki air yang jernih dengan ombak kecil, aman untuk anak-anak bermain di tepi pantai atau membangun istana pasir. Keluarga dapat menikmati piknik di bawah pohon kelapa, bermain voli pantai, atau menyewa perahu nelayan untuk melihat pemandangan laut. Warung lokal menyediakan makanan ramah keluarga seperti ikan bakar dan mie Aceh. Dari Banda Aceh, Leupung dapat dicapai dengan perjalanan darat sekitar 30–40 menit. Musim kemarau (Oktober–April) ideal untuk cuaca cerah dan pantai yang nyaman. Bawa tikar, mainan pantai, tabir surya, dan pakaian ganti. Cobalah es kelapa muda segar. Jaga kebersihan pantai dengan tidak membuang sampah untuk mendukung kelestarian lingkungan."
+      ]
+  },
+  {
+      "tag": "wisata_sumut_samosir_island",
+      "patterns": [
+          "Apa yang menarik dari Pulau Samosir untuk keluarga?",
+          "Di mana letak Pulau Samosir di Sumatra Utara?",
+          "Aktivitas keluarga apa yang bisa dilakukan di Samosir?",
+          "Bagaimana cara menuju Pulau Samosir dari Medan?",
+          "Apakah Samosir cocok untuk anak-anak?",
+          "Kapan waktu terbaik untuk liburan keluarga di Samosir?",
+          "Apa kuliner khas Samosir untuk keluarga?"
+      ],
+      "responses": [
+          "Pulau Samosir, di tengah Danau Toba, Sumatra Utara, adalah destinasi liburan keluarga yang menawarkan kombinasi alam dan budaya Batak yang menarik. Keluarga dapat mengunjungi Desa Tomok untuk melihat makam Raja Sidabutar dan pertunjukan boneka Sigale-gale, bersepeda di sekitar desa, atau berenang di tepi danau yang tenang. Museum Huta Bolon Simanindo memperkenalkan anak-anak pada tarian dan musik Batak. Dari Medan, Samosir dapat dicapai dengan perjalanan darat ke Parapat (4–5 jam) lalu feri ke Tuk Tuk (30 menit). Musim kemarau (Mei–Oktober) ideal untuk cuaca cerah dan aktivitas outdoor. Cobalah ikan mas arsik atau mi gomak yang disukai anak-anak. Bawa sepeda lipat, topi, dan tabir surya. Hormati budaya lokal dengan berpakaian sopan di desa adat dan jaga kebersihan lingkungan."
+      ]
+  },
+  {
+      "tag": "wisata_riau_bono_village",
+      "patterns": [
+          "Apa yang menarik dari Desa Bono untuk keluarga?",
+          "Di mana lokasi Desa Bono di Riau?",
+          "Aktivitas keluarga apa yang bisa dilakukan di Desa Bono?",
+          "Bagaimana cara menuju Desa Bono dari Pekanbaru?",
+          "Apakah Desa Bono aman untuk anak-anak?",
+          "Kapan waktu terbaik untuk liburan keluarga di Bono?",
+          "Apa yang perlu dibawa ke Desa Bono?"
+      ],
+      "responses": [
+          "Desa Bono, terletak di Teluk Meranti, Kabupaten Pelalawan, Riau, adalah desa di tepi Sungai Kampar yang menawarkan pengalaman wisata sungai yang ramah keluarga. Fenomena ombak Bono yang terkenal dapat disaksikan dari tepi sungai dengan aman, sementara anak-anak bisa bermain di pantai berpasir atau naik perahu klotok untuk menyusuri sungai. Keluarga juga dapat belajar tentang budaya Melayu melalui kunjungan ke rumah tradisional. Dari Pekanbaru, Desa Bono dapat dicapai dengan perjalanan darat sekitar 3–4 jam. Musim hujan (Oktober–Maret) ideal untuk melihat ombak Bono, tetapi pastikan anak-anak diawasi. Cobalah roti jala dengan gulai ikan patin. Bawa pakaian tahan air, topi, dan kamera. Jaga kebersihan lingkungan sungai dan hormati warga lokal dengan meminta izin sebelum memotret."
+      ]
+  },
+  {
+      "tag": "wisata_sumbar_cubadak_island",
+      "patterns": [
+          "Apa yang menarik dari Pulau Cubadak untuk keluarga?",
+          "Di mana letak Pulau Cubadak di Sumatra Barat?",
+          "Aktivitas keluarga apa yang bisa dilakukan di Cubadak?",
+          "Bagaimana cara menuju Pulau Cubadak dari Padang?",
+          "Apakah Cubadak cocok untuk anak-anak?",
+          "Kapan waktu terbaik untuk liburan keluarga di Cubadak?",
+          "Apa kuliner khas Cubadak untuk keluarga?"
+      ],
+      "responses": [
+          "Pulau Cubadak, bagian dari Teluk Mandeh, Sumatra Barat, adalah pulau kecil yang menawarkan liburan keluarga dengan pantai berpasir putih dan air jernih yang aman untuk anak-anak. Resort di pulau ini menyediakan fasilitas keluarga seperti kamar nyaman dan aktivitas seperti snorkeling dangkal, berkayak, dan permainan pantai. Keluarga dapat menikmati piknik di tepi pantai atau island hopping ke pulau tetangga. Dari Padang, Cubadak dapat dicapai dengan perjalanan darat ke Carocok (2 jam) lalu perahu (30 menit). Musim kemarau (Mei–Oktober) ideal untuk cuaca cerah dan laut yang tenang. Cobalah ikan bakar dengan sambal lado atau rendang sapi. Bawa pakaian renang, tabir surya, dan mainan pantai. Hormati lingkungan laut dengan tidak merusak karang dan jaga kebersihan pulau."
+      ]
+  },
+  {
+      "tag": "wisata_jambi_teluk_wang_village",
+      "patterns": [
+          "Apa yang menarik dari Desa Teluk Wang untuk keluarga?",
+          "Di mana lokasi Desa Teluk Wang di Jambi?",
+          "Aktivitas keluarga apa yang bisa dilakukan di Teluk Wang?",
+          "Bagaimana cara menuju Teluk Wang dari Jambi?",
+          "Apakah Teluk Wang aman untuk anak-anak?",
+          "Kapan waktu terbaik untuk liburan keluarga di Teluk Wang?",
+          "Apa yang perlu dibawa ke Teluk Wang?"
+      ],
+      "responses": [
+          "Desa Teluk Wang, terletak di Kabupaten Tanjung Jabung Timur, Jambi, adalah desa pesisir yang menawarkan pengalaman liburan keluarga dengan suasana tenang dan alam yang asri. Keluarga dapat menikmati perjalanan perahu melalui hutan mangrove, mengamati burung migran, atau bermain di tepi pantai berpasir. Anak-anak dapat belajar tentang ekosistem mangrove melalui tur edukasi. Dari Kota Jambi, Teluk Wang dapat dicapai dengan perjalanan darat ke Nipah Panjang (4 jam) lalu perahu (30 menit). Musim kemarau (Mei–Oktober) ideal untuk cuaca nyaman dan jalur yang kering. Cobalah ikan bakar dengan tempoyak atau dodol nanas. Bawa teropong, tabir surya, dan pakaian ganti. Hormati lingkungan mangrove dengan tidak membuang sampah dan ikuti jalur pemandu."
+      ]
+  },
+  {
+      "tag": "wisata_bengkulu_tapak_paderi_beach",
+      "patterns": [
+          "Apa yang menarik dari Pantai Tapak Paderi untuk keluarga?",
+          "Di mana lokasi Pantai Tapak Paderi di Bengkulu?",
+          "Aktivitas keluarga apa yang bisa dilakukan di Tapak Paderi?",
+          "Bagaimana cara menuju Tapak Paderi dari Bengkulu?",
+          "Apakah Tapak Paderi cocok untuk anak-anak?",
+          "Kapan waktu terbaik untuk liburan keluarga di Tapak Paderi?",
+          "Apa kuliner khas Tapak Paderi untuk keluarga?"
+      ],
+      "responses": [
+          "Pantai Tapak Paderi, terletak di pusat Kota Bengkulu, adalah pantai urban yang ramah keluarga dengan pasir halus dan ombak kecil, ideal untuk anak-anak bermain air atau membangun istana pasir. Dekat dengan Benteng Marlborough, keluarga dapat menggabungkan wisata sejarah dengan piknik pantai. Fasilitas seperti gazebo dan warung makanan membuatnya nyaman untuk bersantai. Pengunjung juga bisa menikmati sepeda air atau berjalan di promenade pantai. Dari pusat kota Bengkulu, pantai ini hanya berjarak 5–10 menit dengan mobil. Musim kemarau (Mei–Oktober) ideal untuk cuaca cerah. Cobalah pendap atau bagar ikan yang disukai anak-anak. Bawa tikar, tabir surya, dan mainan pantai. Jaga kebersihan pantai dengan tidak membuang sampah untuk mendukung pariwisata."
+      ]
+  },
+  {
+      "tag": "wisata_lampung_marga_wildlife_park",
+      "patterns": [
+          "Apa yang menarik dari Taman Margasatwa Marga untuk keluarga?",
+          "Di mana lokasi Taman Margasatwa Marga di Lampung?",
+          "Aktivitas keluarga apa yang bisa dilakukan di Marga?",
+          "Bagaimana cara menuju Taman Margasatwa Marga dari Bandar Lampung?",
+          "Apakah Taman Marga cocok untuk anak-anak?",
+          "Kapan waktu terbaik untuk liburan keluarga di Marga?",
+          "Apa yang perlu dibawa ke Taman Marga?"
+      ],
+      "responses": [
+          "Taman Margasatwa Marga, terletak di Kecamatan Marga Tiga, Lampung Timur, adalah kebun binatang kecil yang ideal untuk liburan keluarga, menawarkan pengalaman edukasi tentang satwa lokal. Anak-anak dapat melihat gajah Sumatra, beruang madu, dan rusa, serta menikmati area bermain dan piknik di taman yang rindang. Tur keliling dengan kereta mini menambah keseruan untuk anak-anak. Dari Bandar Lampung, taman ini dapat dicapai dengan perjalanan darat sekitar 1–1,5 jam. Musim kemarau (April–Oktober) ideal untuk cuaca nyaman dan jalur yang kering. Cobalah seruit atau pindang ikan yang cocok untuk keluarga. Bawa topi, air minum, dan kamera. Hormati satwa dengan tidak memberi makan sembarangan dan jaga kebersihan taman."
+      ]
+  },
+  {
+      "tag": "wisata_babel_tanjung_pandan_beach",
+      "patterns": [
+          "Apa yang menarik dari Pantai Tanjung Pandan untuk keluarga?",
+          "Di mana lokasi Pantai Tanjung Pandan di Belitung?",
+          "Aktivitas keluarga apa yang bisa dilakukan di Tanjung Pandan?",
+          "Bagaimana cara menuju Pantai Tanjung Pandan dari pusat kota?",
+          "Apakah Pantai Tanjung Pandan aman untuk anak-anak?",
+          "Kapan waktu terbaik untuk liburan keluarga di Tanjung Pandan?",
+          "Apa kuliner khas Tanjung Pandan untuk keluarga?"
+      ],
+      "responses": [
+          "Pantai Tanjung Pandan, terletak di pusat kota Tanjung Pandan, Belitung, adalah pantai yang ramah keluarga dengan pasir putih dan air dangkal yang aman untuk anak-anak bermain. Keluarga dapat menikmati sepeda air, banana boat, atau bersantai di gazebo sambil menikmati es kelapa muda. Area sekitar pantai memiliki banyak warung yang menyajikan makanan laut segar, cocok untuk makan bersama. Pantai ini juga dekat dengan pusat kota, hanya 5–10 menit dengan mobil. Musim kemarau (Maret–Oktober) ideal untuk cuaca cerah dan laut yang tenang. Cobalah mie Belitung atau sate ikan yang disukai anak-anak. Bawa tikar, tabir surya, dan pakaian renang. Jaga kebersihan pantai dengan tidak membuang sampah untuk mendukung pelestarian."
+      ]
+  },
+  {
+      "tag": "wisata_jabar_ranca_upas",
+      "patterns": [
+          "Apa yang menarik dari Ranca Upas untuk keluarga?",
+          "Di mana lokasi Ranca Upas di Jawa Barat?",
+          "Aktivitas keluarga apa yang bisa dilakukan di Ranca Upas?",
+          "Bagaimana cara menuju Ranca Upas dari Bandung?",
+          "Apakah Ranca Upas cocok untuk anak-anak?",
+          "Kapan waktu terbaik untuk liburan keluarga di Ranca Upas?",
+          "Apa kuliner khas Ranca Upas untuk keluarga?"
+      ],
+      "responses": [
+          "Ranca Upas, terletak di Ciwidey, Kabupaten Bandung, Jawa Barat, adalah kawasan wisata alam dengan udara sejuk dan padang rumput yang luas, cocok untuk liburan keluarga. Anak-anak dapat berinteraksi dengan rusa di penangkaran, berkemah di area glamping, atau bermain di taman bermain outdoor. Pemandian air panas alami juga tersedia untuk relaksasi keluarga. Dari Bandung, Ranca Upas dapat dicapai dengan perjalanan darat sekitar 1,5–2 jam. Musim kemarau (Mei–Oktober) ideal untuk cuaca cerah dan aktivitas outdoor. Cobalah jagung bakar atau sosis panggang yang disukai anak-anak. Bawa jaket tebal, sepatu nyaman, dan kamera. Jaga kebersihan lingkungan dengan tidak membuang sampah di area camping."
+      ]
+  },
+  {
+      "tag": "wisata_jateng_semarang_sam_poo_kong",
+      "patterns": [
+          "Apa yang menarik dari Kelenteng Sam Poo Kong untuk keluarga?",
+          "Di mana lokasi Sam Poo Kong di Semarang?",
+          "Aktivitas keluarga apa yang bisa dilakukan di Sam Poo Kong?",
+          "Bagaimana cara menuju Sam Poo Kong dari pusat kota Semarang?",
+          "Apakah Sam Poo Kong cocok untuk anak-anak?",
+          "Kapan waktu terbaik untuk liburan keluarga di Sam Poo Kong?",
+          "Apa kuliner khas di sekitar Sam Poo Kong?"
+      ],
+      "responses": [
+          "Kelenteng Sam Poo Kong, terletak di Semarang, Jawa Tengah, adalah kelenteng bersejarah yang didedikasikan untuk Laksamana Cheng Ho, menawarkan wisata budaya yang edukatif untuk keluarga. Anak-anak dapat belajar tentang sejarah Tionghoa-Indonesia melalui relief dan museum di kompleks kelenteng, berfoto dengan kostum tradisional, atau menjelajahi taman yang luas. Area ini juga sering mengadakan festival budaya yang menarik. Dari pusat kota Semarang, Sam Poo Kong hanya berjarak 15–20 menit dengan mobil. Musim kemarau (Mei–Oktober) ideal untuk cuaca nyaman. Cobalah lumpia Semarang atau tahu pong yang ramah untuk anak-anak. Bawa topi, air minum, dan berpakaian sopan untuk menghormati situs suci. Jaga kebersihan lingkungan kelenteng."
+      ]
+  },
+  {
+      "tag": "wisata_kalbar_entikong_border",
+      "patterns": [
+          "Apa yang menarik dari Entikong untuk keluarga?",
+          "Di mana lokasi Entikong di Kalimantan Barat?",
+          "Aktivitas keluarga apa yang bisa dilakukan di Entikong?",
+          "Bagaimana cara menuju Entikong dari Pontianak?",
+          "Apakah Entikong cocok untuk anak-anak?",
+          "Kapan waktu terbaik untuk liburan keluarga di Entikong?",
+          "Apa kuliner khas Entikong untuk keluarga?"
+      ],
+      "responses": [
+          "Entikong, terletak di Kabupaten Sanggau, Kalimantan Barat, adalah kawasan perbatasan Indonesia-Malaysia yang menawarkan pengalaman wisata edukasi untuk keluarga. Anak-anak dapat belajar tentang hubungan antarnegara di pos perbatasan, berbelanja di pasar tradisional, atau piknik di tepi Sungai Sekayam yang tenang. Taman rekreasi kecil di sekitar Entikong cocok untuk bermain. Dari Pontianak, Entikong dapat dicapai dengan perjalanan darat sekitar 4–5 jam. Musim kemarau (Mei–Oktober) ideal untuk cuaca cerah dan jalur yang kering. Cobalah bubur pedas atau choi pan yang disukai anak-anak. Bawa topi, air minum, dan dokumen identitas untuk area perbatasan. Jaga kebersihan lingkungan dan hormati aturan setempat."
+      ]
+  },
+  {
+      "tag": "wisata_kalsel_takari_beach",
+      "patterns": [
+          "Apa yang menarik dari Pantai Takari untuk keluarga?",
+          "Di mana lokasi Pantai Takari di Kalimantan Selatan?",
+          "Aktivitas keluarga apa yang bisa dilakukan di Pantai Takari?",
+          "Bagaimana cara menuju Pantai Takari dari Banjarmasin?",
+          "Apakah Pantai Takari aman untuk anak-anak?",
+          "Kapan waktu terbaik untuk liburan keluarga di Takari?",
+          "Apa kuliner khas Takari untuk keluarga?"
+      ],
+      "responses": [
+          "Pantai Takari, terletak di Kabupaten Tanah Laut, Kalimantan Selatan, adalah pantai dengan pasir putih dan ombak kecil yang ramah untuk liburan keluarga. Anak-anak dapat bermain air, membuat istana pasir, atau menaiki perahu karet. Gazebo dan warung di tepi pantai menyediakan tempat nyaman untuk piknik dan makanan laut segar. Pemandangan matahari terbenam menambah suasana menyenangkan. Dari Banjarmasin, Takari dapat dicapai dengan perjalanan darat sekitar 2–3 jam. Musim kemarau (Mei–Oktober) ideal untuk cuaca cerah dan pantai yang nyaman. Cobalah soto Banjar atau ikan bakar yang cocok untuk keluarga. Bawa tikar, tabir surya, dan mainan pantai. Jaga kebersihan pantai dengan tidak membuang sampah."
+      ]
+  },
+  {
+      "tag": "wisata_sulteng_lore_lindu_park",
+      "patterns": [
+          "Apa yang menarik dari Taman Nasional Lore Lindu untuk keluarga?",
+          "Di mana lokasi Taman Nasional Lore Lindu di Sulawesi Tengah?",
+          "Aktivitas keluarga apa yang bisa dilakukan di Lore Lindu?",
+          "Bagaimana cara menuju Lore Lindu dari Palu?",
+          "Apakah Lore Lindu cocok untuk anak-anak?",
+          "Kapan waktu terbaik untuk liburan keluarga di Lore Lindu?",
+          "Apa yang perlu dibawa ke Lore Lindu?"
+      ],
+      "responses": [
+          "Taman Nasional Lore Lindu, terletak di Sulawesi Tengah, adalah kawasan konservasi dengan hutan tropis dan situs megalitik yang cocok untuk liburan keluarga yang menyukai alam dan budaya. Anak-anak dapat menjelajahi situs batu megalitik di Lembah Bada, piknik di tepi Danau Lindu, atau mengamati burung dengan pemandu. Jalur trekking ringan tersedia untuk keluarga. Dari Palu, Lore Lindu dapat dicapai dengan perjalanan darat sekitar 4–5 jam ke Kecamatan Kulawi. Musim kemarau (April–Oktober) ideal untuk jalur yang kering dan cuaca nyaman. Cobalah ikan bakar atau tinutuan khas Sulawesi. Bawa teropong, sepatu nyaman, dan tabir surya. Hormati situs budaya dengan tidak menyentuh batu megalitik dan jaga kebersihan taman."
+      ]
+  },
+  {
+      "tag": "wisata_sulsel_malino_tea_garden",
+      "patterns": [
+          "Apa yang menarik dari Kebun Teh Malino untuk keluarga?",
+          "Di mana lokasi Kebun Teh Malino di Sulawesi Selatan?",
+          "Aktivitas keluarga apa yang bisa dilakukan di Malino?",
+          "Bagaimana cara menuju Kebun Teh Malino dari Makassar?",
+          "Apakah Malino cocok untuk anak-anak?",
+          "Kapan waktu terbaik untuk liburan keluarga di Malino?",
+          "Apa kuliner khas Malino untuk keluarga?"
+      ],
+      "responses": [
+          "Kebun Teh Malino, terletak di Kecamatan Tinggimoncong, Sulawesi Selatan, adalah destinasi dataran tinggi dengan udara sejuk dan pemandangan hijau yang cocok untuk liburan keluarga. Anak-anak dapat berlari di padang rumput, memetik stroberi di kebun terdekat, atau menikmati wahana flying fox di area wisata. Keluarga bisa piknik sambil menikmati teh segar dari kebun. Dari Makassar, Malino dapat dicapai dengan perjalanan darat sekitar 2–3 jam. Musim kemarau (April–Oktober) ideal untuk cuaca cerah dan aktivitas outdoor. Cobalah sarabba atau baje yang disukai anak-anak. Bawa jaket, tikar, dan kamera. Jaga kebersihan kebun dengan tidak membuang sampah di area wisata."
+      ]
+  },
+  {
+      "tag": "wisata_maluku_saparua_island",
+      "patterns": [
+          "Apa yang menarik dari Pulau Saparua untuk keluarga?",
+          "Di mana lokasi Pulau Saparua di Maluku?",
+          "Aktivitas keluarga apa yang bisa dilakukan di Saparua?",
+          "Bagaimana cara menuju Pulau Saparua dari Ambon?",
+          "Apakah Saparua cocok untuk anak-anak?",
+          "Kapan waktu terbaik untuk liburan keluarga di Saparua?",
+          "Apa kuliner khas Saparua untuk keluarga?"
+      ],
+      "responses": [
+          "Pulau Saparua, terletak di Maluku, adalah pulau kecil dengan pantai yang tenang dan sejarah kolonial yang menarik untuk liburan keluarga. Anak-anak dapat bermain di Pantai Ouw, belajar sejarah di Benteng Duurstede, atau menjelajahi pasar lokal untuk melihat kerajinan gerabah. Keluarga bisa menyewa perahu untuk island hopping ke pulau-pulau kecil terdekat. Dari Ambon, Saparua dapat dicapai dengan kapal cepat dari Pelabuhan Tulehu (1–2 jam). Musim kemarau (Oktober–April) ideal untuk cuaca cerah dan laut yang tenang. Cobalah ikan kuah kuning atau sagu lempeng yang cocok untuk anak-anak. Bawa pakaian renang, tabir surya, dan topi. Hormati lingkungan pantai dan situs sejarah dengan tidak membuang sampah."
+      ]
+  },
+  {
+      "tag": "wisata_papua_jayapura_lake_sentani",
+      "patterns": [
+          "Apa yang menarik dari Danau Sentani untuk keluarga?",
+          "Di mana lokasi Danau Sentani di Papua?",
+          "Aktivitas keluarga apa yang bisa dilakukan di Danau Sentani?",
+          "Bagaimana cara menuju Danau Sentani dari Jayapura?",
+          "Apakah Danau Sentani cocok untuk anak-anak?",
+          "Kapan waktu terbaik untuk liburan keluarga di Sentani?",
+          "Apa kuliner khas Sentani untuk keluarga?"
+      ],
+      "responses": [
+          "Danau Sentani, terletak di dekat Jayapura, Papua, adalah danau yang indah dikelilingi perbukitan, menawarkan liburan keluarga yang damai dengan budaya lokal yang kaya. Keluarga dapat menyewa perahu untuk mengelilingi pulau-pulau kecil, mengunjungi desa Asei untuk melihat kerajinan kulit kayu, atau piknik di tepi danau. Festival Danau Sentani (Juni) menampilkan tarian dan perahu hias yang menarik untuk anak-anak. Dari Jayapura, Sentani hanya berjarak 30–40 menit dengan mobil. Musim kemarau (Mei–Oktober) ideal untuk cuaca cerah dan aktivitas air. Cobalah papeda atau ikan bakar manokwari. Bawa topi, tabir surya, dan kamera. Hormati budaya lokal dengan meminta izin sebelum memotret warga dan jaga kebersihan danau."
+      ]
+  },
+      {
+          "tag": "wisata_papua_wayag_islands",
+          "patterns": [
+              "Apa yang menarik dari Kepulauan Wayag?",
+              "Di mana lokasi Kepulauan Wayag di Papua Barat?",
+              "Aktivitas apa yang bisa dilakukan di Kepulauan Wayag?",
+              "Bagaimana cara menuju Kepulauan Wayag dari Sorong?",
+              "Apakah Wayag cocok untuk diving?",
+              "Kapan waktu terbaik untuk ke Wayag?",
+              "Apa yang perlu dipersiapkan untuk ke Wayag?"
+          ],
+          "responses": [
+              "Kepulauan Wayag, bagian dari Raja Ampat, Papua Barat, adalah ikon wisata bahari dengan pulau-pulau karst yang menjulang dari laut biru jernih, menciptakan pemandangan seperti lukisan. Spot ini terkenal untuk diving dan snorkeling, dengan keanekaragaman hayati laut seperti hiu karang, pari manta, dan koral yang kaya. Pengunjung dapat mendaki bukit karst untuk panorama spektakuler, kayak di laguna, atau menjelajahi gua-gua kecil. Dari Sorong, Wayag dapat dicapai dengan liveaboard atau kapal cepat (sekitar 6–8 jam), biasanya melalui paket tur. Musim kemarau (Oktober–April) ideal untuk laut tenang dan visibilitas air. Bawa peralatan diving, tabir surya, dan pakaian tahan air. Cobalah papeda dengan ikan kuah kuning. Hormati ekosistem laut dengan tidak menyentuh karang dan ikuti aturan tur untuk konservasi."
+          ]
+      },
         {
           "tag": "wisata_sulawesi_tengah_palu_talise_beach",
           "patterns": [
