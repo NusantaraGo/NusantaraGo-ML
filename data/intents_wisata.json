@@ -5095,6 +5095,227 @@
           "responses": [
             "Desa sutera di Soppeng, Sulawesi Selatan, khususnya di Kecamatan Liliraja, adalah pusat produksi kain sutera tradisional Bugis yang terkenal dengan kualitas dan motifnya yang khas. Pengunjung dapat melihat proses pembuatan sutera mulai dari pemeliharaan ulat, pemintalan benang, hingga penenunan kain menggunakan alat tenun tradisional. Desa ini juga menawarkan pengalaman membeli kain sutera langsung dari pengrajin atau mengikuti workshop singkat tentang tenun. Suasana pedesaan yang asri dan keramahan warga menambah daya tarik wisata edukasi ini. Dari Makassar, desa sutera dapat dicapai dengan berkendara sekitar 4–5 jam ke Soppeng. Disarankan untuk menghubungi pemandu lokal atau dinas pariwisata untuk mengatur kunjungan, dan berkunjung pada pagi hari untuk melihat aktivitas pengrajin. Hormati proses kerja dengan tidak mengganggu dan tanyakan izin sebelum memotret."
           ]
-        }
+        },
+        {
+          "tag": "wisata_riau_pekanbaru_masjid_an_nur",
+          "patterns": [
+            "Apa yang menarik dari Masjid An-Nur di Pekanbaru?",
+            "Di mana lokasi Masjid An-Nur?",
+            "Apa sejarah Masjid An-Nur?",
+            "Aktivitas apa yang bisa dilakukan di Masjid An-Nur?",
+            "Bagaimana cara menuju Masjid An-Nur?"
+          ],
+          "responses": [
+            "Masjid An-Nur, terletak di Pekanbaru, Riau, adalah masjid megah yang sering disebut sebagai ‘Taj Mahal-nya Riau’ karena arsitekturnya yang menyerupai bangunan ikonik di India, dengan kubah besar dan menara-menara elegan. Dibangun pada tahun 1968, masjid ini menjadi pusat kegiatan keagamaan dan budaya masyarakat Melayu Riau. Pengunjung dapat mengagumi interior yang dihiasi kaligrafi indah, berfoto di pelataran luas, atau mengikuti kegiatan seperti pengajian jika bertepatan dengan waktu tertentu. Masjid ini juga memiliki perpustakaan dan area yang nyaman untuk refleksi spiritual. Dari pusat Kota Pekanbaru, Masjid An-Nur dapat dicapai dengan berkendara sekitar 10–15 menit, atau menggunakan angkutan umum seperti ojek dari Bandara Sultan Syarif Kasim II (sekitar 20 menit). Pengunjung disarankan berpakaian sopan, menggunakan pakaian yang menutup aurat, dan menghormati waktu salat saat berkunjung."
+          ]
+        },
+        {
+          "tag": "wisata_jawa_timur_pacitan_goa_gong",
+          "patterns": [
+            "Apa itu Gua Gong di Pacitan?",
+            "Di mana lokasi Gua Gong?",
+            "Apa yang membuat Gua Gong istimewa?",
+            "Aktivitas apa yang bisa dilakukan di Gua Gong?",
+            "Bagaimana cara menuju Gua Gong?"
+          ],
+          "responses": [
+            "Gua Gong, terletak di Desa Bomo, Kecamatan Punung, Pacitan, Jawa Timur, adalah gua alam yang terkenal sebagai salah satu gua terindah di Asia Tenggara karena stalaktit dan stalagmitnya yang menakjubkan, serta suara resonansi seperti gong saat dipukul. Gua ini memiliki panjang sekitar 256 meter dengan formasi batuan yang dramatis, diterangi lampu warna-warni untuk mempercantik pemandangan. Pengunjung dapat menjelajahi gua dengan pemandu, berfoto di spot-spot indah, atau mempelajari sejarah geologis gua. Dari pusat Kota Pacitan, Gua Gong dapat dicapai dengan berkendara sekitar 45 menit–1 jam. Jika dari Yogyakarta atau Solo, perjalanan memakan waktu sekitar 3–4 jam. Kenakan sepatu anti-slip karena lantai gua licin, dan bawa air minum karena udara di dalam bisa lembap. Hormati lingkungan dengan tidak menyentuh formasi batuan untuk menjaga kelestariannya."
+          ]
+        },
+        {
+          "tag": "wisata_sulawesi_tenggara_bau_bau_palace_festival",
+          "patterns": [
+            "Apa itu Festival Istana Buton di Bau-Bau?",
+            "Kapan Festival Istana Buton diadakan?",
+            "Apa saja atraksi di Festival Istana Buton?",
+            "Di mana lokasi Bau-Bau?",
+            "Bagaimana cara menuju Bau-Bau?"
+          ],
+          "responses": [
+            "Festival Istana Buton, yang diadakan di Kota Bau-Bau, Pulau Buton, Sulawesi Tenggara, adalah perayaan budaya tahunan yang menampilkan warisan Kesultanan Buton, biasanya berlangsung sekitar bulan September atau Oktober. Festival ini menampilkan tarian tradisional seperti Tari Balumpa, pameran seni, dan prosesi adat di sekitar Benteng Keraton Buton, yang merupakan benteng terluas di dunia. Pengunjung dapat menyaksikan parade pakaian adat, mencicipi kuliner khas Buton seperti kasoami, atau mengunjungi museum di dalam benteng untuk melihat artefak sejarah. Bau-Bau dapat dicapai dengan penerbangan ke Bandara Betoambari dari Makassar, diikuti perjalanan darat singkat ke pusat kota. Alternatifnya, feri dari Kendari juga tersedia. Disarankan untuk memesan akomodasi jauh-jauh hari selama festival dan menghormati tradisi lokal dengan berpakaian sopan serta meminta izin sebelum memotret acara adat."
+          ]
+        },
+        {
+          "tag": "wisata_bali_tegalalang_rice_terrace",
+          "patterns": [
+            "Apa yang menarik dari Tegalalang Rice Terrace?",
+            "Di mana lokasi Tegalalang Rice Terrace?",
+            "Aktivitas apa yang bisa dilakukan di Tegalalang?",
+            "Kapan waktu terbaik untuk mengunjungi Tegalalang?",
+            "Bagaimana cara menuju Tegalalang dari Ubud?"
+          ],
+          "responses": [
+            "Tegalalang Rice Terrace, terletak di Kecamatan Tegalalang, Gianyar, Bali, adalah sawah bertingkat yang terkenal dengan pemandangan hijau yang memukau, sering menjadi latar foto ikonik Bali. Sawah ini mencerminkan sistem irigasi tradisional Subak, yang diakui UNESCO sebagai Warisan Budaya Dunia. Pengunjung dapat berjalan di jalur setapak melalui sawah, berfoto di ayunan Instagramable, atau menikmati kopi di kafe-kafe dengan pemandangan sawah. Aktivitas lain termasuk berinteraksi dengan petani lokal atau membeli suvenir seperti lukisan dan kerajinan. Dari Ubud, Tegalalang dapat dicapai dengan berkendara sekitar 20–30 menit. Waktu terbaik untuk berkunjung adalah pagi hari untuk udara sejuk dan cahaya lembut, serta musim semi (Maret–Mei) saat sawah paling hijau. Kenakan sepatu nyaman untuk trekking dan bawa topi untuk melindungi dari matahari."
+          ]
+        },
+        {
+          "tag": "wisata_sumatra_utara_samosir_tomok",
+          "patterns": [
+            "Apa yang menarik dari Desa Tomok di Samosir?",
+            "Di mana lokasi Desa Tomok?",
+            "Apa yang bisa dilihat di Desa Tomok?",
+            "Apa sejarah Desa Tomok?",
+            "Bagaimana cara menuju Desa Tomok?"
+          ],
+          "responses": [
+            "Desa Tomok, terletak di Pulau Samosir, Sumatra Utara, adalah salah satu desa adat Batak Toba yang kaya akan budaya, terkenal sebagai tempat makam Raja Sidabutar dan pasar tradisionalnya. Pengunjung dapat melihat rumah adat Bolon dengan ukiran gorga, menyaksikan tarian Sigale-gale (boneka kayu yang menari), atau mengunjungi Museum Huta Bolon untuk mempelajari sejarah Batak. Pasar Tomok juga menawarkan suvenir seperti kain ulos dan kerajinan tangan. Desa ini memberikan pemandangan Danau Toba yang indah dan suasana pedesaan yang tenang. Untuk mencapai Tomok, naik feri dari Parapat ke Samosir (sekitar 30–45 menit), lalu lanjutkan dengan motor atau mobil sewaan ke desa (sekitar 10 menit). Hormati budaya lokal dengan meminta izin sebelum memotret warga atau rumah adat, dan kenakan pakaian sopan saat mengunjungi situs bersejarah."
+          ]
+        },
+        {
+          "tag": "wisata_jawa_tengah_karimunjawa_islands",
+          "patterns": [
+            "Apa yang menarik dari Kepulauan Karimunjawa?",
+            "Di mana lokasi Kepulauan Karimunjawa?",
+            "Aktivitas apa yang bisa dilakukan di Karimunjawa?",
+            "Bagaimana cara menuju Kepulauan Karimunjawa?",
+            "Kapan waktu terbaik untuk mengunjungi Karimunjawa?"
+          ],
+          "responses": [
+            "Kepulauan Karimunjawa, terletak di Laut Jawa, Kabupaten Jepara, Jawa Tengah, adalah gugusan pulau yang terkenal dengan pantai berpasir putih, air laut jernih, dan terumbu karang yang masih alami, menjadikannya destinasi favorit untuk snorkeling dan diving. Aktivitas populer termasuk island hopping ke pulau-pulau seperti Menjangan Kecil, snorkeling untuk melihat ikan tropis dan penyu, atau bersantai di Pantai Tanjung Gelam. Pengunjung juga dapat mengunjungi hutan mangrove atau menikmati sunset dari Bukit Love. Untuk mencapai Karimunjawa, naik kapal feri atau speedboat dari Pelabuhan Kartini di Jepara (sekitar 2–5 jam), atau terbang ke Bandara Dewadaru dari Semarang. Musim terbaik adalah April–Oktober untuk laut yang tenang. Pesan tur dan akomodasi jauh-jauh hari, dan jaga lingkungan dengan tidak merusak karang atau membuang sampah."
+          ]
+        },
+        {
+          "tag": "wisata_maluku_tual_langgur_ohoidertawun",
+          "patterns": [
+            "Apa yang menarik dari Pantai Ohoidertawun?",
+            "Di mana lokasi Pantai Ohoidertawun?",
+            "Aktivitas apa yang bisa dilakukan di Pantai Ohoidertawun?",
+            "Mengapa Pantai Ohoidertawun populer di Kei?",
+            "Bagaimana cara menuju Pantai Ohoidertawun?"
+          ],
+          "responses": [
+            "Pantai Ohoidertawun, terletak di Kepulauan Kei, Maluku Tenggara, adalah pantai yang menawan dengan pasir putih halus, air laut jernih, dan formasi karang yang indah, menjadikannya salah satu pantai terbaik di Kei Kecil. Pantai ini populer untuk snorkeling dan diving karena terumbu karangnya yang kaya dan kehidupan laut seperti ikan tropis. Pengunjung juga dapat berenang, berjalan di sepanjang pantai, atau mengunjungi gua-gua kecil di sekitar untuk petualangan ringan. Dari Tual atau Langgur, pantai ini dapat dicapai dengan berkendara sekitar 30–45 menit. Untuk sampai ke Kei, terbanglah ke Bandara Karel Sadsuitubun dari Ambon atau Makassar. Akomodasi di sekitar pantai masih sederhana, jadi bawa perbekalan seperti air minum dan peralatan snorkeling. Musim kemarau (April–November) adalah waktu terbaik, dan jaga kebersihan pantai dengan tidak meninggalkan sampah."
+          ]
+        },
+        {
+          "tag": "wisata_ntb_sumbawa_moyo_island",
+          "patterns": [
+            "Apa yang menarik dari Pulau Moyo?",
+            "Di mana lokasi Pulau Moyo?",
+            "Aktivitas apa yang bisa dilakukan di Pulau Moyo?",
+            "Mengapa Pulau Moyo terkenal?",
+            "Bagaimana cara menuju Pulau Moyo?"
+          ],
+          "responses": [
+            "Pulau Moyo, terletak di utara Pulau Sumbawa, Nusa Tenggara Barat, adalah pulau yang masih alami dengan hutan tropis, air terjun, dan pantai-pantai sepi yang menawarkan ketenangan. Pulau ini terkenal karena keindahan alamnya, seperti Air Terjun Mata Jitu yang disebut ‘Queen Waterfall’ karena pernah dikunjungi Putri Diana, dan spot snorkeling serta diving dengan terumbu karang yang kaya. Pengunjung dapat trekking ke air terjun, berenang di kolam alami, atau menjelajahi desa lokal untuk melihat budaya Sumbawa. Untuk mencapai Pulau Moyo, terbanglah ke Bandara Sultan Muhammad Salahudin di Bima, lalu lanjutkan dengan perahu dari Pelabuhan Sape (sekitar 1–2 jam). Akomodasi terbatas, dengan pilihan resort mewah seperti Amanwana atau homestay sederhana. Musim kemarau (Mei–Oktober) ideal untuk berkunjung, dan bawa sepatu trekking serta peralatan snorkeling."
+          ]
+        },
+        {
+          "tag": "wisata_sulawesi_utara_manado_tomohon_flower_festival",
+          "patterns": [
+            "Apa itu Festival Bunga Tomohon?",
+            "Kapan Festival Bunga Tomohon diadakan?",
+            "Apa saja atraksi di Festival Bunga Tomohon?",
+            "Di mana lokasi Tomohon?",
+            "Bagaimana cara menuju Tomohon?"
+          ],
+          "responses": [
+            "Festival Bunga Tomohon, atau Tomohon International Flower Festival, adalah acara tahunan di Kota Tomohon, Sulawesi Utara, yang biasanya diadakan pada bulan Agustus untuk memamerkan kekayaan flora daerah yang dikenal sebagai ‘Kota Bunga’. Festival ini menampilkan parade kendaraan hias yang dihiasi bunga-bunga warna-warni, pameran tanaman, dan kompetisi taman. Pengunjung dapat menikmati keindahan bunga seperti anggrek dan mawar, mencicipi kuliner Minahasa, atau berfoto di taman-taman yang dirancang khusus. Dari Manado, Tomohon dapat dicapai dengan berkendara sekitar 45 menit–1 jam. Terbanglah ke Bandara Sam Ratulangi di Manado untuk akses termudah. Pesan akomodasi jauh-jauh hari selama festival, dan kenakan pakaian nyaman untuk berjalan menikmati pameran. Hormati lingkungan dengan tidak memetik bunga dan ikuti panduan panitia untuk pengalaman yang menyenangkan."
+          ]
+        },
+        {
+          "tag": "wisata_jawa_barat_garut_darajat_crater",
+          "patterns": [
+            "Apa itu Kawah Darajat di Garut?",
+            "Di mana lokasi Kawah Darajat?",
+            "Apa yang bisa dilakukan di Kawah Darajat?",
+            "Mengapa Kawah Darajat menarik?",
+            "Bagaimana cara menuju Kawah Darajat?"
+          ],
+          "responses": [
+            "Kawah Darajat, terletak di Desa Padaawas, Kecamatan Pasirwangi, Garut, Jawa Barat, adalah kawasan wisata vulkanik yang menawarkan pemandangan kawah beruap, sumber air panas alami, dan panorama perbukitan yang sejuk. Pengunjung dapat berendam di kolam air panas yang diyakini baik untuk kesehatan kulit, menikmati udara segar, atau berfoto dengan latar lanskap vulkanik. Kawasan ini juga memiliki fasilitas seperti waterpark dan area piknik, cocok untuk liburan keluarga. Dari pusat Kota Garut, Kawah Darajat dapat dicapai dengan berkendara sekitar 1–1,5 jam. Jika dari Bandung, perjalanan memakan waktu sekitar 2,5–3 jam. Harga tiket masuk biasanya sekitar Rp 30.000–Rp 50.000. Bawa pakaian ganti untuk berendam dan kenakan sepatu nyaman untuk menjelajahi area berbatu. Berkunjung pada pagi hari memberikan pemandangan yang lebih jernih sebelum kabut turun."
+          ]
+        },
+        {
+          "tag": "wisata_sumatra_barat_painan_mandeh",
+          "patterns": [
+            "Apa yang menarik dari Kawasan Mandeh?",
+            "Di mana lokasi Kawasan Mandeh?",
+            "Aktivitas apa yang bisa dilakukan di Mandeh?",
+            "Mengapa Mandeh disebut Raja Ampat-nya Sumatra?",
+            "Bagaimana cara menuju Kawasan Mandeh?"
+          ],
+          "responses": [
+            "Kawasan Mandeh, terletak di Kecamatan Koto XI Tarusan, Pesisir Selatan, Sumatra Barat, adalah destinasi bahari yang sering disebut ‘Raja Ampat-nya Sumatra’ karena pulau-pulau kecilnya, air laut jernih, dan terumbu karang yang indah. Aktivitas populer termasuk snorkeling, diving, island hopping ke pulau seperti Cubadak dan Pagang, atau menikmati pemandangan dari Bukit Mandeh. Pengunjung juga dapat berenang di Teluk Mandeh atau memancing bersama nelayan lokal. Dari Padang, Mandeh dapat dicapai dengan berkendara sekitar 2–2,5 jam. Tur perahu biasanya diatur oleh operator lokal, dan musim kemarau (April–Oktober) adalah waktu terbaik untuk laut yang tenang. Bawa peralatan snorkeling dan tabir surya, serta jaga kebersihan lingkungan dengan tidak membuang sampah di laut atau pantai untuk melestarikan keindahan Mandeh."
+          ]
+        },
+        {
+          "tag": "wisata_kalimantan_selatan_loksado_bamboo_rafting",
+          "patterns": [
+            "Apa itu bamboo rafting di Loksado?",
+            "Di mana lokasi Loksado?",
+            "Bagaimana pengalaman bamboo rafting di Loksado?",
+            "Aktivitas apa lagi yang bisa dilakukan disana?",
+            "Bagaimana cara menuju Loksado?"
+          ],
+          "responses": [
+            "Bamboo rafting di Loksado, Kabupaten Hulu Sungai Selatan, Kalimantan Selatan, adalah aktivitas petualangan yang unik di mana pengunjung menyusuri Sungai Amandit menggunakan rakit bambu tradisional yang dirakit oleh masyarakat Dayak Meratus. Perjalanan ini menawarkan pemandangan hutan tropis, air terjun kecil, dan desa-desa adat di sepanjang sungai, memberikan pengalaman yang mendebarkan sekaligus damai. Selain rafting, pengunjung dapat trekking ke hutan untuk melihat Air Terjun Haratai atau mengunjungi desa Dayak untuk mempelajari budaya lokal, seperti pembuatan anyaman. Dari Banjarmasin, Loksado dapat dijempuh dengan berkendara sekitar 4–5 jam melalui Kandangan. Tur rafting biasanya dipandu oleh warga lokal, dan musim kemarau (Mei–Oktober) adalah waktu terbaik untuk menghindari arus deras. Bawa pakaian ganti, sepatu anti-slip, dan hormati budaya lokal dengan meminta izin sebelum memotret warga atau ritual adat."
+          ]
+        },
+        {
+          "tag": "wisata_papua_sorong_klamono_oil_well",
+          "patterns": [
+            "Apa itu Sumur Minyak Klamono?",
+            "Di mana lokasi Sumur Minyak Klamono?",
+            "Apa yang bisa dilakukan di Klamono?",
+            "Apa sejarah Sumur Minyak Klamono?",
+            "Bagaimana cara menuju Sumur Minyak Klamono?"
+          ],
+          "responses": [
+            "Sumur Minyak Klamono, terletak di Distrik Klaurung, Sorong, Papua Barat, adalah situs bersejarah yang menandai penemuan minyak pertama di Papua, ditemukan pada tahun 1930-an oleh perusahaan Belanda. Kawasan ini kini menjadi wisata edukasi, di mana pengunjung dapat melihat sumur minyak tua, mempelajari proses eksplorasi minyak melalui papan informasi, dan menikmati pemandangan hutan di sekitar. Selain itu, area ini dekat dengan Sungai Klamono, tempat yang cocok untuk piknik atau fotografi. Dari Kota Sorong, Sumur Klamono dapat dicapai dengan berkendara sekitar 1–1,5 jam. Terbanglah ke Bandara Domine Eduard Osok untuk akses ke Sorong. Karena fasilitas terbatas, bawa perbekalan seperti air dan makanan ringan, dan kenakan sepatu nyaman untuk berjalan di area berbatu. Hormati situs ini dengan tidak merusak instalasi dan ikuti panduan lokal untuk pengalaman yang informatif."
+          ]
+        },
+        {
+          "tag": "wisata_jawa_timur_probolinggo_madakaripura_waterfall",
+          "patterns": [
+            "Apa itu Air Terjun Madakaripura?",
+            "Di mana lokasi Air Terjun Madakaripura?",
+            "Apa yang membuat Air Terjun Madakaripura istimewa?",
+            "Aktivitas apa yang bisa dilakukan di Madakaripura?",
+            "Bagaimana cara menuju Air Terjun Madakaripura?"
+          ],
+          "responses": [
+            "Air Terjun Madakaripura, terletak di Kecamatan Lumbang, Probolinggo, Jawa Timur, adalah air terjun spektakuler yang dikelilingi tebing tinggi menyerupai gua alami, dianggap sebagai tempat meditasi Gajah Mada. Air terjun setinggi 200 meter ini menawarkan pemandangan dramatis dengan air yang mengalir seperti tirai dan kabut tipis. Pengunjung dapat trekking sekitar 20–30 menit dari tempat parkir melalui jalur berbatu dan sungai kecil, berenang di kolam bawah air terjun, atau berfoto dengan latar tebing hijau. Dari Probolinggo, Madakaripura dapat dicapai dengan berkendara sekitar 1–1,5 jam, sering dikombinasikan dengan wisata Gunung Bromo. Kenakan sepatu anti-slip, bawa pakaian ganti, dan gunakan jasa pemandu lokal untuk keamanan. Musim kemarau (Mei–Oktober) adalah waktu terbaik untuk trekking yang lebih mudah dan pemandangan yang jernih."
+          ]
+        },
+        {
+          "tag": "wisata_bali_jimbaran_beach",
+          "patterns": [
+            "Apa yang menarik dari Pantai Jimbaran?",
+            "Di mana lokasi Pantai Jimbaran?",
+            "Aktivitas apa yang bisa dilakukan di Jimbaran?",
+            "Mengapa Pantai Jimbaran terkenal untuk kuliner?",
+            "Bagaimana cara menuju Pantai Jimbaran?"
+          ],
+          "responses": [
+            "Pantai Jimbaran, terletak di Kecamatan Kuta Selatan, Bali, adalah pantai yang terkenal dengan suasana romantis dan kuliner seafood-nya, dengan deretan restoran yang menyajikan ikan bakar segar di tepi pantai. Pantai ini memiliki pasir putih lembut dan ombak yang tenang, cocok untuk berenang atau sekadar berjalan-jalan. Pengunjung dapat menikmati makan malam dengan sunset, berfoto, atau mencoba olahraga air seperti paddleboard. Jimbaran juga dekat dengan pasar ikan Kedonganan untuk melihat aktivitas nelayan lokal. Dari Bandara Ngurah Rai, pantai ini dapat dicapai dengan berkendara sekitar 15–20 menit. Sore hingga malam adalah waktu terbaik untuk menawarkan pengalaman kuliner dengan penerangan lilin dan musik live. Pesan meja di restoran populer seperti Lia Cafe atau Menega Cafe untuk pengalaman terbaik, dan bawa tabir surya untuk aktivitas siang hari."
+          ]
+        },
+        {
+          "tag": "wisata_sumatra_utara_bukit_lawang_orangutan",
+          "patterns": [
+            "Apa yang menarik dari Bukit Lawang?",
+            "Di mana lokasi Bukit Lawang?",
+            "Bagaimana pengalaman melihat orangutan di Bukit Lawang?",
+            "Aktivitas apa yang bisa dilakukan di Bukit Lawang?",
+            "Bagaimana cara menuju Bukit Lawang?"
+          ],
+          "responses": [
+            "Bukit Lawang, terletak di Kabupaten Langkat, Sumatra Utara, adalah pintu gerbang ke Taman Nasional Gunung Leuser, salah satu habitat utama orangutan Sumatra di dunia. Pengunjung dapat mengikuti trekking hutan dengan pemandu untuk melihat orangutan di alam liar, sering kali di area rehabilitasi yang dikenal sebagai Feeding Platform. Selain trekking, aktivitas lain termasuk tubing di Sungai Bohorok, mengunjungi desa lokal untuk melihat budaya Batak Karo, atau menjelajahi gua kelelawar. Bukit Lawang menawarkan suasana pedesaan dengan penginapan ramah lingkungan seperti ecolodge. Dari Medan, Bukit Lawang dapat dicapai dengan berkendara sekitar 3–5 jam. Musim kemarau (April–6 jam) adalah waktu terbaik untuk trekking. Bawa sepatu trekking, pakaian nyaman, dan repelent nyamuk, serta ikuti panduan pemandu untuk menjaga jarak aman dengan orangutan."
+          ]
+        },
+        {
+          "tag": "wisata_sulawesi_tengah_palu_talise_beach",
+          "patterns": [
+            "Apa yang menarik dari Pantai Talise?",
+            "Di mana lokasi Pantai Talise?",
+            "Aktivitas apa yang bisa dilakukan di Pantai Talise?",
+            "Bagaimana suasana Pantai Talise?",
+            "Bagaimana cara menuju Pantai Talise?"
+          ],
+          "responses": [
+            "Pantai Talise, terletak di Kota Palu, Sulawesi Tengah, adalah pantai populer yang menawarkan pemandangan Teluk Palu yang indah dengan latar pegunungan dan suasana yang santai. Pantai ini memiliki pasir keemasan dan area yang cocok untuk berjalan-jalan, berenang di bagian dangkal, atau menikmati sunset. Pengunjung juga dapat mencicipi kuliner lokal seperti ikan bakar di warung-warung tepi pantai atau bersepeda di jalur sepanjang pantai. Pantai Talise sering ramai pada sore hingga malam hari, terutama di akhir pekan, dengan aktivitas warga lokal yang bersantai. Dari pusat Kota Palu, pantai ini dapat dicapai dengan berkendara sekitar 10–15 menit, atau dari Bandara Mutiara SIS Al-Jufrie sekitar 20 menit. Bawa alas kaki nyaman dan tabir surya, serta jaga kebersihan pantai dengan tidak membuang sampah sembarangan."
+          ]
+      }
     ]
   }
