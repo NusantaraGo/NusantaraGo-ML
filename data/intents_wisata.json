@@ -5316,6 +5316,214 @@
           "responses": [
             "Pantai Talise, terletak di Kota Palu, Sulawesi Tengah, adalah pantai populer yang menawarkan pemandangan Teluk Palu yang indah dengan latar pegunungan dan suasana yang santai. Pantai ini memiliki pasir keemasan dan area yang cocok untuk berjalan-jalan, berenang di bagian dangkal, atau menikmati sunset. Pengunjung juga dapat mencicipi kuliner lokal seperti ikan bakar di warung-warung tepi pantai atau bersepeda di jalur sepanjang pantai. Pantai Talise sering ramai pada sore hingga malam hari, terutama di akhir pekan, dengan aktivitas warga lokal yang bersantai. Dari pusat Kota Palu, pantai ini dapat dicapai dengan berkendara sekitar 10–15 menit, atau dari Bandara Mutiara SIS Al-Jufrie sekitar 20 menit. Bawa alas kaki nyaman dan tabir surya, serta jaga kebersihan pantai dengan tidak membuang sampah sembarangan."
           ]
-      }
+        },
+        {
+          "tag": "wisata_bengkulu_rafflesia_arnoldii",
+          "patterns": [
+            "Apa itu bunga Rafflesia Arnoldii di Bengkulu?",
+            "Di mana bisa melihat Rafflesia Arnoldii?",
+            "Kapan waktu terbaik untuk melihat Rafflesia Arnoldii?",
+            "Apa yang membuat Rafflesia Arnoldii istimewa?",
+            "Bagaimana cara menuju lokasi Rafflesia Arnoldii di Bengkulu?"
+          ],
+          "responses": [
+            "Rafflesia Arnoldii, dikenal sebagai bunga terbesar di dunia, adalah daya tarik utama di Bengkulu, terutama di Taman Wisata Alam Bukit Daun dan Hutan Lindung Kepahiang. Bunga ini, yang bisa berdiameter hingga 1 meter, terkenal dengan aroma menyengat yang menarik serangga untuk penyerbukan, serta keunikan karena hanya mekar selama 5–7 hari. Pengunjung dapat trekking melalui hutan dengan pemandu lokal untuk melihat bunga ini di habitat aslinya, sambil menikmati keindahan flora dan fauna hutan tropis. Dari Kota Bengkulu, lokasi seperti Bukit Daun dapat dicapai dengan berkendara sekitar 2–3 jam menuju Kepahiang. Waktu terbaik untuk berkunjung adalah musim hujan (Oktober–Maret) saat bunga lebih sering mekar. Kenakan sepatu trekking, bawa air minum, dan ikuti panduan pemandu untuk menjaga keselamatan dan tidak merusak ekosistem. Hormati lingkungan dengan tidak menyentuh atau memetik bunga untuk pelestarian spesies langka ini."
+          ]
+        },
+        {
+          "tag": "wisata_jawa_tengah_dieng_plateau",
+          "patterns": [
+            "Apa yang menarik dari Dataran Tinggi Dieng?",
+            "Di mana lokasi Dataran Tinggi Dieng?",
+            "Aktivitas apa yang bisa dilakukan di Dieng?",
+            "Mengapa Dieng terkenal dengan sunrise-nya?",
+            "Bagaimana cara menuju Dieng dari Semarang?"
+          ],
+          "responses": [
+            "Dataran Tinggi Dieng, terletak di Kabupaten Wonosobo dan Banjarnegara, Jawa Tengah, adalah kawasan vulkanik yang menawarkan pemandangan alam memukau, candi-candi Hindu kuno, dan fenomena alam unik seperti Kawah Sikidang serta Telaga Warna yang berubah warna karena kandungan mineral. Dieng terkenal dengan sunrise dari Bukit Sikunir, di mana pengunjung dapat melihat matahari terbit di antara kabut dan pegunungan dengan panorama 360 derajat. Aktivitas lain termasuk mengunjungi Candi Arjuna, trekking ke Telaga Merdada, atau menikmati festival budaya Dieng Culture Festival yang menampilkan tradisi cukur rambut gimbal. Dari Semarang, Dieng dapat dicapai dengan berkendara sekitar 3–4 jam melalui Wonosobo. Musim kemarau (Juni–September) ideal untuk cuaca cerah, tetapi bawa jaket tebal karena suhu bisa mencapai 5°C di pagi hari. Sewa pemandu lokal untuk pengalaman yang lebih mendalam dan hormati situs candi dengan tidak merusak struktur."
+          ]
+        },
+        {
+          "tag": "wisata_sulawesi_selatan_toraja_tongkonan",
+          "patterns": [
+            "Apa itu rumah adat Tongkonan di Toraja?",
+            "Di mana bisa melihat Tongkonan di Toraja?",
+            "Apa makna budaya Tongkonan?",
+            "Aktivitas apa yang bisa dilakukan di desa Tongkonan?",
+            "Bagaimana cara menuju Toraja dari Makassar?"
+          ],
+          "responses": [
+            "Tongkonan adalah rumah adat suku Toraja di Sulawesi Selatan, terkenal dengan arsitektur unik berbentuk perahu dan atap melengkung seperti tanduk kerbau, yang mencerminkan filosofi budaya Aluk Todolo. Rumah ini bukan hanya tempat tinggal, tetapi juga simbol status sosial dan pusat upacara adat seperti Rambu Solo (pemakaman) dan Rambu Tuka (syukuran). Pengunjung dapat mengunjungi desa-desa seperti Kete Kesu dan Palawa di Tana Toraja untuk melihat Tongkonan, menjelajahi lumbung padi tradisional, atau mempelajari ukiran kayu khas Toraja. Aktivitas lain termasuk mengikuti tur budaya, berfoto dengan latar pegunungan, atau menghadiri upacara adat jika bertepatan. Dari Makassar, Tana Toraja dapat dicapai dengan berkendara sekitar 8–10 jam atau menggunakan bus malam. Hormati tradisi lokal dengan meminta izin sebelum memotret warga atau masuk rumah, dan kenakan pakaian sopan saat menghadiri upacara adat."
+          ]
+        },
+        {
+          "tag": "wisata_bali_nusa_penida_klotok_beach",
+          "patterns": [
+            "Apa yang menarik dari Pantai Klotok di Nusa Penida?",
+            "Di mana lokasi Pantai Klotok?",
+            "Aktivitas apa yang bisa dilakukan di Pantai Klotok?",
+            "Bagaimana cara menuju Pantai Klotok dari Bali?",
+            "Kapan waktu terbaik untuk mengunjungi Pantai Klotok?"
+          ],
+          "responses": [
+            "Pantai Klotok, juga dikenal sebagai Kelingking Beach, terletak di Nusa Penida, Bali, dan terkenal dengan pemandangan tebing karst berbentuk seperti tulang dinosaurus yang menjorok ke laut biru jernih, menjadikannya salah satu spot paling Instagramable di Indonesia. Pengunjung dapat trekking menuruni tebing curam (sekitar 30–45 menit) untuk mencapai pantai berpasir putih di bawah, berenang di air yang tenang, atau berfoto dari viewpoint di atas tebing. Selain itu, pantai ini menawarkan kesempatan melihat pari manta saat snorkeling di dekatnya. Untuk mencapai Pantai Klotok, naik fast boat dari Sanur atau Kusamba ke Nusa Penida (sekitar 30–45 menit), lalu sewa motor atau mobil ke pantai (sekitar 1 jam dari pelabuhan). Musim kemarau (April–Oktober) adalah waktu terbaik untuk trekking yang aman. Kenakan sepatu anti-slip, bawa air minum, dan hati-hati saat menuruni tebing karena jalur cukup menantang."
+          ]
+        },
+        {
+          "tag": "wisata_sumatra_barat_jam_gadang",
+          "patterns": [
+            "Apa itu Jam Gadang di Bukittinggi?",
+            "Di mana lokasi Jam Gadang?",
+            "Apa sejarah Jam Gadang?",
+            "Aktivitas apa yang bisa dilakukan di sekitar Jam Gadang?",
+            "Bagaimana cara menuju Jam Gadang dari Padang?"
+          ],
+          "responses": [
+            "Jam Gadang, terletak di pusat Kota Bukittinggi, Sumatra Barat, adalah menara jam ikonik yang dibangun pada tahun 1926 oleh Belanda sebagai hadiah untuk sekretaris kota saat itu. Dengan atap gonjong khas Minangkabau, menara ini menjadi simbol budaya dan pusat kegiatan wisata. Pengunjung dapat berfoto dengan latar Jam Gadang, menjelajahi Pasar Atas untuk membeli suvenir seperti kain songket, atau menikmati kuliner Minang seperti rendang di warung terdekat. Kawasan ini juga dekat dengan atraksi lain seperti Ngarai Sianok dan Benteng Fort de Kock. Dari Padang, Jam Gadang dapat dicapai dengan berkendara sekitar 2–3 jam melalui jalur Lembah Anai. Malam hari adalah waktu yang tepat untuk menikmati suasana ramai dengan lampu-lampu kota, tetapi datang pagi untuk menghindari keramaian. Kenakan pakaian nyaman untuk berjalan dan tawar harga dengan sopan saat berbelanja di pasar."
+          ]
+        },
+        {
+          "tag": "wisata_kalimantan_tengah_palangkaraya_kahayan_bridge",
+          "patterns": [
+            "Apa yang menarik dari Jembatan Kahayan di Palangkaraya?",
+            "Di mana lokasi Jembatan Kahayan?",
+            "Aktivitas apa yang bisa dilakukan di Jembatan Kahayan?",
+            "Apa sejarah Jembatan Kahayan?",
+            "Bagaimana cara menuju Jembatan Kahayan?"
+          ],
+          "responses": [
+            "Jembatan Kahayan, terletak di Kota Palangkaraya, Kalimantan Tengah, adalah jembatan ikonik yang melintasi Sungai Kahayan, menjadi simbol kota sejak diresmikan pada tahun 2002. Dengan panjang sekitar 640 meter dan desain modern, jembatan ini menawarkan pemandangan sungai yang indah, terutama saat matahari terbenam atau malam hari ketika lampu-lampu menyala. Pengunjung dapat berjalan di trotoar jembatan untuk berfoto, menikmati angin sepoi-sepoi, atau mengunjungi pasar malam di sekitar untuk mencicipi kuliner lokal seperti soto Banjar. Jembatan ini juga menjadi titik strategis untuk menjelajahi atraksi lain seperti Museum Balanga. Dari pusat Palangkaraya, Jembatan Kahayan hanya berjarak 5–10 menit berkendara, atau sekitar 30 menit dari Bandara Tjilik Riwut. Datanglah pada sore hingga malam untuk suasana terbaik, dan bawa kamera untuk mengabadikan pemandangan kota dari jembatan."
+          ]
+        },
+        {
+          "tag": "wisata_maluku_ambon_natsepa_beach",
+          "patterns": [
+            "Apa yang menarik dari Pantai Natsepa?",
+            "Di mana lokasi Pantai Natsepa?",
+            "Aktivitas apa yang bisa dilakukan di Pantai Natsepa?",
+            "Apa kuliner khas di Pantai Natsepa?",
+            "Bagaimana cara menuju Pantai Natsepa?"
+          ],
+          "responses": [
+            "Pantai Natsepa, terletak di Desa Suli, Pulau Ambon, Maluku, adalah pantai populer dengan pasir putih halus dan air laut yang tenang, cocok untuk rekreasi keluarga. Pantai ini terkenal dengan rujak Natsepa, hidangan buah segar dengan saus kacang pedas yang disajikan di warung-warung tepi pantai. Pengunjung dapat berenang, bermain banana boat, atau sekadar bersantai di bawah pohon kelapa sambil menikmati pemandangan Teluk Ambon. Aktivitas lain termasuk berjalan di sepanjang pantai atau membeli kerajinan mutiara dari pedagang lokal. Dari Kota Ambon, Pantai Natsepa dapat dicapai dengan berkendara sekitar 30–40 menit. Terbanglah ke Bandara Pattimura untuk akses ke Ambon. Musim kemarau (April–Oktober) adalah waktu terbaik untuk cuaca cerah. Bawa tabir surya dan topi, serta jaga kebersihan pantai dengan tidak membuang sampah sembarangan untuk menjaga keindahan alam."
+          ]
+        },
+        {
+          "tag": "wisata_jawa_timur_malang_jatim_park",
+          "patterns": [
+            "Apa itu Jatim Park di Malang?",
+            "Di mana lokasi Jatim Park?",
+            "Apa saja wahana di Jatim Park?",
+            "Apakah Jatim Park cocok untuk keluarga?",
+            "Bagaimana cara menuju Jatim Park dari Surabaya?"
+          ],
+          "responses": [
+            "Jatim Park, terletak di Kota Batu, Malang, Jawa Timur, adalah kompleks taman hiburan yang terdiri dari Jatim Park 1, 2, dan 3, masing-masing menawarkan pengalaman berbeda. Jatim Park 1 fokus pada wahana rekreasi dan edukasi seperti Science Center, Jatim Park 2 menampilkan kebun binatang modern (Batu Secret Zoo) dan Eco Green Park, sedangkan Jatim Park 3 memiliki tema dinosaurus dan budaya dunia. Pengunjung dapat menikmati roller coaster, berinteraksi dengan satwa, atau berfoto di replika landmark dunia. Tempat ini sangat cocok untuk keluarga karena beragamnya atraksi untuk anak-anak dan dewasa. Dari Surabaya, Jatim Park dapat dicapai dengan berkendara sekitar 2–3 jam melalui tol. Harga tiket bervariasi (sekitar Rp 100.000–Rp 150.000 per taman), dan disarankan datang pagi untuk menikmati semua wahana. Bawa topi dan air minum, serta periksa jadwal show untuk pengalaman maksimal."
+          ]
+        },
+        {
+          "tag": "wisata_sulawesi_utara_tangkoko_nature_reserve",
+          "patterns": [
+            "Apa itu Cagar Alam Tangkoko?",
+            "Di mana lokasi Cagar Alam Tangkoko?",
+            "Apa yang bisa dilihat di Tangkoko?",
+            "Aktivitas apa yang bisa dilakukan di Tangkoko?",
+            "Bagaimana cara menuju Cagar Alam Tangkoko?"
+          ],
+          "responses": [
+            "Cagar Alam Tangkoko, terletak di Bitung, Sulawesi Utara, adalah kawasan konservasi yang terkenal sebagai habitat tarsius, primata terkecil di dunia, serta satwa lain seperti kuskus beruang dan burung rangkong. Hutan tropis ini menawarkan pengalaman trekking dengan pemandu untuk melihat satwa liar, terutama pada pagi atau sore hari saat hewan aktif. Pengunjung dapat berjalan melalui jalur hutan, mengamati flora endemik, atau berfoto dengan latar lanskap hijau. Tangkoko juga memiliki pantai berpasir hitam yang cocok untuk relaksasi setelah trekking. Dari Manado, Tangkoko dapat dicapai dengan berkendara sekitar 2–3 jam. Terbanglah ke Bandara Sam Ratulangi untuk akses ke Manado. Musim kemarau (April–Oktober) ideal untuk trekking. Bawa sepatu trekking, repelent nyamuk, dan ikuti panduan pemandu untuk menjaga jarak aman dengan satwa serta melindungi ekosistem."
+          ]
+        },
+        {
+          "tag": "wisata_ntt_alor_kalabahi_pantai_mali",
+          "patterns": [
+            "Apa yang menarik dari Pantai Mali di Alor?",
+            "Di mana lokasi Pantai Mali?",
+            "Aktivitas apa yang bisa dilakukan di Pantai Mali?",
+            "Mengapa Pantai Mali populer di Alor?",
+            "Bagaimana cara menuju Pantai Mali?"
+          ],
+          "responses": [
+            "Pantai Mali, terletak di Kalabahi, Pulau Alor, Nusa Tenggara Timur, adalah pantai yang menawan dengan pasir putih, air laut jernih, dan suasana yang tenang, menjadikannya tempat ideal untuk bersantai atau rekreasi keluarga. Pantai ini populer di kalangan warga lokal dan wisatawan karena lokasinya yang mudah diakses dari pusat kota Kalabahi dan pemandangan sunset yang indah. Pengunjung dapat berenang, berjalan di sepanjang pantai, atau menikmati ikan bakar segar di warung-warung kecil. Aktivitas lain termasuk fotografi atau mengunjungi pasar tradisional terdekat untuk melihat kehidupan lokal. Dari Kalabahi, Pantai Mali hanya berjarak sekitar 10–15 menit berkendara. Untuk sampai ke Alor, terbanglah ke Bandara Mali dari Kupang atau Ende. Musim kemarau (Mei–Oktober) adalah waktu terbaik, dan bawa tabir surya serta jaga kebersihan pantai dengan tidak membuang sampah."
+          ]
+        },
+        {
+          "tag": "wisata_jawa_barat_pangandaran_green_canyon",
+          "patterns": [
+            "Apa itu Green Canyon di Pangandaran?",
+            "Di mana lokasi Green Canyon?",
+            "Aktivitas apa yang bisa dilakukan di Green Canyon?",
+            "Mengapa Green Canyon terkenal?",
+            "Bagaimana cara menuju Green Canyon?"
+          ],
+          "responses": [
+            "Green Canyon, atau Cukang Taneuh, terletak di Desa Kertayasa, Pangandaran, Jawa Barat, adalah destinasi wisata alam yang terkenal dengan sungai hijau zamrud yang mengalir di antara tebing-tebing curam, menyerupai ngarai di Amerika. Pengunjung dapat naik perahu tradisional untuk menyusuri sungai (sekitar 30 menit), berenang di kolam alami, atau mencoba body rafting untuk petualangan yang lebih menantang. Tebing yang ditumbuhi vegetasi dan gua-gua kecil menambah pesona tempat ini, cocok untuk fotografi. Dari pusat Pangandaran, Green Canyon dapat dicapai dengan berkendara sekitar 45 menit. Jika dari Bandung, perjalanan memakan waktu sekitar 5–6 jam. Harga tiket perahu sekitar Rp 150.000–Rp 200.000 untuk 5–6 orang. Musim kemarau (April–Oktober) adalah waktu terbaik untuk air yang jernih. Bawa pakaian ganti, sepatu air, dan ikuti panduan keamanan saat berenang atau rafting."
+          ]
+        },
+        {
+          "tag": "wisata_sumatra_utara_berastagi_gundaling_hill",
+          "patterns": [
+            "Apa yang menarik dari Bukit Gundaling?",
+            "Di mana lokasi Bukit Gundaling?",
+            "Aktivitas apa yang bisa dilakukan di Bukit Gundaling?",
+            "Bagaimana pemandangan dari Bukit Gundaling?",
+            "Bagaimana cara menuju Bukit Gundaling?"
+          ],
+          "responses": [
+            "Bukit Gundaling, terletak di Berastagi, Kabupaten Karo, Sumatra Utara, adalah bukit yang menawarkan pemandangan spektakuler Gunung Sibayak dan Gunung Sinabung, serta udara sejuk khas dataran tinggi. Bukit ini adalah tempat populer untuk bersantai, piknik, atau menikmati panorama kota Berastagi dari ketinggian. Pengunjung dapat berjalan kaki ke puncak, menunggang kuda, atau mencicipi kuliner lokal seperti jagung bakar di warung-warung kecil. Bukit ini juga dekat dengan pasar buah Berastagi, di mana wisatawan bisa membeli jeruk dan markisa segar. Dari Medan, Bukit Gundaling dapat dicapai dengan berkendara sekitar 2–2,5 jam. Musim kemarau (Mei–Oktober) ideal untuk pemandangan cerah. Kenakan jaket karena suhu bisa dingin, bawa kamera untuk fotografi, dan jaga kebersihan dengan tidak meninggalkan sampah di area bukit."
+          ]
+        },
+        {
+          "tag": "wisata_kalimantan_barat_ketapang_tanjung_belimbing",
+          "patterns": [
+            "Apa yang menarik dari Tanjung Belimbing?",
+            "Di mana lokasi Tanjung Belimbing?",
+            "Aktivitas apa yang bisa dilakukan di Tanjung Belimbing?",
+            "Apa sejarah Tanjung Belimbing?",
+            "Bagaimana cara menuju Tanjung Belimbing?"
+          ],
+          "responses": [
+            "Tanjung Belimbing, terletak di Kecamatan Matan Hilir Selatan, Ketapang, Kalimantan Barat, adalah destinasi wisata alam dan sejarah yang dikenal sebagai tempat pengasingan Bung Hatta selama masa penjajahan Belanda. Kawasan ini menawarkan pantai yang tenang, hutan mangrove, dan panorama laut yang indah, cocok untuk relaksasi. Pengunjung dapat mengunjungi Rumah Pengasingan Bung Hatta, berjalan di jembatan mangrove, atau menikmati sunset di tepi pantai. Aktivitas lain termasuk memancing atau berfoto dengan latar kapal-kapal nelayan. Dari Kota Ketapang, Tanjung Belimbing dapat dicapai dengan berkendara sekitar 2–3 jam. Terbanglah ke Bandara Rahadi Osman untuk akses ke Ketapang. Musim kemarau (Mei–Oktober) adalah waktu terbaik, dan bawa topi serta air minum karena fasilitas terbatas. Hormati situs sejarah dengan tidak merusak properti dan ikuti panduan lokal."
+          ]
+        },
+        {
+          "tag": "wisata_sulawesi_tenggara_wakatobi_tomiatombolo",
+          "patterns": [
+            "Apa yang menarik dari Tomia di Wakatobi?",
+            "Di mana lokasi Pulau Tomia?",
+            "Aktivitas apa yang bisa dilakukan di Tomia?",
+            "Mengapa Tomia terkenal untuk diving?",
+            "Bagaimana cara menuju Pulau Tomia?"
+          ],
+          "responses": [
+            "Pulau Tomia, bagian dari Taman Nasional Wakatobi, Sulawesi Tenggara, adalah surga diving yang terkenal dengan terumbu karang yang masih alami dan keanekaragaman hayati laut, termasuk lebih dari 750 spesies karang dan ikan tropis. Spot diving seperti Roma dan Cornucopia menawarkan pengalaman melihat barakuda, penyu, dan hiu karang. Selain diving, pengunjung dapat snorkeling, mengunjungi desa Bajo untuk melihat budaya masyarakat laut, atau berfoto di Pantai Huntete dengan pasir putihnya. Pulau ini juga memiliki suasana tenang, ideal untuk pelarian dari keramaian. Untuk mencapai Tomia, terbanglah ke Bandara Matahora di Wangi-Wangi dari Makassar, lalu lanjutkan dengan kapal ke Tomia (sekitar 2–3 jam). Musim kemarau (April–November) ideal untuk visibilitas bawah air yang jernih. Bawa peralatan snorkeling, tabir surya, dan jaga ekosistem laut dengan tidak menyentuh karang atau mengambil biota."
+          ]
+        },
+        {
+          "tag": "wisata_jawa_timur_blitar_penataran_temple",
+          "patterns": [
+            "Apa itu Candi Penataran di Blitar?",
+            "Di mana lokasi Candi Penataran?",
+            "Apa sejarah Candi Penataran?",
+            "Apa yang bisa dilihat di Candi Penataran?",
+            "Bagaimana cara menuju Candi Penataran?"
+          ],
+          "responses": [
+            "Candi Penataran, terletak di Desa Penataran, Blitar, Jawa Timur, adalah kompleks candi Hindu terbesar di Jawa Timur, dibangun pada abad ke-12 hingga ke-14 selama masa Kerajaan Majapahit. Candi ini dikenal dengan relief Ramayana yang terukir indah di dindingnya dan merupakan situs penting untuk upacara keagamaan Hindu hingga kini. Pengunjung dapat menjelajahi candi utama, melihat arca-arca kuno, atau mempelajari sejarah melalui papan informasi. Suasana asri dengan latar Gunung Kelud membuatnya cocok untuk fotografi dan refleksi sejarah. Dari pusat Kota Blitar, Candi Penataran dapat dicapai dengan berkendara sekitar 20–30 menit. Jika dari Surabaya, perjalanan memakan waktu sekitar 3–4 jam. Harga tiket masuk sangat terjangkau (sekitar Rp 5.000–Rp 10.000). Kenakan pakaian sopan, hormati situs suci, dan bawa air minum karena area cukup luas untuk dijelajahi."
+          ]
+        },
+        {
+          "tag": "wisata_bali_gwk_cultural_park",
+          "patterns": [
+            "Apa itu GWK Cultural Park?",
+            "Di mana lokasi GWK Cultural Park?",
+            "Apa yang bisa dilihat di GWK Cultural Park?",
+            "Aktivitas apa yang bisa dilakukan di GWK?",
+            "Bagaimana cara menuju GWK Cultural Park?"
+          ],
+          "responses": [
+            "Garuda Wisnu Kencana (GWK) Cultural Park, terletak di Ungasan, Badung, Bali, adalah taman budaya yang menampilkan patung monumental Garuda Wisnu Kencana setinggi 121 meter, salah satu patung terbesar di dunia yang menggambarkan Dewa Wisnu menunggangi Garuda. Taman ini menawarkan pertunjukan tari Bali seperti Kecak dan Barong, pameran seni, dan panorama bukit kapur yang indah. Pengunjung dapat berfoto dengan latar patung, menikmati pertunjukan budaya, atau bersantai di Lotus Pond yang dikelilingi tebing. GWK juga sering menjadi lokasi konser dan acara internasional. Dari Bandara Ngurah Rai, GWK dapat dicapai dengan berkendara sekitar 20–30 menit. Harga tiket masuk sekitar Rp 125.000–Rp 150.000. Musim kemarau (April–Oktober) ideal untuk cuaca cerah. Kenakan topi untuk perlindungan dari matahari, periksa jadwal pertunjukan, dan hormati area suci dengan pakaian sopan."
+          ]
+        }
     ]
   }
