@@ -5,6 +5,7 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2' # Menyembunyikan pesan INFO dan WARNING
 Aplikasi Flask untuk sistem rekomendasi tempat wisata dan chatbot
 """
 from flask import Flask, request, jsonify, render_template, redirect, url_for
+from flask_cors import CORS
 from dotenv import load_dotenv
 import sys
 from pathlib import Path
@@ -73,6 +74,7 @@ app.config['JSON_SORT_KEYS'] = False
 
 # Register chatbot blueprint
 app.register_blueprint(chatbot_bp, url_prefix='/api/chatbot')
+CORS(app)
 
 # Inisialisasi model rekomendasi
 MODEL_PATH = os.getenv('MODEL_PATH', 'models/recommendation_model.joblib')
