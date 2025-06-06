@@ -249,6 +249,7 @@ def get_attractions():
         results.append({
             "id": int(row["id"]) if "id" in row else None,
             "nama": row["nama"],
+            "deskripsi": row["deskripsi"],
             "provinsi": row["provinsi"],
             "rating": round(row["rating"], 1) if "rating" in row else None,
             "jumlah_review": int(row["jumlah_review"]) if "jumlah_review" in row else None,
