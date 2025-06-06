@@ -4,8 +4,9 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2' # Menyembunyikan pesan INFO dan WARNING
 """
 Aplikasi Flask untuk sistem rekomendasi tempat wisata dan chatbot
 """
-from flask import json, json, Flask, request, jsonify, render_template, redirect, url_for
+from flask import json, Flask, request, jsonify, render_template, redirect, url_for
 from flask_cors import CORS
+import ast
 from dotenv import load_dotenv
 import sys
 from pathlib import Path
@@ -251,8 +252,8 @@ def get_attractions():
             "provinsi": row["provinsi"],
             "rating": round(row["rating"], 1) if "rating" in row else None,
             "jumlah_review": int(row["jumlah_review"]) if "jumlah_review" in row else None,
-            "foto": row['foto'] if 'foto' in row else None,
-            "koordinat":row['koordinat'] if 'koordinat' in row else None,
+            "foto": ast.literal_eval(row['foto']) if 'foto' in row else None,
+            "koordinat":ast.literal_eval(row['koordinat']) if 'koordinat' in row else None,
             # Mengambil kategori dari 'kategori_list'
             "kategori": row["kategori_list"] if "kategori_list" in row else None
         })
