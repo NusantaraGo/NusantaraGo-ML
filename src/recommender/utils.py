@@ -186,6 +186,7 @@ def filter_attractions(df, category=None, province=None, min_rating=None, max_ra
         filtered_df = filtered_df[filtered_df['rating'] >= min_rating]
     
     # Filter berdasarkan rating maksimum
+    # TODO: sepertinya ini tidak terpakai
     if max_rating is not None:
         filtered_df = filtered_df[filtered_df['rating'] <= max_rating]
     
