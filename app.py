@@ -212,7 +212,7 @@ def get_attractions():
     if df is None:
          # Coba muat ulang data jika belum ada (misal setelah hot-reload atau error sebelumnya)
         if not load_model_and_data():
-             return jsonify({"error": "Gagal memuat data tempat wisata."}), 500
+             return jsonify({"message": "Gagal memuat data tempat wisata."}), 500
     
     category = request.args.get('category')
     province = request.args.get('province')
@@ -221,7 +221,7 @@ def get_attractions():
         try:
             min_rating = float(min_rating)
         except ValueError:
-            return jsonify({"error": "Nilai min_rating harus berupa angka."}), 400
+            return jsonify({"message": "Nilai min_rating harus berupa angka."}), 400
 
     search_query = request.args.get('q')
 
@@ -271,7 +271,7 @@ def get_attraction(name):
     if df is None:
          # Coba muat ulang data jika belum ada
         if not load_model_and_data():
-             return jsonify({"error": "Gagal memuat data tempat wisata."}), 500
+             return jsonify({"message": "Gagal memuat data tempat wisata."}), 500
 
     # Gunakan fungsi pencarian detail yang lebih fleksibel
     # Asumsikan get_attraction_details di src/recommender/__init__.py
@@ -283,7 +283,7 @@ def get_attraction(name):
         # Log error jika bukan 'tidak ditemukan'
         if "tidak ditemukan" not in details["error"]:
              logger.error(f"Error dari get_attraction_details untuk '{name}': {details['error']}")
-        return jsonify({"error": details["error"]}), 404 # Kembalikan 404 jika tidak ditemukan atau error spesifik
+        return jsonify({"message": details["error"]}), 404 # Kembalikan 404 jika tidak ditemukan atau error spesifik
 
     # Format hasil sebelum dikirim
     try:
@@ -307,7 +307,7 @@ def get_attraction(name):
         return jsonify(formatted_details)
     except Exception as e:
         logger.error(f"Error saat memformat hasil get_attraction_details untuk '{name}': {str(e)}\n{traceback.format_exc()}")
-        return jsonify({"error": f"Terjadi kesalahan: {str(e)}"}), 500
+        return jsonify({"message": f"Terjadi kesalahan: {str(e)}"}), 500
 
 @app.route('/api/recommendations/content')
 def content_recommendations():
@@ -318,7 +318,7 @@ def content_recommendations():
         name = request.args.get('name')
         if not name:
             logger.warning("Parameter 'name' tidak diberikan pada endpoint content_recommendations")
-            return jsonify({"error": "Parameter 'name' harus diberikan"}), 400
+            return jsonify({"message": "Parameter 'name' harus diberikan"}), 400
         
         top_n = request.args.get('limit', 10, type=int)
         logger.info(f"Meminta rekomendasi content-based untuk '{name}' dengan limit {top_n}")
@@ -330,7 +330,7 @@ def content_recommendations():
         return jsonify(results)
     except Exception as e:
         logger.error(f"Error pada endpoint content_recommendations: {str(e)}\n{traceback.format_exc()}")
-        return jsonify({"error": f"Terjadi kesalahan: {str(e)}"}), 500
+        return jsonify({"message": f"Terjadi kesalahan: {str(e)}"}), 500
 
 @app.route('/api/recommendations/popularity')
 def popularity_recommendations():
@@ -351,7 +351,7 @@ def popularity_recommendations():
         return jsonify(results)
     except Exception as e:
         logger.error(f"Error pada endpoint popularity_recommendations: {str(e)}\n{traceback.format_exc()}")
-        return jsonify({"error": f"Terjadi kesalahan: {str(e)}"}), 500
+        return jsonify({"message": f"Terjadi kesalahan: {str(e)}"}), 500
 
 @app.route('/api/recommendations/location')
 def location_recommendations():
@@ -364,7 +364,7 @@ def location_recommendations():
         
         if lat is None or lon is None:
             logger.warning("Parameter 'lat' atau 'lon' tidak diberikan pada endpoint location_recommendations")
-            return jsonify({"error": "Parameter 'lat' dan 'lon' harus diberikan"}), 400
+            return jsonify({"message": "Parameter 'lat' dan 'lon' harus diberikan"}), 400
         
         max_distance = request.args.get('max_distance', 50, type=int)
         top_n = request.args.get('limit', 10, type=int)
@@ -378,10 +378,10 @@ def location_recommendations():
         return jsonify(results)
     except ValueError as ve:
         logger.warning(f"Parameter tidak valid pada endpoint location_recommendations: {str(ve)}")
-        return jsonify({"error": str(ve)}), 400
+        return jsonify({"message": str(ve)}), 400
     except Exception as e:
         logger.error(f"Error pada endpoint location_recommendations: {str(e)}\n{traceback.format_exc()}")
-        return jsonify({"error": f"Terjadi kesalahan: {str(e)}"}), 500
+        return jsonify({"message": f"Terjadi kesalahan: {str(e)}"}), 500
 
 @app.route('/api/recommendations/hybrid')
 def hybrid_recommendations():
@@ -418,10 +418,10 @@ def hybrid_recommendations():
         return jsonify(results)
     except ValueError as ve:
         logger.warning(f"Parameter tidak valid pada endpoint hybrid_recommendations: {str(ve)}")
-        return jsonify({"error": str(ve)}), 400
+        return jsonify({"message": str(ve)}), 400
     except Exception as e:
         logger.error(f"Error pada endpoint hybrid_recommendations: {str(e)}\n{traceback.format_exc()}")
-        return jsonify({"error": f"Terjadi kesalahan: {str(e)}"}), 500
+        return jsonify({"message": f"Terjadi kesalahan: {str(e)}"}), 500
 
 if __name__ == '__main__':
     # Muat model dan data rekomendasi
