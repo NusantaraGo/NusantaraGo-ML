@@ -13,6 +13,10 @@ from pathlib import Path
 import logging
 from logging.handlers import RotatingFileHandler
 import traceback
+import requests
+from PIL import Image
+from io import BytesIO
+import hashlib
 
 # Tambahkan path untuk import modul
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
@@ -202,6 +206,61 @@ def get_categories():
     """
     return jsonify(categories)
 
+def download_and_save_image(image_url, attraction_name):
+    """
+    Mendownload dan menyimpan gambar dari URL ke folder static/images
+    """
+    try:
+        # Buat nama file yang unik dari URL
+        file_hash = hashlib.md5(image_url.encode()).hexdigest()[:10]
+        safe_name = "".join(c for c in attraction_name if c.isalnum() or c in (' ', '-', '_')).rstrip()
+        filename = f"{safe_name}_{file_hash}.jpg"
+        
+        # Buat direktori jika belum ada
+        image_dir = os.path.join('static', 'images', 'attractions')
+        os.makedirs(image_dir, exist_ok=True)
+        
+        filepath = os.path.join(image_dir, filename)
+        
+        # Jika file sudah ada, langsung return path-nya
+        if os.path.exists(filepath):
+            return f"/static/images/attractions/{filename}"
+        
+        # Download gambar
+        response = requests.get(image_url, timeout=10)
+        if response.status_code == 200:
+            # Buka gambar dengan PIL untuk validasi
+            img = Image.open(BytesIO(response.content))
+            
+            # Konversi ke RGB jika perlu
+            if img.mode in ('RGBA', 'P'):
+                img = img.convert('RGB')
+            
+            # Simpan gambar
+            img.save(filepath, 'JPEG', quality=85, optimize=True)
+            return f"/static/images/attractions/{filename}"
+        
+        return None
+    except Exception as e:
+        print(f"Error downloading image {image_url}: {str(e)}")
+        return None
+
+def process_attraction_images(attraction_data):
+    """
+    Memproses gambar untuk satu tempat wisata, hanya mengambil 1 foto yang paling relevan
+    """
+    if not attraction_data.get('foto'):
+        return None
+    
+    # Ambil foto pertama saja (biasanya foto utama/cover)
+    image_url = attraction_data['foto'][0] if isinstance(attraction_data['foto'], list) else None
+    
+    if image_url and isinstance(image_url, str):
+        local_path = download_and_save_image(image_url, attraction_data['nama'])
+        return local_path
+    
+    return None
+
 @app.route('/api/attractions')
 def get_attractions():
     """
@@ -226,38 +285,104 @@ def get_attractions():
     search_query = request.args.get('q')
 
     # Terapkan filter pada df yang sudah diproses
-    # Pastikan filter_attractions bisa menangani df dengan kategori_list
     filtered_df = filter_attractions(df, category, province, min_rating, search_query=search_query)
 
     # Urutkan berdasarkan rating
-    # Pastikan kolom 'rating' ada di df yang diproses
     if 'rating' in filtered_df.columns:
         filtered_df = filtered_df.sort_values('rating', ascending=False)
     else:
-         # Fallback sorting jika rating tidak ada (harusnya tidak terjadi setelah preprocessing)
          print("Peringatan: Kolom 'rating' tidak ditemukan untuk sorting di /api/attractions.")
 
-
-    # Batasi jumlah hasil
-    limit = request.args.get('limit', 50, type=int)
-    filtered_df = filtered_df.head(limit)
+    # Hapus batasan limit default 50
+    limit = request.args.get('limit', type=int)
+    if limit:
+        filtered_df = filtered_df.head(limit)
 
     # Format hasil
     results = []
-    # Menggunakan kolom yang sudah diproses, termasuk 'kategori_list'
     for _, row in filtered_df.iterrows():
-        results.append({
-            "id": int(row["id"]) if "id" in row else None,
-            "nama": row["nama"],
-            "deskripsi": row["deskripsi"],
-            "provinsi": row["provinsi"],
-            "rating": round(row["rating"], 1) if "rating" in row else None,
-            "jumlah_review": int(row["jumlah_review"]) if "jumlah_review" in row else None,
-            "foto": ast.literal_eval(row['foto']) if 'foto' in row else None,
-            "koordinat":ast.literal_eval(row['koordinat']) if 'koordinat' in row else None,
-            # Mengambil kategori dari 'kategori_list'
-            "kategori": row["kategori_list"] if "kategori_list" in row else None
-        })
+        try:
+            # Pastikan deskripsi selalu ada
+            deskripsi = row.get("deskripsi", "")
+            if not deskripsi or deskripsi == "N/A":
+                deskripsi = f"{row['nama']} adalah sebuah tempat wisata yang terletak di {row['alamat']}. Tempat ini menawarkan berbagai pengalaman menarik bagi pengunjung."
+            
+            # Pastikan koordinat dalam format yang benar
+            koordinat = row.get('koordinat', {})
+            if isinstance(koordinat, str):
+                try:
+                    koordinat = ast.literal_eval(koordinat)
+                except:
+                    koordinat = {"latitude": None, "longitude": None}
+            
+            # Proses foto - hanya ambil 1 foto
+            foto = row.get('foto', [])
+            if isinstance(foto, str):
+                try:
+                    foto = ast.literal_eval(foto)
+                except:
+                    foto = []
+            
+            # Download dan simpan foto (hanya 1 foto)
+            processed_foto = process_attraction_images({
+                'nama': row['nama'],
+                'foto': foto
+            })
+            
+            # Pastikan kategori dalam format yang benar
+            kategori = row.get('kategori_list', [])
+            if isinstance(kategori, str):
+                try:
+                    kategori = ast.literal_eval(kategori)
+                except:
+                    kategori = []
+
+            # Handle jumlah_review dengan lebih baik
+            jumlah_review = row.get('jumlah_review')
+            if jumlah_review is not None and jumlah_review != "N/A":
+                try:
+                    if isinstance(jumlah_review, str):
+                        # Jika string, hapus titik dan konversi ke int
+                        jumlah_review = int(jumlah_review.replace(".", ""))
+                    elif isinstance(jumlah_review, (int, float)):
+                        # Jika sudah angka, langsung konversi ke int
+                        jumlah_review = int(jumlah_review)
+                    else:
+                        jumlah_review = None
+                except (ValueError, TypeError):
+                    jumlah_review = None
+            else:
+                jumlah_review = None
+
+            # Handle rating dengan lebih baik
+            rating = row.get('rating')
+            if rating is not None and rating != "N/A":
+                try:
+                    if isinstance(rating, str):
+                        rating = round(float(rating.replace(",", ".")), 1)
+                    elif isinstance(rating, (int, float)):
+                        rating = round(float(rating), 1)
+                    else:
+                        rating = None
+                except (ValueError, TypeError):
+                    rating = None
+            else:
+                rating = None
+
+            results.append({
+                "id": int(row["id"]) if "id" in row and row["id"] is not None else None,
+                "nama": row["nama"],
+                "deskripsi": deskripsi,
+                "provinsi": row["provinsi"],
+                "rating": rating,
+                "jumlah_review": jumlah_review,
+                "foto": processed_foto,
+                "koordinat": koordinat,
+                "kategori": kategori
+            })
+        except Exception as e:
+            print(f"Error processing row for {row.get('nama', 'Unknown')}: {str(e)}")
+            continue
 
     return jsonify(results)
 

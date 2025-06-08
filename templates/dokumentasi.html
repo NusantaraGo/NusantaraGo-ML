@@ -103,7 +103,8 @@
         <p><span class="method get">GET</span> <code>/api/attractions</code></p>
         <p>
           Mengambil daftar tempat wisata. Dapat difilter berdasarkan berbagai
-          kriteria.
+          kriteria. Gambar akan otomatis didownload dan disimpan secara lokal
+          saat pertama kali diakses.
         </p>
         <h4>Parameter Query:</h4>
         <table>
@@ -123,7 +124,7 @@
             <td><code>province</code></td>
             <td>string</td>
             <td>Filter berdasarkan nama provinsi.</td>
-            <td><code>/api/attractions?province=Bali</code></td>
+            <td><code>/api/attractions?province=Aceh</code></td>
           </tr>
           <tr>
             <td><code>min_rating</code></td>
@@ -149,11 +150,17 @@
         <pre><code>[
   {
     "id": 123,
-    "nama": "Nama Tempat Wisata",
-    "provinsi": "Nama Provinsi",
-    "rating": 4.7,
-    "jumlah_review": 1200,
-    "kategori": ["Kategori1", "Kategori2"]
+    "nama": "Pantai Sawang",
+    "deskripsi": "Pantai Sawang adalah pantai yang terletak di Aceh...",
+    "provinsi": "Aceh",
+    "rating": 4.5,
+    "jumlah_review": 1234,
+    "foto": "/static/images/attractions/Pantai_Sawang_a1b2c3d4e5.jpg",
+    "koordinat": {
+      "latitude": 5.123456,
+      "longitude": 95.123456
+    },
+    "kategori": ["pantai", "wisata_alam"]
   },
   ...
 ]</code></pre>
@@ -167,6 +174,8 @@
         </p>
         <p>
           Mengambil detail lengkap dari satu tempat wisata berdasarkan namanya.
+          Gambar akan otomatis didownload dan disimpan secara lokal saat pertama
+          kali diakses.
         </p>
         <h4>Parameter Path:</h4>
         <table>
@@ -180,7 +189,7 @@
             <td><code>nama</code></td>
             <td>string</td>
             <td>Nama lengkap tempat wisata (case-sensitive, URL-encoded).</td>
-            <td><code>/api/attraction/Candi%20Borobudur</code></td>
+            <td><code>/api/attraction/Pantai%20Sawang</code></td>
           </tr>
         </table>
         <h4>Respons Sukses (200 OK):</h4>
@@ -190,17 +199,19 @@
         </p>
         <pre><code>{
   "id": 123,
-  "nama": "Nama Tempat Wisata",
-  "provinsi": "Nama Provinsi",
-  "rating": 4.7,
-  "jumlah_review": 1200,
-  "kategori": ["Kategori1", "Kategori2"],
-  "deskripsi": "Deskripsi lengkap tentang tempat ini.",
-  "alamat": "Alamat lengkap.",
-  "jam_buka": "Jam operasional.",
-  "harga_tiket": "Informasi harga tiket.",
-  "koordinat": {"lat": -7.something, "lon": 110.something},
-  "sumber": "Sumber data (misal: Google Maps)"
+  "nama": "Pantai Sawang",
+  "deskripsi": "Pantai Sawang adalah pantai yang terletak di Aceh...",
+  "alamat": "Jl. Pantai Sawang, Aceh",
+  "rating": 4.5,
+  "jumlah_review": 1234,
+  "koordinat": {
+    "latitude": 5.123456,
+    "longitude": 95.123456
+  },
+  "url": "https://maps.google.com/...",
+  "provinsi": "Aceh",
+  "kategori": ["pantai", "wisata_alam"],
+  "foto": "/static/images/attractions/Pantai_Sawang_a1b2c3d4e5.jpg"
 }</code></pre>
         <h4>Respons Error (404 Not Found):</h4>
         <p>Jika tempat wisata dengan nama tersebut tidak ditemukan.</p>
@@ -571,6 +582,26 @@
   "message": "Model chatbot belum siap atau gagal dimuat."
 }</code></pre>
       </div>
+    </div>
+
+    <div class="note">
+      <strong>Catatan tentang Gambar:</strong>
+      <ul>
+        <li>
+          Gambar tempat wisata otomatis didownload dan disimpan secara lokal
+          saat pertama kali diakses
+        </li>
+        <li>Hanya 1 foto utama yang disimpan untuk setiap tempat wisata</li>
+        <li>Gambar dioptimasi untuk performa web</li>
+        <li>
+          Path gambar dalam format:
+          <code>/static/images/attractions/[nama_tempat]_[hash].jpg</code>
+        </li>
+        <li>
+          Gambar yang sudah didownload tidak akan di-download ulang saat server
+          restart
+        </li>
+      </ul>
     </div>
 
     <footer>
