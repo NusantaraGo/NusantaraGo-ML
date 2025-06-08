@@ -23,6 +23,7 @@ wordcloud>=1.8.2
 # Library untuk web app
 Flask==2.3.3
 Flask-WTF==1.1.1
+Flask-CORS==4.0.0  # Tambahkan flask-cors
 Werkzeug==2.3.7
 email-validator==2.0.0
 gunicorn==21.2.0
@@ -31,3 +32,7 @@ python-dotenv==1.0.0
 # Library untuk chatbot (TensorFlow)
 tensorflow==2.10.0 # Versi yang umum digunakan
 Sastrawi==1.0.1 # Opsional untuk stemming Bahasa Indonesia yang lebih baik
+
+# Tambahkan dependensi baru
+Pillow==10.2.0  # Untuk memproses gambar
+requests==2.31.0  # Untuk mendownload gambar
