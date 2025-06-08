@@ -1,142 +1,462 @@
-{% extends "base.html" %} {% block title %}Chatbot Wisata{% endblock %} {% block
-styles %} {{ super() }}
+{% extends "base.html" %}
+{% block title %}Chatbot Wisata{% endblock %}
+
+{% block styles %}
+{{ super() }}
 <style>
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
   .chat-container {
-    max-width: 800px;
+    max-width: 900px;
     margin: 0 auto;
     padding: 20px;
   }
 
+  .chat-header {
+    background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+    color: white;
+    padding: 25px;
+    text-align: center;
+    border-radius: 15px 15px 0 0;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    margin-bottom: 0;
+  }
+
+  .chat-header h2 {
+    font-size: 1.6rem;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+
+  .chat-header p {
+    opacity: 0.9;
+    font-size: 0.95rem;
+    margin: 0;
+  }
+
   .chat-box {
     height: 500px;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    padding: 20px;
+    border: none;
+    border-radius: 0;
+    padding: 25px;
     overflow-y: auto;
-    margin-bottom: 20px;
-    background-color: #f9f9f9;
+    margin-bottom: 0;
+    background: white;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
+    background-image: 
+      radial-gradient(circle at 20px 80px, #f8f9fa 0%, transparent 50%),
+      radial-gradient(circle at 80px 20px, #f8f9fa 0%, transparent 50%);
+  }
+
+  .chat-box::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  .chat-box::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 10px;
+  }
+
+  .chat-box::-webkit-scrollbar-thumb {
+    background: #c1c1c1;
+    border-radius: 10px;
+  }
+
+  .chat-box::-webkit-scrollbar-thumb:hover {
+    background: #a8a8a8;
   }
 
   .message {
-    margin-bottom: 15px;
-    padding: 10px 15px;
-    border-radius: 15px;
-    max-width: 80%;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: flex-start;
+    animation: fadeInUp 0.4s ease-out;
+  }
+
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(15px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .message-content {
+    padding: 15px 20px;
+    border-radius: 18px;
+    max-width: 75%;
     word-wrap: break-word;
+    line-height: 1.6;
+    font-size: 15px;
   }
 
   .user-message {
-    background-color: #007bff;
+    justify-content: flex-end;
+  }
+
+  .user-message .message-content {
+    background: linear-gradient(135deg, #007bff 0%, #0056b3 100%);
     color: white;
-    margin-left: auto;
+    border-bottom-right-radius: 4px;
+    box-shadow: 0 4px 12px rgba(0, 123, 255, 0.25);
   }
 
   .bot-message {
-    background-color: #e9ecef;
-    color: #212529;
-    margin-right: auto;
+    justify-content: flex-start;
   }
 
-  .message-container {
+  .bot-message .message-content {
+    background: #f8f9fa;
+    color: #2c3e50;
+    border: 1px solid #e9ecef;
+    border-bottom-left-radius: 4px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  }
+
+  .avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
     display: flex;
-    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    margin: 0 12px;
+    flex-shrink: 0;
   }
 
-  .input-container {
-    display: flex;
-    gap: 10px;
-  }
-
-  .input-container input {
-    flex: 1;
-    padding: 10px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-  }
-
-  .input-container button {
-    padding: 10px 20px;
-    background-color: #007bff;
+  .user-avatar {
+    background: linear-gradient(135deg, #007bff 0%, #0056b3 100%);
     color: white;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
+    order: 1;
   }
 
-  .input-container button:hover {
-    background-color: #0056b3;
+  .bot-avatar {
+    background: linear-gradient(135deg, #28a745 0%, #20c997 100%);
+    color: white;
   }
 
   .typing-indicator {
     display: none;
-    padding: 10px;
-    color: #666;
-    font-style: italic;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+    animation: fadeInUp 0.3s ease-out;
+  }
+
+  .typing-indicator.show {
+    display: flex;
+  }
+
+  .typing-content {
+    background: #f8f9fa;
+    border: 1px solid #e9ecef;
+    border-radius: 18px;
+    border-bottom-left-radius: 4px;
+    padding: 15px 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    display: flex;
+    align-items: center;
+  }
+
+  .typing-dots {
+    display: flex;
+    gap: 4px;
+    margin-right: 12px;
+  }
+
+  .typing-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #6c757d;
+    animation: typing 1.4s infinite ease-in-out;
+  }
+
+  .typing-dot:nth-child(1) { animation-delay: -0.32s; }
+  .typing-dot:nth-child(2) { animation-delay: -0.16s; }
+
+  @keyframes typing {
+    0%, 80%, 100% {
+      transform: scale(0);
+      opacity: 0.5;
+    }
+    40% {
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+
+  .input-container {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    background: white;
+    padding: 20px 25px;
+    border-radius: 0 0 15px 15px;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.05);
+  }
+
+  .input-wrapper {
+    flex: 1;
+    position: relative;
+  }
+
+  .input-container input {
+    width: 100%;
+    padding: 15px 55px 15px 20px;
+    border: 2px solid #e9ecef;
+    border-radius: 25px;
+    font-size: 15px;
+    outline: none;
+    transition: all 0.3s ease;
+    background: #f8f9fa;
+  }
+
+  .input-container input:focus {
+    border-color: #007bff;
+    background: white;
+    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.1);
+  }
+
+  .send-button {
+    position: absolute;
+    right: 5px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 40px;
+    height: 40px;
+    border: none;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #007bff 0%, #0056b3 100%);
+    color: white;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    font-size: 16px;
+    font-weight: bold;
+  }
+
+  .send-button:hover:not(:disabled) {
+    transform: translateY(-50%) scale(1.1);
+    box-shadow: 0 4px 15px rgba(0, 123, 255, 0.4);
+  }
+
+  .send-button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    transform: translateY(-50%) scale(1);
   }
 
   .reset-button {
-    margin-top: 10px;
-    padding: 5px 10px;
-    background-color: #dc3545;
+    padding: 12px 20px;
+    background: linear-gradient(135deg, #dc3545 0%, #c82333 100%);
     color: white;
     border: none;
-    border-radius: 4px;
+    border-radius: 25px;
     cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    white-space: nowrap;
   }
 
   .reset-button:hover {
-    background-color: #c82333;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(220, 53, 69, 0.3);
+  }
+
+  .welcome-message {
+    background: linear-gradient(135deg, #17a2b8 0%, #138496 100%);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(23, 162, 184, 0.2);
+  }
+
+  .welcome-message h3 {
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+    font-weight: 600;
+  }
+
+  .welcome-message p {
+    margin: 0;
+    opacity: 0.95;
+  }
+
+  /* Mobile Responsive */
+  @media (max-width: 768px) {
+    .chat-container {
+      padding: 10px;
+    }
+    
+    .message-content {
+      max-width: 85%;
+      padding: 12px 16px;
+      font-size: 14px;
+    }
+    
+    .avatar {
+      width: 35px;
+      height: 35px;
+      font-size: 16px;
+      margin: 0 8px;
+    }
+    
+    .input-container {
+      padding: 15px 20px;
+    }
+    
+    .input-container input {
+      padding: 12px 50px 12px 16px;
+      font-size: 16px;
+    }
+    
+    .send-button {
+      width: 35px;
+      height: 35px;
+      font-size: 14px;
+    }
   }
 </style>
-{% endblock %} {% block content %}
+{% endblock %}
+
+{% block content %}
 <div class="chat-container">
-  <h2 class="text-center mb-4">Chatbot Wisata Indonesia</h2>
+  <div class="chat-header">
+    <h2>🏝️ Chatbot Wisata Indonesia</h2>
+    <p>Asisten virtual untuk menjelajahi keindahan Indonesia</p>
+  </div>
 
   <div class="chat-box" id="chatBox">
-    <div class="message bot-message">
-      Halo! Saya adalah chatbot wisata Indonesia. Saya bisa membantu Anda
-      menemukan informasi tentang destinasi wisata di Indonesia. Apa yang ingin
-      Anda ketahui?
+    <div class="welcome-message">
+      <h3>Selamat datang! 👋</h3>
+      <p>Saya siap membantu Anda menemukan informasi tentang wisata Indonesia. Tanyakan apa saja tentang destinasi, kuliner, budaya, atau tips traveling!</p>
     </div>
   </div>
 
   <div class="typing-indicator" id="typingIndicator">
-    Bot sedang mengetik...
+    <div class="avatar bot-avatar">🤖</div>
+    <div class="typing-content">
+      <div class="typing-dots">
+        <div class="typing-dot"></div>
+        <div class="typing-dot"></div>
+        <div class="typing-dot"></div>
+      </div>
+      <span>Sedang mengetik...</span>
+    </div>
   </div>
 
   <div class="input-container">
-    <input
-      type="text"
-      id="userInput"
-      placeholder="Ketik pesan Anda di sini..."
-      onkeypress="handleKeyPress(event)"
-    />
-    <button onclick="sendMessage()">Kirim</button>
+    <div class="input-wrapper">
+      <input
+        type="text"
+        id="userInput"
+        placeholder="Ketik pertanyaan Anda tentang wisata Indonesia..."
+        onkeypress="handleKeyPress(event)"
+      />
+      <button class="send-button" id="sendButton" onclick="sendMessage()">
+        ➤
+      </button>
+    </div>
+    <button class="reset-button" onclick="resetChat()">
+      🔄 Reset
+    </button>
   </div>
-
-  <button class="reset-button" onclick="resetChat()">Reset Percakapan</button>
 </div>
-{% endblock %} {% block scripts %} {{ super() }}
+{% endblock %}
+
+{% block scripts %}
+{{ super() }}
 <script>
   const chatBox = document.getElementById("chatBox");
   const userInput = document.getElementById("userInput");
   const typingIndicator = document.getElementById("typingIndicator");
+  const sendButton = document.getElementById("sendButton");
 
   function addMessage(message, isUser = false) {
     const messageDiv = document.createElement("div");
     messageDiv.className = `message ${isUser ? "user-message" : "bot-message"}`;
-    messageDiv.textContent = message;
+    
+    const avatar = document.createElement("div");
+    avatar.className = `avatar ${isUser ? "user-avatar" : "bot-avatar"}`;
+    avatar.textContent = isUser ? "👤" : "🤖";
+    
+    const messageContent = document.createElement("div");
+    messageContent.className = "message-content";
+    messageContent.textContent = message;
+    
+    if (isUser) {
+      messageDiv.appendChild(messageContent);
+      messageDiv.appendChild(avatar);
+    } else {
+      messageDiv.appendChild(avatar);
+      messageDiv.appendChild(messageContent);
+    }
+    
     chatBox.appendChild(messageDiv);
     chatBox.scrollTop = chatBox.scrollHeight;
   }
 
   function showTypingIndicator() {
-    typingIndicator.style.display = "block";
+    typingIndicator.classList.add("show");
     chatBox.scrollTop = chatBox.scrollHeight;
   }
 
   function hideTypingIndicator() {
-    typingIndicator.style.display = "none";
+    typingIndicator.classList.remove("show");
+  }
+
+  function setButtonState(disabled) {
+    sendButton.disabled = disabled;
+    userInput.disabled = disabled;
+  }
+
+  async function typeMessage(message) {
+    const messageDiv = document.createElement("div");
+    messageDiv.className = "message bot-message";
+    
+    const avatar = document.createElement("div");
+    avatar.className = "avatar bot-avatar";
+    avatar.textContent = "🤖";
+    
+    const messageContent = document.createElement("div");
+    messageContent.className = "message-content";
+    
+    messageDiv.appendChild(avatar);
+    messageDiv.appendChild(messageContent);
+    chatBox.appendChild(messageDiv);
+    
+    // Efek typing animation
+    let index = 0;
+    const typingSpeed = 25; // ms per karakter
+    
+    return new Promise(resolve => {
+      const typeTimer = setInterval(() => {
+        messageContent.textContent = message.substring(0, index + 1);
+        index++;
+        chatBox.scrollTop = chatBox.scrollHeight;
+        
+        if (index >= message.length) {
+          clearInterval(typeTimer);
+          resolve();
+        }
+      }, typingSpeed);
+    });
   }
 
   async function sendMessage() {
@@ -146,9 +466,14 @@ styles %} {{ super() }}
     // Tampilkan pesan user
     addMessage(message, true);
     userInput.value = "";
+    
+    // Disable input dan button
+    setButtonState(true);
 
-    // Tampilkan typing indicator
-    showTypingIndicator();
+    // Tampilkan typing indicator dengan sedikit delay
+    setTimeout(() => {
+      showTypingIndicator();
+    }, 300);
 
     try {
       const response = await fetch("/api/chatbot/chat", {
@@ -161,19 +486,27 @@ styles %} {{ super() }}
 
       const data = await response.json();
 
+      // Simulasi delay minimum untuk pengalaman yang lebih natural
+      await new Promise(resolve => setTimeout(resolve, 800));
+
       // Sembunyikan typing indicator
       hideTypingIndicator();
 
       if (data.error) {
-        addMessage("Maaf, terjadi kesalahan. Silakan coba lagi.");
+        addMessage("Maaf, terjadi kesalahan. Silakan coba lagi. 😅");
         console.error("Error:", data.error);
       } else {
-        addMessage(data.response);
+        // Gunakan efek typing untuk respons bot
+        await typeMessage(data.response);
       }
     } catch (error) {
       hideTypingIndicator();
-      addMessage("Maaf, terjadi kesalahan. Silakan coba lagi.");
+      addMessage("Maaf, terjadi kesalahan koneksi. Silakan coba lagi. 🔄");
       console.error("Error:", error);
+    } finally {
+      // Enable kembali input dan button
+      setButtonState(false);
+      userInput.focus();
     }
   }
 
@@ -183,22 +516,29 @@ styles %} {{ super() }}
         method: "POST",
       });
 
-      // Clear chat box
-      chatBox.innerHTML = "";
-
-      // Add welcome message
-      addMessage(
-        "Halo! Saya adalah chatbot wisata Indonesia. Saya bisa membantu Anda menemukan informasi tentang destinasi wisata di Indonesia. Apa yang ingin Anda ketahui?"
-      );
+      // Clear chat box dan tambahkan welcome message
+      chatBox.innerHTML = `
+        <div class="welcome-message">
+          <h3>Selamat datang! 👋</h3>
+          <p>Saya siap membantu Anda menemukan informasi tentang wisata Indonesia. Tanyakan apa saja tentang destinasi, kuliner, budaya, atau tips traveling!</p>
+        </div>
+      `;
+      
+      userInput.focus();
     } catch (error) {
       console.error("Error resetting chat:", error);
     }
   }
 
   function handleKeyPress(event) {
-    if (event.key === "Enter") {
+    if (event.key === "Enter" && !sendButton.disabled) {
       sendMessage();
     }
   }
+
+  // Auto focus input saat halaman dimuat
+  window.addEventListener('load', () => {
+    userInput.focus();
+  });
 </script>
 {% endblock %}
