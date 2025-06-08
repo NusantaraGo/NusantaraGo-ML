@@ -10,6 +10,7 @@
 **NusantaraGo-ML** adalah aplikasi web cerdas yang dirancang untuk membantu pengguna menjelajahi dan merencanakan perjalanan wisata di seluruh Indonesia. Proyek capstone ini menggabungkan teknologi **Machine Learning** dengan **Web Development** untuk memberikan sistem rekomendasi tempat wisata yang dipersonalisasi dan chatbot interaktif yang informatif.
 
 ### 🎯 Tujuan Proyek
+
 - Memudahkan wisatawan dalam menemukan destinasi wisata yang sesuai dengan preferensi mereka
 - Menyediakan informasi wisata yang akurat dan terkini
 - Mengimplementasikan teknologi ML untuk rekomendasi yang lebih relevan
@@ -18,22 +19,26 @@
 ## ✨ Fitur Utama
 
 ### 🔍 Sistem Rekomendasi Wisata
+
 - **Content-Based Filtering**: Rekomendasi berdasarkan kemiripan karakteristik tempat wisata
 - **Popularity-Based**: Rekomendasi berdasarkan popularitas dan rating
 - **Location-Based**: Rekomendasi berdasarkan kedekatan geografis
 - **Hybrid Recommendation**: Kombinasi dari semua metode untuk hasil optimal
 
 ### 🤖 Chatbot Interaktif
+
 - Menjawab pertanyaan tentang informasi wisata (lokasi, jam buka, harga tiket)
 - Intent recognition untuk memahami maksud pengguna
 - Bantuan navigasi dan penggunaan aplikasi
 
 ### 🌐 API Endpoints
+
 - RESTful API untuk akses data tempat wisata
 - Endpoint rekomendasi dengan berbagai parameter
 - Dokumentasi API yang lengkap
 
 ### 📊 Data Management
+
 - Scraping otomatis data tempat wisata dari Google Maps
 - Preprocessing dan cleaning data
 - Logging komprehensif untuk monitoring
@@ -41,6 +46,7 @@
 ## 🛠️ Teknologi yang Digunakan
 
 ### Backend
+
 - **Python 3.10+**
 - **Flask** - Web framework
 - **Scikit-learn** - Machine learning library
@@ -49,10 +55,12 @@
 - **TensorFlow** - Deep learning untuk chatbot
 
 ### Data Processing
+
 - **Requests & Beautiful Soup** - Web scraping
 - **Joblib** - Model serialization
 
 ### Frontend
+
 - **HTML/CSS/JavaScript**
 - **Bootstrap** - UI framework
 - **Responsive design**
@@ -76,6 +84,10 @@ NusantaraGo-ML/
 │       ├── 📁 inference/
 │       └── 📁 api/
 │
+├── 📁 static/                      # File statis
+│   └── 📁 images/                  # Gambar tempat wisata
+│       └── 📁 attractions/         # Gambar yang didownload
+│
 ├── 📁 models/                      # Model yang sudah dilatih
 ├── 📁 notebooks/                   # Jupyter notebooks
 ├── 📁 templates/                   # HTML templates
@@ -91,6 +103,7 @@ NusantaraGo-ML/
 ## 🚀 Panduan Instalasi
 
 ### Prasyarat
+
 - Python 3.10 atau lebih tinggi
 - pip (Python package manager)
 - Chrome browser (untuk scraping)
@@ -99,26 +112,30 @@ NusantaraGo-ML/
 ### Langkah Instalasi
 
 1. **Clone Repository**
+
    ```bash
    git clone https://github.com/NusantaraGo/NusantaraGo-ML.git
    cd NusantaraGo-ML
    ```
 
 2. **Buat Virtual Environment**
+
    ```bash
    python -m venv .venv
    ```
 
 3. **Aktifkan Virtual Environment**
+
    ```bash
    # Windows
    .venv\Scripts\activate
-   
+
    # Linux/Mac
    source .venv/bin/activate
    ```
 
 4. **Install Dependencies**
+
    ```bash
    pip install -r requirements.txt
    ```
@@ -134,11 +151,13 @@ NusantaraGo-ML/
 ## 📊 Pengumpulan Data
 
 ### Scraping Data Wisata
+
 ```bash
 python scrape_data.py
 ```
 
 Proses ini akan:
+
 - Mengumpulkan data tempat wisata dari Google Maps
 - Menyimpan data dalam format CSV dan JSON
 - Menghasilkan dataset untuk 34 provinsi di Indonesia
@@ -148,15 +167,19 @@ Proses ini akan:
 ## 🔧 Cara Menjalankan Aplikasi
 
 ### 1. Menjalankan Web Application
+
 ```bash
 python app.py
 ```
+
 Aplikasi akan berjalan di: `http://localhost:5000`
 
 ### 2. Training Model (Opsional)
+
 Model akan otomatis dilatih saat pertama kali menjalankan aplikasi jika belum ada model yang tersimpan.
 
 ### 3. Mengakses Dokumentasi API
+
 Buka: `http://localhost:5000/dokumentasi`
 
 ## 📚 Dokumentasi API
@@ -164,12 +187,14 @@ Buka: `http://localhost:5000/dokumentasi`
 ### Endpoint Utama
 
 #### Data Dasar
+
 - `GET /api/provinces` - Daftar provinsi
 - `GET /api/categories` - Daftar kategori wisata
 - `GET /api/attractions` - Daftar tempat wisata (dengan filter)
 - `GET /api/attraction/{nama}` - Detail tempat wisata
 
 #### Sistem Rekomendasi
+
 - `GET /api/recommendations/content` - Content-based recommendation
 - `GET /api/recommendations/popularity` - Popularity-based recommendation
 - `GET /api/recommendations/location` - Location-based recommendation
@@ -178,11 +203,13 @@ Buka: `http://localhost:5000/dokumentasi`
 ### Contoh Request
 
 #### Content-Based Recommendation
+
 ```bash
 curl "http://localhost:5000/api/recommendations/content?name=Pantai%20Kuta&limit=5"
 ```
 
 #### Location-Based Recommendation
+
 ```bash
 curl "http://localhost:5000/api/recommendations/location?lat=-8.409518&lon=115.188919&limit=10"
 ```
@@ -190,12 +217,14 @@ curl "http://localhost:5000/api/recommendations/location?lat=-8.409518&lon=115.1
 ## 🤖 Sistem Chatbot
 
 ### Fitur Chatbot
+
 - **Intent Recognition**: Memahami maksud pengguna
 - **Entity Extraction**: Mengekstrak informasi penting
 - **Context Management**: Mempertahankan konteks percakapan
 - **Response Generation**: Menghasilkan respons yang relevan
 
 ### Training Chatbot
+
 ```bash
 python src/chatbot/training/train_intent_model.py
 ```
@@ -203,6 +232,7 @@ python src/chatbot/training/train_intent_model.py
 ## 🧪 Machine Learning Pipeline
 
 ### 1. Data Preprocessing
+
 ```python
 from src.recommender.preprocessing import preprocess_data
 
@@ -211,6 +241,7 @@ data = preprocess_data('Scrape_Data/tempat_wisata_indonesia.csv')
 ```
 
 ### 2. Model Training
+
 ```python
 from src.recommender.model import TourismRecommender
 
@@ -220,6 +251,7 @@ recommender.fit(data)
 ```
 
 ### 3. Prediction
+
 ```python
 # Content-based recommendation
 recommendations = recommender.recommend_by_content('Pantai Kuta', n_recommendations=5)
@@ -231,12 +263,14 @@ recommendations = recommender.recommend_by_location(-8.409518, 115.188919, n_rec
 ## 📈 Evaluasi Model
 
 ### Metrics yang Digunakan
+
 - **Precision@K**: Ketepatan rekomendasi top-K
 - **Recall@K**: Kelengkapan rekomendasi top-K
 - **Diversity**: Keberagaman rekomendasi
 - **Coverage**: Cakupan item dalam rekomendasi
 
 ### Performance
+
 - Content-based: Precision@5 = 0.78
 - Location-based: Average distance accuracy = 92%
 - Hybrid: Overall satisfaction score = 4.2/5
@@ -246,6 +280,7 @@ recommendations = recommender.recommend_by_location(-8.409518, 115.188919, n_rec
 ### Masalah Umum
 
 **1. Model tidak bisa dimuat**
+
 ```bash
 # Pastikan file model ada
 ls models/recommendation_model.joblib
@@ -255,6 +290,7 @@ python app.py
 ```
 
 **2. Error saat scraping**
+
 ```bash
 # Pastikan Chrome browser terinstall
 # Cek koneksi internet
@@ -262,6 +298,7 @@ python app.py
 ```
 
 **3. API endpoint error 500**
+
 ```bash
 # Cek log aplikasi
 tail -f logs/nusantarago.log
@@ -278,20 +315,11 @@ Kami menyambut kontribusi dari komunitas! Silakan:
 5. Buat Pull Request
 
 ### Guidelines Kontribusi
+
 - Ikuti coding standards yang ada
 - Tambahkan tests untuk fitur baru
 - Update dokumentasi jika diperlukan
 - Pastikan semua tests pass
-
-## 📄 Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
-## 👥 Tim Pengembang
-
-- **[Nama Anda]** - *Lead Developer & ML Engineer*
-- **[Nama Tim Lain]** - *Backend Developer*
-- **[Nama Tim Lain]** - *Frontend Developer*
 
 ## 🔗 Links Terkait
 
@@ -302,8 +330,8 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 ## 📞 Kontak
 
 Jika ada pertanyaan atau saran, silakan hubungi:
+
 - Email: [email@example.com]
-- LinkedIn: [LinkedIn Profile]
 
 ---
 
