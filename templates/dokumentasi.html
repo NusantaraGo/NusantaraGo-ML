@@ -1,180 +1,349 @@
 <!DOCTYPE html>
 <html lang="id" class="scroll-smooth">
-<head>
+  <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>NusantaraGo - Dokumentasi API</title>
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
     <!-- Custom Styles -->
     <style>
-        body {
-            font-family: 'Inter', sans-serif;
-        }
-        ::-webkit-scrollbar {
-            width: 8px;
-            height: 8px;
-        }
-        ::-webkit-scrollbar-track {
-            background: #f1f1f1;
-        }
-        ::-webkit-scrollbar-thumb {
-            background: #888;
-            border-radius: 4px;
-        }
-        ::-webkit-scrollbar-thumb:hover {
-            background: #555;
-        }
-        * {
-            -webkit-tap-highlight-color: transparent;
-        }
+      body {
+        font-family: "Inter", sans-serif;
+      }
+      ::-webkit-scrollbar {
+        width: 8px;
+        height: 8px;
+      }
+      ::-webkit-scrollbar-track {
+        background: #f1f1f1;
+      }
+      ::-webkit-scrollbar-thumb {
+        background: #888;
+        border-radius: 4px;
+      }
+      ::-webkit-scrollbar-thumb:hover {
+        background: #555;
+      }
+      * {
+        -webkit-tap-highlight-color: transparent;
+      }
     </style>
-</head>
-<body class="bg-gray-50 text-gray-800">
+  </head>
+  <body class="bg-gray-50 text-gray-800">
     <div class="flex flex-col lg:flex-row">
-        <!-- Sidebar/Navigation -->
-        <aside class="w-full lg:w-1/4 lg:min-w-[300px] lg:h-screen lg:sticky top-0 bg-white border-r border-gray-200 p-8">
-            <h1 class="text-2xl font-bold text-blue-600">NusantaraGo API</h1>
-            <p class="text-sm text-gray-500 mt-1">Dokumentasi v1.0</p>
-            <nav class="mt-10">
-                <h2 class="font-semibold text-gray-700 tracking-wide uppercase text-sm">Pengenalan</h2>
-                <ul class="mt-3 space-y-2">
-                    <li><a href="#introduction" class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all">Selamat Datang</a></li>
-                </ul>
-                <h2 class="mt-8 font-semibold text-gray-700 tracking-wide uppercase text-sm">API Rekomendasi</h2>
-                <ul class="mt-3 space-y-2">
-                    <li><a href="#endpoint-provinces" class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all">Daftar Provinsi</a></li>
-                    <li><a href="#endpoint-categories" class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all">Daftar Kategori</a></li>
-                    <li><a href="#endpoint-attractions" class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all">Daftar Tempat Wisata</a></li>
-                    <li><a href="#endpoint-attraction-detail" class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all">Detail Tempat Wisata</a></li>
-                    <li><a href="#endpoint-rec-content" class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all">Rekomendasi Berbasis Konten</a></li>
-                    <li><a href="#endpoint-rec-popularity" class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all">Rekomendasi Berdasarkan Popularitas</a></li>
-                    <li><a href="#endpoint-rec-location" class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all">Rekomendasi Berdasarkan Lokasi</a></li>
-                    <li><a href="#endpoint-rec-hybrid" class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all">Rekomendasi Hybrid</a></li>
-                </ul>
-                <h2 class="mt-8 font-semibold text-gray-700 tracking-wide uppercase text-sm">API Chatbot</h2>
-                <ul class="mt-3 space-y-2">
-                    <li><a href="#endpoint-chatbot-chat" class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all">Chat dengan Chatbot</a></li>
-                    <li><a href="#endpoint-chatbot-reset" class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all">Reset Percakapan</a></li>
-                    <li><a href="#endpoint-chatbot-history" class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all">History Percakapan</a></li>
-                </ul>
-            </nav>
-            <footer class="mt-10 pt-6 border-t border-gray-200">
-                <p class="text-xs text-gray-500">© 2025 NusantaraGo. Proyek Capstone DBS.</p>
-            </footer>
-        </aside>
-        <!-- Main Content -->
-        <main class="w-full lg:w-3/4 p-6 md:p-10">
-            <!-- Introduction Section -->
-            <section id="introduction" class="mb-12 scroll-mt-24">
-                <h1 class="text-4xl font-bold text-gray-900">Dokumentasi API NusantaraGo</h1>
-                <p class="mt-4 text-lg text-gray-600">
-                    Selamat datang di dokumentasi API NusantaraGo. API ini menyediakan berbagai endpoint untuk mendapatkan rekomendasi wisata dan berinteraksi dengan chatbot wisata di Indonesia.
-                </p>
-                <div class="mt-6 p-4 bg-blue-50 border-l-4 border-blue-500 rounded-r-lg">
-                    <p class="text-blue-800">Base URL untuk semua endpoint adalah: <code class="bg-blue-100 text-blue-900 px-2 py-1 rounded">/api</code></p>
-                </div>
-                <div class="mt-6 p-4 bg-blue-50 border-l-4 border-blue-500 rounded-r-lg">
-                    <h3 class="text-xl font-semibold mb-2">Catatan tentang Gambar</h3>
-                    <ul class="text-gray-600 list-disc list-inside">
-                        <li>Gambar tempat wisata otomatis didownload dan disimpan secara lokal saat pertama kali diakses</li>
-                        <li>Hanya 1 foto utama yang disimpan untuk setiap tempat wisata</li>
-                        <li>Gambar dioptimasi untuk performa web</li>
-                        <li>Path gambar dalam format: <code class="bg-blue-100 text-blue-900 px-2 py-1 rounded">/static/images/attractions/[nama_tempat]_[hash].jpg</code></li>
-                        <li>Gambar yang sudah didownload tidak akan di-download ulang saat server restart</li>
-                    </ul>
-                </div>
-            </section>
-            <!-- API Rekomendasi Section -->
-            <section id="api-rekomendasi">
-                <h2 class="text-3xl font-bold text-gray-900 border-b pb-3 mb-8">API Rekomendasi Wisata</h2>
-                <!-- Endpoint: Daftar Provinsi -->
-                <div id="endpoint-provinces" class="bg-white p-6 rounded-lg shadow-sm mb-8 scroll-mt-24">
-                    <h3 class="text-xl font-semibold mb-2">Daftar Provinsi</h3>
-                    <p class="text-gray-600 mb-4">Mengambil daftar seluruh provinsi yang datanya tersedia dalam sistem.</p>
-                    <div class="flex items-center bg-gray-100 rounded-md p-3 relative">
-                        <span class="text-sm font-bold text-green-600 bg-green-100 px-3 py-1 rounded-full">GET</span>
-                        <code class="ml-4 text-gray-800">/api/provinces</code>
-                        <button class="copy-btn absolute top-2 right-2 bg-gray-700 text-white text-xs px-2 py-1 rounded hover:bg-gray-600 transition">Salin</button>
-                    </div>
-                    <h4 class="font-semibold mt-6 mb-2">Respons Sukses (200 OK):</h4>
-                    <p class="text-gray-600 mb-2">Array JSON berisi nama-nama provinsi. Contoh:</p>
-                    <pre class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"><code class="language-json">["Aceh", "Sumatera Utara", ..., "Papua"]</code></pre>
-                </div>
-                <!-- Endpoint: Daftar Kategori -->
-                <div id="endpoint-categories" class="bg-white p-6 rounded-lg shadow-sm mb-8 scroll-mt-24">
-                    <h3 class="text-xl font-semibold mb-2">Daftar Kategori</h3>
-                    <p class="text-gray-600 mb-4">Mengambil daftar seluruh kategori tempat wisata yang tersedia dalam sistem.</p>
-                    <div class="flex items-center bg-gray-100 rounded-md p-3 relative">
-                        <span class="text-sm font-bold text-green-600 bg-green-100 px-3 py-1 rounded-full">GET</span>
-                        <code class="ml-4 text-gray-800">/api/categories</code>
-                        <button class="copy-btn absolute top-2 right-2 bg-gray-700 text-white text-xs px-2 py-1 rounded hover:bg-gray-600 transition">Salin</button>
-                    </div>
-                    <h4 class="font-semibold mt-6 mb-2">Respons Sukses (200 OK):</h4>
-                    <p class="text-gray-600 mb-2">Array JSON berisi nama-nama kategori. Contoh:</p>
-                    <pre class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"><code class="language-json">["Alam", "Budaya", "Kuliner", ..., "Religi"]</code></pre>
-                </div>
-                <!-- Endpoint: Daftar Tempat Wisata -->
-                <div id="endpoint-attractions" class="bg-white p-6 rounded-lg shadow-sm mb-8 scroll-mt-24">
-                    <h3 class="text-xl font-semibold mb-2">Daftar Tempat Wisata</h3>
-                    <p class="text-gray-600 mb-4">Mengambil daftar tempat wisata. Dapat difilter berdasarkan berbagai kriteria. Gambar akan otomatis didownload dan disimpan secara lokal saat pertama kali diakses.</p>
-                    <div class="flex items-center bg-gray-100 rounded-md p-3 mb-6 relative">
-                        <span class="text-sm font-bold text-green-600 bg-green-100 px-3 py-1 rounded-full">GET</span>
-                        <code class="ml-4 text-gray-800">/api/attractions</code>
-                        <button class="copy-btn absolute top-2 right-2 bg-gray-700 text-white text-xs px-2 py-1 rounded hover:bg-gray-600 transition">Salin</button>
-                    </div>
-                    <h4 class="font-semibold mt-6 mb-2">Parameter Query:</h4>
-                    <div class="overflow-x-auto">
-                        <table class="w-full text-sm text-left text-gray-500">
-                            <thead class="text-xs text-gray-700 uppercase bg-gray-100">
-                                <tr>
-                                    <th scope="col" class="px-6 py-3">Parameter</th>
-                                    <th scope="col" class="px-6 py-3">Tipe</th>
-                                    <th scope="col" class="px-6 py-3">Deskripsi</th>
-                                    <th scope="col" class="px-6 py-3">Contoh</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr class="bg-white border-b">
-                                    <td class="px-6 py-4 font-mono">category</td>
-                                    <td class="px-6 py-4">string</td>
-                                    <td class="px-6 py-4">Filter berdasarkan nama kategori.</td>
-                                    <td class="px-6 py-4">/api/attractions?category=Pantai</td>
-                                </tr>
-                                <tr class="bg-gray-50 border-b">
-                                    <td class="px-6 py-4 font-mono">province</td>
-                                    <td class="px-6 py-4">string</td>
-                                    <td class="px-6 py-4">Filter berdasarkan nama provinsi.</td>
-                                    <td class="px-6 py-4">/api/attractions?province=Aceh</td>
-                                </tr>
-                                <tr class="bg-white border-b">
-                                    <td class="px-6 py-4 font-mono">min_rating</td>
-                                    <td class="px-6 py-4">float</td>
-                                    <td class="px-6 py-4">Filter rating minimum (skala 0-5).</td>
-                                    <td class="px-6 py-4">/api/attractions?min_rating=4.5</td>
-                                </tr>
-                                <tr class="bg-gray-50 border-b">
-                                    <td class="px-6 py-4 font-mono">q</td>
-                                    <td class="px-6 py-4">string</td>
-                                    <td class="px-6 py-4">Pencarian teks bebas pada nama tempat wisata.</td>
-                                    <td class="px-6 py-4">/api/attractions?q=candi</td>
-                                </tr>
-                                <tr class="bg-white">
-                                    <td class="px-6 py-4 font-mono">limit</td>
-                                    <td class="px-6 py-4">integer</td>
-                                    <td class="px-6 py-4">Maksimal jumlah hasil yang dikembalikan (default: 50).</td>
-                                    <td class="px-6 py-4">/api/attractions?limit=10</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                    <h4 class="font-semibold mt-6 mb-2">Respons Sukses (200 OK):</h4>
-                    <p class="text-gray-600 mb-2">Array JSON berisi objek tempat wisata.</p>
-                    <pre class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"><code class="language-json">[
+      <!-- Sidebar/Navigation -->
+      <aside
+        class="w-full lg:w-1/4 lg:min-w-[300px] lg:h-screen lg:sticky top-0 bg-white border-r border-gray-200 p-8"
+      >
+        <h1 class="text-2xl font-bold text-blue-600">NusantaraGo API</h1>
+        <p class="text-sm text-gray-500 mt-1">Dokumentasi v1.0</p>
+        <nav class="mt-10">
+          <h2
+            class="font-semibold text-gray-700 tracking-wide uppercase text-sm"
+          >
+            Pengenalan
+          </h2>
+          <ul class="mt-3 space-y-2">
+            <li>
+              <a
+                href="#introduction"
+                class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
+                >Selamat Datang</a
+              >
+            </li>
+          </ul>
+          <h2
+            class="mt-8 font-semibold text-gray-700 tracking-wide uppercase text-sm"
+          >
+            API Rekomendasi
+          </h2>
+          <ul class="mt-3 space-y-2">
+            <li>
+              <a
+                href="#endpoint-provinces"
+                class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
+                >Daftar Provinsi</a
+              >
+            </li>
+            <li>
+              <a
+                href="#endpoint-categories"
+                class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
+                >Daftar Kategori</a
+              >
+            </li>
+            <li>
+              <a
+                href="#endpoint-attractions"
+                class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
+                >Daftar Tempat Wisata</a
+              >
+            </li>
+            <li>
+              <a
+                href="#endpoint-attraction-detail"
+                class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
+                >Detail Tempat Wisata</a
+              >
+            </li>
+            <li>
+              <a
+                href="#endpoint-rec-content"
+                class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
+                >Rekomendasi Berbasis Konten</a
+              >
+            </li>
+            <li>
+              <a
+                href="#endpoint-rec-popularity"
+                class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
+                >Rekomendasi Berdasarkan Popularitas</a
+              >
+            </li>
+            <li>
+              <a
+                href="#endpoint-rec-location"
+                class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
+                >Rekomendasi Berdasarkan Lokasi</a
+              >
+            </li>
+            <li>
+              <a
+                href="#endpoint-rec-hybrid"
+                class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
+                >Rekomendasi Hybrid</a
+              >
+            </li>
+          </ul>
+          <h2
+            class="mt-8 font-semibold text-gray-700 tracking-wide uppercase text-sm"
+          >
+            API Chatbot
+          </h2>
+          <ul class="mt-3 space-y-2">
+            <li>
+              <a
+                href="#endpoint-chatbot-chat"
+                class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
+                >Chat dengan Chatbot</a
+              >
+            </li>
+            <li>
+              <a
+                href="#endpoint-chatbot-reset"
+                class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
+                >Reset Percakapan</a
+              >
+            </li>
+            <li>
+              <a
+                href="#endpoint-chatbot-history"
+                class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
+                >History Percakapan</a
+              >
+            </li>
+          </ul>
+        </nav>
+        <footer class="mt-10 pt-6 border-t border-gray-200">
+          <p class="text-xs text-gray-500">
+            © 2025 NusantaraGo. Proyek Capstone DBS.
+          </p>
+        </footer>
+      </aside>
+      <!-- Main Content -->
+      <main class="w-full lg:w-3/4 p-6 md:p-10">
+        <!-- Introduction Section -->
+        <section id="introduction" class="mb-12 scroll-mt-24">
+          <h1 class="text-4xl font-bold text-gray-900">
+            Dokumentasi API NusantaraGo
+          </h1>
+          <p class="mt-4 text-lg text-gray-600">
+            Selamat datang di dokumentasi API NusantaraGo. API ini menyediakan
+            berbagai endpoint untuk mendapatkan rekomendasi wisata dan
+            berinteraksi dengan chatbot wisata di Indonesia.
+          </p>
+          <div
+            class="mt-6 p-4 bg-blue-50 border-l-4 border-blue-500 rounded-r-lg"
+          >
+            <p class="text-blue-800">
+              Base URL untuk semua endpoint adalah:
+              <code class="bg-blue-100 text-blue-900 px-2 py-1 rounded"
+                >/api</code
+              >
+            </p>
+          </div>
+          <div
+            class="mt-6 p-4 bg-blue-50 border-l-4 border-blue-500 rounded-r-lg"
+          >
+            <h3 class="text-xl font-semibold mb-2">Catatan tentang Gambar</h3>
+            <ul class="text-gray-600 list-disc list-inside">
+              <li>
+                Gambar tempat wisata diambil langsung dari URL asli yang
+                tersimpan dalam data
+              </li>
+              <li>
+                Hanya 1 foto utama yang digunakan untuk setiap tempat wisata
+              </li>
+              <li>Path gambar dalam format URL asli dari sumber data</li>
+              <li>Jika gambar tidak tersedia, field foto akan bernilai null</li>
+            </ul>
+          </div>
+        </section>
+        <!-- API Rekomendasi Section -->
+        <section id="api-rekomendasi">
+          <h2 class="text-3xl font-bold text-gray-900 border-b pb-3 mb-8">
+            API Rekomendasi Wisata
+          </h2>
+          <!-- Endpoint: Daftar Provinsi -->
+          <div
+            id="endpoint-provinces"
+            class="bg-white p-6 rounded-lg shadow-sm mb-8 scroll-mt-24"
+          >
+            <h3 class="text-xl font-semibold mb-2">Daftar Provinsi</h3>
+            <p class="text-gray-600 mb-4">
+              Mengambil daftar seluruh provinsi yang datanya tersedia dalam
+              sistem.
+            </p>
+            <div class="flex items-center bg-gray-100 rounded-md p-3 relative">
+              <span
+                class="text-sm font-bold text-green-600 bg-green-100 px-3 py-1 rounded-full"
+                >GET</span
+              >
+              <code class="ml-4 text-gray-800">/api/provinces</code>
+              <button
+                class="copy-btn absolute top-2 right-2 bg-gray-700 text-white text-xs px-2 py-1 rounded hover:bg-gray-600 transition"
+              >
+                Salin
+              </button>
+            </div>
+            <h4 class="font-semibold mt-6 mb-2">Respons Sukses (200 OK):</h4>
+            <p class="text-gray-600 mb-2">
+              Array JSON berisi nama-nama provinsi. Contoh:
+            </p>
+            <pre
+              class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"
+            ><code class="language-json">["Aceh", "Sumatera Utara", ..., "Papua"]</code></pre>
+          </div>
+          <!-- Endpoint: Daftar Kategori -->
+          <div
+            id="endpoint-categories"
+            class="bg-white p-6 rounded-lg shadow-sm mb-8 scroll-mt-24"
+          >
+            <h3 class="text-xl font-semibold mb-2">Daftar Kategori</h3>
+            <p class="text-gray-600 mb-4">
+              Mengambil daftar seluruh kategori tempat wisata yang tersedia
+              dalam sistem.
+            </p>
+            <div class="flex items-center bg-gray-100 rounded-md p-3 relative">
+              <span
+                class="text-sm font-bold text-green-600 bg-green-100 px-3 py-1 rounded-full"
+                >GET</span
+              >
+              <code class="ml-4 text-gray-800">/api/categories</code>
+              <button
+                class="copy-btn absolute top-2 right-2 bg-gray-700 text-white text-xs px-2 py-1 rounded hover:bg-gray-600 transition"
+              >
+                Salin
+              </button>
+            </div>
+            <h4 class="font-semibold mt-6 mb-2">Respons Sukses (200 OK):</h4>
+            <p class="text-gray-600 mb-2">
+              Array JSON berisi nama-nama kategori. Contoh:
+            </p>
+            <pre
+              class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"
+            ><code class="language-json">["Alam", "Budaya", "Kuliner", ..., "Religi"]</code></pre>
+          </div>
+          <!-- Endpoint: Daftar Tempat Wisata -->
+          <div
+            id="endpoint-attractions"
+            class="bg-white p-6 rounded-lg shadow-sm mb-8 scroll-mt-24"
+          >
+            <h3 class="text-xl font-semibold mb-2">Daftar Tempat Wisata</h3>
+            <p class="text-gray-600 mb-4">
+              Mengambil daftar tempat wisata. Dapat difilter berdasarkan berbagai
+          kriteria.
+            </p>
+            <div
+              class="flex items-center bg-gray-100 rounded-md p-3 mb-6 relative"
+            >
+              <span
+                class="text-sm font-bold text-green-600 bg-green-100 px-3 py-1 rounded-full"
+                >GET</span
+              >
+              <code class="ml-4 text-gray-800">/api/attractions</code>
+              <button
+                class="copy-btn absolute top-2 right-2 bg-gray-700 text-white text-xs px-2 py-1 rounded hover:bg-gray-600 transition"
+              >
+                Salin
+              </button>
+            </div>
+            <h4 class="font-semibold mt-6 mb-2">Parameter Query:</h4>
+            <div class="overflow-x-auto">
+              <table class="w-full text-sm text-left text-gray-500">
+                <thead class="text-xs text-gray-700 uppercase bg-gray-100">
+                  <tr>
+                    <th scope="col" class="px-6 py-3">Parameter</th>
+                    <th scope="col" class="px-6 py-3">Tipe</th>
+                    <th scope="col" class="px-6 py-3">Deskripsi</th>
+                    <th scope="col" class="px-6 py-3">Contoh</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr class="bg-white border-b">
+                    <td class="px-6 py-4 font-mono">category</td>
+                    <td class="px-6 py-4">string</td>
+                    <td class="px-6 py-4">Filter berdasarkan nama kategori.</td>
+                    <td class="px-6 py-4">/api/attractions?category=Pantai</td>
+                  </tr>
+                  <tr class="bg-gray-50 border-b">
+                    <td class="px-6 py-4 font-mono">province</td>
+                    <td class="px-6 py-4">string</td>
+                    <td class="px-6 py-4">Filter berdasarkan nama provinsi.</td>
+                    <td class="px-6 py-4">/api/attractions?province=Aceh</td>
+                  </tr>
+                  <tr class="bg-white border-b">
+                    <td class="px-6 py-4 font-mono">min_rating</td>
+                    <td class="px-6 py-4">float</td>
+                    <td class="px-6 py-4">
+                      Filter rating minimum (skala 0-5).
+                    </td>
+                    <td class="px-6 py-4">/api/attractions?min_rating=4.5</td>
+                  </tr>
+                  <tr class="bg-gray-50 border-b">
+                    <td class="px-6 py-4 font-mono">q</td>
+                    <td class="px-6 py-4">string</td>
+                    <td class="px-6 py-4">
+                      Pencarian teks bebas pada nama tempat wisata.
+                    </td>
+                    <td class="px-6 py-4">/api/attractions?q=candi</td>
+                  </tr>
+                  <tr class="bg-white">
+                    <td class="px-6 py-4 font-mono">limit</td>
+                    <td class="px-6 py-4">integer</td>
+                    <td class="px-6 py-4">
+                      Maksimal jumlah hasil yang dikembalikan (default: 50).
+                    </td>
+                    <td class="px-6 py-4">/api/attractions?limit=10</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <h4 class="font-semibold mt-6 mb-2">Respons Sukses (200 OK):</h4>
+            <p class="text-gray-600 mb-2">
+              Array JSON berisi objek tempat wisata.
+            </p>
+            <pre
+              class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"
+            ><code class="language-json">[
   {
     "id": 123,
     "nama": "Pantai Sawang",
@@ -191,40 +360,61 @@
   },
   ...
 ]</code></pre>
-                </div>
-                <!-- Endpoint: Detail Tempat Wisata -->
-                <div id="endpoint-attraction-detail" class="bg-white p-6 rounded-lg shadow-sm mb-8 scroll-mt-24">
-                    <h3 class="text-xl font-semibold mb-2">Detail Tempat Wisata</h3>
-                    <p class="text-gray-600 mb-4">Mengambil detail lengkap dari satu tempat wisata berdasarkan namanya. Gambar akan otomatis didownload dan disimpan secara lokal saat pertama kali diakses.</p>
-                    <div class="flex items-center bg-gray-100 rounded-md p-3 mb-6 relative">
-                        <span class="text-sm font-bold text-green-600 bg-green-100 px-3 py-1 rounded-full">GET</span>
-                        <code class="ml-4 text-gray-800">/api/attraction/{nama}</code>
-                        <button class="copy-btn absolute top-2 right-2 bg-gray-700 text-white text-xs px-2 py-1 rounded hover:bg-gray-600 transition">Salin</button>
-                    </div>
-                    <h4 class="font-semibold mt-6 mb-2">Parameter Path:</h4>
-                    <div class="overflow-x-auto">
-                        <table class="w-full text-sm text-left text-gray-500">
-                            <thead class="text-xs text-gray-700 uppercase bg-gray-100">
-                                <tr>
-                                    <th scope="col" class="px-6 py-3">Parameter</th>
-                                    <th scope="col" class="px-6 py-3">Tipe</th>
-                                    <th scope="col" class="px-6 py-3">Deskripsi</th>
-                                    <th scope="col" class="px-6 py-3">Contoh</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr class="bg-white">
-                                    <td class="px-6 py-4 font-mono">nama</td>
-                                    <td class="px-6 py-4">string</td>
-                                    <td class="px-6 py-4">Nama lengkap tempat wisata (case-sensitive, URL-encoded).</td>
-                                    <td class="px-6 py-4">/api/attraction/Pantai%20Sawang</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                    <h4 class="font-semibold mt-6 mb-2">Respons Sukses (200 OK):</h4>
-                    <p class="text-gray-600 mb-2">Objek JSON berisi detail tempat wisata, termasuk deskripsi, lokasi, dll.</p>
-                    <pre class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"><code class="language-json">{
+          </div>
+          <!-- Endpoint: Detail Tempat Wisata -->
+          <div
+            id="endpoint-attraction-detail"
+            class="bg-white p-6 rounded-lg shadow-sm mb-8 scroll-mt-24"
+          >
+            <h3 class="text-xl font-semibold mb-2">Detail Tempat Wisata</h3>
+            <p class="text-gray-600 mb-4">
+              Mengambil detail lengkap dari satu tempat wisata berdasarkan namanya.
+            </p>
+            <div
+              class="flex items-center bg-gray-100 rounded-md p-3 mb-6 relative"
+            >
+              <span
+                class="text-sm font-bold text-green-600 bg-green-100 px-3 py-1 rounded-full"
+                >GET</span
+              >
+              <code class="ml-4 text-gray-800">/api/attraction/{nama}</code>
+              <button
+                class="copy-btn absolute top-2 right-2 bg-gray-700 text-white text-xs px-2 py-1 rounded hover:bg-gray-600 transition"
+              >
+                Salin
+              </button>
+            </div>
+            <h4 class="font-semibold mt-6 mb-2">Parameter Path:</h4>
+            <div class="overflow-x-auto">
+              <table class="w-full text-sm text-left text-gray-500">
+                <thead class="text-xs text-gray-700 uppercase bg-gray-100">
+                  <tr>
+                    <th scope="col" class="px-6 py-3">Parameter</th>
+                    <th scope="col" class="px-6 py-3">Tipe</th>
+                    <th scope="col" class="px-6 py-3">Deskripsi</th>
+                    <th scope="col" class="px-6 py-3">Contoh</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr class="bg-white">
+                    <td class="px-6 py-4 font-mono">nama</td>
+                    <td class="px-6 py-4">string</td>
+                    <td class="px-6 py-4">
+                      Nama lengkap tempat wisata (case-sensitive, URL-encoded).
+                    </td>
+                    <td class="px-6 py-4">/api/attraction/Pantai%20Sawang</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <h4 class="font-semibold mt-6 mb-2">Respons Sukses (200 OK):</h4>
+            <p class="text-gray-600 mb-2">
+              Objek JSON berisi detail tempat wisata, termasuk deskripsi,
+              lokasi, dll.
+            </p>
+            <pre
+              class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"
+            ><code class="language-json">{
   "id": 123,
   "nama": "Pantai Sawang",
   "deskripsi": "Pantai Sawang adalah pantai yang terletak di Aceh...",
@@ -240,385 +430,667 @@
   "kategori": ["pantai", "wisata_alam"],
   "foto": "/static/images/attractions/Pantai_Sawang_a1b2c3d4e5.jpg"
 }</code></pre>
-                    <h4 class="font-semibold mt-6 mb-2">Respons Error (404 Not Found):</h4>
-                    <p class="text-gray-600 mb-2">Jika tempat wisata dengan nama tersebut tidak ditemukan.</p>
-                    <pre class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"><code class="language-json">{
+            <h4 class="font-semibold mt-6 mb-2">
+              Respons Error (404 Not Found):
+            </h4>
+            <p class="text-gray-600 mb-2">
+              Jika tempat wisata dengan nama tersebut tidak ditemukan.
+            </p>
+            <pre
+              class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"
+            ><code class="language-json">{
   "error": "Attraction not found"
 }</code></pre>
-                </div>
-                <!-- Endpoint: Rekomendasi Berbasis Konten -->
-                <div id="endpoint-rec-content" class="bg-white p-6 rounded-lg shadow-sm mb-8 scroll-mt-24">
-                    <h3 class="text-xl font-semibold mb-2">Rekomendasi Berbasis Konten</h3>
-                    <p class="text-gray-600 mb-4">Mendapatkan rekomendasi tempat wisata berdasarkan kemiripan fitur dengan tempat wisata yang menjadi acuan.</p>
-                    <div class="flex items-center bg-gray-100 rounded-md p-3 mb-6 relative">
-                        <span class="text-sm font-bold text-green-600 bg-green-100 px-3 py-1 rounded-full">GET</span>
-                        <code class="ml-4 text-gray-800">/api/recommendations/content</code>
-                        <button class="copy-btn absolute top-2 right-2 bg-gray-700 text-white text-xs px-2 py-1 rounded hover:bg-gray-600 transition">Salin</button>
-                    </div>
-                    <h4 class="font-semibold mt-6 mb-2">Parameter Query:</h4>
-                    <div class="overflow-x-auto">
-                        <table class="w-full text-sm text-left text-gray-500">
-                            <thead class="text-xs text-gray-700 uppercase bg-gray-100">
-                                <tr>
-                                    <th scope="col" class="px-6 py-3">Parameter</th>
-                                    <th scope="col" class="px-6 py-3">Tipe</th>
-                                    <th scope="col" class="px-6 py-3">Deskripsi</th>
-                                    <th scope="col" class="px-6 py-3">Contoh</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr class="bg-white border-b">
-                                    <td class="px-6 py-4 font-mono">name</td>
-                                    <td class="px-6 py-4">string</td>
-                                    <td class="px-6 py-4">Nama lengkap tempat wisata yang menjadi acuan rekomendasi (wajib).</td>
-                                    <td class="px-6 py-4">/api/recommendations/content?name=Pantai%20Kuta%20Bali</td>
-                                </tr>
-                                <tr class="bg-gray-50">
-                                    <td class="px-6 py-4 font-mono">limit</td>
-                                    <td class="px-6 py-4">integer</td>
-                                    <td class="px-6 py-4">Maksimal jumlah rekomendasi (default: 10).</td>
-                                    <td class="px-6 py-4">/api/recommendations/content?name=Pantai%20Kuta%20Bali&limit=5</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                    <h4 class="font-semibold mt-6 mb-2">Respons Sukses (200 OK):</h4>
-                    <p class="text-gray-600 mb-2">Array JSON berisi objek tempat wisata yang direkomendasikan, mirip dengan format pada endpoint Daftar Tempat Wisata.</p>
-                    <h4 class="font-semibold mt-6 mb-2">Respons Error (400 Bad Request):</h4>
-                    <p class="text-gray-600 mb-2">Jika parameter 'name' tidak diberikan:</p>
-                    <pre class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"><code class="language-json">{
+          </div>
+          <!-- Endpoint: Rekomendasi Berbasis Konten -->
+          <div
+            id="endpoint-rec-content"
+            class="bg-white p-6 rounded-lg shadow-sm mb-8 scroll-mt-24"
+          >
+            <h3 class="text-xl font-semibold mb-2">
+              Rekomendasi Berbasis Konten
+            </h3>
+            <p class="text-gray-600 mb-4">
+              Mendapatkan rekomendasi tempat wisata berdasarkan kemiripan fitur
+              dengan tempat wisata yang menjadi acuan.
+            </p>
+            <div
+              class="flex items-center bg-gray-100 rounded-md p-3 mb-6 relative"
+            >
+              <span
+                class="text-sm font-bold text-green-600 bg-green-100 px-3 py-1 rounded-full"
+                >GET</span
+              >
+              <code class="ml-4 text-gray-800"
+                >/api/recommendations/content</code
+              >
+              <button
+                class="copy-btn absolute top-2 right-2 bg-gray-700 text-white text-xs px-2 py-1 rounded hover:bg-gray-600 transition"
+              >
+                Salin
+              </button>
+            </div>
+            <h4 class="font-semibold mt-6 mb-2">Parameter Query:</h4>
+            <div class="overflow-x-auto">
+              <table class="w-full text-sm text-left text-gray-500">
+                <thead class="text-xs text-gray-700 uppercase bg-gray-100">
+                  <tr>
+                    <th scope="col" class="px-6 py-3">Parameter</th>
+                    <th scope="col" class="px-6 py-3">Tipe</th>
+                    <th scope="col" class="px-6 py-3">Deskripsi</th>
+                    <th scope="col" class="px-6 py-3">Contoh</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr class="bg-white border-b">
+                    <td class="px-6 py-4 font-mono">name</td>
+                    <td class="px-6 py-4">string</td>
+                    <td class="px-6 py-4">
+                      Nama lengkap tempat wisata yang menjadi acuan rekomendasi
+                      (wajib).
+                    </td>
+                    <td class="px-6 py-4">
+                      /api/recommendations/content?name=Pantai%20Kuta%20Bali
+                    </td>
+                  </tr>
+                  <tr class="bg-gray-50">
+                    <td class="px-6 py-4 font-mono">limit</td>
+                    <td class="px-6 py-4">integer</td>
+                    <td class="px-6 py-4">
+                      Maksimal jumlah rekomendasi (default: 10).
+                    </td>
+                    <td class="px-6 py-4">
+                      /api/recommendations/content?name=Pantai%20Kuta%20Bali&limit=5
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <h4 class="font-semibold mt-6 mb-2">Respons Sukses (200 OK):</h4>
+            <p class="text-gray-600 mb-2">
+              Array JSON berisi objek tempat wisata yang direkomendasikan, mirip
+              dengan format pada endpoint Daftar Tempat Wisata.
+            </p>
+            <h4 class="font-semibold mt-6 mb-2">
+              Respons Error (400 Bad Request):
+            </h4>
+            <p class="text-gray-600 mb-2">
+              Jika parameter 'name' tidak diberikan:
+            </p>
+            <pre
+              class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"
+            ><code class="language-json">{
   "error": "Parameter 'name' harus diberikan"
 }</code></pre>
-                    <h4 class="font-semibold mt-6 mb-2">Respons Error (500 Internal Server Error):</h4>
-                    <p class="text-gray-600 mb-2">Jika terjadi kesalahan server:</p>
-                    <pre class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"><code class="language-json">{
+            <h4 class="font-semibold mt-6 mb-2">
+              Respons Error (500 Internal Server Error):
+            </h4>
+            <p class="text-gray-600 mb-2">Jika terjadi kesalahan server:</p>
+            <pre
+              class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"
+            ><code class="language-json">{
   "error": "Terjadi kesalahan: [pesan error]"
 }</code></pre>
-                </div>
-                <!-- Endpoint: Rekomendasi Berdasarkan Popularitas -->
-                <div id="endpoint-rec-popularity" class="bg-white p-6 rounded-lg shadow-sm mb-8 scroll-mt-24">
-                    <h3 class="text-xl font-semibold mb-2">Rekomendasi Berdasarkan Popularitas</h3>
-                    <p class="text-gray-600 mb-4">Mendapatkan daftar tempat wisata paling populer. Dapat difilter berdasarkan kategori atau provinsi.</p>
-                    <div class="flex items-center bg-gray-100 rounded-md p-3 mb-6 relative">
-                        <span class="text-sm font-bold text-green-600 bg-green-100 px-3 py-1 rounded-full">GET</span>
-                        <code class="ml-4 text-gray-800">/api/recommendations/popularity</code>
-                        <button class="copy-btn absolute top-2 right-2 bg-gray-700 text-white text-xs px-2 py-1 rounded hover:bg-gray-600 transition">Salin</button>
-                    </div>
-                    <h4 class="font-semibold mt-6 mb-2">Parameter Query:</h4>
-                    <div class="overflow-x-auto">
-                        <table class="w-full text-sm text-left text-gray-500">
-                            <thead class="text-xs text-gray-700 uppercase bg-gray-100">
-                                <tr>
-                                    <th scope="col" class="px-6 py-3">Parameter</th>
-                                    <th scope="col" class="px-6 py-3">Tipe</th>
-                                    <th scope="col" class="px-6 py-3">Deskripsi</th>
-                                    <th scope="col" class="px-6 py-3">Contoh</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr class="bg-white border-b">
-                                    <td class="px-6 py-4 font-mono">category</td>
-                                    <td class="px-6 py-4">string</td>
-                                    <td class="px-6 py-4">Filter popularitas dalam kategori tertentu.</td>
-                                    <td class="px-6 py-4">/api/recommendations/popularity?category=Gunung</td>
-                                </tr>
-                                <tr class="bg-gray-50 border-b">
-                                    <td class="px-6 py-4 font-mono">province</td>
-                                    <td class="px-6 py-4">string</td>
-                                    <td class="px-6 py-4">Filter popularitas dalam provinsi tertentu.</td>
-                                    <td class="px-6 py-4">/api/recommendations/popularity?province=Jawa%20Timur</td>
-                                </tr>
-                                <tr class="bg-white">
-                                    <td class="px-6 py-4 font-mono">limit</td>
-                                    <td class="px-6 py-4">integer</td>
-                                    <td class="px-6 py-4">Maksimal jumlah rekomendasi (default: 10).</td>
-                                    <td class="px-6 py-4">/api/recommendations/popularity?limit=5</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                    <h4 class="font-semibold mt-6 mb-2">Respons Sukses (200 OK):</h4>
-                    <p class="text-gray-600 mb-2">Array JSON berisi objek tempat wisata yang direkomendasikan, diurutkan berdasarkan popularitas (misal: rating dan jumlah review).</p>
-                    <h4 class="font-semibold mt-6 mb-2">Respons Error (500 Internal Server Error):</h4>
-                    <p class="text-gray-600 mb-2">Jika terjadi kesalahan server:</p>
-                    <pre class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"><code class="language-json">{
+          </div>
+          <!-- Endpoint: Rekomendasi Berdasarkan Popularitas -->
+          <div
+            id="endpoint-rec-popularity"
+            class="bg-white p-6 rounded-lg shadow-sm mb-8 scroll-mt-24"
+          >
+            <h3 class="text-xl font-semibold mb-2">
+              Rekomendasi Berdasarkan Popularitas
+            </h3>
+            <p class="text-gray-600 mb-4">
+              Mendapatkan daftar tempat wisata paling populer. Dapat difilter
+              berdasarkan kategori atau provinsi.
+            </p>
+            <div
+              class="flex items-center bg-gray-100 rounded-md p-3 mb-6 relative"
+            >
+              <span
+                class="text-sm font-bold text-green-600 bg-green-100 px-3 py-1 rounded-full"
+                >GET</span
+              >
+              <code class="ml-4 text-gray-800"
+                >/api/recommendations/popularity</code
+              >
+              <button
+                class="copy-btn absolute top-2 right-2 bg-gray-700 text-white text-xs px-2 py-1 rounded hover:bg-gray-600 transition"
+              >
+                Salin
+              </button>
+            </div>
+            <h4 class="font-semibold mt-6 mb-2">Parameter Query:</h4>
+            <div class="overflow-x-auto">
+              <table class="w-full text-sm text-left text-gray-500">
+                <thead class="text-xs text-gray-700 uppercase bg-gray-100">
+                  <tr>
+                    <th scope="col" class="px-6 py-3">Parameter</th>
+                    <th scope="col" class="px-6 py-3">Tipe</th>
+                    <th scope="col" class="px-6 py-3">Deskripsi</th>
+                    <th scope="col" class="px-6 py-3">Contoh</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr class="bg-white border-b">
+                    <td class="px-6 py-4 font-mono">category</td>
+                    <td class="px-6 py-4">string</td>
+                    <td class="px-6 py-4">
+                      Filter popularitas dalam kategori tertentu.
+                    </td>
+                    <td class="px-6 py-4">
+                      /api/recommendations/popularity?category=Gunung
+                    </td>
+                  </tr>
+                  <tr class="bg-gray-50 border-b">
+                    <td class="px-6 py-4 font-mono">province</td>
+                    <td class="px-6 py-4">string</td>
+                    <td class="px-6 py-4">
+                      Filter popularitas dalam provinsi tertentu.
+                    </td>
+                    <td class="px-6 py-4">
+                      /api/recommendations/popularity?province=Jawa%20Timur
+                    </td>
+                  </tr>
+                  <tr class="bg-white">
+                    <td class="px-6 py-4 font-mono">limit</td>
+                    <td class="px-6 py-4">integer</td>
+                    <td class="px-6 py-4">
+                      Maksimal jumlah rekomendasi (default: 10).
+                    </td>
+                    <td class="px-6 py-4">
+                      /api/recommendations/popularity?limit=5
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <h4 class="font-semibold mt-6 mb-2">Respons Sukses (200 OK):</h4>
+            <p class="text-gray-600 mb-2">
+              Array JSON berisi objek tempat wisata yang direkomendasikan,
+              diurutkan berdasarkan popularitas (misal: rating dan jumlah
+              review).
+            </p>
+            <h4 class="font-semibold mt-6 mb-2">
+              Respons Error (500 Internal Server Error):
+            </h4>
+            <p class="text-gray-600 mb-2">Jika terjadi kesalahan server:</p>
+            <pre
+              class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"
+            ><code class="language-json">{
   "error": "Terjadi kesalahan: [pesan error]"
 }</code></pre>
-                </div>
-                <!-- Endpoint: Rekomendasi Berdasarkan Lokasi -->
-                <div id="endpoint-rec-location" class="bg-white p-6 rounded-lg shadow-sm mb-8 scroll-mt-24">
-                    <h3 class="text-xl font-semibold mb-2">Rekomendasi Berdasarkan Lokasi</h3>
-                    <p class="text-gray-600 mb-4">Mendapatkan rekomendasi tempat wisata berdasarkan kedekatan geografis dari titik koordinat tertentu.</p>
-                    <div class="flex items-center bg-gray-100 rounded-md p-3 mb-6 relative">
-                        <span class="text-sm font-bold text-green-600 bg-green-100 px-3 py-1 rounded-full">GET</span>
-                        <code class="ml-4 text-gray-800">/api/recommendations/location</code>
-                        <button class="copy-btn absolute top-2 right-2 bg-gray-700 text-white text-xs px-2 py-1 rounded hover:bg-gray-600 transition">Salin</button>
-                    </div>
-                    <h4 class="font-semibold mt-6 mb-2">Parameter Query:</h4>
-                    <div class="overflow-x-auto">
-                        <table class="w-full text-sm text-left text-gray-500">
-                            <thead class="text-xs text-gray-700 uppercase bg-gray-100">
-                                <tr>
-                                    <th scope="col" class="px-6 py-3">Parameter</th>
-                                    <th scope="col" class="px-6 py-3">Tipe</th>
-                                    <th scope="col" class="px-6 py-3">Deskripsi</th>
-                                    <th scope="col" class="px-6 py-3">Contoh</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr class="bg-white border-b">
-                                    <td class="px-6 py-4 font-mono">lat</td>
-                                    <td class="px-6 py-4">float</td>
-                                    <td class="px-6 py-4">Latitude lokasi referensi (wajib).</td>
-                                    <td class="px-6 py-4">/api/recommendations/location?lat=-6.2088</td>
-                                </tr>
-                                <tr class="bg-gray-50 border-b">
-                                    <td class="px-6 py-4 font-mono">lon</td>
-                                    <td class="px-6 py-4">float</td>
-                                    <td class="px-6 py-4">Longitude lokasi referensi (wajib).</td>
-                                    <td class="px-6 py-4">/api/recommendations/location?lon=106.8456</td>
-                                </tr>
-                                <tr class="bg-white border-b">
-                                    <td class="px-6 py-4 font-mono">max_distance</td>
-                                    <td class="px-6 py-4">integer</td>
-                                    <td class="px-6 py-4">Jarak maksimum (dalam kilometer) dari titik referensi (default: 50).</td>
-                                    <td class="px-6 py-4">/api/recommendations/location?lat=-6.2088&lon=106.8456&max_distance=10</td>
-                                </tr>
-                                <tr class="bg-gray-50">
-                                    <td class="px-6 py-4 font-mono">limit</td>
-                                    <td class="px-6 py-4">integer</td>
-                                    <td class="px-6 py-4">Maksimal jumlah rekomendasi (default: 10).</td>
-                                    <td class="px-6 py-4">/api/recommendations/location?lat=-6.2088&lon=106.8456&limit=5</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                    <h4 class="font-semibold mt-6 mb-2">Respons Sukses (200 OK):</h4>
-                    <p class="text-gray-600 mb-2">Array JSON berisi objek tempat wisata yang direkomendasikan, diurutkan berdasarkan jarak terdekat.</p>
-                    <h4 class="font-semibold mt-6 mb-2">Respons Error (400 Bad Request):</h4>
-                    <p class="text-gray-600 mb-2">Jika parameter 'lat' atau 'lon' tidak diberikan:</p>
-                    <pre class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"><code class="language-json">{
+          </div>
+          <!-- Endpoint: Rekomendasi Berdasarkan Lokasi -->
+          <div
+            id="endpoint-rec-location"
+            class="bg-white p-6 rounded-lg shadow-sm mb-8 scroll-mt-24"
+          >
+            <h3 class="text-xl font-semibold mb-2">
+              Rekomendasi Berdasarkan Lokasi
+            </h3>
+            <p class="text-gray-600 mb-4">
+              Mendapatkan rekomendasi tempat wisata berdasarkan kedekatan
+              geografis dari titik koordinat tertentu.
+            </p>
+            <div
+              class="flex items-center bg-gray-100 rounded-md p-3 mb-6 relative"
+            >
+              <span
+                class="text-sm font-bold text-green-600 bg-green-100 px-3 py-1 rounded-full"
+                >GET</span
+              >
+              <code class="ml-4 text-gray-800"
+                >/api/recommendations/location</code
+              >
+              <button
+                class="copy-btn absolute top-2 right-2 bg-gray-700 text-white text-xs px-2 py-1 rounded hover:bg-gray-600 transition"
+              >
+                Salin
+              </button>
+            </div>
+            <h4 class="font-semibold mt-6 mb-2">Parameter Query:</h4>
+            <div class="overflow-x-auto">
+              <table class="w-full text-sm text-left text-gray-500">
+                <thead class="text-xs text-gray-700 uppercase bg-gray-100">
+                  <tr>
+                    <th scope="col" class="px-6 py-3">Parameter</th>
+                    <th scope="col" class="px-6 py-3">Tipe</th>
+                    <th scope="col" class="px-6 py-3">Deskripsi</th>
+                    <th scope="col" class="px-6 py-3">Contoh</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr class="bg-white border-b">
+                    <td class="px-6 py-4 font-mono">lat</td>
+                    <td class="px-6 py-4">float</td>
+                    <td class="px-6 py-4">
+                      Latitude lokasi referensi (wajib).
+                    </td>
+                    <td class="px-6 py-4">
+                      /api/recommendations/location?lat=-6.2088
+                    </td>
+                  </tr>
+                  <tr class="bg-gray-50 border-b">
+                    <td class="px-6 py-4 font-mono">lon</td>
+                    <td class="px-6 py-4">float</td>
+                    <td class="px-6 py-4">
+                      Longitude lokasi referensi (wajib).
+                    </td>
+                    <td class="px-6 py-4">
+                      /api/recommendations/location?lon=106.8456
+                    </td>
+                  </tr>
+                  <tr class="bg-white border-b">
+                    <td class="px-6 py-4 font-mono">max_distance</td>
+                    <td class="px-6 py-4">integer</td>
+                    <td class="px-6 py-4">
+                      Jarak maksimum (dalam kilometer) dari titik referensi
+                      (default: 50).
+                    </td>
+                    <td class="px-6 py-4">
+                      /api/recommendations/location?lat=-6.2088&lon=106.8456&max_distance=10
+                    </td>
+                  </tr>
+                  <tr class="bg-gray-50">
+                    <td class="px-6 py-4 font-mono">limit</td>
+                    <td class="px-6 py-4">integer</td>
+                    <td class="px-6 py-4">
+                      Maksimal jumlah rekomendasi (default: 10).
+                    </td>
+                    <td class="px-6 py-4">
+                      /api/recommendations/location?lat=-6.2088&lon=106.8456&limit=5
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <h4 class="font-semibold mt-6 mb-2">Respons Sukses (200 OK):</h4>
+            <p class="text-gray-600 mb-2">
+              Array JSON berisi objek tempat wisata yang direkomendasikan,
+              diurutkan berdasarkan jarak terdekat.
+            </p>
+            <h4 class="font-semibold mt-6 mb-2">
+              Respons Error (400 Bad Request):
+            </h4>
+            <p class="text-gray-600 mb-2">
+              Jika parameter 'lat' atau 'lon' tidak diberikan:
+            </p>
+            <pre
+              class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"
+            ><code class="language-json">{
   "error": "Parameter 'lat' dan 'lon' harus diberikan"
 }</code></pre>
-                    <p class="text-gray-600 mb-2 mt-4">Jika koordinat tidak valid:</p>
-                    <pre class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"><code class="language-json">{
+            <p class="text-gray-600 mb-2 mt-4">Jika koordinat tidak valid:</p>
+            <pre
+              class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"
+            ><code class="language-json">{
   "error": "Latitude harus berada dalam range -90 sampai 90 derajat"
 }</code></pre>
-                    <h4 class="font-semibold mt-6 mb-2">Respons Error (500 Internal Server Error):</h4>
-                    <p class="text-gray-600 mb-2">Jika terjadi kesalahan server:</p>
-                    <pre class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"><code class="language-json">{
+            <h4 class="font-semibold mt-6 mb-2">
+              Respons Error (500 Internal Server Error):
+            </h4>
+            <p class="text-gray-600 mb-2">Jika terjadi kesalahan server:</p>
+            <pre
+              class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"
+            ><code class="language-json">{
   "error": "Terjadi kesalahan: [pesan error]"
 }</code></pre>
-                </div>
-                <!-- Endpoint: Rekomendasi Hybrid -->
-                <div id="endpoint-rec-hybrid" class="bg-white p-6 rounded-lg shadow-sm mb-8 scroll-mt-24">
-                    <h3 class="text-xl font-semibold mb-2">Rekomendasi Hybrid</h3>
-                    <p class="text-gray-600 mb-4">Mendapatkan rekomendasi tempat wisata dengan menggabungkan berbagai kriteria: referensi tempat wisata, lokasi, kategori, dan provinsi. Parameter bersifat opsional, API akan menggunakan kombinasi parameter yang diberikan.</p>
-                    <div class="flex items-center bg-gray-100 rounded-md p-3 mb-6 relative">
-                        <span class="text-sm font-bold text-green-600 bg-green-100 px-3 py-1 rounded-full">GET</span>
-                        <code class="ml-4 text-gray-800">/api/recommendations/hybrid</code>
-                        <button class="copy-btn absolute top-2 right-2 bg-gray-700 text-white text-xs px-2 py-1 rounded hover:bg-gray-600 transition">Salin</button>
-                    </div>
-                    <h4 class="font-semibold mt-6 mb-2">Parameter Query:</h4>
-                    <div class="overflow-x-auto">
-                        <table class="w-full text-sm text-left text-gray-500">
-                            <thead class="text-xs text-gray-700 uppercase bg-gray-100">
-                                <tr>
-                                    <th scope="col" class="px-6 py-3">Parameter</th>
-                                    <th scope="col" class="px-6 py-3">Tipe</th>
-                                    <th scope="col" class="px-6 py-3">Deskripsi</th>
-                                    <th scope="col" class="px-6 py-3">Contoh</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr class="bg-white border-b">
-                                    <td class="px-6 py-4 font-mono">name</td>
-                                    <td class="px-6 py-4">string</td>
-                                    <td class="px-6 py-4">Nama lengkap tempat wisata referensi.</td>
-                                    <td class="px-6 py-4">/api/recommendations/hybrid?name=Pantai%20Kuta%20Bali</td>
-                                </tr>
-                                <tr class="bg-gray-50 border-b">
-                                    <td class="px-6 py-4 font-mono">lat</td>
-                                    <td class="px-6 py-4">float</td>
-                                    <td class="px-6 py-4">Latitude lokasi pengguna.</td>
-                                    <td class="px-6 py-4">/api/recommendations/hybrid?lat=-6.2088&lon=106.8456</td>
-                                </tr>
-                                <tr class="bg-white border-b">
-                                    <td class="px-6 py-4 font-mono">lon</td>
-                                    <td class="px-6 py-4">float</td>
-                                    <td class="px-6 py-4">Longitude lokasi pengguna.</td>
-                                    <td class="px-6 py-4">/api/recommendations/hybrid?lat=-6.2088&lon=106.8456</td>
-                                </tr>
-                                <tr class="bg-gray-50 border-b">
-                                    <td class="px-6 py-4 font-mono">category</td>
-                                    <td class="px-6 py-4">string</td>
-                                    <td class="px-6 py-4">Filter berdasarkan kategori.</td>
-                                    <td class="px-6 py-4">/api/recommendations/hybrid?category=Pantai</td>
-                                </tr>
-                                <tr class="bg-white border-b">
-                                    <td class="px-6 py-4 font-mono">province</td>
-                                    <td class="px-6 py-4">string</td>
-                                    <td class="px-6 py-4">Filter berdasarkan provinsi.</td>
-                                    <td class="px-6 py-4">/api/recommendations/hybrid?province=Bali</td>
-                                </tr>
-                                <tr class="bg-gray-50 border-b">
-                                    <td class="px-6 py-4 font-mono">max_distance</td>
-                                    <td class="px-6 py-4">integer</td>
-                                    <td class="px-6 py-4">Jarak maksimum (dalam kilometer) jika menggunakan lokasi (default: 50).</td>
-                                    <td class="px-6 py-4">/api/recommendations/hybrid?lat=-6.2088&lon=106.8456&max_distance=10</td>
-                                </tr>
-                                <tr class="bg-white">
-                                    <td class="px-6 py-4 font-mono">limit</td>
-                                    <td class="px-6 py-4">integer</td>
-                                    <td class="px-6 py-4">Maksimal jumlah rekomendasi (default: 10).</td>
-                                    <td class="px-6 py-4">/api/recommendations/hybrid?lat=-6.2088&lon=106.8456&limit=5</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                    <h4 class="font-semibold mt-6 mb-2">Respons Sukses (200 OK):</h4>
-                    <p class="text-gray-600 mb-2">Array JSON berisi objek tempat wisata yang direkomendasikan.</p>
-                    <h4 class="font-semibold mt-6 mb-2">Respons Error (400 Bad Request):</h4>
-                    <p class="text-gray-600 mb-2">Jika koordinat tidak valid:</p>
-                    <pre class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"><code class="language-json">{
+          </div>
+          <!-- Endpoint: Rekomendasi Hybrid -->
+          <div
+            id="endpoint-rec-hybrid"
+            class="bg-white p-6 rounded-lg shadow-sm mb-8 scroll-mt-24"
+          >
+            <h3 class="text-xl font-semibold mb-2">Rekomendasi Hybrid</h3>
+            <p class="text-gray-600 mb-4">
+              Mendapatkan rekomendasi tempat wisata dengan menggabungkan
+              berbagai kriteria: referensi tempat wisata, lokasi, kategori, dan
+              provinsi. Parameter bersifat opsional, API akan menggunakan
+              kombinasi parameter yang diberikan.
+            </p>
+            <div
+              class="flex items-center bg-gray-100 rounded-md p-3 mb-6 relative"
+            >
+              <span
+                class="text-sm font-bold text-green-600 bg-green-100 px-3 py-1 rounded-full"
+                >GET</span
+              >
+              <code class="ml-4 text-gray-800"
+                >/api/recommendations/hybrid</code
+              >
+              <button
+                class="copy-btn absolute top-2 right-2 bg-gray-700 text-white text-xs px-2 py-1 rounded hover:bg-gray-600 transition"
+              >
+                Salin
+              </button>
+            </div>
+            <h4 class="font-semibold mt-6 mb-2">Parameter Query:</h4>
+            <div class="overflow-x-auto">
+              <table class="w-full text-sm text-left text-gray-500">
+                <thead class="text-xs text-gray-700 uppercase bg-gray-100">
+                  <tr>
+                    <th scope="col" class="px-6 py-3">Parameter</th>
+                    <th scope="col" class="px-6 py-3">Tipe</th>
+                    <th scope="col" class="px-6 py-3">Deskripsi</th>
+                    <th scope="col" class="px-6 py-3">Contoh</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr class="bg-white border-b">
+                    <td class="px-6 py-4 font-mono">name</td>
+                    <td class="px-6 py-4">string</td>
+                    <td class="px-6 py-4">
+                      Nama lengkap tempat wisata referensi.
+                    </td>
+                    <td class="px-6 py-4">
+                      /api/recommendations/hybrid?name=Pantai%20Kuta%20Bali
+                    </td>
+                  </tr>
+                  <tr class="bg-gray-50 border-b">
+                    <td class="px-6 py-4 font-mono">lat</td>
+                    <td class="px-6 py-4">float</td>
+                    <td class="px-6 py-4">Latitude lokasi pengguna.</td>
+                    <td class="px-6 py-4">
+                      /api/recommendations/hybrid?lat=-6.2088&lon=106.8456
+                    </td>
+                  </tr>
+                  <tr class="bg-white border-b">
+                    <td class="px-6 py-4 font-mono">lon</td>
+                    <td class="px-6 py-4">float</td>
+                    <td class="px-6 py-4">Longitude lokasi pengguna.</td>
+                    <td class="px-6 py-4">
+                      /api/recommendations/hybrid?lat=-6.2088&lon=106.8456
+                    </td>
+                  </tr>
+                  <tr class="bg-gray-50 border-b">
+                    <td class="px-6 py-4 font-mono">category</td>
+                    <td class="px-6 py-4">string</td>
+                    <td class="px-6 py-4">Filter berdasarkan kategori.</td>
+                    <td class="px-6 py-4">
+                      /api/recommendations/hybrid?category=Pantai
+                    </td>
+                  </tr>
+                  <tr class="bg-white border-b">
+                    <td class="px-6 py-4 font-mono">province</td>
+                    <td class="px-6 py-4">string</td>
+                    <td class="px-6 py-4">Filter berdasarkan provinsi.</td>
+                    <td class="px-6 py-4">
+                      /api/recommendations/hybrid?province=Bali
+                    </td>
+                  </tr>
+                  <tr class="bg-gray-50 border-b">
+                    <td class="px-6 py-4 font-mono">max_distance</td>
+                    <td class="px-6 py-4">integer</td>
+                    <td class="px-6 py-4">
+                      Jarak maksimum (dalam kilometer) jika menggunakan lokasi
+                      (default: 50).
+                    </td>
+                    <td class="px-6 py-4">
+                      /api/recommendations/hybrid?lat=-6.2088&lon=106.8456&max_distance=10
+                    </td>
+                  </tr>
+                  <tr class="bg-white">
+                    <td class="px-6 py-4 font-mono">limit</td>
+                    <td class="px-6 py-4">integer</td>
+                    <td class="px-6 py-4">
+                      Maksimal jumlah rekomendasi (default: 10).
+                    </td>
+                    <td class="px-6 py-4">
+                      /api/recommendations/hybrid?lat=-6.2088&lon=106.8456&limit=5
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <h4 class="font-semibold mt-6 mb-2">Respons Sukses (200 OK):</h4>
+            <p class="text-gray-600 mb-2">
+              Array JSON berisi objek tempat wisata yang direkomendasikan.
+            </p>
+            <h4 class="font-semibold mt-6 mb-2">
+              Respons Error (400 Bad Request):
+            </h4>
+            <p class="text-gray-600 mb-2">Jika koordinat tidak valid:</p>
+            <pre
+              class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"
+            ><code class="language-json">{
   "error": "Latitude harus berada dalam range -90 sampai 90 derajat"
 }</code></pre>
-                    <h4 class="font-semibold mt-6 mb-2">Respons Error (500 Internal Server Error):</h4>
-                    <p class="text-gray-600 mb-2">Jika terjadi kesalahan server:</p>
-                    <pre class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"><code class="language-json">{
+            <h4 class="font-semibold mt-6 mb-2">
+              Respons Error (500 Internal Server Error):
+            </h4>
+            <p class="text-gray-600 mb-2">Jika terjadi kesalahan server:</p>
+            <pre
+              class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"
+            ><code class="language-json">{
   "error": "Terjadi kesalahan: [pesan error]"
 }</code></pre>
-                </div>
-            </section>
-            <!-- API Chatbot Section -->
-            <section id="api-chatbot" class="mb-12">
-                <h2 class="text-3xl font-bold text-gray-900 border-b pb-3 mb-8">Endpoint API Chatbot</h2>
-                <div class="mt-6 p-4 bg-blue-50 border-l-4 border-blue-500 rounded-r-lg">
-                    <p class="text-blue-800">Base URL untuk endpoint chatbot adalah: <code class="bg-blue-100 text-blue-900 px-2 py-1 rounded">/api/chatbot</code></p>
-                </div>
-                <!-- Endpoint: Chat dengan Chatbot -->
-                <div id="endpoint-chatbot-chat" class="bg-white p-6 rounded-lg shadow-sm mb-8 scroll-mt-24">
-                    <h3 class="text-xl font-semibold mb-2">Chat dengan Chatbot</h3>
-                    <p class="text-gray-600 mb-4">Mengirim pesan ke chatbot dan mendapatkan respons.</p>
-                    <div class="flex items-center bg-gray-100 rounded-md p-3 mb-6 relative">
-                        <span class="text-sm font-bold text-blue-600 bg-blue-100 px-3 py-1 rounded-full">POST</span>
-                        <code class="ml-4 text-gray-800">/api/chatbot/chat</code>
-                        <button class="copy-btn absolute top-2 right-2 bg-gray-700 text-white text-xs px-2 py-1 rounded hover:bg-gray-600 transition">Salin</button>
-                    </div>
-                    <h4 class="font-semibold mt-6 mb-2">Body Permintaan (JSON):</h4>
-                    <pre class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"><code class="language-json">{
+          </div>
+        </section>
+        <!-- API Chatbot Section -->
+        <section id="api-chatbot" class="mb-12">
+          <h2 class="text-3xl font-bold text-gray-900 border-b pb-3 mb-8">
+            Endpoint API Chatbot
+          </h2>
+          <div
+            class="mt-6 p-4 bg-blue-50 border-l-4 border-blue-500 rounded-r-lg"
+          >
+            <p class="text-blue-800">
+              Base URL untuk endpoint chatbot adalah:
+              <code class="bg-blue-100 text-blue-900 px-2 py-1 rounded"
+                >/api/chatbot</code
+              >
+            </p>
+          </div>
+          <!-- Endpoint: Chat dengan Chatbot -->
+          <div
+            id="endpoint-chatbot-chat"
+            class="bg-white p-6 rounded-lg shadow-sm mb-8 scroll-mt-24"
+          >
+            <h3 class="text-xl font-semibold mb-2">Chat dengan Chatbot</h3>
+            <p class="text-gray-600 mb-4">
+              Mengirim pesan ke chatbot dan mendapatkan respons.
+            </p>
+            <div
+              class="flex items-center bg-gray-100 rounded-md p-3 mb-6 relative"
+            >
+              <span
+                class="text-sm font-bold text-blue-600 bg-blue-100 px-3 py-1 rounded-full"
+                >POST</span
+              >
+              <code class="ml-4 text-gray-800">/api/chatbot/chat</code>
+              <button
+                class="copy-btn absolute top-2 right-2 bg-gray-700 text-white text-xs px-2 py-1 rounded hover:bg-gray-600 transition"
+              >
+                Salin
+              </button>
+            </div>
+            <h4 class="font-semibold mt-6 mb-2">Body Permintaan (JSON):</h4>
+            <pre
+              class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"
+            ><code class="language-json">{
   "message": "Pesan teks dari pengguna",
   "reset": false
 }</code></pre>
-                    <h4 class="font-semibold mt-6 mb-2">Respons Sukses (200 OK):</h4>
-                    <p class="text-gray-600 mb-2">Objek JSON berisi respons chatbot.</p>
-                    <pre class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"><code class="language-json">{
+            <h4 class="font-semibold mt-6 mb-2">Respons Sukses (200 OK):</h4>
+            <p class="text-gray-600 mb-2">Objek JSON berisi respons chatbot.</p>
+            <pre
+              class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"
+            ><code class="language-json">{
   "response": "Respons teks dari chatbot"
 }</code></pre>
-                    <h4 class="font-semibold mt-6 mb-2">Respons Error (400 Bad Request):</h4>
-                    <p class="text-gray-600 mb-2">Jika body permintaan tidak valid atau field 'message' hilang.</p>
-                    <pre class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"><code class="language-json">{
+            <h4 class="font-semibold mt-6 mb-2">
+              Respons Error (400 Bad Request):
+            </h4>
+            <p class="text-gray-600 mb-2">
+              Jika body permintaan tidak valid atau field 'message' hilang.
+            </p>
+            <pre
+              class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"
+            ><code class="language-json">{
   "error": "Missing required field: message"
 }</code></pre>
-                    <h4 class="font-semibold mt-6 mb-2">Respons Error (503 Service Unavailable):</h4>
-                    <p class="text-gray-600 mb-2">Jika model chatbot gagal dimuat saat inisialisasi aplikasi.</p>
-                    <pre class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"><code class="language-json">{
+            <h4 class="font-semibold mt-6 mb-2">
+              Respons Error (503 Service Unavailable):
+            </h4>
+            <p class="text-gray-600 mb-2">
+              Jika model chatbot gagal dimuat saat inisialisasi aplikasi.
+            </p>
+            <pre
+              class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"
+            ><code class="language-json">{
   "error": "Chatbot model not loaded",
   "message": "Model chatbot belum siap atau gagal dimuat."
 }</code></pre>
-                </div>
-                <!-- Endpoint: Reset Percakapan Chatbot -->
-                <div id="endpoint-chatbot-reset" class="bg-white p-6 rounded-lg shadow-sm mb-8 scroll-mt-24">
-                    <h3 class="text-xl font-semibold mb-2">Reset Percakapan Chatbot</h3>
-                    <p class="text-gray-600 mb-4">Mereset history percakapan chatbot (jika diimplementasikan dalam IntentChatbot).</p>
-                    <div class="flex items-center bg-gray-100 rounded-md p-3 mb-6 relative">
-                        <span class="text-sm font-bold text-blue-600 bg-blue-100 px-3 py-1 rounded-full">POST</span>
-                        <code class="ml-4 text-gray-800">/api/chatbot/reset</code>
-                        <button class="copy-btn absolute top-2 right-2 bg-gray-700 text-white text-xs px-2 py-1 rounded hover:bg-gray-600 transition">Salin</button>
-                    </div>
-                    <h4 class="font-semibold mt-6 mb-2">Body Permintaan:</h4>
-                    <p class="text-gray-600 mb-2">Tidak wajib, bisa body kosong.</p>
-                    <pre class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"><code class="language-json">{}</code></pre>
-                    <h4 class="font-semibold mt-6 mb-2">Respons Sukses (200 OK):</h4>
-                    <p class="text-gray-600 mb-2">Objek JSON konfirmasi reset.</p>
-                    <pre class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"><code class="language-json">{
+          </div>
+          <!-- Endpoint: Reset Percakapan Chatbot -->
+          <div
+            id="endpoint-chatbot-reset"
+            class="bg-white p-6 rounded-lg shadow-sm mb-8 scroll-mt-24"
+          >
+            <h3 class="text-xl font-semibold mb-2">Reset Percakapan Chatbot</h3>
+            <p class="text-gray-600 mb-4">
+              Mereset history percakapan chatbot (jika diimplementasikan dalam
+              IntentChatbot).
+            </p>
+            <div
+              class="flex items-center bg-gray-100 rounded-md p-3 mb-6 relative"
+            >
+              <span
+                class="text-sm font-bold text-blue-600 bg-blue-100 px-3 py-1 rounded-full"
+                >POST</span
+              >
+              <code class="ml-4 text-gray-800">/api/chatbot/reset</code>
+              <button
+                class="copy-btn absolute top-2 right-2 bg-gray-700 text-white text-xs px-2 py-1 rounded hover:bg-gray-600 transition"
+              >
+                Salin
+              </button>
+            </div>
+            <h4 class="font-semibold mt-6 mb-2">Body Permintaan:</h4>
+            <p class="text-gray-600 mb-2">Tidak wajib, bisa body kosong.</p>
+            <pre
+              class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"
+            ><code class="language-json">{}</code></pre>
+            <h4 class="font-semibold mt-6 mb-2">Respons Sukses (200 OK):</h4>
+            <p class="text-gray-600 mb-2">Objek JSON konfirmasi reset.</p>
+            <pre
+              class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"
+            ><code class="language-json">{
   "message": "Conversation history reset successfully (handled by IntentChatbot if implemented)"
 }</code></pre>
-                    <h4 class="font-semibold mt-6 mb-2">Respons Error (503 Service Unavailable):</h4>
-                    <p class="text-gray-600 mb-2">Jika model chatbot gagal dimuat saat inisialisasi aplikasi.</p>
-                    <pre class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"><code class="language-json">{
+            <h4 class="font-semibold mt-6 mb-2">
+              Respons Error (503 Service Unavailable):
+            </h4>
+            <p class="text-gray-600 mb-2">
+              Jika model chatbot gagal dimuat saat inisialisasi aplikasi.
+            </p>
+            <pre
+              class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"
+            ><code class="language-json">{
   "error": "Chatbot model not loaded",
   "message": "Model chatbot belum siap atau gagal dimuat."
 }</code></pre>
-                </div>
-                <!-- Endpoint: Dapatkan History Percakapan -->
-                <div id="endpoint-chatbot-history" class="bg-white p-6 rounded-lg shadow-sm mb-8 scroll-mt-24">
-                    <h3 class="text-xl font-semibold mb-2">Dapatkan History Percakapan</h3>
-                    <p class="text-gray-600 mb-4">Mengambil history percakapan saat ini (jika diimplementasikan dalam IntentChatbot). Saat ini IntentChatbot sederhana tidak menyimpan history, endpoint akan mengembalikan history kosong.</p>
-                    <div class="flex items-center bg-gray-100 rounded-md p-3 mb-6 relative">
-                        <span class="text-sm font-bold text-green-600 bg-green-100 px-3 py-1 rounded-full">GET</span>
-                        <code class="ml-4 text-gray-800">/api/chatbot/history</code>
-                        <button class="copy-btn absolute top-2 right-2 bg-gray-700 text-white text-xs px-2 py-1 rounded hover:bg-gray-600 transition">Salin</button>
-                    </div>
-                    <h4 class="font-semibold mt-6 mb-2">Parameter Query:</h4>
-                    <p class="text-gray-600 mb-2">Tidak ada parameter.</p>
-                    <h4 class="font-semibold mt-6 mb-2">Respons Sukses (200 OK):</h4>
-                    <p class="text-gray-600 mb-2">Objek JSON berisi history percakapan (saat ini kosong).</p>
-                    <pre class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"><code class="language-json">{
+          </div>
+          <!-- Endpoint: Dapatkan History Percakapan -->
+          <div
+            id="endpoint-chatbot-history"
+            class="bg-white p-6 rounded-lg shadow-sm mb-8 scroll-mt-24"
+          >
+            <h3 class="text-xl font-semibold mb-2">
+              Dapatkan History Percakapan
+            </h3>
+            <p class="text-gray-600 mb-4">
+              Mengambil history percakapan saat ini (jika diimplementasikan
+              dalam IntentChatbot). Saat ini IntentChatbot sederhana tidak
+              menyimpan history, endpoint akan mengembalikan history kosong.
+            </p>
+            <div
+              class="flex items-center bg-gray-100 rounded-md p-3 mb-6 relative"
+            >
+              <span
+                class="text-sm font-bold text-green-600 bg-green-100 px-3 py-1 rounded-full"
+                >GET</span
+              >
+              <code class="ml-4 text-gray-800">/api/chatbot/history</code>
+              <button
+                class="copy-btn absolute top-2 right-2 bg-gray-700 text-white text-xs px-2 py-1 rounded hover:bg-gray-600 transition"
+              >
+                Salin
+              </button>
+            </div>
+            <h4 class="font-semibold mt-6 mb-2">Parameter Query:</h4>
+            <p class="text-gray-600 mb-2">Tidak ada parameter.</p>
+            <h4 class="font-semibold mt-6 mb-2">Respons Sukses (200 OK):</h4>
+            <p class="text-gray-600 mb-2">
+              Objek JSON berisi history percakapan (saat ini kosong).
+            </p>
+            <pre
+              class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"
+            ><code class="language-json">{
   "conversation_history": []
 }</code></pre>
-                    <h4 class="font-semibold mt-6 mb-2">Respons Error (503 Service Unavailable):</h4>
-                    <p class="text-gray-600 mb-2">Jika model chatbot gagal dimuat saat inisialisasi aplikasi.</p>
-                    <pre class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"><code class="language-json">{
+            <h4 class="font-semibold mt-6 mb-2">
+              Respons Error (503 Service Unavailable):
+            </h4>
+            <p class="text-gray-600 mb-2">
+              Jika model chatbot gagal dimuat saat inisialisasi aplikasi.
+            </p>
+            <pre
+              class="bg-gray-900 text-white p-4 rounded-lg overflow-x-auto"
+            ><code class="language-json">{
   "error": "Chatbot model not loaded",
   "message": "Model chatbot belum siap atau gagal dimuat."
 }</code></pre>
-                </div>
-            </section>
-        </main>
+          </div>
+        </section>
+      </main>
     </div>
     <!-- JavaScript for Copy-to-Clipboard functionality -->
     <script>
-        document.addEventListener('DOMContentLoaded', () => {
-            const copyButtons = document.querySelectorAll('.copy-btn');
-            copyButtons.forEach(button => {
-                button.addEventListener('click', () => {
-                    const code = button.closest('.relative').querySelector('code');
-                    const textToCopy = code.innerText;
-                    navigator.clipboard.writeText(textToCopy).then(() => {
-                        button.textContent = 'Disalin!';
-                        button.classList.add('bg-green-600', 'text-white');
-                        button.classList.remove('bg-gray-700');
-                        setTimeout(() => {
-                            button.textContent = 'Salin';
-                            button.classList.remove('bg-green-600', 'text-white');
-                            button.classList.add('bg-gray-700');
-                        }, 2000);
-                    }).catch(err => {
-                        console.error('Gagal menyalin teks: ', err);
-                        try {
-                            const textArea = document.createElement('textarea');
-                            textArea.value = textToCopy;
-                            document.body.appendChild(textArea);
-                            textArea.select();
-                            document.execCommand('copy');
-                            document.body.removeChild(textArea);
-                            button.textContent = 'Disalin!';
-                            button.classList.add('bg-green-600', 'text-white');
-                            button.classList.remove('bg-gray-700');
-                            setTimeout(() => {
-                                button.textContent = 'Salin';
-                                button.classList.remove('bg-green-600', 'text-white');
-                                button.classList.add('bg-gray-700');
-                            }, 2000);
-                        } catch (fallbackErr) {
-                            console.error('Fallback gagal: ', fallbackErr);
-                            alert('Gagal menyalin teks ke clipboard.');
-                        }
-                    });
-                });
-            });
+      document.addEventListener("DOMContentLoaded", () => {
+        const copyButtons = document.querySelectorAll(".copy-btn");
+        copyButtons.forEach((button) => {
+          button.addEventListener("click", () => {
+            const code = button.closest(".relative").querySelector("code");
+            const textToCopy = code.innerText;
+            navigator.clipboard
+              .writeText(textToCopy)
+              .then(() => {
+                button.textContent = "Disalin!";
+                button.classList.add("bg-green-600", "text-white");
+                button.classList.remove("bg-gray-700");
+                setTimeout(() => {
+                  button.textContent = "Salin";
+                  button.classList.remove("bg-green-600", "text-white");
+                  button.classList.add("bg-gray-700");
+                }, 2000);
+              })
+              .catch((err) => {
+                console.error("Gagal menyalin teks: ", err);
+                try {
+                  const textArea = document.createElement("textarea");
+                  textArea.value = textToCopy;
+                  document.body.appendChild(textArea);
+                  textArea.select();
+                  document.execCommand("copy");
+                  document.body.removeChild(textArea);
+                  button.textContent = "Disalin!";
+                  button.classList.add("bg-green-600", "text-white");
+                  button.classList.remove("bg-gray-700");
+                  setTimeout(() => {
+                    button.textContent = "Salin";
+                    button.classList.remove("bg-green-600", "text-white");
+                    button.classList.add("bg-gray-700");
+                  }, 2000);
+                } catch (fallbackErr) {
+                  console.error("Fallback gagal: ", fallbackErr);
+                  alert("Gagal menyalin teks ke clipboard.");
+                }
+              });
+          });
         });
+      });
     </script>
-</body>
+  </body>
 </html>
