@@ -1,4 +1,4 @@
-from flask import jsonify, request, render_template, Flask
+from flask import jsonify, request, render_template, Flask, Request, flash, redirect, url_for
 import joblib
 import numpy as np
 import pandas as pd
@@ -6,6 +6,7 @@ import os
 from pathlib import Path
 
 app = Flask(__name__)
+app.secret_key = "123" 
 
 # Load model dan komponen pendukung
 def load_model_components():
@@ -41,77 +42,48 @@ scaler = components['scaler']
 mlb = components['mlb']
 features = components['features']
 
-@app.route('/')
+@app.route('/', methods=['GET', 'POST'])
 def home():
-    return render_template('index.html')
+    if request.method == 'POST':
+        rating = float(request.form['rating'])
+        jumlah_review = int(request.form['jumlah_review'])
+        kategori = request.form.getlist('kategori')
+        provinsi = request.form['provinsi']
 
-@app.route('/predict', methods=['POST'])
-def predict():
-    try:
-        # Terima input
-        data = request.form.to_dict()
+        # Encoding kategori
+        kategori_encoded = pd.DataFrame(
+            mlb.transform([kategori]), columns=mlb.classes_
+        )
 
-        # Proses input kategori lebih aman (ganti eval dengan ast.literal_eval)
-        import ast
-        kategori = ast.literal_eval(data['kategori']) if isinstance(data['kategori'], str) else data['kategori']
-        
-        # Persiapan data 
-        input_data = {
-            'rating': float(data['rating']),
-            'jumlah_review': int(data['jumlah_review']),
-            'kategori': kategori,
-            'provinsi': data['provinsi']
-        }
+        # Encoding provinsi
+        provinsi_columns = [col for col in features if col.startswith('provinsi_')]
+        provinsi_encoded = pd.DataFrame(
+            [[1 if provinsi in col else 0 for col in provinsi_columns]],
+            columns=provinsi_columns
+        )
 
-        # Buat dataframe dari input
-        df_input = pd.DataFrame([input_data])
-
-        # Feature engineering
-        df_input['log_jumlah_review'] = np.log1p(df_input['jumlah_review'])
-
-        # Encoding kategori (multi-label)
-        # kategori_encoded = mlb.transform(df_input['kategori'])
-        kategori_encoded = mlb.transform([df_input.at[0, 'kategori']])
-        kategori_encoded_df = pd.DataFrame(kategori_encoded, columns=mlb.classes_)
-        
-        # Encoding provinsi (one-hot)
-        provinsi_encoded = pd.get_dummies(df_input['provinsi'], prefix='provinsi')
-
-        # Gabungkan semua fitur
-        X = pd.concat([
-            df_input[['rating', 'log_jumlah_review']],
-            kategori_encoded_df,
-            provinsi_encoded.reindex(columns=[f for f in features if f.startswith('provinsi_')])
+        # Gabungkan fitur
+        input_df = pd.concat([
+            pd.DataFrame([[rating, jumlah_review]], columns=['rating', 'jumlah_review']),
+            kategori_encoded,
+            provinsi_encoded
         ], axis=1)
 
-        # Urutkan kolom sesuai dengan training
-        X = X.reindex(columns=features, fill_value=0)
-        
-        # Scaling
-        X_scaled = scaler.transform(X)
-        
-        # Prediksi
-        prediksi = model.predict(X_scaled)
-        proba = model.predict_proba(X_scaled)[0][1]  # Probabilitas kelas populer
+        # Pastikan urutan kolom sama
+        input_df = input_df.reindex(columns=features, fill_value=0)
 
+        prediksi = model.predict(input_df)[0]
+        proba = model.predict_proba(input_df)[0][1]
 
-        # Format hasil
-        hasil = {
-            'prediksi': 'populer' if prediksi[0] == 1 else 'tidak populer',
-            'confidence': round(proba * 100, 2),
-            'status': 'success'
-        }
+        # Flash pesan ke user
+        pesan = f"Tempat ini {'populer' if prediksi else 'tidak populer'} (Probabilitas: {proba:.2f})"
+        flash(pesan, 'success' if prediksi else 'danger')
+        return redirect(url_for('home'))
 
-        return jsonify(hasil)
+    # Contoh kategori dan provinsi, sesuaikan dengan modelmu
+    kategori_options = mlb.classes_
+    provinsi_options = [col.replace('provinsi_', '') for col in features if col.startswith('provinsi_')]
+    return render_template('form.html', kategori_options=kategori_options, provinsi_options=provinsi_options)
     
-    except Exception as e:
-        return jsonify({
-            'status': 'error',
-            'message': str(e),
-            'details': "Pastikan input sesuai format. Contoh kategori: ['Pantai', 'Gunung']"
-        }), 400
-
-
-
-if __name__ == "__main__":
+if __name__ == '__main__':
     app.run(debug=True)
