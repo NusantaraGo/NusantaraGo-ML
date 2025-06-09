@@ -17,6 +17,7 @@ import requests
 from PIL import Image
 from io import BytesIO
 import hashlib
+import json as json_lib
 
 # Tambahkan path untuk import modul
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
@@ -83,7 +84,7 @@ CORS(app)
 
 # Inisialisasi model rekomendasi
 MODEL_PATH = os.getenv('MODEL_PATH', 'models/recommendation_model.joblib')
-DATA_PATH = os.getenv('DATA_PATH', 'Scrape_Data/tempat_wisata_indonesia.csv')
+DATA_PATH = os.getenv('DATA_PATH', 'data/tempat_wisata_indonesia.csv')
 
 # Global variables untuk menyimpan model dan data rekomendasi
 recommender = None
@@ -206,58 +207,21 @@ def get_categories():
     """
     return jsonify(categories)
 
-def download_and_save_image(image_url, attraction_name):
-    """
-    Mendownload dan menyimpan gambar dari URL ke folder static/images
-    """
-    try:
-        # Buat nama file yang unik dari URL
-        file_hash = hashlib.md5(image_url.encode()).hexdigest()[:10]
-        safe_name = "".join(c for c in attraction_name if c.isalnum() or c in (' ', '-', '_')).rstrip()
-        filename = f"{safe_name}_{file_hash}.jpg"
-        
-        # Buat direktori jika belum ada
-        image_dir = os.path.join('static', 'images', 'attractions')
-        os.makedirs(image_dir, exist_ok=True)
-        
-        filepath = os.path.join(image_dir, filename)
-        
-        # Jika file sudah ada, langsung return path-nya
-        if os.path.exists(filepath):
-            return f"/static/images/attractions/{filename}"
-        
-        # Download gambar
-        response = requests.get(image_url, timeout=10)
-        if response.status_code == 200:
-            # Buka gambar dengan PIL untuk validasi
-            img = Image.open(BytesIO(response.content))
-            
-            # Konversi ke RGB jika perlu
-            if img.mode in ('RGBA', 'P'):
-                img = img.convert('RGB')
-            
-            # Simpan gambar
-            img.save(filepath, 'JPEG', quality=85, optimize=True)
-            return f"/static/images/attractions/{filename}"
-        
-        return None
-    except Exception as e:
-        print(f"Error downloading image {image_url}: {str(e)}")
-        return None
-
 def process_attraction_images(attraction_data):
     """
-    Memproses gambar untuk satu tempat wisata, hanya mengambil 1 foto yang paling relevan
+    Memproses gambar untuk satu tempat wisata dari data JSON
     """
     if not attraction_data.get('foto'):
         return None
     
-    # Ambil foto pertama saja (biasanya foto utama/cover)
-    image_url = attraction_data['foto'][0] if isinstance(attraction_data['foto'], list) else None
+    # Foto disimpan sebagai string path di JSON
+    foto = attraction_data['foto']
+    if isinstance(foto, str):
+        return foto
     
-    if image_url and isinstance(image_url, str):
-        local_path = download_and_save_image(image_url, attraction_data['nama'])
-        return local_path
+    # Jika foto dalam bentuk list, ambil yang pertama
+    if isinstance(foto, list) and len(foto) > 0:
+        return foto[0]
     
     return None
 
@@ -315,19 +279,14 @@ def get_attractions():
                 except:
                     koordinat = {"latitude": None, "longitude": None}
             
-            # Proses foto - hanya ambil 1 foto
-            foto = row.get('foto', [])
+            # Proses foto - ambil langsung dari kolom foto
+            foto = row.get('foto')
             if isinstance(foto, str):
-                try:
-                    foto = ast.literal_eval(foto)
-                except:
-                    foto = []
-            
-            # Download dan simpan foto (hanya 1 foto)
-            processed_foto = process_attraction_images({
-                'nama': row['nama'],
-                'foto': foto
-            })
+                processed_foto = foto
+            elif isinstance(foto, list) and len(foto) > 0:
+                processed_foto = foto[0]
+            else:
+                processed_foto = None
             
             # Pastikan kategori dalam format yang benar
             kategori = row.get('kategori_list', [])
@@ -398,41 +357,141 @@ def get_attraction(name):
         if not load_model_and_data():
              return jsonify({"message": "Gagal memuat data tempat wisata."}), 500
 
-    # Gunakan fungsi pencarian detail yang lebih fleksibel
-    # Asumsikan get_attraction_details di src/recommender/__init__.py
-    # sudah diimplementasikan untuk pencarian fleksibel
-    details = get_attraction_details(df, name)
-
-    # Periksa jika hasil adalah error dictionary dari get_attraction_details
-    if isinstance(details, dict) and "error" in details:
-        # Log error jika bukan 'tidak ditemukan'
-        if "tidak ditemukan" not in details["error"]:
-             logger.error(f"Error dari get_attraction_details untuk '{name}': {details['error']}")
-        return jsonify({"message": details["error"]}), 404 # Kembalikan 404 jika tidak ditemukan atau error spesifik
-
-    # Format hasil sebelum dikirim
     try:
+        # Cari tempat wisata berdasarkan nama (case insensitive)
+        mask = df['nama'].str.lower() == name.lower()
+        if not mask.any():
+            return jsonify({"message": f"Tempat wisata '{name}' tidak ditemukan"}), 404
+
+        # Ambil data tempat wisata
+        details = df[mask].iloc[0].to_dict()
+
+        # Format koordinat
+        koordinat = details.get('koordinat', {})
+        if isinstance(koordinat, str):
+            try:
+                koordinat = json_lib.loads(koordinat)
+            except:
+                # Coba ekstrak koordinat dari URL jika ada
+                url = details.get('url', '')
+                if url:
+                    try:
+                        # Cari pola koordinat di URL (format: !3d{lat}!4d{lon})
+                        import re
+                        coords = re.findall(r'!3d([\d.-]+)!4d([\d.-]+)', url)
+                        if coords:
+                            lat, lon = coords[0]
+                            koordinat = {
+                                "latitude": float(lat),
+                                "longitude": float(lon)
+                            }
+                    except:
+                        koordinat = {"latitude": None, "longitude": None}
+                else:
+                    koordinat = {"latitude": None, "longitude": None}
+        elif isinstance(koordinat, dict):
+            # Pastikan koordinat dalam format yang benar
+            try:
+                koordinat = {
+                    "latitude": float(koordinat.get('latitude', 0)) if koordinat.get('latitude') is not None else None,
+                    "longitude": float(koordinat.get('longitude', 0)) if koordinat.get('longitude') is not None else None
+                }
+            except:
+                # Coba ekstrak dari URL jika konversi gagal
+                url = details.get('url', '')
+                if url:
+                    try:
+                        import re
+                        coords = re.findall(r'!3d([\d.-]+)!4d([\d.-]+)', url)
+                        if coords:
+                            lat, lon = coords[0]
+                            koordinat = {
+                                "latitude": float(lat),
+                                "longitude": float(lon)
+                            }
+                    except:
+                        koordinat = {"latitude": None, "longitude": None}
+                else:
+                    koordinat = {"latitude": None, "longitude": None}
+
+        # Format foto
+        foto = details.get('foto')
+        if isinstance(foto, str):
+            processed_foto = foto
+        elif isinstance(foto, list) and len(foto) > 0:
+            processed_foto = foto[0]
+        else:
+            processed_foto = None
+
+        # Format kategori
+        kategori = details.get('kategori', [])  # Coba ambil dari 'kategori' dulu
+        if not kategori:  # Jika kosong, coba dari 'kategori_list'
+            kategori = details.get('kategori_list', [])
+        
+        if isinstance(kategori, str):
+            try:
+                # Coba parse sebagai JSON dulu
+                kategori = json_lib.loads(kategori)
+            except:
+                # Jika gagal parse JSON, coba split string dan bersihkan tanda kutip
+                try:
+                    # Hapus tanda kutip dan kurung siku, lalu split
+                    kategori = [k.strip().strip("'").strip('"') for k in kategori.strip('[]').split(',')]
+                    # Hapus elemen kosong
+                    kategori = [k for k in kategori if k]
+                except:
+                    kategori = []
+        elif isinstance(kategori, list):
+            # Bersihkan tanda kutip dari setiap elemen jika ada
+            kategori = [k.strip("'").strip('"') if isinstance(k, str) else str(k) for k in kategori]
+        else:
+            kategori = []
+
+        # Pastikan tidak ada duplikat dan elemen kosong
+        kategori = list(dict.fromkeys([k for k in kategori if k]))
+
+        # Format rating
+        rating = details.get('rating')
+        if isinstance(rating, str):
+            try:
+                rating = round(float(rating.replace(",", ".")), 1)
+            except:
+                rating = None
+        elif isinstance(rating, (int, float)):
+            rating = round(float(rating), 1)
+        else:
+            rating = None
+
+        # Format jumlah_review
+        jumlah_review = details.get('jumlah_review')
+        if isinstance(jumlah_review, str):
+            try:
+                jumlah_review = int(jumlah_review.replace(".", ""))
+            except:
+                jumlah_review = None
+        elif isinstance(jumlah_review, (int, float)):
+            jumlah_review = int(jumlah_review)
+        else:
+            jumlah_review = None
+
+        # Format hasil
         formatted_details = {
-            "id": int(details["id"]) if "id" in details else None,
+            "id": int(details["id"]) if "id" in details and details["id"] is not None else None,
             "nama": details["nama"],
-            "alamat": details["alamat"],
-            "rating": round(details["rating"], 1) if "rating" in details else None,
-            "jumlah_review": int(details["jumlah_review"]) if "jumlah_review" in details else None,
-            "deskripsi": details.get("deskripsi"), # Gunakan .get() untuk keamanan
-            "koordinat": {
-                "lat": details.get("latitude"), # Akses latitude dan longitude langsung
-                "lon": details.get("longitude")
-            },
-            "url": details.get("url"),
+            "rating": rating,
+            "jumlah_review": jumlah_review,
+            "deskripsi": details.get("deskripsi", ""),
+            "koordinat": koordinat,
             "provinsi": details.get("provinsi"),
-            # Mengambil kategori dari 'kategori_list'
-            "kategori": details["kategori_list"] if "kategori_list" in details else None,
-            "foto": details["foto"] # Asumsikan foto sudah berupa list string di df
+            "kategori": kategori,
+            "foto": processed_foto
         }
+
         return jsonify(formatted_details)
+
     except Exception as e:
-        logger.error(f"Error saat memformat hasil get_attraction_details untuk '{name}': {str(e)}\n{traceback.format_exc()}")
-        return jsonify({"message": f"Terjadi kesalahan: {str(e)}"}), 500
+        logger.error(f"Error saat mendapatkan detail tempat wisata: {str(e)}\n{traceback.format_exc()}")
+        return jsonify({"message": f"Error saat mendapatkan detail tempat wisata: {str(e)}"}), 500
 
 @app.route('/api/recommendations/content')
 def content_recommendations():
