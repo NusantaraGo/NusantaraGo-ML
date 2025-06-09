@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prediksi Popularitas Tempat Wisata</title>
+</head>
+<body>
+    <h1>Form Prediksi Popularitas Tempat Wisata</h1>
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        {% for category, message in messages %}
+          <div style="padding: 8px; margin: 8px 0; color: white; background: {% if category=='success' %}green{% else %}red{% endif %};">
+            {{ message }}
+          </div>
+        {% endfor %}
+      {% endif %}
+    {% endwith %}
+    <form method="post">
+        <label>Rating:</label><input type="number" step="0.1" min="0" max="5" name="rating" required><br>
+        <label>Jumlah Review:</label><input type="number" name="jumlah_review" required><br>
+        <label>Kategori:</label>
+        <select name="kategori" multiple required>
+            {% for k in kategori_options %}
+              <option value="{{ k }}">{{ k }}</option>
+            {% endfor %}
+        </select><br>
+        <label>Provinsi:</label>
+        <select name="provinsi" required>
+            {% for p in provinsi_options %}
+              <option value="{{ p }}">{{ p }}</option>
+            {% endfor %}
+        </select><br>
+        <button type="submit">Prediksi</button>
+    </form>
+</body>
+</html>
