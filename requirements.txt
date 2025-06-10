@@ -34,4 +34,3 @@ Sastrawi==1.0.1 # Opsional untuk stemming Bahasa Indonesia yang lebih baik
 
 # Tambahkan dependensi baru
 Pillow==10.2.0  # Untuk memproses gambar
-requests==2.31.0  # Untuk mendownload gambar
