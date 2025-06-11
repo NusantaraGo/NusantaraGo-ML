@@ -41,8 +41,92 @@ scaler = components['scaler']
 mlb = components['mlb']
 features = components['features']
 
+@popularitas_bp.route('/predict', methods=['POST'])
+def predict_api():
+    """
+    Endpoint API untuk prediksi popularitas
+    Format request:
+    {
+        "rating": 4.5,
+        "jumlah_review": 120
+    }
+    """
+    try:
+        # Ambil data dari request JSON
+        data = request.get_json()
+        
+        if not data:
+            return jsonify({
+                'status': 'error',
+                'message': 'Data tidak ditemukan dalam request'
+            }), 400
+
+        # Validasi input
+        if 'rating' not in data or 'jumlah_review' not in data:
+            return jsonify({
+                'status': 'error',
+                'message': 'Parameter rating dan jumlah_review harus diisi'
+            }), 400
+
+        try:
+            rating = float(data['rating'])
+            jumlah_review = int(data['jumlah_review'])
+        except ValueError:
+            return jsonify({
+                'status': 'error',
+                'message': 'Rating harus berupa angka desimal dan jumlah_review harus berupa angka bulat'
+            }), 400
+
+        # Validasi range
+        if not (0 <= rating <= 5):
+            return jsonify({
+                'status': 'error',
+                'message': 'Rating harus berada di antara 0 dan 5'
+            }), 400
+        
+        if jumlah_review < 0:
+            return jsonify({
+                'status': 'error',
+                'message': 'Jumlah review tidak boleh negatif'
+            }), 400
+
+        # Buat DataFrame dengan fitur yang dibutuhkan
+        input_df = pd.DataFrame([[rating, jumlah_review]], columns=['rating', 'jumlah_review'])
+        
+        # Tambahkan kolom-kolom lain dengan nilai default 0
+        for feature in features:
+            if feature not in input_df.columns:
+                input_df[feature] = 0
+
+        # Pastikan urutan kolom sama dengan yang diharapkan model
+        input_df = input_df.reindex(columns=features)
+
+        # Lakukan prediksi
+        prediksi = model.predict(input_df)[0]
+        proba = model.predict_proba(input_df)[0][1]
+
+        # Format response
+        return jsonify({
+            'status': 'success',
+            'data': {
+                'is_popular': bool(prediksi),
+                'probability': float(proba),
+                'rating': rating,
+                'jumlah_review': jumlah_review
+            }
+        })
+
+    except Exception as e:
+        return jsonify({
+            'status': 'error',
+            'message': f'Terjadi kesalahan saat melakukan prediksi: {str(e)}'
+        }), 500
+
 @popularitas_bp.route('/', methods=['GET', 'POST'])
 def predict_popularity():
+    """
+    Endpoint untuk halaman web prediksi popularitas
+    """
     if request.method == 'POST':
         try:
             rating = float(request.form['rating'])

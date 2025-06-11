@@ -41,122 +41,142 @@
     <div class="flex flex-col lg:flex-row">
       <!-- Sidebar/Navigation -->
       <aside
-        class="w-full lg:w-1/4 lg:min-w-[300px] lg:h-screen lg:sticky top-0 bg-white border-r border-gray-200 p-8"
+        class="w-full lg:w-1/4 lg:min-w-[300px] lg:h-screen lg:sticky top-0 bg-white border-r border-gray-200 p-8 overflow-y-auto"
       >
-        <h1 class="text-2xl font-bold text-blue-600">NusantaraGo API</h1>
-        <p class="text-sm text-gray-500 mt-1">Dokumentasi v1.0</p>
-        <nav class="mt-10">
-          <h2
-            class="font-semibold text-gray-700 tracking-wide uppercase text-sm"
-          >
-            Pengenalan
-          </h2>
-          <ul class="mt-3 space-y-2">
-            <li>
-              <a
-                href="#introduction"
-                class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
-                >Selamat Datang</a
-              >
-            </li>
-          </ul>
-          <h2
-            class="mt-8 font-semibold text-gray-700 tracking-wide uppercase text-sm"
-          >
-            API Rekomendasi
-          </h2>
-          <ul class="mt-3 space-y-2">
-            <li>
-              <a
-                href="#endpoint-provinces"
-                class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
-                >Daftar Provinsi</a
-              >
-            </li>
-            <li>
-              <a
-                href="#endpoint-categories"
-                class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
-                >Daftar Kategori</a
-              >
-            </li>
-            <li>
-              <a
-                href="#endpoint-attractions"
-                class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
-                >Daftar Tempat Wisata</a
-              >
-            </li>
-            <li>
-              <a
-                href="#endpoint-attraction-detail"
-                class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
-                >Detail Tempat Wisata</a
-              >
-            </li>
-            <li>
-              <a
-                href="#endpoint-rec-content"
-                class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
-                >Rekomendasi Berbasis Konten</a
-              >
-            </li>
-            <li>
-              <a
-                href="#endpoint-rec-popularity"
-                class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
-                >Rekomendasi Berdasarkan Popularitas</a
-              >
-            </li>
-            <li>
-              <a
-                href="#endpoint-rec-location"
-                class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
-                >Rekomendasi Berdasarkan Lokasi</a
-              >
-            </li>
-            <li>
-              <a
-                href="#endpoint-rec-hybrid"
-                class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
-                >Rekomendasi Hybrid</a
-              >
-            </li>
-          </ul>
-          <h2
-            class="mt-8 font-semibold text-gray-700 tracking-wide uppercase text-sm"
-          >
-            API Chatbot
-          </h2>
-          <ul class="mt-3 space-y-2">
-            <li>
-              <a
-                href="#endpoint-chatbot-chat"
-                class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
-                >Chat dengan Chatbot</a
-              >
-            </li>
-            <li>
-              <a
-                href="#endpoint-chatbot-reset"
-                class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
-                >Reset Percakapan</a
-              >
-            </li>
-            <li>
-              <a
-                href="#endpoint-chatbot-history"
-                class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
-                >History Percakapan</a
-              >
-            </li>
-          </ul>
-        </nav>
-        <footer class="mt-10 pt-6 border-t border-gray-200">
-          <p class="text-xs text-gray-500">
-            © 2025 NusantaraGo. Proyek Capstone DBS.
-          </p>
-        </footer>
+        <div class="flex flex-col h-full">
+          <div class="flex-none">
+            <h1 class="text-2xl font-bold text-blue-600">NusantaraGo API</h1>
+            <p class="text-sm text-gray-500 mt-1">Dokumentasi v1.0</p>
+          </div>
+
+          <nav class="mt-10 flex-grow">
+            <h2
+              class="font-semibold text-gray-700 tracking-wide uppercase text-sm"
+            >
+              Pengenalan
+            </h2>
+            <ul class="mt-3 space-y-2">
+              <li>
+                <a
+                  href="#introduction"
+                  class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
+                  >Selamat Datang</a
+                >
+              </li>
+            </ul>
+            <h2
+              class="mt-8 font-semibold text-gray-700 tracking-wide uppercase text-sm"
+            >
+              API Rekomendasi
+            </h2>
+            <ul class="mt-3 space-y-2">
+              <li>
+                <a
+                  href="#endpoint-provinces"
+                  class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
+                  >Daftar Provinsi</a
+                >
+              </li>
+              <li>
+                <a
+                  href="#endpoint-categories"
+                  class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
+                  >Daftar Kategori</a
+                >
+              </li>
+              <li>
+                <a
+                  href="#endpoint-attractions"
+                  class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
+                  >Daftar Tempat Wisata</a
+                >
+              </li>
+              <li>
+                <a
+                  href="#endpoint-attraction-detail"
+                  class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
+                  >Detail Tempat Wisata</a
+                >
+              </li>
+              <li>
+                <a
+                  href="#endpoint-rec-content"
+                  class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
+                  >Rekomendasi Berbasis Konten</a
+                >
+              </li>
+              <li>
+                <a
+                  href="#endpoint-rec-popularity"
+                  class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
+                  >Rekomendasi Berdasarkan Popularitas</a
+                >
+              </li>
+              <li>
+                <a
+                  href="#endpoint-rec-location"
+                  class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
+                  >Rekomendasi Berdasarkan Lokasi</a
+                >
+              </li>
+              <li>
+                <a
+                  href="#endpoint-rec-hybrid"
+                  class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
+                  >Rekomendasi Hybrid</a
+                >
+              </li>
+            </ul>
+            <h2
+              class="mt-8 font-semibold text-gray-700 tracking-wide uppercase text-sm"
+            >
+              API Chatbot
+            </h2>
+            <ul class="mt-3 space-y-2">
+              <li>
+                <a
+                  href="#endpoint-chatbot-chat"
+                  class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
+                  >Chat dengan Chatbot</a
+                >
+              </li>
+              <li>
+                <a
+                  href="#endpoint-chatbot-reset"
+                  class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
+                  >Reset Percakapan</a
+                >
+              </li>
+              <li>
+                <a
+                  href="#endpoint-chatbot-history"
+                  class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
+                  >History Percakapan</a
+                >
+              </li>
+            </ul>
+            <h2
+              class="mt-8 font-semibold text-gray-700 tracking-wide uppercase text-sm"
+            >
+              API Prediksi Popularitas
+            </h2>
+            <ul class="mt-3 space-y-2">
+              <li>
+                <a
+                  href="#endpoint-predict-popularity"
+                  class="block text-gray-600 hover:text-blue-600 hover:font-semibold transition-all"
+                  >Prediksi Popularitas</a
+                >
+              </li>
+            </ul>
+          </nav>
+
+          <footer class="mt-10 pt-6 border-t border-gray-200 flex-none">
+            <p class="text-xs text-gray-500">
+              © 2025 NusantaraGo. Proyek Capstone DBS.
+            </p>
+          </footer>
+        </div>
       </aside>
       <!-- Main Content -->
       <main class="w-full lg:w-3/4 p-6 md:p-10">
@@ -269,8 +289,8 @@
           >
             <h3 class="text-xl font-semibold mb-2">Daftar Tempat Wisata</h3>
             <p class="text-gray-600 mb-4">
-              Mengambil daftar tempat wisata. Dapat difilter berdasarkan berbagai
-          kriteria.
+              Mengambil daftar tempat wisata. Dapat difilter berdasarkan
+              berbagai kriteria.
             </p>
             <div
               class="flex items-center bg-gray-100 rounded-md p-3 mb-6 relative"
@@ -368,7 +388,8 @@
           >
             <h3 class="text-xl font-semibold mb-2">Detail Tempat Wisata</h3>
             <p class="text-gray-600 mb-4">
-              Mengambil detail lengkap dari satu tempat wisata berdasarkan namanya.
+              Mengambil detail lengkap dari satu tempat wisata berdasarkan
+              namanya.
             </p>
             <div
               class="flex items-center bg-gray-100 rounded-md p-3 mb-6 relative"
@@ -1042,6 +1063,118 @@
   "error": "Chatbot model not loaded",
   "message": "Model chatbot belum siap atau gagal dimuat."
 }</code></pre>
+          </div>
+        </section>
+        <!-- API Prediksi Popularitas Section -->
+        <section id="endpoint-predict-popularity" class="mb-12 scroll-mt-24">
+          <h2 class="text-3xl font-bold text-gray-900 mb-4">
+            Prediksi Popularitas Tempat Wisata
+          </h2>
+          <p class="text-gray-600 mb-6">
+            Endpoint ini digunakan untuk memprediksi popularitas sebuah tempat
+            wisata berdasarkan rating dan jumlah review.
+          </p>
+
+          <div
+              class="flex items-center bg-gray-100 rounded-md p-3 mb-6 relative"
+            >
+              <span
+                class="text-sm font-bold text-blue-600 bg-blue-100 px-3 py-1 rounded-full"
+                >POST</span
+              >
+              <code class="ml-4 text-gray-800">/api/popularitas/predict</code>
+              <button
+                class="copy-btn absolute top-2 right-2 bg-gray-700 text-white text-xs px-2 py-1 rounded hover:bg-gray-600 transition"
+              >
+                Salin
+              </button>
+            </div>
+
+          <div class="bg-white rounded-lg shadow-md p-6 mb-6">
+            <h3 class="text-xl font-semibold mb-4">Request Body</h3>
+            <p class="text-gray-600 mb-2">Format JSON:</p>
+            <pre
+              class="bg-gray-50 p-4 rounded-lg overflow-x-auto"
+            ><code class="text-sm">{
+  "rating": 4.5,        // float, range: 0-5
+  "jumlah_review": 120  // integer, min: 0
+}</code></pre>
+          </div>
+
+          <div class="bg-white rounded-lg shadow-md p-6 mb-6">
+            <h3 class="text-xl font-semibold mb-4">Response</h3>
+            <p class="text-gray-600 mb-2">Sukses (200 OK):</p>
+            <pre
+              class="bg-gray-50 p-4 rounded-lg overflow-x-auto"
+            ><code class="text-sm">{
+  "status": "success",
+  "data": {
+    "is_popular": true,     // boolean
+    "probability": 0.85,    // float, range: 0-1
+    "rating": 4.5,          // float
+    "jumlah_review": 120    // integer
+  }
+}</code></pre>
+
+            <p class="text-gray-600 mt-4 mb-2">Error (400 Bad Request):</p>
+            <pre
+              class="bg-gray-50 p-4 rounded-lg overflow-x-auto"
+            ><code class="text-sm">{
+  "status": "error",
+  "message": "Rating harus berada di antara 0 dan 5"
+}</code></pre>
+          </div>
+
+          <div class="bg-white rounded-lg shadow-md p-6 mb-6">
+            <h3 class="text-xl font-semibold mb-4">Contoh Penggunaan</h3>
+            <p class="text-gray-600 mb-2">JavaScript (Fetch API):</p>
+            <pre
+              class="bg-gray-50 p-4 rounded-lg overflow-x-auto"
+            ><code class="text-sm">async function predictPopularity(rating, jumlahReview) {
+  try {
+    const response = await fetch('http://127.0.0.1:5000/api/popularitas/predict', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        rating: rating,
+        jumlah_review: jumlahReview
+      })
+    });
+
+    const result = await response.json();
+    
+    if (result.status === 'success') {
+      console.log('Prediksi:', result.data);
+      // result.data.is_popular: true/false
+      // result.data.probability: nilai probabilitas (0-1)
+    } else {
+      console.error('Error:', result.message);
+    }
+  } catch (error) {
+    console.error('Error:', error);
+  }
+}
+
+// Contoh penggunaan
+predictPopularity(4.5, 120);</code></pre>
+          </div>
+
+          <div class="bg-white rounded-lg shadow-md p-6">
+            <h3 class="text-xl font-semibold mb-4">Catatan</h3>
+            <ul class="list-disc list-inside text-gray-600 space-y-2">
+              <li>Rating harus berupa angka desimal antara 0 dan 5</li>
+              <li>Jumlah review harus berupa angka bulat non-negatif</li>
+              <li>
+                Response akan memberikan prediksi popularitas (true/false) dan
+                probabilitasnya
+              </li>
+              <li>
+                Endpoint ini menggunakan model machine learning yang telah
+                dilatih sebelumnya
+              </li>
+            </ul>
           </div>
         </section>
       </main>
