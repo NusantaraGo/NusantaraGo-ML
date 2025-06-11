@@ -4,7 +4,7 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2' # Menyembunyikan pesan INFO dan WARNING
 """
 Aplikasi Flask untuk sistem rekomendasi tempat wisata dan chatbot
 """
-from flask import json, Flask, request, jsonify, render_template, redirect, url_for
+from flask import json, Flask, request, jsonify, render_template, redirect, url_for,send_from_directory
 from flask_cors import CORS
 import ast
 from dotenv import load_dotenv
@@ -344,6 +344,10 @@ def get_attractions():
             continue
 
     return jsonify(results)
+
+@app.route('/gambar/<filename>')
+def tampilkan_gambar(filename):
+    return send_from_directory(os.path.join('data', 'images'), filename)
 
 @app.route('/api/attraction/<name>')
 def get_attraction(name):
