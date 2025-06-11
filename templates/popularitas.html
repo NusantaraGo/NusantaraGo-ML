@@ -1,0 +1,70 @@
+{% extends "base.html" %} {% block title %}Prediksi Popularitas Tempat Wisata{%
+endblock %} {% block content %}
+<div class="container mt-5">
+  <div class="row justify-content-center">
+    <div class="col-md-8">
+      <div class="card">
+        <div class="card-header bg-primary text-white">
+          <h3 class="mb-0">Prediksi Popularitas Tempat Wisata</h3>
+        </div>
+        <div class="card-body">
+          {% with messages = get_flashed_messages(with_categories=true) %} {% if
+          messages %} {% for category, message in messages %}
+          <div
+            class="alert alert-{{ category }} alert-dismissible fade show"
+            role="alert"
+          >
+            {{ message }}
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="alert"
+              aria-label="Close"
+            ></button>
+          </div>
+          {% endfor %} {% endif %} {% endwith %}
+
+          <form
+            method="POST"
+            action="{{ url_for('popularitas.predict_popularity') }}"
+          >
+            <div class="mb-3">
+              <label for="rating" class="form-label">Rating (0-5)</label>
+              <input
+                type="number"
+                class="form-control"
+                id="rating"
+                name="rating"
+                min="0"
+                max="5"
+                step="0.1"
+                required
+              />
+            </div>
+
+            <div class="mb-3">
+              <label for="jumlah_review" class="form-label"
+                >Jumlah Review</label
+              >
+              <input
+                type="number"
+                class="form-control"
+                id="jumlah_review"
+                name="jumlah_review"
+                min="0"
+                required
+              />
+            </div>
+
+            <div class="d-grid">
+              <button type="submit" class="btn btn-primary">
+                Prediksi Popularitas
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
