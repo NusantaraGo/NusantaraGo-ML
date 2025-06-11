@@ -35,6 +35,8 @@ from src.recommender import (
 
 # Import chatbot api blueprint
 from src.chatbot.api.chatbot_api import chatbot_bp
+# Import popularitas api blueprint
+from src.prediksi_popularitas.api.popularitas_api import popularitas_bp
 
 # Load environment variables
 load_dotenv()
@@ -77,9 +79,12 @@ logger = setup_logger()
 
 app = Flask(__name__)
 app.config['JSON_SORT_KEYS'] = False
+app.secret_key = os.getenv('FLASK_SECRET_KEY', 'nusantarago-secret-key-2024')  # Tambahkan secret key
 
 # Register chatbot blueprint
 app.register_blueprint(chatbot_bp, url_prefix='/api/chatbot')
+# Register popularitas blueprint
+app.register_blueprint(popularitas_bp, url_prefix='/api/popularitas')
 CORS(app)
 
 # Inisialisasi model rekomendasi
@@ -192,6 +197,13 @@ def chatbot_page():
     """
     # Asumsikan chatbot_enabled selalu True jika IntentChatbot berhasil dimuat
     return render_template('chatbot.html')
+
+@app.route('/popularitas')
+def popularitas_page():
+    """
+    Halaman prediksi popularitas
+    """
+    return render_template('popularitas.html')
 
 @app.route('/api/provinces')
 def get_provinces():

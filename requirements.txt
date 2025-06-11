@@ -18,6 +18,7 @@ nltk==3.8.1
 matplotlib==3.7.1
 seaborn==0.12.2
 wordcloud>=1.8.2
+imbalanced-learn==0.10.1  # Untuk menangani class imbalance dengan SMOTE
 
 # Library untuk web app
 Flask==2.3.3
