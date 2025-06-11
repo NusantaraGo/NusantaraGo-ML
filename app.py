@@ -345,7 +345,7 @@ def get_attractions():
 
     return jsonify(results)
 
-@app.route('/gambar/<filename>')
+@app.route('/data/images/<filename>')
 def tampilkan_gambar(filename):
     return send_from_directory(os.path.join('data', 'images'), filename)
 
