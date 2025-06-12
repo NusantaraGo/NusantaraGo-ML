@@ -104,6 +104,14 @@ def load_model_and_data():
     global recommender, df, categories, provinces
 
     recommender = TourismRecommender()
+    
+    # Log absolute paths untuk debugging
+    abs_model_path = os.path.abspath(MODEL_PATH)
+    abs_data_path = os.path.abspath(DATA_PATH)
+    logger.info(f"Absolute MODEL_PATH: {abs_model_path}")
+    logger.info(f"Absolute DATA_PATH: {abs_data_path}")
+    logger.info(f"Current working directory: {os.getcwd()}")
+    logger.info(f"Directory contents: {os.listdir('.')}")
 
     # Coba muat model terlebih dahulu
     try:
@@ -210,6 +218,19 @@ def get_provinces():
     """
     Mendapatkan daftar provinsi
     """
+    global provinces
+    
+    if provinces is None:
+        logger.warning("Data provinsi belum dimuat. Mencoba memuat ulang...")
+        if not load_model_and_data():
+            logger.error("Gagal memuat data provinsi")
+            return jsonify({"message": "Gagal memuat data provinsi. Silakan coba lagi nanti."}), 500
+    
+    if not provinces:
+        logger.error("Daftar provinsi kosong")
+        return jsonify({"message": "Daftar provinsi tidak tersedia"}), 404
+        
+    logger.info(f"Berhasil mengembalikan {len(provinces)} provinsi")
     return jsonify(provinces)
 
 @app.route('/api/categories')
